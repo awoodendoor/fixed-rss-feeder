@@ -107,6 +107,7 @@
       text-decoration: underline;
     }
 
+    /* 内容区域样式 */
     .content {
       font-size: 18px;
       line-height: 1.8;
@@ -114,23 +115,33 @@
       margin-top: 1.5em;
     }
 
+    /* 图片样式 - 重要！ */
     .content img {
-      max-width: 100%;
-      height: auto;
+      max-width: 100% !important;
+      height: auto !important;
       display: block;
-      margin: 1em 0;
+      margin: 1.5em auto;
       border: 1px solid #ccc;
+      width: auto;
     }
 
     .content figure {
       margin: 1.5em 0;
+      text-align: center;
+    }
+
+    .content figure img {
+      margin: 0 auto 0.5em;
     }
 
     .content figcaption {
       font-size: 14px;
       color: #666;
       margin-top: 0.5em;
+      padding: 0 1em;
       font-style: italic;
+      text-align: left;
+      line-height: 1.6;
     }
 
     .content p {
@@ -138,10 +149,17 @@
       text-indent: 2em;
     }
 
+    /* 第一段不缩进（通常紧跟图片） */
+    .content figure + div p:first-child,
+    .content figure + p {
+      text-indent: 0;
+    }
+
     .content h2, .content h3 {
       margin-top: 1.5em;
       margin-bottom: 0.8em;
       font-weight: bold;
+      text-indent: 0;
     }
 
     .content h2 {
@@ -153,12 +171,32 @@
     }
 
     .content div {
+      margin-bottom: 0.5em;
+    }
+
+    .content ul, .content ol {
+      margin-left: 2em;
       margin-bottom: 1em;
+    }
+
+    .content li {
+      margin-bottom: 0.5em;
+      text-indent: 0;
+    }
+
+    /* 确保所有图片都能正确加载 */
+    img {
+      max-width: 100%;
+      height: auto;
     }
 
     @media screen and (max-width: 768px) {
       body {
         padding: 1em 1.5em;
+      }
+      
+      .content img {
+        margin: 1em auto;
       }
     }
 
@@ -175,6 +213,10 @@
       .content {
         font-size: 16px;
       }
+      
+      .content figcaption {
+        font-size: 13px;
+      }
     }
 
     @media print {
@@ -186,6 +228,11 @@
       article {
         page-break-after: always;
       }
+      
+      .content img {
+        max-width: 80%;
+        page-break-inside: avoid;
+      }
     }
   </style>
 </head>
@@ -194,7 +241,7 @@
   <header>
     <dl>
       <dt>站点：</dt><dd>osmos::feed</dd>
-      <dt>构建：</dt><dd>2026-02-02T12:35:26.584Z</dd>
+      <dt>构建：</dt><dd>2026-02-02T12:41:37.257Z</dd>
       <dt>版本：</dt><dd>1.15.1</dd>
     </dl>
   </header>
@@ -208,7 +255,7 @@
         <span>来源：<a href="https://www.zaobao.com/realtime/world">《联合早报》-国际-即时</a></span>
         <span>日期：<time>2026-02-02</time></span>
         <span>阅读时间：5 分钟</span>
-        <span>字数：1618</span>
+        <span>字数：1621</span>
       </div>
       <div class="content">佛罗里达州迈阿密星期天（2月1日）清晨下起“鬣蜥雨”。图为一只绿色鬣蜥在低温天里冻晕，从树上掉落。 （法新社）
 （华盛顿综合电）美国猛烈的冬季风暴正在退去，但东海岸和南部地区仍未摆脱严寒。最温暖的佛罗里达州多个城市气温降至零下，甚至低于位处北极圈的格陵兰岛。
@@ -230,7 +277,7 @@
         <span>来源：<a href="https://www.zaobao.com/realtime/world">《联合早报》-国际-即时</a></span>
         <span>日期：<time>2026-02-02</time></span>
         <span>阅读时间：5 分钟</span>
-        <span>字数：1481</span>
+        <span>字数：1483</span>
       </div>
       <div class="content">阿联酋王室与美国总统特朗普的儿子埃里克（前排左）签署协议，向特朗普家族企业世界自由金融注资数亿美元。这家公司的联合创始人之一是特朗普中东问题特使威特科夫的儿子扎克（前排右）。 （路透社档案照片）
 （旧金山综合讯）美国媒体披露，阿拉伯联合酋长国王室去年秘密与美国总统特朗普家族达成投资协议，花费数亿美元收购后者加密货币公司的近半股权。这笔交易在美国政坛开创先例，引发伦理专家和美国民主党人担忧。
