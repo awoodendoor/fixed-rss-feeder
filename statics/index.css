@@ -1,0 +1,176 @@
+<style>
+    /* Kindle 优化样式 */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Bookerly", "Palatino", "Georgia", serif;
+      font-size: 18px;
+      line-height: 1.8;
+      color: #000;
+      background-color: #fff;
+      max-width: 100%;
+      margin: 0;
+      padding: 1.5em 2em;
+    }
+
+    header {
+      border-bottom: 2px solid #000;
+      margin-bottom: 2em;
+      padding-bottom: 1em;
+    }
+
+    header dl {
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    header dt {
+      display: inline;
+      font-weight: bold;
+    }
+
+    header dd {
+      display: inline;
+      margin-left: 0.5em;
+      margin-right: 1em;
+    }
+
+    header dd::after {
+      content: "";
+      display: block;
+      margin-bottom: 0.3em;
+    }
+
+    article {
+      margin-bottom: 3em;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 2em;
+    }
+
+    details summary {
+      list-style: none;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    details summary::-webkit-details-marker {
+      display: none;
+    }
+
+    details summary h1 {
+      font-size: 24px;
+      line-height: 1.4;
+      margin-bottom: 0.5em;
+      font-weight: bold;
+      color: #000;
+      border-left: 4px solid #000;
+      padding-left: 0.5em;
+    }
+
+    details summary:hover h1 {
+      background-color: #f0f0f0;
+    }
+
+    details[open] summary h1 {
+      margin-bottom: 1em;
+    }
+
+    .meta-info {
+      font-size: 15px;
+      color: #333;
+      margin-bottom: 1em;
+      line-height: 1.6;
+    }
+
+    .meta-info span {
+      display: block;
+      margin-bottom: 0.3em;
+    }
+
+    .meta-info a {
+      color: #000;
+      text-decoration: underline;
+    }
+
+    /* ⭐ 图片样式 */
+    .article-image {
+      max-width: 100% !important;
+      height: auto !important;
+      display: block;
+      margin: 1.5em auto;
+      border: 1px solid #ccc;
+    }
+
+    /* 内容区域样式 */
+    .content {
+      font-size: 18px;
+      line-height: 1.8;
+      text-align: justify;
+      margin-top: 1.5em;
+    }
+
+    .content p {
+      margin-bottom: 1em;
+      text-indent: 2em;
+    }
+
+    .content h2, .content h3 {
+      margin-top: 1.5em;
+      margin-bottom: 0.8em;
+      font-weight: bold;
+      text-indent: 0;
+    }
+
+    .content h2 {
+      font-size: 21px;
+    }
+
+    .content h3 {
+      font-size: 19px;
+    }
+
+    @media screen and (max-width: 768px) {
+      body {
+        padding: 1em 1.5em;
+      }
+      
+      .article-image {
+        margin: 1em auto;
+      }
+    }
+
+    @media screen and (max-width: 480px) {
+      body {
+        font-size: 16px;
+        padding: 0.8em 1em;
+      }
+
+      details summary h1 {
+        font-size: 20px;
+      }
+
+      .content {
+        font-size: 16px;
+      }
+    }
+
+    @media print {
+      body {
+        font-size: 12pt;
+        line-height: 1.6;
+      }
+
+      article {
+        page-break-after: always;
+      }
+      
+      .article-image {
+        max-width: 80%;
+        page-break-inside: avoid;
+      }
+    }
+</style>
