@@ -150,7 +150,6 @@
       margin-bottom: 0.5em;
     }
 
-    /* Kindle 特定优化 - 移除最大宽度限制 */
     @media screen and (max-width: 768px) {
       body {
         padding: 1em 1.5em;
@@ -172,7 +171,6 @@
       }
     }
 
-    /* 打印样式 */
     @media print {
       body {
         font-size: 12pt;
@@ -202,7 +200,7 @@
         <h1>{{title}}</h1>
       </summary>
       <div class="meta-info">
-        <span>来源：<a href={{source.siteUrl}}>{{source.title}}</a></span>
+        <span>来源：<a href="{{source.siteUrl}}">{{source.title}}</a></span>
         <span>日期：<time>{{isoPublishDate}}</time></span>
         <span>阅读时间：{{readingTimeInMin}} 分钟</span>
         <span>字数：{{wordCount}}</span>
