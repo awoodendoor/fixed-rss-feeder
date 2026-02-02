@@ -107,7 +107,14 @@
       text-decoration: underline;
     }
 
-    img {
+    .content {
+      font-size: 18px;
+      line-height: 1.8;
+      text-align: justify;
+      margin-top: 1.5em;
+    }
+
+    .content img {
       max-width: 100%;
       height: auto;
       display: block;
@@ -115,11 +122,15 @@
       border: 1px solid #ccc;
     }
 
-    .content {
-      font-size: 18px;
-      line-height: 1.8;
-      text-align: justify;
-      margin-top: 1.5em;
+    .content figure {
+      margin: 1.5em 0;
+    }
+
+    .content figcaption {
+      font-size: 14px;
+      color: #666;
+      margin-top: 0.5em;
+      font-style: italic;
     }
 
     .content p {
@@ -141,13 +152,8 @@
       font-size: 19px;
     }
 
-    .content ul, .content ol {
-      margin-left: 2em;
+    .content div {
       margin-bottom: 1em;
-    }
-
-    .content li {
-      margin-bottom: 0.5em;
     }
 
     @media screen and (max-width: 768px) {
@@ -205,10 +211,7 @@
         <span>阅读时间：{{readingTimeInMin}} 分钟</span>
         <span>字数：{{wordCount}}</span>
       </div>
-      {{#if imageUrl}}
-      <img src="{{imageUrl}}" alt="{{title}}" />
-      {{/if}}
-      <div class="content">{{{content}}}</div>
+      <div class="content">{{{description}}}</div>
     </details>
   </article>
   {{/each}}
