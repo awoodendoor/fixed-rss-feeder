@@ -23,9 +23,9 @@
       line-height: 1.8;
       color: #000;
       background-color: #fff;
-      max-width: 600px;
-      margin: 0 auto;
-      padding: 1em;
+      max-width: 100%;
+      margin: 0;
+      padding: 1.5em 2em;
     }
 
     header {
@@ -45,7 +45,7 @@
     }
 
     header dd {
-            display: inline;
+      display: inline;
       margin-left: 0.5em;
       margin-right: 1em;
     }
@@ -73,7 +73,7 @@
     }
 
     details summary h1 {
-      font-size: 22px;
+      font-size: 24px;
       line-height: 1.4;
       margin-bottom: 0.5em;
       font-weight: bold;
@@ -91,7 +91,7 @@
     }
 
     .meta-info {
-      font-size: 14px;
+      font-size: 15px;
       color: #333;
       margin-bottom: 1em;
       line-height: 1.6;
@@ -134,11 +134,11 @@
     }
 
     .content h2 {
-      font-size: 20px;
+      font-size: 21px;
     }
 
     .content h3 {
-      font-size: 18px;
+      font-size: 19px;
     }
 
     .content ul, .content ol {
@@ -150,11 +150,17 @@
       margin-bottom: 0.5em;
     }
 
-    /* Kindle 特定优化 */
-    @media screen and (max-width: 600px) {
+    /* Kindle 特定优化 - 移除最大宽度限制 */
+    @media screen and (max-width: 768px) {
+      body {
+        padding: 1em 1.5em;
+      }
+    }
+
+    @media screen and (max-width: 480px) {
       body {
         font-size: 16px;
-        padding: 0.5em;
+        padding: 0.8em 1em;
       }
 
       details summary h1 {
