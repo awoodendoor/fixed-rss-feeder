@@ -107,6 +107,7 @@
       text-decoration: underline;
     }
 
+    /* 内容区域样式 */
     .content {
       font-size: 18px;
       line-height: 1.8;
@@ -114,23 +115,33 @@
       margin-top: 1.5em;
     }
 
+    /* 图片样式 - 重要！ */
     .content img {
-      max-width: 100%;
-      height: auto;
+      max-width: 100% !important;
+      height: auto !important;
       display: block;
-      margin: 1em 0;
+      margin: 1.5em auto;
       border: 1px solid #ccc;
+      width: auto;
     }
 
     .content figure {
       margin: 1.5em 0;
+      text-align: center;
+    }
+
+    .content figure img {
+      margin: 0 auto 0.5em;
     }
 
     .content figcaption {
       font-size: 14px;
       color: #666;
       margin-top: 0.5em;
+      padding: 0 1em;
       font-style: italic;
+      text-align: left;
+      line-height: 1.6;
     }
 
     .content p {
@@ -138,10 +149,17 @@
       text-indent: 2em;
     }
 
+    /* 第一段不缩进（通常紧跟图片） */
+    .content figure + div p:first-child,
+    .content figure + p {
+      text-indent: 0;
+    }
+
     .content h2, .content h3 {
       margin-top: 1.5em;
       margin-bottom: 0.8em;
       font-weight: bold;
+      text-indent: 0;
     }
 
     .content h2 {
@@ -153,12 +171,32 @@
     }
 
     .content div {
+      margin-bottom: 0.5em;
+    }
+
+    .content ul, .content ol {
+      margin-left: 2em;
       margin-bottom: 1em;
+    }
+
+    .content li {
+      margin-bottom: 0.5em;
+      text-indent: 0;
+    }
+
+    /* 确保所有图片都能正确加载 */
+    img {
+      max-width: 100%;
+      height: auto;
     }
 
     @media screen and (max-width: 768px) {
       body {
         padding: 1em 1.5em;
+      }
+      
+      .content img {
+        margin: 1em auto;
       }
     }
 
@@ -175,6 +213,10 @@
       .content {
         font-size: 16px;
       }
+      
+      .content figcaption {
+        font-size: 13px;
+      }
     }
 
     @media print {
@@ -185,6 +227,11 @@
 
       article {
         page-break-after: always;
+      }
+      
+      .content img {
+        max-width: 80%;
+        page-break-inside: avoid;
       }
     }
   </style>
@@ -208,8 +255,12 @@
       <div class="meta-info">
         <span>来源：<a href="{{source.siteUrl}}">{{source.title}}</a></span>
         <span>日期：<time>{{isoPublishDate}}</time></span>
+        {{#if readingTimeInMin}}
         <span>阅读时间：{{readingTimeInMin}} 分钟</span>
+        {{/if}}
+        {{#if wordCount}}
         <span>字数：{{wordCount}}</span>
+        {{/if}}
       </div>
       <div class="content">{{{description}}}</div>
     </details>
