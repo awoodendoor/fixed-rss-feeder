@@ -10,7 +10,8 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
   
-  <!-- ⭐ 引用 statics 目录下的CSS -->
+
+  <!-- 引用外部 CSS -->
   <link rel="stylesheet" href="statics/index.css" />
 </head>
 
@@ -50,6 +51,58 @@
     </details>
   </article>
   {{/each}}
-</body>
 
+  <!-- ⭐ 加载更多按钮 -->
+  <div id="load-more-container">
+    <button id="load-more-btn">加载更多文章</button>
+  </div>
+
+  <!-- ⭐ 分页逻辑脚本 -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const articles = document.querySelectorAll('article');
+      const loadMoreBtn = document.getElementById('load-more-btn');
+      const itemsPerPage = 10;
+
+      // 1. 初始化：隐藏第10条之后的文章
+      articles.forEach((article, index) => {
+        if (index >= itemsPerPage) {
+          article.classList.add('hidden');
+        }
+      });
+
+      // 更新按钮文案
+      function updateButton() {
+        const hiddenArticles = document.querySelectorAll('article.hidden');
+        if (hiddenArticles.length === 0) {
+          loadMoreBtn.textContent = '没有更多文章了';
+          loadMoreBtn.disabled = true;
+        } else {
+          loadMoreBtn.textContent = `加载更多 (${hiddenArticles.length} 篇剩余)`;
+        }
+      }
+
+      // 初始化按钮状态
+      if (articles.length <= itemsPerPage) {
+        loadMoreBtn.style.display = 'none'; //如果不满10条，直接隐藏按钮
+      } else {
+        updateButton();
+      }
+
+      // 2. 点击事件
+      loadMoreBtn.addEventListener('click', function() {
+        const hiddenArticles = document.querySelectorAll('article.hidden');
+        
+        // 显示接下来的10条
+        for (let i = 0; i < itemsPerPage; i++) {
+          if (hiddenArticles[i]) {
+            hiddenArticles[i].classList.remove('hidden');
+          }
+        }
+
+        updateButton();
+      });
+    });
+  </script>
+</body>
 </html>
