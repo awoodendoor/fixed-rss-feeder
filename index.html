@@ -10,7 +10,8 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
   
-  <!-- ⭐ 引用 statics 目录下的CSS -->
+
+  <!-- 引用外部 CSS -->
   <link rel="stylesheet" href="statics/index.css" />
 </head>
 
@@ -18,7 +19,7 @@
   <header>
     <dl>
       <dt>站点：</dt><dd>osmos::feed</dd>
-      <dt>构建：</dt><dd>2026-02-02T13:54:21.770Z</dd>
+      <dt>构建：</dt><dd>2026-02-02T14:08:54.719Z</dd>
       <dt>版本：</dt><dd>1.15.1</dd>
     </dl>
   </header>
@@ -303,7 +304,7 @@ Verdi与雇主协会之间的谈判气氛紧张，工会领导层指责地方政
         <span>来源：<a href="https://sspai.com">少数派</a></span>
         <span>日期：<time>2026-02-02</time></span>
         <span>阅读时间：2 分钟</span>
-        <span>字数：553</span>
+        <span>字数：555</span>
       </div>
       
       
@@ -1252,6 +1253,58 @@ Anthropic 称过度依赖 AI 编程可能导致初级开发者技能显著退化
       </div>
     </details>
   </article>
-</body>
 
+  <!-- ⭐ 加载更多按钮 -->
+  <div id="load-more-container">
+    <button id="load-more-btn">加载更多文章</button>
+  </div>
+
+  <!-- ⭐ 分页逻辑脚本 -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const articles = document.querySelectorAll('article');
+      const loadMoreBtn = document.getElementById('load-more-btn');
+      const itemsPerPage = 10;
+
+      // 1. 初始化：隐藏第10条之后的文章
+      articles.forEach((article, index) => {
+        if (index >= itemsPerPage) {
+          article.classList.add('hidden');
+        }
+      });
+
+      // 更新按钮文案
+      function updateButton() {
+        const hiddenArticles = document.querySelectorAll('article.hidden');
+        if (hiddenArticles.length === 0) {
+          loadMoreBtn.textContent = '没有更多文章了';
+          loadMoreBtn.disabled = true;
+        } else {
+          loadMoreBtn.textContent = `加载更多 (${hiddenArticles.length} 篇剩余)`;
+        }
+      }
+
+      // 初始化按钮状态
+      if (articles.length <= itemsPerPage) {
+        loadMoreBtn.style.display = 'none'; //如果不满10条，直接隐藏按钮
+      } else {
+        updateButton();
+      }
+
+      // 2. 点击事件
+      loadMoreBtn.addEventListener('click', function() {
+        const hiddenArticles = document.querySelectorAll('article.hidden');
+        
+        // 显示接下来的10条
+        for (let i = 0; i < itemsPerPage; i++) {
+          if (hiddenArticles[i]) {
+            hiddenArticles[i].classList.remove('hidden');
+          }
+        }
+
+        updateButton();
+      });
+    });
+  </script>
+</body>
 </html>
