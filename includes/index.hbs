@@ -57,52 +57,84 @@
     <button id="load-more-btn">加载更多文章</button>
   </div>
 
-  <!-- ⭐ 分页逻辑脚本 -->
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const articles = document.querySelectorAll('article');
-      const loadMoreBtn = document.getElementById('load-more-btn');
-      const itemsPerPage = 10;
+ <script>
+(function() {
+  console.log('🚀 分页脚本开始执行');
+  
+  // 立即执行函数，不等待 DOMContentLoaded
+  function initPagination() {
+    const articles = document.querySelectorAll('article');
+    const loadMoreBtn = document.getElementById('load-more-btn');
+    const itemsPerPage = 10;
 
-      // 1. 初始化：隐藏第10条之后的文章
-      articles.forEach((article, index) => {
-        if (index >= itemsPerPage) {
-          article.classList.add('hidden');
-        }
-      });
+    console.log('📊 总文章数:', articles.length);
+    
+    if (!loadMoreBtn) {
+      console.error('❌ 找不到加载更多按钮');
+      return;
+    }
 
-      // 更新按钮文案
-      function updateButton() {
-        const hiddenArticles = document.querySelectorAll('article.hidden');
-        if (hiddenArticles.length === 0) {
-          loadMoreBtn.textContent = '没有更多文章了';
-          loadMoreBtn.disabled = true;
-        } else {
-          loadMoreBtn.textContent = `加载更多 (${hiddenArticles.length} 篇剩余)`;
-        }
+    // 如果文章数少于等于10，隐藏按钮
+    if (articles.length <= itemsPerPage) {
+      console.log('📌 文章不足10篇，隐藏按钮');
+      loadMoreBtn.style.display = 'none';
+      return;
+    }
+
+    // 隐藏第10条之后的文章
+    let hiddenCount = 0;
+    articles.forEach((article, index) => {
+      if (index >= itemsPerPage) {
+        article.classList.add('hidden');
+        hiddenCount++;
       }
-
-      // 初始化按钮状态
-      if (articles.length <= itemsPerPage) {
-        loadMoreBtn.style.display = 'none'; //如果不满10条，直接隐藏按钮
-      } else {
-        updateButton();
-      }
-
-      // 2. 点击事件
-      loadMoreBtn.addEventListener('click', function() {
-        const hiddenArticles = document.querySelectorAll('article.hidden');
-        
-        // 显示接下来的10条
-        for (let i = 0; i < itemsPerPage; i++) {
-          if (hiddenArticles[i]) {
-            hiddenArticles[i].classList.remove('hidden');
-          }
-        }
-
-        updateButton();
-      });
     });
-  </script>
+
+    console.log('✅ 已隐藏', hiddenCount, '篇文章');
+    console.log('🔍 验证隐藏数量:', document.querySelectorAll('article.hidden').length);
+
+    // 更新按钮文案
+    function updateButton() {
+      const hiddenArticles = document.querySelectorAll('article.hidden');
+      console.log('📝 更新按钮，剩余隐藏:', hiddenArticles.length);
+      
+      if (hiddenArticles.length === 0) {
+        loadMoreBtn.textContent = '没有更多文章了';
+        loadMoreBtn.disabled = true;
+        loadMoreBtn.style.display = 'none';
+      } else {
+        loadMoreBtn.textContent = `加载更多 (${hiddenArticles.length} 篇剩余)`;
+        loadMoreBtn.disabled = false;
+      }
+    }
+
+    updateButton();
+
+    // 点击事件
+    loadMoreBtn.addEventListener('click', function() {
+      console.log('🖱️ 点击加载更多');
+      const hiddenArticles = document.querySelectorAll('article.hidden');
+      
+      // 显示接下来的10条
+      let showCount = 0;
+      for (let i = 0; i < itemsPerPage && i < hiddenArticles.length; i++) {
+        hiddenArticles[i].classList.remove('hidden');
+        showCount++;
+      }
+      
+      console.log('✅ 显示了', showCount, '篇文章');
+      updateButton();
+    });
+  }
+
+  // 如果 DOM 已经加载完成，立即执行
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initPagination);
+  } else {
+    // DOM 已经准备好了，立即执行
+    initPagination();
+  }
+})();
+</script>
 </body>
 </html>
