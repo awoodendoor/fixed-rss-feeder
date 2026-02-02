@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
   <title>{{siteTitle}}</title>
   <meta charset="utf-8" />
@@ -7,6 +10,18 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
   <link href="index.css" rel="stylesheet" />
+  <style>
+    details summary {
+      list-style: none;
+      cursor: pointer;
+    }
+    details summary::-webkit-details-marker {
+      display: none;
+    }
+    details summary h1 {
+      display: inline;
+    }
+  </style>
 </head>
 
 <body>
