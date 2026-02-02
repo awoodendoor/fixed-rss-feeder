@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 
 <head>
   <title>{{siteTitle}}</title>
@@ -9,6 +9,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
+  
+  <!-- ⭐ 引用 statics 目录下的CSS -->
   <link rel="stylesheet" href="statics/index.css" />
 </head>
 
@@ -37,7 +39,14 @@
         <span>字数：{{wordCount}}</span>
         {{/if}}
       </div>
-      <div class="content">{{{description}}}</div>
+      
+      {{#if imageUrl}}
+      <img src="{{imageUrl}}" alt="{{title}}" class="article-image" referrerpolicy="no-referrer">
+      {{/if}}
+      
+      <div class="content">
+        <p>{{description}}</p>
+      </div>
     </details>
   </article>
   {{/each}}
