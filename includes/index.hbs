@@ -9,17 +9,173 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
-  <link href="index.css" rel="stylesheet" />
   <style>
+    /* Kindle 优化样式 */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Bookerly", "Palatino", "Georgia", serif;
+      font-size: 18px;
+      line-height: 1.8;
+      color: #000;
+      background-color: #fff;
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 1em;
+    }
+
+    header {
+      border-bottom: 2px solid #000;
+      margin-bottom: 2em;
+      padding-bottom: 1em;
+    }
+
+    header dl {
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    header dt {
+      display: inline;
+      font-weight: bold;
+    }
+
+    header dd {
+            display: inline;
+      margin-left: 0.5em;
+      margin-right: 1em;
+    }
+
+    header dd::after {
+      content: "";
+      display: block;
+      margin-bottom: 0.3em;
+    }
+
+    article {
+      margin-bottom: 3em;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 2em;
+    }
+
     details summary {
       list-style: none;
       cursor: pointer;
+      user-select: none;
     }
+
     details summary::-webkit-details-marker {
       display: none;
     }
+
     details summary h1 {
-      display: inline;
+      font-size: 22px;
+      line-height: 1.4;
+      margin-bottom: 0.5em;
+      font-weight: bold;
+      color: #000;
+      border-left: 4px solid #000;
+      padding-left: 0.5em;
+    }
+
+    details summary:hover h1 {
+      background-color: #f0f0f0;
+    }
+
+    details[open] summary h1 {
+      margin-bottom: 1em;
+    }
+
+    .meta-info {
+      font-size: 14px;
+      color: #333;
+      margin-bottom: 1em;
+      line-height: 1.6;
+    }
+
+    .meta-info span {
+      display: block;
+      margin-bottom: 0.3em;
+    }
+
+    .meta-info a {
+      color: #000;
+      text-decoration: underline;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1em 0;
+      border: 1px solid #ccc;
+    }
+
+    .content {
+      font-size: 18px;
+      line-height: 1.8;
+      text-align: justify;
+      margin-top: 1.5em;
+    }
+
+    .content p {
+      margin-bottom: 1em;
+      text-indent: 2em;
+    }
+
+    .content h2, .content h3 {
+      margin-top: 1.5em;
+      margin-bottom: 0.8em;
+      font-weight: bold;
+    }
+
+    .content h2 {
+      font-size: 20px;
+    }
+
+    .content h3 {
+      font-size: 18px;
+    }
+
+    .content ul, .content ol {
+      margin-left: 2em;
+      margin-bottom: 1em;
+    }
+
+    .content li {
+      margin-bottom: 0.5em;
+    }
+
+    /* Kindle 特定优化 */
+    @media screen and (max-width: 600px) {
+      body {
+        font-size: 16px;
+        padding: 0.5em;
+      }
+
+      details summary h1 {
+        font-size: 20px;
+      }
+
+      .content {
+        font-size: 16px;
+      }
+    }
+
+    /* 打印样式 */
+    @media print {
+      body {
+        font-size: 12pt;
+        line-height: 1.6;
+      }
+
+      article {
+        page-break-after: always;
+      }
     }
   </style>
 </head>
@@ -27,10 +183,9 @@
 <body>
   <header>
     <dl>
-      <dt><b>Site title</b></dt><dd>{{siteTitle}}</dd>
-      <dt><b>Built on</b></dt><dd>{{siteBuildTimestamp}}</dd>
-      <dt><b>Cli version</b></dt><dd>{{cliVersion}}</dd>
-      <dt><b>Documentation URL</b></dt><dd>{{projectUrl}}</dd>
+      <dt>站点：</dt><dd>{{siteTitle}}</dd>
+      <dt>构建：</dt><dd>{{siteBuildTimestamp}}</dd>
+      <dt>版本：</dt><dd>{{cliVersion}}</dd>
     </dl>
   </header>
 
@@ -40,15 +195,14 @@
       <summary>
         <h1>{{title}}</h1>
       </summary>
-      <div>
-        <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
-        <span>Date: <time>{{isoPublishDate}}</time></span> |
-        <span>Timestamp: <time>{{publishedOn}}</time></span> |
-        <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
-        <span>Word count: <time>{{wordCount}}</time></span>
+      <div class="meta-info">
+        <span>来源：<a href={{source.siteUrl}}>{{source.title}}</a></span>
+        <span>日期：<time>{{isoPublishDate}}</time></span>
+        <span>阅读时间：{{readingTimeInMin}} 分钟</span>
+        <span>字数：{{wordCount}}</span>
       </div>
       {{#if imageUrl}}
-      <img src="{{imageUrl}}" width="100" />
+      <img src="{{imageUrl}}" alt="{{title}}" />
       {{/if}}
       <div class="content">{{{content}}}</div>
     </details>
