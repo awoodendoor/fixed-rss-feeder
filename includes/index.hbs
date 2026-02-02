@@ -1,79 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
   <title>{{siteTitle}}</title>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="robots" content="noindex, nofollow" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <!-- 防止样式丢失，建议直接写在下面 -->
-  <style>
-      body { font-family: sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; }
-      article { margin-bottom: 20px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; }
-      
-      /* 关键：去掉 details 默认的丑陋箭头，让整行可点击 */
-      summary { cursor: pointer; padding: 15px; background: #f9f9f9; list-style: none; }
-      summary::-webkit-details-marker { display: none; }
-      summary:hover { background: #f0f0f0; }
-      
-      h1 { font-size: 1.2rem; margin: 0 0 5px 0; color: #333; }
-      .meta { font-size: 0.8rem; color: #666; }
-      .meta a { color: #666; }
-      
-      /* 内容区域样式 */
-      .content { padding: 20px; border-top: 1px solid #eee; }
-      
-      /* ！！！绝对重要：防止 RSS 里的巨型图片撑破手机屏幕 ！！！*/
-      .content img, .content video, .content iframe {
-          max-width: 100% !important;
-          height: auto !important;
-          display: block;
-          margin: 10px 0;
-      }
-  </style>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
+  <link href="index.css" rel="stylesheet" />
 </head>
 
 <body>
   <header>
     <dl>
       <dt><b>Site title</b></dt><dd>{{siteTitle}}</dd>
-      <dt><b>Last Build</b></dt><dd>{{lastBuildTime}}</dd> <!-- 修正变量名 -->
+      <dt><b>Built on</b></dt><dd>{{siteBuildTimestamp}}</dd>
+      <dt><b>Cli version</b></dt><dd>{{cliVersion}}</dd>
+      <dt><b>Documentation URL</b></dt><dd>{{projectUrl}}</dd>
     </dl>
   </header>
 
-  <!-- Osmosfeed 默认集合名通常是 items，如果不出数据请改成 articles -->
-  {{#each items}}
+  {{#each articles}}
   <article>
     <details>
-      <!-- 1. 这里是默认显示的部分 (标题 + 元数据) -->
       <summary>
-          <!-- 注意：这里去掉了 <a href>，因为点击标题是用来展开全文的 -->
-          <h1>{{title}}</h1>
-          
-          <div class="meta">
-            <span>Source: {{source.title}}</span> | 
-            <span>Date: <time>{{isoPublishDate}}</time></span>
-            <!-- 如果数据里有 readingTimeInMin 保留即可，没有则不会显示 -->
-            {{#if readingTimeInMin}} | <span>Read: {{readingTimeInMin}} min</span> {{/if}}
-            <span style="float:right; color:#007bff">👇 展开全文</span>
-          </div>
+        <h1>{{title}}</h1>
       </summary>
-
-      <!-- 2. 这里是折叠的部分 (全文 + 原文链接) -->
-      <div class="content">
-          <!-- 原文链接移到这里 -->
-          <p>
-              <a href="{{url}}" target="_blank">🔗 跳转到原始网页阅读</a>
-          </p>
-          <hr style="border:0; border-top:1px dashed #ccc">
-
-          {{#if imageUrl}}
-          <img src="{{imageUrl}}" style="max-width:100%"/>
-          {{/if}}
-
-          <!-- 全文渲染 -->
-          {{{content}}}
+      <div>
+        <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
+        <span>Date: <time>{{isoPublishDate}}</time></span> |
+        <span>Timestamp: <time>{{publishedOn}}</time></span> |
+        <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
+        <span>Word count: <time>{{wordCount}}</time></span>
       </div>
+      {{#if imageUrl}}
+      <img src="{{imageUrl}}" width="100" />
+      {{/if}}
+      <div class="content">{{{content}}}</div>
     </details>
   </article>
   {{/each}}
