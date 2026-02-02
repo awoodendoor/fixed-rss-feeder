@@ -24,11 +24,18 @@ jobs:
         run: npm i
       - name: Build the feed
         run: npm run build
+      - name: github
+      - run: |
+          ls -la statics/
+          mkdir -p public/statics
+          cp -r statics/* public/statics/
+          ls -la public/statics/
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+
 
 
 
