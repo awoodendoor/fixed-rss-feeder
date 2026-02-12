@@ -1,10 +1,346 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-11T13:05:29.118Z</id>
+    <id>urn:2026-02-12T02:01:12.585Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-11T13:05:29.118Z</updated>
+    <updated>2026-02-12T02:01:12.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[我刚从中国回来，美国没有赢]]></title>
+        <id>https://cn.nytimes.com/opinion/20260212/china-ai-ev-trump/</id>
+        <link href="https://cn.nytimes.com/opinion/20260212/china-ai-ev-trump/?utm_source=RSS"/>
+        <updated>2026-02-12T01:42:54.000Z</updated>
+        <summary type="html"><![CDATA[除制造业之外，中国还在人工智能和制药等一系列快速增长的行业中威胁着美国的领先地位。靠加征关税或达成贸易协议根本无法击败中国。
+
+                    
+Andrey Kasay]]></summary>
+        <author>
+            <name>STEVEN RATTNER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为促进中国利益从事秘密活动，加州男子被判四年监禁]]></title>
+        <id>https://cn.nytimes.com/usa/20260212/california-man-chinese-agent/</id>
+        <link href="https://cn.nytimes.com/usa/20260212/california-man-chinese-agent/?utm_source=RSS"/>
+        <updated>2026-02-12T01:00:40.000Z</updated>
+        <summary type="html"><![CDATA[这名中国籍男子曾在中国官员的指示下，为促进中国在洛杉矶地区的利益而秘密活动，包括在蔡英文访问洛杉矶期间监视其行踪，以及协助一名华裔候选人成功竞选公职。
+
+                    
+Philip Cheung for The New York Times
+                    
+2023年，时任台湾总统蔡英文访问加州。她在那里会见了时任美国众议院议长、加州共和党人凯文·麦卡锡。]]></summary>
+        <author>
+            <name>CHRIS HIPPENSTEEL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 将举办五十周年庆、VSCO 上架 Lr 预设等]]></title>
+        <id>https://sspai.com/post/106310</id>
+        <link href="https://sspai.com/post/106310"/>
+        <updated>2026-02-12T00:32:34.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp 网页版将迎来大更新、CrossOver 上线新的大版本等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xAI lays out interplanetary ambitions in public all-hands]]></title>
+        <id>https://techcrunch.com/?p=3092296</id>
+        <link href="https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/"/>
+        <updated>2026-02-11T23:29:08.000Z</updated>
+        <summary type="html"><![CDATA[On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.]]></summary>
+        <author>
+            <name>Russell Brandom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say]]></title>
+        <id>https://techcrunch.com/?p=3092191</id>
+        <link href="https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/"/>
+        <updated>2026-02-11T22:48:35.000Z</updated>
+        <summary type="html"><![CDATA[General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.]]></summary>
+        <author>
+            <name>Marina Temkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Study of Buddhist Monks Finds Meditation Alters Brain Activity]]></title>
+        <id>698bcad026a6c6f38affe1dd</id>
+        <link href="https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/"/>
+        <updated>2026-02-11T22:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Meditation isn’t thinking about nothing. New research reinforces that it’s a mind-altering, dynamic state that promotes focus, learning, and well-being.]]></summary>
+        <author>
+            <name>Javier Carbajal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Heated Rivalry’ Is Bringing New Fans to Hockey. Does the Sport Deserve Them?]]></title>
+        <id>698a6621fbb792360a1da835</id>
+        <link href="https://www.wired.com/story/winter-olympics-heated-rivalry-effect-lgbtq-inclusivity/"/>
+        <updated>2026-02-11T22:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Obsession over a show about two closeted hockey players has brought new fandom to the sport just ahead of the Olympics. But men's hockey's lack of support for LGBTQ+ players and fans is notable.]]></summary>
+        <author>
+            <name>Manisha Krishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI disbands mission alignment team]]></title>
+        <id>https://techcrunch.com/?p=3092216</id>
+        <link href="https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/"/>
+        <updated>2026-02-11T21:57:18.000Z</updated>
+        <summary type="html"><![CDATA[The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.]]></summary>
+        <author>
+            <name>Lucas Ropek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE Is Crashing the US Court System in Minnesota]]></title>
+        <id>69860bd949f2bbe1c3c08afb</id>
+        <link href="https://www.wired.com/story/ice-crashing-us-court-system-minnesota/"/>
+        <updated>2026-02-11T21:23:51.000Z</updated>
+        <summary type="html"><![CDATA[Petitions demanding people get the chance to be released from ICE custody have overwhelmed courts throughout the US.]]></summary>
+        <author>
+            <name>Maddy Varner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s Siri revamp reportedly delayed… again]]></title>
+        <id>https://techcrunch.com/?p=3092232</id>
+        <link href="https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/"/>
+        <updated>2026-02-11T21:19:46.000Z</updated>
+        <summary type="html"><![CDATA[While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in September.]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber Eats launches AI assistant to help with grocery cart creation]]></title>
+        <id>https://techcrunch.com/?p=3092207</id>
+        <link href="https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/"/>
+        <updated>2026-02-11T21:07:37.000Z</updated>
+        <summary type="html"><![CDATA[Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who will own your company’s AI layer? Glean’s CEO explains]]></title>
+        <id>https://techcrunch.com/?post_type=tc_video&amp;p=3092215</id>
+        <link href="https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/"/>
+        <updated>2026-02-11T20:49:07.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?  Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit underneath other AI […]]]></summary>
+        <author>
+            <name>Theresa Loconsolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk suggests spate of xAI exits have been push, not pull]]></title>
+        <id>https://techcrunch.com/?p=3091919</id>
+        <link href="https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/"/>
+        <updated>2026-02-11T20:47:00.000Z</updated>
+        <summary type="html"><![CDATA[At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users]]></title>
+        <id>https://techcrunch.com/?p=3092145</id>
+        <link href="https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/"/>
+        <updated>2026-02-11T20:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Critical security flaws targeting Windows and Office users allow hackers to take complete control of a victim's computer by clicking a malicious link or opening a file. Patch now.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get into a16z’s super-competitive Speedrun startup accelerator program]]></title>
+        <id>https://techcrunch.com/?p=3091907</id>
+        <link href="https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/"/>
+        <updated>2026-02-11T19:58:01.000Z</updated>
+        <summary type="html"><![CDATA[TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.]]></summary>
+        <author>
+            <name>Dominic-Madori Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cash App adds payment links so you can get paid in a DM]]></title>
+        <id>https://techcrunch.com/?p=3092022</id>
+        <link href="https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm/"/>
+        <updated>2026-02-11T19:50:41.000Z</updated>
+        <summary type="html"><![CDATA[The new feature allows users to share payment requests in a variety of digital settings.]]></summary>
+        <author>
+            <name>Lucas Ropek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ICE Expansion Won’t Happen in the Dark]]></title>
+        <id>698b569486b799b5516127c8</id>
+        <link href="https://www.wired.com/story/ice-expansion-wont-happen-in-the-dark/"/>
+        <updated>2026-02-11T19:30:42.000Z</updated>
+        <summary type="html"><![CDATA[People have a right to know who their neighbors are, especially when it’s ICE.]]></summary>
+        <author>
+            <name>Brian Barrett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s new eero Signal keeps you connected to the internet when outages occur]]></title>
+        <id>https://techcrunch.com/?p=3092075</id>
+        <link href="https://techcrunch.com/2026/02/11/amazons-new-eero-signal-keeps-you-connected-to-the-internet-when-outages-occur/"/>
+        <updated>2026-02-11T19:30:14.000Z</updated>
+        <summary type="html"><![CDATA[A new device from eero will keep you online even if your ISP goes down.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The search is on: 2026 Joseph C. Belden Innovation Award nominations are open]]></title>
+        <id>https://techcrunch.com/?p=3092025</id>
+        <link href="https://techcrunch.com/2026/02/11/the-search-is-on-2026-joseph-c-belden-innovation-award-nominations-are-open/"/>
+        <updated>2026-02-11T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Nominations for the 2026 Joseph C. Belden Innovation Award are open, inviting SMBs with groundbreaking innovation a chance to win scaling opportunities. Last day to apply is February 13.]]></summary>
+        <author>
+            <name>TechCrunch Events</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activist investor Ancora publicly opposes the WBD-Netflix deal]]></title>
+        <id>https://techcrunch.com/?p=3092141</id>
+        <link href="https://techcrunch.com/2026/02/11/activist-investor-ancora-publicly-opposes-the-wbd-netflix-deal/"/>
+        <updated>2026-02-11T19:20:50.000Z</updated>
+        <summary type="html"><![CDATA[An investment group is trying to sway Netflix shareholders to reject the WBD deal in favor of Paramount.]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Loved My OpenClaw AI Agent—Until It Turned on Me]]></title>
+        <id>698a2ffa3ba8a52ccb2f5468</id>
+        <link href="https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/"/>
+        <updated>2026-02-11T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me.]]></summary>
+        <author>
+            <name>Will Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOJ says Trenchant boss sold exploits to Russian broker capable of accessing ‘millions of computers and devices’]]></title>
+        <id>https://techcrunch.com/?p=3091947</id>
+        <link href="https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/"/>
+        <updated>2026-02-11T18:41:41.000Z</updated>
+        <summary type="html"><![CDATA[The former boss of the L3Harris-owned hacking and surveillance tools maker Trenchant faces nine years in prison for selling several exploits to a Russian broker, which counts the Russian government among its customers.]]></summary>
+        <author>
+            <name>Lorenzo Franceschi-Bicchierai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the economics of orbital AI are so brutal]]></title>
+        <id>https://techcrunch.com/?p=3091790</id>
+        <link href="https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/"/>
+        <updated>2026-02-11T18:15:21.000Z</updated>
+        <summary type="html"><![CDATA[A 1 GW orbital data center would cost roughly $42.4 billion — almost three times its ground-bound equivalent.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeffrey Epstein Advised an Elon Musk Associate on Taking Tesla Private]]></title>
+        <id>698a1e31218c03ec7b035447</id>
+        <link href="https://www.wired.com/story/jeffrey-epstein-advised-an-elon-musk-associate-on-taking-tesla-private/"/>
+        <updated>2026-02-11T18:11:45.000Z</updated>
+        <summary type="html"><![CDATA[The financier recommended adding Margaret Thatcher to Tesla’s board, even though she had been dead for five years.]]></summary>
+        <author>
+            <name>Miles Klee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Favorite Upgraded Power Bank Is $30 Off]]></title>
+        <id>698b6a4870500a71008bd02f</id>
+        <link href="https://www.wired.com/story/anker-laptop-power-bank-deal-226/"/>
+        <updated>2026-02-11T18:04:14.000Z</updated>
+        <summary type="html"><![CDATA[This supercharged Anker pack can keep all your devices topped up.]]></summary>
+        <author>
+            <name>Brad Bourque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed]]></title>
+        <id>https://techcrunch.com/?p=3091633</id>
+        <link href="https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/"/>
+        <updated>2026-02-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The platform's new feature lets users tell Threads what they temporarily want to see more or less of in their feed.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google releases the first beta of Android 17, adopts a continuous developer release plan]]></title>
+        <id>https://techcrunch.com/?p=3091865</id>
+        <link href="https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/"/>
+        <updated>2026-02-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is changing how developers get access to new APIs and features of the latest version.]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI changes the math for startups, according to a Microsoft VP]]></title>
+        <id>https://techcrunch.com/?p=3091955</id>
+        <link href="https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/"/>
+        <updated>2026-02-11T17:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Amanda Silver is a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.]]></summary>
+        <author>
+            <name>Russell Brandom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UpScrolled’s social network is struggling to moderate hate speech after fast growth]]></title>
+        <id>https://techcrunch.com/?p=3091915</id>
+        <link href="https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth/"/>
+        <updated>2026-02-11T17:47:15.000Z</updated>
+        <summary type="html"><![CDATA[UpScrolled, a social network that surged in the wake of the U.S. TikTok deal, has seen an uptick in harmful content, including usernames and hashtags that contain racial slurs.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’]]></title>
+        <id>698c844ca4a1ccc24a43ada1</id>
+        <link href="https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/"/>
+        <updated>2026-02-11T16:32:27.000Z</updated>
+        <summary type="html"><![CDATA[US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.]]></summary>
+        <author>
+            <name>Dell Cameron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV]]></title>
+        <id>https://techcrunch.com/?p=3091913</id>
+        <link href="https://techcrunch.com/2026/02/11/twilio-co-founders-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv/"/>
+        <updated>2026-02-11T16:29:43.000Z</updated>
+        <summary type="html"><![CDATA[Inertia Enterprises will use the Series A investment to build one of the world's most powerful lasers, a key part of its power plant design.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国净利润率最高的互联网公司，为何让民宿酒店陷入生存困境？]]></title>
+        <id>8408769912a16da14997f008056282e3</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%AD%E5%9B%BD%E5%87%80%E5%88%A9%E6%B6%A6%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8%EF%BC%8C%E4%B8%BA%E4%BD%95%E8%AE%A9%E6%B0%91%E5%AE%BF%E9%85%92%E5%BA%97%E9%99%B7%E5%85%A5%E7%94%9F%E5%AD%98%E5%9B%B0%E5%A2%83%EF%BC%9F"/>
+        <updated>2026-02-11T13:20:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谜一样的古埃及]]></title>
+        <id>7be5557302280d4116a89a693a582c59</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%B0%9C%E4%B8%80%E6%A0%B7%E7%9A%84%E5%8F%A4%E5%9F%83%E5%8F%8A"/>
+        <updated>2026-02-11T13:20:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up an Apple Watch for Your Kids (2026)]]></title>
         <id>6337222ed90aafbd66b0c6c9</id>
@@ -136,26 +472,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsung to hold its Galaxy S26 event on February 25]]></title>
-        <id>https://techcrunch.com/?p=3091848</id>
-        <link href="https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/"/>
-        <updated>2026-02-11T07:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Samsung is going to launch S26 lineup just before Mobile World Congress (MWC).]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon]]></title>
-        <id>https://techcrunch.com/?p=3091847</id>
-        <link href="https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/"/>
-        <updated>2026-02-11T05:23:26.000Z</updated>
-        <summary type="html"><![CDATA[According to The New York Times, which reports that it heard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.]]></summary>
-        <author>
-            <name>Connie Loizos</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[如果寒冬注定来临，请至少让我“听见”你]]></title>
         <id>b4fe5dd31bcc4fbcec0397c559752556</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%A6%82%E6%9E%9C%E5%AF%92%E5%86%AC%E6%B3%A8%E5%AE%9A%E6%9D%A5%E4%B8%B4%EF%BC%8C%E8%AF%B7%E8%87%B3%E5%B0%91%E8%AE%A9%E6%88%91%E2%80%9C%E5%90%AC%E8%A7%81%E2%80%9D%E4%BD%A0"/>
@@ -199,26 +515,6 @@ Kin Cheung/Associated Press
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim]]></title>
-        <id>https://techcrunch.com/?p=3091795</id>
-        <link href="https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/"/>
-        <updated>2026-02-11T02:15:27.000Z</updated>
-        <summary type="html"><![CDATA[The executive has denied the allegation that she engaged in discrimination.]]></summary>
-        <author>
-            <name>Lucas Ropek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okay, now exactly half of xAI’s founding team has left the company]]></title>
-        <id>https://techcrunch.com/?p=3091548</id>
-        <link href="https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/"/>
-        <updated>2026-02-11T01:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.]]></summary>
-        <author>
-            <name>Russell Brandom</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国食客口味变化，马来西亚榴莲果农遭殃]]></title>
         <id>https://cn.nytimes.com/asia-pacific/20260211/durian-malaysia-china-demand/</id>
         <link href="https://cn.nytimes.com/asia-pacific/20260211/durian-malaysia-china-demand/?utm_source=RSS"/>
@@ -242,26 +538,6 @@ Lauren DeCicca for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon may launch a marketplace where media sites can sell their content to AI companies]]></title>
-        <id>https://techcrunch.com/?p=3091683</id>
-        <link href="https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/"/>
-        <updated>2026-02-10T23:16:28.000Z</updated>
-        <summary type="html"><![CDATA[A new report claims the e-commerce giant is looking to create a pipeline of licensable content between media publishers and AI companies.]]></summary>
-        <author>
-            <name>Lucas Ropek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An ice dance duo skated to AI music at the Olympics]]></title>
-        <id>https://techcrunch.com/?p=3091561</id>
-        <link href="https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/"/>
-        <updated>2026-02-10T22:31:13.000Z</updated>
-        <summary type="html"><![CDATA[Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.]]></summary>
-        <author>
-            <name>Amanda Silberling</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE]]></title>
         <id>698b9c4b3b8fbecbbb8fcffc</id>
         <link href="https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/"/>
@@ -272,26 +548,6 @@ Lauren DeCicca for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boston Dynamics CEO Robert Playter steps down after 30 years at the company]]></title>
-        <id>https://techcrunch.com/?p=3091693</id>
-        <link href="https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/"/>
-        <updated>2026-02-10T21:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Robert Playter announcd he is leaving Boston Dynamics after 30 years at the company in various roles, including six years as CEO.]]></summary>
-        <author>
-            <name>Rebecca Szkutak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VC Masha Bucher, Epstein associate and Day One founder, explains herself]]></title>
-        <id>https://techcrunch.com/?p=3091632</id>
-        <link href="https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/"/>
-        <updated>2026-02-10T21:07:44.000Z</updated>
-        <summary type="html"><![CDATA[After numerous news reports documented Masha Bucher's close business and personal relationship with convicted sex offender Jeffrey Epstein, Bucher took to X to explain.]]></summary>
-        <author>
-            <name>Julie Bort</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating]]></title>
         <id>698b3cd301ac8aa5897ea131</id>
         <link href="https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/"/>
@@ -299,16 +555,6 @@ Lauren DeCicca for The New York Times]]></summary>
         <summary type="html"><![CDATA[Are you speechless watching US figure skater Ilia Malinin on the ice? Science explains how it’s possible the Quad God can do more than four full rotations in the air.]]></summary>
         <author>
             <name>Marta Musso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google sent personal and financial information of student journalist to ICE]]></title>
-        <id>https://techcrunch.com/?p=3091670</id>
-        <link href="https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/"/>
-        <updated>2026-02-10T20:41:21.000Z</updated>
-        <summary type="html"><![CDATA[The tech giant handed over the personal information of a journalist and student who attended a pro-Palestinian protest in 2024. This is the latest example of ICE using its controversial subpoena powers to target people critical of the Trump administration.]]></summary>
-        <author>
-            <name>Lorenzo Franceschi-Bicchierai</name>
         </author>
     </entry>
     <entry>
@@ -344,26 +590,6 @@ Alex Wong/Getty Images
         <summary type="html"><![CDATA[In a video shared with Palantir employees, Alex Karp did not explain how ICE is utilizing the company’s products. Instead, workers were told they can sign NDAs if they want detailed information.]]></summary>
         <author>
             <name>Makena Kelly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s how Rivian changed the rear door manual release on the R2]]></title>
-        <id>https://techcrunch.com/?p=3091502</id>
-        <link href="https://techcrunch.com/2026/02/10/heres-how-rivian-changed-the-rear-door-manual-release-on-the-r2/"/>
-        <updated>2026-02-10T19:38:54.000Z</updated>
-        <summary type="html"><![CDATA[Rivian, along with other automakers, has been under pressure to make the manual door releases easier to access. The new R2 SUV does that — here's how.]]></summary>
-        <author>
-            <name>Sean O'Kane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook adds new AI features, animated profile photos, and backgrounds for text posts]]></title>
-        <id>https://techcrunch.com/?p=3091608</id>
-        <link href="https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/"/>
-        <updated>2026-02-10T19:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Facebook's new AI features let users animate their profile pics, restyle their Stories and Memories, and add  backgrounds to text posts.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
         </author>
     </entry>
     <entry>
@@ -407,26 +633,6 @@ Doug Mills/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip]]></title>
-        <id>https://techcrunch.com/?p=3090948</id>
-        <link href="https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/"/>
-        <updated>2026-02-10T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The startup claims that it has developed a "hack-proof" chip that can't be bypassed by devices like Flipper Zero, a widely available hacking tool that can be used to tamper with wireless systems. These chips are linked with digital certificates to verify the authenticity of the products.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singapore says China-backed hackers targeted its four largest phone companies]]></title>
-        <id>https://techcrunch.com/?p=3091493</id>
-        <link href="https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/"/>
-        <updated>2026-02-10T16:19:39.000Z</updated>
-        <summary type="html"><![CDATA[The Singaporean government said the China-backed hackers gained "limited access to critical systems" run by the country's top four telecommunication giants, but said they did not disrupt services or steal customers' data.]]></summary>
-        <author>
-            <name>Zack Whittaker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next]]></title>
         <id>696f8c3348b30cdab4cde947</id>
         <link href="https://www.wired.com/story/ice-expansion-across-us-at-heres-where-its-going-next/"/>
@@ -434,76 +640,6 @@ Doug Mills/The New York Times
         <summary type="html"><![CDATA[ICE plans to lease offices throughout the US as part of a secret, monthslong expansion campaign. WIRED is publishing dozens of these locations.]]></summary>
         <author>
             <name>Leah Feiger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vega raises $120M Series B to rethink how enterprises detect cyber threats]]></title>
-        <id>https://techcrunch.com/?p=3091004</id>
-        <link href="https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/"/>
-        <updated>2026-02-10T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Vega Security raised $120 million, bringing its valuation to $700 million, in a round led by Accel. The company aims to rethink how enterprises detect cybersecurity threats.]]></summary>
-        <author>
-            <name>Rebecca Bellan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to know about Netflix’s landmark acquisition of Warner Bros.]]></title>
-        <id>https://techcrunch.com/?p=3085519</id>
-        <link href="https://techcrunch.com/2026/02/10/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/"/>
-        <updated>2026-02-10T15:56:21.000Z</updated>
-        <summary type="html"><![CDATA[Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google expands tools to let users remove sensitive data about themselves from Search]]></title>
-        <id>https://techcrunch.com/?p=3091466</id>
-        <link href="https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/"/>
-        <updated>2026-02-10T15:54:48.000Z</updated>
-        <summary type="html"><![CDATA[Users will be able to more easily request the removal of results that include private information or non-consensual explicit imagery.]]></summary>
-        <author>
-            <name>Aisha Malik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump EPA reportedly seeks to revoke landmark air pollution rule]]></title>
-        <id>https://techcrunch.com/?p=3091472</id>
-        <link href="https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/"/>
-        <updated>2026-02-10T15:47:13.000Z</updated>
-        <summary type="html"><![CDATA[EPA administrator Lee Zeldin is reportedly expected to repeal the 2009 "endangerment finding" that underpins U.S. climate regulatory efforts.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying]]></title>
-        <id>https://techcrunch.com/?p=3053579</id>
-        <link href="https://techcrunch.com/2026/02/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/"/>
-        <updated>2026-02-10T15:06:26.000Z</updated>
-        <summary type="html"><![CDATA[YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hauler Hero collects $16M for its AI waste management software]]></title>
-        <id>https://techcrunch.com/?p=3091234</id>
-        <link href="https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/"/>
-        <updated>2026-02-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hauler Hero has seen its customer base, revenue, and head count double since the company raised its seed round in 2024.]]></summary>
-        <author>
-            <name>Rebecca Szkutak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India orders social media platforms to take down deepfakes faster]]></title>
-        <id>https://techcrunch.com/?p=3091455</id>
-        <link href="https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/"/>
-        <updated>2026-02-10T14:51:13.000Z</updated>
-        <summary type="html"><![CDATA[India’s new rules take effect February 20, tightening deepfake oversight and shrinking takedown windows to as little as two hours.]]></summary>
-        <author>
-            <name>Jagmeet Singh</name>
         </author>
     </entry>
     <entry>
@@ -520,15 +656,6 @@ Doug Mills/The New York Times
         <title type="html"><![CDATA[不谈恋爱的年轻人，沉迷于在这“吵架离婚、亲自抓小三”？]]></title>
         <id>ebe941d9cd75f0e1bd6b491557aa9177</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%8C%E6%B2%89%E8%BF%B7%E4%BA%8E%E5%9C%A8%E8%BF%99%E2%80%9C%E5%90%B5%E6%9E%B6%E7%A6%BB%E5%A9%9A%E3%80%81%E4%BA%B2%E8%87%AA%E6%8A%93%E5%B0%8F%E4%B8%89%E2%80%9D%EF%BC%9F"/>
-        <updated>2026-02-10T13:17:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请立刻停止无效阅读]]></title>
-        <id>6469e0880edfe722f40fa9c73b03a3f9</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%AF%B7%E7%AB%8B%E5%88%BB%E5%81%9C%E6%AD%A2%E6%97%A0%E6%95%88%E9%98%85%E8%AF%BB"/>
         <updated>2026-02-10T13:17:00.000Z</updated>
         <author>
             <name>三联生活周刊</name>
@@ -705,15 +832,6 @@ Doug Mills/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“双顶流”阵容的国产大剧，能否再次“封神”？]]></title>
-        <id>44adc5e1a065aeb4f97df48be8386669</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E5%8F%8C%E9%A1%B6%E6%B5%81%E2%80%9D%E9%98%B5%E5%AE%B9%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%89%A7%EF%BC%8C%E8%83%BD%E5%90%A6%E5%86%8D%E6%AC%A1%E2%80%9C%E5%B0%81%E7%A5%9E%E2%80%9D%EF%BC%9F"/>
-        <updated>2026-02-10T04:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[从危机中挽救自民党，高市早苗是如何做到的]]></title>
         <id>https://cn.nytimes.com/asia-pacific/20260210/japan-election-takaichi-analysis/</id>
         <link href="https://cn.nytimes.com/asia-pacific/20260210/japan-election-takaichi-analysis/?utm_source=RSS"/>
@@ -751,16 +869,6 @@ Lam Yik Fei for The New York Times
 2020年，黎智英在香港家中。]]></summary>
         <author>
             <name>DAVID PIERSON</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：天涯社区宣布回归等]]></title>
-        <id>https://sspai.com/post/106265</id>
-        <link href="https://sspai.com/post/106265"/>
-        <updated>2026-02-10T00:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Discord 将默认为账号开启未成年人模式，Linux Kernel 6.19 正式版发布等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
@@ -893,16 +1001,6 @@ U.S. Atomic Energy Commission, via Associated Press
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Curling Became the Winter Olympics’ Favorite Fixation]]></title>
-        <id>6984a595cdd03108a2c0d78a</id>
-        <link href="https://www.wired.com/story/everything-you-need-to-know-curling/"/>
-        <updated>2026-02-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If throwing stones and sweeping ice seem strange to you, the centuries-old history of the sport explains why it became so beloved.]]></summary>
-        <author>
-            <name>Paolo Armelli</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Iran’s Digital Surveillance Machine Is Almost Complete]]></title>
         <id>698214da8ea882e1b01b5cfd</id>
         <link href="https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/"/>
@@ -913,26 +1011,6 @@ U.S. Atomic Energy Commission, via Associated Press
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bryte Balance Pro Smart Mattress Review: Sleeping Is Believing]]></title>
-        <id>698363c1de54049d905192b7</id>
-        <link href="https://www.wired.com/review/bryte-balance-pro-smart-mattress/"/>
-        <updated>2026-02-09T10:32:00.000Z</updated>
-        <summary type="html"><![CDATA[The Bryte Balance Pro takes smart mattresses to the next level with adjustable coils and programmable massage settings.]]></summary>
-        <author>
-            <name>Julia Forbes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Startup Thinks It Can Make Rocket Fuel From Water. Stop Laughing]]></title>
-        <id>69861ebfb845608c2949e9ff</id>
-        <link href="https://www.wired.com/story/general-galactic-water-rocket-fuel-test/"/>
-        <updated>2026-02-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[General Galactic, cofounded by a former SpaceX engineer, plans to test its water-based propellant this fall. If successful, it could help usher in a new era of space travel. That's a big “if.”]]></summary>
-        <author>
-            <name>Noah Shachtman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/106250</id>
         <link href="https://sspai.com/post/106250"/>
@@ -940,16 +1018,6 @@ U.S. Atomic Energy Commission, via Associated Press
         <summary type="html"><![CDATA[>下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Bowl Tailgate Photo Essay: Bad Bunny, Big Tech, and the Big Game]]></title>
-        <id>69865bae139043dd49144afe</id>
-        <link href="https://www.wired.com/story/super-bowl-lx-tailgate-photo-essay/"/>
-        <updated>2026-02-09T06:07:36.000Z</updated>
-        <summary type="html"><![CDATA[We met up with attendees of Super Bowl LX’s pregame festivities to get their takes on the competing halftime shows, the potential for ICE actions, and the influence of Silicon Valley on the event.]]></summary>
-        <author>
-            <name>Michaela Neville</name>
         </author>
     </entry>
     <entry>
@@ -968,16 +1036,6 @@ Pool photo by Kim Kyung-Hoon
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turning Point USA’s Halftime Show Was Exactly What You’d Expect]]></title>
-        <id>698124ce8ce44d82662e9276</id>
-        <link href="https://www.wired.com/story/turning-point-usas-halftime-show-was-exactly-what-youd-expect/"/>
-        <updated>2026-02-09T04:33:53.000Z</updated>
-        <summary type="html"><![CDATA[“The All-American Halftime Show,” born out of outrage over Bad Bunny's Super Bowl performance, fell short of the hype. From Kid Rock’s poor lip synching to Erika Kirk being MIA, it was simply dull.]]></summary>
-        <author>
-            <name>Miles Klee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[黎智英被判处20年监禁]]></title>
         <id>https://cn.nytimes.com/china/20260209/jimmy-lai-sentenced-hong-kong/</id>
         <link href="https://cn.nytimes.com/china/20260209/jimmy-lai-sentenced-hong-kong/?utm_source=RSS"/>
@@ -990,16 +1048,6 @@ Louise Delmotte/Associated Press
 2023年，黎智英走在香港赤柱监狱里。]]></summary>
         <author>
             <name>DAVID PIERSON,FRANCESCA REGALADO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Bad Bunny’s Historic Super Bowl Halftime Show]]></title>
-        <id>69793dc0de634ac18e76bc28</id>
-        <link href="https://www.wired.com/story/bad-bunny-super-bowl-halftime-show-behind-the-scenes/"/>
-        <updated>2026-02-09T02:55:37.000Z</updated>
-        <summary type="html"><![CDATA[Bad Bunny’s Super Bowl performance required 9,852 theatrical pyrotechnics, nearly 400 costumed extras, and a lot of ingenuity. And yes, that was a real couple featured in the wedding.]]></summary>
-        <author>
-            <name>Angela Watercutter</name>
         </author>
     </entry>
     <entry>
@@ -1061,26 +1109,6 @@ Lauren Decicca/Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Wireless Earbuds (2026): Apple, Sony, Bose, and More]]></title>
-        <id>5d3f2e4877f7410008d5316c</id>
-        <link href="https://www.wired.com/gallery/best-wirefree-earbuds/"/>
-        <updated>2026-02-08T13:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Ready to cut the cord? These are our favorite buds that will never, ever get tangled.]]></summary>
-        <author>
-            <name>Parker Hall, Ryan Waniata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Shoes and Brooms Transforming Curling at the 2026 Winter Olympics]]></title>
-        <id>6980111b22f728fdb2104ebf</id>
-        <link href="https://www.wired.com/story/the-shoes-and-brooms-transforming-curling-at-the-2026-winter-olympics/"/>
-        <updated>2026-02-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Halfway between chess and bocce, curling is experiencing an evolution thanks to technology. From brooms to stones to footwear, here’s everything you need to know about the game’s gadgets.]]></summary>
-        <author>
-            <name>Alessio Caprodossi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[癌症的成因 | 经济学人科技]]></title>
         <id>7e06d02a90717db31d1391fc180f7ef7</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%99%8C%E7%97%87%E7%9A%84%E6%88%90%E5%9B%A0%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%A7%91%E6%8A%80"/>
@@ -1102,21 +1130,6 @@ Doug Mills/The New York Times
 去年，特朗普总统与俄罗斯总统普京在阿拉斯加举行会晤。]]></summary>
         <author>
             <name>DAVID E. SANGER,WILLIAM J. BROAD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴拿马法院裁定长江和记港口经营合同违宪]]></title>
-        <id>https://cn.nytimes.com/business/20260202/panama-canal-ck-hutchison/</id>
-        <link href="https://cn.nytimes.com/business/20260202/panama-canal-ck-hutchison/?utm_source=RSS"/>
-        <updated>2026-02-06T02:52:24.000Z</updated>
-        <summary type="html"><![CDATA[长江和记自1997年以来一直运营着巴拿马两个港口。这次裁决可能会加剧美中在拉丁美洲的紧张关系，也可能为美国和欧洲企业运营具有重要战略意义的巴拿马港口扫清道路。
-
-                    
-Nathalia Angarita for The New York Times
-                    
-特朗普总统多次表示，他希望美国重新夺回对巴拿马运河的控制权。]]></summary>
-        <author>
-            <name>PETER EAVIS,艾莎</name>
         </author>
     </entry>
     <entry>
@@ -1146,19 +1159,6 @@ Jason Grow
 首尔设有“疗愈区”隔音空间，供学生放学后在夜晚学习或宣泄情绪。]]></summary>
         <author>
             <name>MAX KIM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在上海，重新思考莎士比亚]]></title>
-        <id>https://cn.nytimes.com/china/20260205/rethinking-shakespeare-in-shanghai/</id>
-        <link href="https://cn.nytimes.com/china/20260205/rethinking-shakespeare-in-shanghai/?utm_source=RSS"/>
-        <updated>2026-02-04T19:29:29.000Z</updated>
-        <summary type="html"><![CDATA[上海版《奥赛罗》表明，尽管习近平执治下的中国日益走向威权主义，但国家的掌控并非绝对。小型民间艺术之花仍能在缝隙中生长，只要它们避开党设定的无数条红线。
-
-                    
-Gilles Sabrié for The New York Times]]></summary>
-        <author>
-            <name>ANDREW HIGGINS</name>
         </author>
     </entry>
     <entry>
