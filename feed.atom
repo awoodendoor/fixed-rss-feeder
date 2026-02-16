@@ -1,10 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-15T12:45:37.265Z</id>
+    <id>urn:2026-02-16T01:58:49.857Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-15T12:45:37.265Z</updated>
+    <updated>2026-02-16T01:58:49.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck]]></title>
+        <id>https://techcrunch.com/?p=3093187</id>
+        <link href="https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/"/>
+        <updated>2026-02-16T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.]]></summary>
+        <author>
+            <name>Jagmeet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure]]></title>
+        <id>https://techcrunch.com/?p=3093252</id>
+        <link href="https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/"/>
+        <updated>2026-02-16T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.]]></summary>
+        <author>
+            <name>Jagmeet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw creator Peter Steinberger joins OpenAI]]></title>
+        <id>https://techcrunch.com/?p=3093271</id>
+        <link href="https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/"/>
+        <updated>2026-02-15T22:28:02.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI said OpenClaw will live on as an open source project.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Longtime NPR host David Greene sues Google over NotebookLM voice]]></title>
+        <id>https://techcrunch.com/?p=3093266</id>
+        <link href="https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/"/>
+        <updated>2026-02-15T22:07:51.000Z</updated>
+        <summary type="html"><![CDATA[The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic and the Pentagon are reportedly arguing over Claude usage]]></title>
+        <id>https://techcrunch.com/?p=3093256</id>
+        <link href="https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/"/>
+        <updated>2026-02-15T21:11:28.000Z</updated>
+        <summary type="html"><![CDATA[The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India has 100M weekly active ChatGPT users, Sam Altman says]]></title>
+        <id>https://techcrunch.com/?p=3093246</id>
+        <link href="https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/"/>
+        <updated>2026-02-15T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.]]></summary>
+        <author>
+            <name>Jagmeet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The enterprise AI land grab is on. Glean is building the layer beneath the interface.]]></title>
+        <id>https://techcrunch.com/?p=3093083</id>
+        <link href="https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/"/>
+        <updated>2026-02-15T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TechCrunch Mobility: Rivian’s savior]]></title>
+        <id>https://techcrunch.com/?p=3093020</id>
+        <link href="https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/"/>
+        <updated>2026-02-15T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.]]></summary>
+        <author>
+            <name>Kirsten Korosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Epstein files reveal about EV startups and Silicon Valley]]></title>
+        <id>https://techcrunch.com/?p=3093240</id>
+        <link href="https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/"/>
+        <updated>2026-02-15T16:54:12.000Z</updated>
+        <summary type="html"><![CDATA[Will the Epstein revelations lead to broader fallout in Silicon Valley?]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get into a16z’s super-competitive Speedrun startup accelerator program]]></title>
+        <id>https://techcrunch.com/?p=3091907</id>
+        <link href="https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/"/>
+        <updated>2026-02-15T15:53:53.000Z</updated>
+        <summary type="html"><![CDATA[TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.]]></summary>
+        <author>
+            <name>Dominic-Madori Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hollywood isn’t happy about the new Seedance 2.0 video generator]]></title>
+        <id>https://techcrunch.com/?p=3093184</id>
+        <link href="https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/"/>
+        <updated>2026-02-15T15:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“性张力天花板”回归，这部顶配英剧再次火爆全球？]]></title>
+        <id>cc9b71485b21790b20391229ae4c37fa</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E6%80%A7%E5%BC%A0%E5%8A%9B%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D%E5%9B%9E%E5%BD%92%EF%BC%8C%E8%BF%99%E9%83%A8%E9%A1%B6%E9%85%8D%E8%8B%B1%E5%89%A7%E5%86%8D%E6%AC%A1%E7%81%AB%E7%88%86%E5%85%A8%E7%90%83%EF%BC%9F"/>
+        <updated>2026-02-15T13:25:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别让孩子掉进“伪阅读”陷阱]]></title>
+        <id>4d969b5a2d100b34231352b2d5fa35ec</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%88%AB%E8%AE%A9%E5%AD%A9%E5%AD%90%E6%8E%89%E8%BF%9B%E2%80%9C%E4%BC%AA%E9%98%85%E8%AF%BB%E2%80%9D%E9%99%B7%E9%98%B1"/>
+        <updated>2026-02-15T13:25:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Nothing That Has the Potential to Be Anything]]></title>
         <id>698ccfccc358ab791a3396b9</id>
@@ -66,6 +194,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“3天上坟25座”：不塌房、不发疯的真顶流，被年轻人追到了？]]></title>
+        <id>90687a20b76220642f83d3677718647e</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C3%E5%A4%A9%E4%B8%8A%E5%9D%9F25%E5%BA%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E5%A1%8C%E6%88%BF%E3%80%81%E4%B8%8D%E5%8F%91%E7%96%AF%E7%9A%84%E7%9C%9F%E9%A1%B6%E6%B5%81%EF%BC%8C%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BF%BD%E5%88%B0%E4%BA%86%EF%BC%9F"/>
+        <updated>2026-02-15T09:30:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒假黄金期，建议你给孩子养成4种“超能力”]]></title>
+        <id>898918f5dbbd77c2a44c65b98e5197c4</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%AF%92%E5%81%87%E9%BB%84%E9%87%91%E6%9C%9F%EF%BC%8C%E5%BB%BA%E8%AE%AE%E4%BD%A0%E7%BB%99%E5%AD%A9%E5%AD%90%E5%85%BB%E6%88%904%E7%A7%8D%E2%80%9C%E8%B6%85%E8%83%BD%E5%8A%9B%E2%80%9D"/>
+        <updated>2026-02-15T09:30:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The great computer science exodus (and where students are going instead)]]></title>
         <id>https://techcrunch.com/?p=3093211</id>
         <link href="https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/"/>
@@ -79,15 +225,6 @@
         <title type="html"><![CDATA[今年春节，我想送你一个小祝福]]></title>
         <id>7c7e358093d27f61c1354bbaa35680e4</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%8A%E5%B9%B4%E6%98%A5%E8%8A%82%EF%BC%8C%E6%88%91%E6%83%B3%E9%80%81%E4%BD%A0%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A5%9D%E7%A6%8F"/>
-        <updated>2026-02-15T04:02:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被误解上百年后，最冤的“国民美味”要翻身了？]]></title>
-        <id>56fd7d6b362ad32e451f751cab6e6af7</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%A2%AB%E8%AF%AF%E8%A7%A3%E4%B8%8A%E7%99%BE%E5%B9%B4%E5%90%8E%EF%BC%8C%E6%9C%80%E5%86%A4%E7%9A%84%E2%80%9C%E5%9B%BD%E6%B0%91%E7%BE%8E%E5%91%B3%E2%80%9D%E8%A6%81%E7%BF%BB%E8%BA%AB%E4%BA%86%EF%BC%9F"/>
         <updated>2026-02-15T04:02:00.000Z</updated>
         <author>
             <name>三联生活周刊</name>
@@ -144,16 +281,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hollywood isn’t happy about the new Seedance 2.0 video generator]]></title>
-        <id>https://techcrunch.com/?p=3093184</id>
-        <link href="https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/"/>
-        <updated>2026-02-14T18:26:52.000Z</updated>
-        <summary type="html"><![CDATA[Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.]]></summary>
-        <author>
-            <name>Anthony Ha</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[他们语言不通却爱意不减：翻译软件里的现代婚姻故事]]></title>
         <id>https://cn.nytimes.com/technology/20260215/they-are-in-love-but-dont-speak-the-same-language/</id>
         <link href="https://cn.nytimes.com/technology/20260215/they-are-in-love-but-dont-speak-the-same-language/?utm_source=RSS"/>
@@ -185,24 +312,6 @@
         <summary type="html"><![CDATA[India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.]]></summary>
         <author>
             <name>Jagmeet Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[300个中年人的秘密：最想大哭的地方，不是家里]]></title>
-        <id>1a3c68c8cb6281e4457f63ba4653219d</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+300%E4%B8%AA%E4%B8%AD%E5%B9%B4%E4%BA%BA%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9A%E6%9C%80%E6%83%B3%E5%A4%A7%E5%93%AD%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%AE%B6%E9%87%8C"/>
-        <updated>2026-02-14T13:33:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[甲午131年，一封“未完成的回信”]]></title>
-        <id>9c03f31c01f250bc769e8c1db3f4696b</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%94%B2%E5%8D%88131%E5%B9%B4%EF%BC%8C%E4%B8%80%E5%B0%81%E2%80%9C%E6%9C%AA%E5%AE%8C%E6%88%90%E7%9A%84%E5%9B%9E%E4%BF%A1%E2%80%9D"/>
-        <updated>2026-02-14T13:33:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -306,15 +415,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[冰雪之下，有一颗慢慢发芽的种子]]></title>
-        <id>ded19dae80b5879741591125f134ee35</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%86%B0%E9%9B%AA%E4%B9%8B%E4%B8%8B%EF%BC%8C%E6%9C%89%E4%B8%80%E9%A2%97%E6%85%A2%E6%85%A2%E5%8F%91%E8%8A%BD%E7%9A%84%E7%A7%8D%E5%AD%90"/>
-        <updated>2026-02-14T06:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sony Promo Codes and Discounts: 45% Off]]></title>
         <id>698f495a35011a6870d1abf0</id>
         <link href="https://www.wired.com/story/sony-promo-code/"/>
@@ -345,26 +445,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Airbnb plans to bake in AI features for search, discovery and support]]></title>
-        <id>https://techcrunch.com/?p=3092776</id>
-        <link href="https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/"/>
-        <updated>2026-02-14T02:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Airbnb CEO Brian Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb says a third of its customer support is now handled by AI in the US and Canada]]></title>
-        <id>https://techcrunch.com/?p=3093066</id>
-        <link href="https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/"/>
-        <updated>2026-02-13T22:12:26.000Z</updated>
-        <summary type="html"><![CDATA[Airbnb was poised to introduce an app that doesn't just search for you, but one that "knows you." CEO Brian Chesky said, "It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale."]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK]]></title>
         <id>698cfbf49ab1d3ee0004bde6</id>
         <link href="https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/"/>
@@ -372,36 +452,6 @@
         <summary type="html"><![CDATA[As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.]]></summary>
         <author>
             <name>Zeyi Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fintech lending giant Figure confirms data breach]]></title>
-        <id>https://techcrunch.com/?p=3093037</id>
-        <link href="https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/"/>
-        <updated>2026-02-13T21:02:46.000Z</updated>
-        <summary type="html"><![CDATA[The company said hackers downloaded “a limited number of files” after breaking into an employee’s account. The hacking group ShinyHunters took responsibility for the breach.]]></summary>
-        <author>
-            <name>Lorenzo Franceschi-Bicchierai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why top talent is walking away from OpenAI and xAI]]></title>
-        <id>https://techcrunch.com/?post_type=tc_video&amp;p=3092996</id>
-        <link href="https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/"/>
-        <updated>2026-02-13T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI companies have been hemorrhaging talent the past few weeks. Half of xAI’s founding team has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the disbanding of its mission alignment team to the firing of a policy exec who opposed its “adult mode” feature.  Watch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony […]]]></summary>
-        <author>
-            <name>Theresa Loconsolo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sex toys maker Tenga says hacker stole customer information]]></title>
-        <id>https://techcrunch.com/?p=3093004</id>
-        <link href="https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/"/>
-        <updated>2026-02-13T20:19:05.000Z</updated>
-        <summary type="html"><![CDATA[The Japanese sex toy maker said a hacker broke into an employee's inbox and stole customer names, email addresses, and correspondence, including order details and customer service inquiries.]]></summary>
-        <author>
-            <name>Lorenzo Franceschi-Bicchierai</name>
         </author>
     </entry>
     <entry>
@@ -472,56 +522,6 @@
         <summary type="html"><![CDATA[Don’t be fooled by a slowly dropping price tag, the Acefit are surprisingly capable.]]></summary>
         <author>
             <name>Brad Bourque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI removes access to sycophancy-prone GPT-4o model]]></title>
-        <id>https://techcrunch.com/?p=3092840</id>
-        <link href="https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/"/>
-        <updated>2026-02-13T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships with the chatbot.]]></summary>
-        <author>
-            <name>Amanda Silberling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The SEC closed its investigation into Fisker]]></title>
-        <id>https://techcrunch.com/?p=3091912</id>
-        <link href="https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/"/>
-        <updated>2026-02-13T17:48:43.000Z</updated>
-        <summary type="html"><![CDATA[The financial regulator revealed in a response to a TechCrunch records request that the probe was closed in September 2025.]]></summary>
-        <author>
-            <name>Sean O'Kane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India partners with Alibaba.com for export push despite past China tech bans]]></title>
-        <id>https://techcrunch.com/?p=3092886</id>
-        <link href="https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/"/>
-        <updated>2026-02-13T17:32:59.000Z</updated>
-        <summary type="html"><![CDATA[India turns to Alibaba.com's B2B network of 50 million buyers in 200 countries to help businesses scale global exports.]]></summary>
-        <author>
-            <name>Jagmeet Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10]]></title>
-        <id>https://techcrunch.com/?p=3092849</id>
-        <link href="https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/"/>
-        <updated>2026-02-13T17:16:27.000Z</updated>
-        <summary type="html"><![CDATA[The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roku to launch streaming bundles as part of its efforts to continue growing its profitability]]></title>
-        <id>https://techcrunch.com/?p=3092866</id>
-        <link href="https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/"/>
-        <updated>2026-02-13T16:39:27.000Z</updated>
-        <summary type="html"><![CDATA[Roku delivered an impressive Q4, posting net income of $80.5 million. The company also outlined plans for streaming bundles.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
         </author>
     </entry>
     <entry>
