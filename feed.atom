@@ -1,10 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-17T01:57:01.068Z</id>
+    <id>urn:2026-02-17T12:58:57.955Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T01:57:01.068Z</updated>
+    <updated>2026-02-17T12:58:57.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[As AI jitters rattle IT stocks, Infosys partners with Anthropic to build ‘enterprise-grade’ AI agents]]></title>
+        <id>https://techcrunch.com/?p=3093372</id>
+        <link href="https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/"/>
+        <updated>2026-02-17T12:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Under the partnership, Infosys plans to integrate Anthropic's Claude models into its Topaz AI platform to build so-called "agentic" systems.]]></summary>
+        <author>
+            <name>Jagmeet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside the Homeland Security Forum Where ICE Agents Talk Shit About Other Agents]]></title>
+        <id>6984d139e245891a230ce6d3</id>
+        <link href="https://www.wired.com/story/hsi-forum-ice-agents/"/>
+        <updated>2026-02-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Forum members discuss their discomfort with mass deportation efforts, debate how federal agents have interacted with civilians, and complain about their working conditions.]]></summary>
+        <author>
+            <name>Vittoria Elliott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Simplest Android App for Scanning Documents]]></title>
+        <id>698d0feafbe49e3e4a648a0e</id>
+        <link href="https://www.wired.com/story/fairscan-simple-app-for-scanning-documents-on-android/"/>
+        <updated>2026-02-17T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Most scanning apps try to get you to buy a cloud storage subscription or pay for extras. Not FairScan, which is free and open-source, and has some powerful features.]]></summary>
+        <author>
+            <name>Justin Pot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Digital Twins Are Helping People Manage Diabetes and Obesity]]></title>
+        <id>697cba05d81e4a03091a36de</id>
+        <link href="https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/"/>
+        <updated>2026-02-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As patients and employers look for alternatives to pricey GLP-1 drugs, Silicon Valley startup Twin Health is using AI and wearable sensors to help people make healthier choices.]]></summary>
+        <author>
+            <name>Emily Mullin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cohere launches a family of open multilingual models]]></title>
+        <id>https://techcrunch.com/?p=3093327</id>
+        <link href="https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/"/>
+        <updated>2026-02-17T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cohere's Tiny Aya models support over 70 langauges]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Small English Town Swept Up in the Global AI Arms Race]]></title>
+        <id>69836f0ce73fc082de0e115e</id>
+        <link href="https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/"/>
+        <updated>2026-02-17T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.]]></summary>
+        <author>
+            <name>Joel Khalili</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年春晚，再次被老祖宗的审美震撼！]]></title>
+        <id>8dfd50d093cabe93ec1ffb979d6403e8</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%8A%E5%B9%B4%E6%98%A5%E6%99%9A%EF%BC%8C%E5%86%8D%E6%AC%A1%E8%A2%AB%E8%80%81%E7%A5%96%E5%AE%97%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%9C%87%E6%92%BC%EF%BC%81"/>
+        <updated>2026-02-17T04:08:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[春节不需要和解，需要一次“你来试试”]]></title>
+        <id>797582644592b2986b468db355db5aa2</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%98%A5%E8%8A%82%E4%B8%8D%E9%9C%80%E8%A6%81%E5%92%8C%E8%A7%A3%EF%BC%8C%E9%9C%80%E8%A6%81%E4%B8%80%E6%AC%A1%E2%80%9C%E4%BD%A0%E6%9D%A5%E8%AF%95%E8%AF%95%E2%80%9D"/>
+        <updated>2026-02-17T04:08:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[立省上千元，最懂性价比的年轻人带父母“反向过年”？]]></title>
+        <id>569ce2be76ec696a142e3b935e140db8</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%AB%8B%E7%9C%81%E4%B8%8A%E5%8D%83%E5%85%83%EF%BC%8C%E6%9C%80%E6%87%82%E6%80%A7%E4%BB%B7%E6%AF%94%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B8%A6%E7%88%B6%E6%AF%8D%E2%80%9C%E5%8F%8D%E5%90%91%E8%BF%87%E5%B9%B4%E2%80%9D%EF%BC%9F"/>
+        <updated>2026-02-17T04:08:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Have money, will travel: a16z’s hunt for the next European unicorn]]></title>
         <id>https://techcrunch.com/?p=3093323</id>
@@ -100,16 +187,6 @@ Florence Lo/Reuters
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess]]></title>
-        <id>698dff94b5b458763ed07a8e</id>
-        <link href="https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/"/>
-        <updated>2026-02-16T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Fears over a drug cartel drone over Texas sparked a recent airspace shutdown in El Paso and New Mexico, highlighting just how tricky it can be to deploy anti-drone weapons near cities.]]></summary>
-        <author>
-            <name>Lily Hay Newman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inside the App Where Queer Gooners Run Free]]></title>
         <id>69861874ec8fb7dc213b6568</id>
         <link href="https://www.wired.com/story/inside-the-app-where-queer-gooners-run-free/"/>
@@ -117,6 +194,16 @@ Florence Lo/Reuters
         <summary type="html"><![CDATA[In light of Zoom crackdowns and Skype shutting down, Batemates has emerged as an alternative for “bators” who like masturbating together online.]]></summary>
         <author>
             <name>Jason Parham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess]]></title>
+        <id>698dff94b5b458763ed07a8e</id>
+        <link href="https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/"/>
+        <updated>2026-02-16T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Fears over a drug cartel drone over Texas sparked a recent airspace shutdown in El Paso and New Mexico, highlighting just how tricky it can be to deploy anti-drone weapons near cities.]]></summary>
+        <author>
+            <name>Lily Hay Newman</name>
         </author>
     </entry>
     <entry>
@@ -279,24 +366,6 @@ Florence Lo/Reuters
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“性张力天花板”回归，这部顶配英剧再次火爆全球？]]></title>
-        <id>cc9b71485b21790b20391229ae4c37fa</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E6%80%A7%E5%BC%A0%E5%8A%9B%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D%E5%9B%9E%E5%BD%92%EF%BC%8C%E8%BF%99%E9%83%A8%E9%A1%B6%E9%85%8D%E8%8B%B1%E5%89%A7%E5%86%8D%E6%AC%A1%E7%81%AB%E7%88%86%E5%85%A8%E7%90%83%EF%BC%9F"/>
-        <updated>2026-02-15T13:25:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别让孩子掉进“伪阅读”陷阱]]></title>
-        <id>4d969b5a2d100b34231352b2d5fa35ec</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%88%AB%E8%AE%A9%E5%AD%A9%E5%AD%90%E6%8E%89%E8%BF%9B%E2%80%9C%E4%BC%AA%E9%98%85%E8%AF%BB%E2%80%9D%E9%99%B7%E9%98%B1"/>
-        <updated>2026-02-15T13:25:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Nothing That Has the Potential to Be Anything]]></title>
         <id>698ccfccc358ab791a3396b9</id>
         <link href="https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/"/>
@@ -357,25 +426,6 @@ Florence Lo/Reuters
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“3天上坟25座”：不塌房、不发疯的真顶流，被年轻人追到了？]]></title>
-        <id>90687a20b76220642f83d3677718647e</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C3%E5%A4%A9%E4%B8%8A%E5%9D%9F25%E5%BA%A7%E2%80%9D%EF%BC%9A%E4%B8%8D%E5%A1%8C%E6%88%BF%E3%80%81%E4%B8%8D%E5%8F%91%E7%96%AF%E7%9A%84%E7%9C%9F%E9%A1%B6%E6%B5%81%EF%BC%8C%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BF%BD%E5%88%B0%E4%BA%86%EF%BC%9F"/>
-        <updated>2026-02-15T09:30:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The great computer science exodus (and where students are going instead)]]></title>
-        <id>https://techcrunch.com/?p=3093211</id>
-        <link href="https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/"/>
-        <updated>2026-02-15T08:40:27.000Z</updated>
-        <summary type="html"><![CDATA[Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses.]]></summary>
-        <author>
-            <name>Connie Loizos</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[春节玩什么 | 过年聚会担心冷场？不妨试试这 10 款多人游戏]]></title>
         <id>https://sspai.com/post/106374</id>
         <link href="https://sspai.com/post/106374"/>
@@ -383,16 +433,6 @@ Florence Lo/Reuters
         <summary type="html"><![CDATA[难得在假期中放松一下身心，不妨在闲暇时刻叫上三两好友，一起玩个游戏热闹热闹。查看全文]]></summary>
         <author>
             <name>大大大K</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts]]></title>
-        <id>https://techcrunch.com/?p=3093205</id>
-        <link href="https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/"/>
-        <updated>2026-02-14T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of accounts that criticize ICE.]]></summary>
-        <author>
-            <name>Anthony Ha</name>
         </author>
     </entry>
     <entry>
@@ -883,46 +923,6 @@ Japan's Fisheries Agency, via Agence France-Presse — Getty Images
 日本水产厅发布的一张照片显示，周四在长崎近海，一艘日本巡逻船（左）与中国渔船并行航行。]]></summary>
         <author>
             <name>赫海威</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk’s X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders]]></title>
-        <id>698a2baa492be1db63068092</id>
-        <link href="https://www.wired.com/story/elon-musk-x-premium-accounts-iran/"/>
-        <updated>2026-02-12T14:27:09.000Z</updated>
-        <summary type="html"><![CDATA[While publicly supporting protesters in Iran, Elon Musk’s X appears to have been selling premium accounts to regime officials. Check marks were removed from certain accounts after a WIRED inquiry.]]></summary>
-        <author>
-            <name>David Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose the Right TV in 2026 (and a Few We Like)]]></title>
-        <id>6232657a5dfeb08245ae090a</id>
-        <link href="https://www.wired.com/story/how-to-buy-the-right-tv/"/>
-        <updated>2026-02-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How many ports do you need? What does 4K UHD even mean? What's RGB LED? Here’s everything you need to know.]]></summary>
-        <author>
-            <name>Parker Hall, Ryan Waniata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s What It’s Like to Use TurboTax’s Mobile App to File Taxes on Your Own (2026)]]></title>
-        <id>698b5ff87bb51862dad65906</id>
-        <link href="https://www.wired.com/story/whats-new-this-year-at-turbotax/"/>
-        <updated>2026-02-12T13:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Sigh. Another tax season is upon us. I filed my taxes with TurboTax, exploring its newest features and free or low-cost filing options.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Kindle Accessories (2026): Cases, Page Turners, Stickers]]></title>
-        <id>6983be01089bf4cf8a1c0801</id>
-        <link href="https://www.wired.com/story/best-kindle-accessories/"/>
-        <updated>2026-02-12T13:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page turners and even charms, this is the guide for you.]]></summary>
-        <author>
-            <name>Nena Farrell</name>
         </author>
     </entry>
     <entry>
