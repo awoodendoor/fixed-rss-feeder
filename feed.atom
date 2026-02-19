@@ -1,28 +1,326 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-18T13:00:07.587Z</id>
+    <id>urn:2026-02-19T01:59:28.597Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-18T13:00:07.587Z</updated>
+    <updated>2026-02-19T01:59:28.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Indian AI lab Sarvam’s new models are a major bet on the viability of open-source AI]]></title>
-        <id>https://techcrunch.com/?p=3093889</id>
-        <link href="https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/"/>
-        <updated>2026-02-18T12:55:20.000Z</updated>
-        <summary type="html"><![CDATA[The new lineup includes 30-billion and 105-billion parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.]]></summary>
+        <title type="html"><![CDATA[Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B]]></title>
+        <id>https://techcrunch.com/?p=3094210</id>
+        <link href="https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/"/>
+        <updated>2026-02-18T22:55:41.000Z</updated>
+        <summary type="html"><![CDATA[The deal comes nearly five years after Etsy purchased Depop for $1.62 billion, at a time when secondhand clothing apps were gaining traction during the pandemic.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking conference Def Con bans three people linked to Epstein]]></title>
+        <id>https://techcrunch.com/?p=3094187</id>
+        <link href="https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/"/>
+        <updated>2026-02-18T22:04:13.000Z</updated>
+        <summary type="html"><![CDATA[The Def Con hacking conference banned hackers Pablos Holman and Vincenzo Iozzo, as well as former MIT Media Lab director Joichi Ito, from attending the annual conference after their reported connections with Jeffrey Epstein.]]></summary>
+        <author>
+            <name>Lorenzo Franceschi-Bicchierai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bose QuietComfort Ultra Gen 2 Headphones Are at Their Lowest Price in Months]]></title>
+        <id>6995fadfb9f2ba02861d3096</id>
+        <link href="https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-0218/"/>
+        <updated>2026-02-18T21:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Bose's fabulous QuietComfort Ultra Gen 2 noise-canceling headphones are the best travel headphones and are $50 off.]]></summary>
+        <author>
+            <name>Ryan Waniata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is your startup’s check engine light on? Google Cloud’s VP explains what to do]]></title>
+        <id>https://techcrunch.com/?post_type=tc_video&amp;p=3094123</id>
+        <link href="https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/"/>
+        <updated>2026-02-18T21:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond […]]]></summary>
+        <author>
+            <name>Theresa Loconsolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app]]></title>
+        <id>https://techcrunch.com/?p=3094069</id>
+        <link href="https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/"/>
+        <updated>2026-02-18T20:57:48.000Z</updated>
+        <summary type="html"><![CDATA[Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Defense Company Made AI Agents That Blow Things Up]]></title>
+        <id>698607fb8d12f90caa650ff8</id>
+        <link href="https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/"/>
+        <updated>2026-02-18T19:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.]]></summary>
+        <author>
+            <name>Will Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save on Gaming Earbuds Perfect for Playing on Switch or ROG Xbox Ally]]></title>
+        <id>6995fa21caaeddcb590eee02</id>
+        <link href="https://www.wired.com/story/arctis-gamebuds-deal-226/"/>
+        <updated>2026-02-18T19:46:05.000Z</updated>
+        <summary type="html"><![CDATA[While it may sound unorthodox, these earbuds make a great companion for your Switch 2 or other portable console.]]></summary>
+        <author>
+            <name>Brad Bourque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia’s Deal With Meta Signals a New Era in Computing Power]]></title>
+        <id>6995c8515366fbe3869b6b5b</id>
+        <link href="https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/"/>
+        <updated>2026-02-18T19:24:55.000Z</updated>
+        <summary type="html"><![CDATA[The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.]]></summary>
+        <author>
+            <name>Lauren Goode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeatGeek and Spotify team up to offer concert ticket sales inside the music platform]]></title>
+        <id>https://techcrunch.com/?p=3094088</id>
+        <link href="https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/"/>
+        <updated>2026-02-18T19:07:40.000Z</updated>
+        <summary type="html"><![CDATA[This is a strategic win for SeatGeek. With direct placement in the Spotify app, SeatGeek is positioned to reach millions of active music fans as they discover upcoming events, increasing the chances of converting listeners into ticket buyers.]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon halts Blue Jay robotics project after less than 6 months]]></title>
+        <id>https://techcrunch.com/?p=3094024</id>
+        <link href="https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/"/>
+        <updated>2026-02-18T18:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.]]></summary>
+        <author>
+            <name>Rebecca Szkutak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastodon, a decentralized alternative to X, plans to target creators with new features]]></title>
+        <id>https://techcrunch.com/?p=3094013</id>
+        <link href="https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/"/>
+        <updated>2026-02-18T18:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Mastodon is looking to grow its open source, decentralized social network with new features aimed at creators.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data breach at fintech giant Figure affects close to a million customers]]></title>
+        <id>https://techcrunch.com/?p=3094039</id>
+        <link href="https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/"/>
+        <updated>2026-02-18T18:14:07.000Z</updated>
+        <summary type="html"><![CDATA[The Figure data breach allowed hackers to steal customer names, dates of birth, physical addresses, phone numbers, and email addresses.]]></summary>
+        <author>
+            <name>Lorenzo Franceschi-Bicchierai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows]]></title>
+        <id>https://techcrunch.com/?p=3093950</id>
+        <link href="https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/"/>
+        <updated>2026-02-18T18:07:16.000Z</updated>
+        <summary type="html"><![CDATA[The partnership will see the two companies exploring how World Labs’ models can work alongside Autodesk’s tools, and vice versa, starting with a focus on entertainment use cases.]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google debuts $499 Pixel 10a]]></title>
+        <id>https://techcrunch.com/?p=3094017</id>
+        <link href="https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/"/>
+        <updated>2026-02-18T17:41:46.000Z</updated>
+        <summary type="html"><![CDATA[The smartphone is available for preorder now with shipments starting March 5. It comes in Lavender, Berry, Fog, and Obsidian.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft]]></title>
+        <id>6994d8889127c37de4a87e0f</id>
+        <link href="https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/"/>
+        <updated>2026-02-18T17:22:10.000Z</updated>
+        <summary type="html"><![CDATA[A database left accessible to anyone online contained billions of records, including sensitive personal data that criminals appear to have not yet exploited.]]></summary>
+        <author>
+            <name>Lily Hay Newman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audible’s new ‘Read & Listen’ feature syncs your Kindle e-books with audiobooks]]></title>
+        <id>https://techcrunch.com/?p=3093994</id>
+        <link href="https://techcrunch.com/2026/02/18/audibles-new-read-listen-feature-syncs-your-kindle-ebooks-with-audiobooks/"/>
+        <updated>2026-02-18T16:20:09.000Z</updated>
+        <summary type="html"><![CDATA[The feature will require customers to buy both versions of the title, but at a discounted price.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X continues to bet on vertical video with its latest update]]></title>
+        <id>https://techcrunch.com/?p=3093995</id>
+        <link href="https://techcrunch.com/2026/02/18/x-continues-to-bet-on-vertical-video-with-its-latest-update/"/>
+        <updated>2026-02-18T16:15:12.000Z</updated>
+        <summary type="html"><![CDATA[X's new immersive video player is designed to offer a more mobile-friendly experience, optimized especially for portrait-oriented videos.]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ring and Kidde’s Newest Smoke Detector Is Here, and It’s Battery Powered (2026)]]></title>
+        <id>698bc0f0d46b029c89115c39</id>
+        <link href="https://www.wired.com/story/kidde-ring-new-smoke-alarm-2026/"/>
+        <updated>2026-02-18T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The Alexa-enabled smoke detector is Kidde’s second model in collaboration with Ring—no wires required.]]></summary>
+        <author>
+            <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapchat+ tops 25M subscribers, driving company’s direct revenue ARR to $1B]]></title>
+        <id>https://techcrunch.com/?p=3093638</id>
+        <link href="https://techcrunch.com/2026/02/18/snapchat-tops-25m-subscribers-driving-companys-direct-revenue-arr-to-1b/"/>
+        <updated>2026-02-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The revenue milestone comes as Snap has added additional paid offerings outside of its core Snapchat+ subscription over the past year to diversify its revenue streams.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google adds music-generation capabilities to the Gemini app]]></title>
+        <id>https://techcrunch.com/?p=3093872</id>
+        <link href="https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/"/>
+        <updated>2026-02-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Users will be able to use text, images, and videos as a reference to generate music.]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burnt Hair and Soft Power: A Night Out With Evie Magazine]]></title>
+        <id>699482f60aed07164d1b2d92</id>
+        <link href="https://www.wired.com/story/burnt-hair-and-soft-power-a-night-out-with-evie-magazine/"/>
+        <updated>2026-02-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Evie is a longtime favorite of the far-right. At its very first live event, the strength of the publication’s politics was in the pretense that it doesn’t have any.]]></summary>
+        <author>
+            <name>Leah Feiger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Google Pixel Phones of 2026, Tested and Reviewed]]></title>
+        <id>5f7b6765126693e1dc256c36</id>
+        <link href="https://www.wired.com/story/best-google-pixel-phone/"/>
+        <updated>2026-02-18T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a guide to all the models—plus Pixel case recommendations and smart software tricks to try.]]></summary>
+        <author>
+            <name>Julian Chokkattu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Tech Says Generative AI Will Save the Planet. It Doesn’t Offer Much Proof]]></title>
+        <id>69947316e8ce4dcb7c18d0a3</id>
+        <link href="https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/"/>
+        <updated>2026-02-18T15:17:31.000Z</updated>
+        <summary type="html"><![CDATA[A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.]]></summary>
+        <author>
+            <name>Molly Taft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kana emerges from stealth with $15M to build flexible AI agents for marketers]]></title>
+        <id>https://techcrunch.com/?p=3093896</id>
+        <link href="https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/"/>
+        <updated>2026-02-18T15:08:40.000Z</updated>
+        <summary type="html"><![CDATA[Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.]]></summary>
+        <author>
+            <name>Ram Iyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This former Microsoft PM thinks she can unseat CyberArk in 18 months]]></title>
+        <id>https://techcrunch.com/?p=3093001</id>
+        <link href="https://techcrunch.com/2026/02/18/the-former-microsoft-pm-who-thinks-she-can-unseat-cyberark-in-18-months/"/>
+        <updated>2026-02-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Though crowded, the identity management market seems eager for new solutions, and Venice is finding traction.]]></summary>
+        <author>
+            <name>Connie Loizos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Google Pixel 10a Is Barely Different From the Pixel 9a]]></title>
+        <id>698a12f5c2e8a5cd16364109</id>
+        <link href="https://www.wired.com/story/google-pixel-10a/"/>
+        <updated>2026-02-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With specs nearly identical to last year’s Pixel 9a, the new Pixel 10a doesn’t pack as much of a punch as prior A-series smartphones.]]></summary>
+        <author>
+            <name>Julian Chokkattu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft says Office bug exposed customers’ confidential emails to Copilot AI]]></title>
+        <id>https://techcrunch.com/?p=3093970</id>
+        <link href="https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/"/>
+        <updated>2026-02-18T14:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI pushes into higher education as India seeks to scale AI skills]]></title>
+        <id>https://techcrunch.com/?p=3093899</id>
+        <link href="https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills/"/>
+        <updated>2026-02-18T14:32:42.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI says its India education partnerships aim to reach more than 100,000 students, faculty, and staff over the next year.]]></summary>
         <author>
             <name>Jagmeet Singh</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DG Matrix raises $60M to make data center power smarter]]></title>
-        <id>https://techcrunch.com/?p=3093588</id>
-        <link href="https://techcrunch.com/2026/02/18/dg-matrix-raises-60m-to-make-data-center-power-smarter/"/>
-        <updated>2026-02-18T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The startup is making solid-state transformers capable of intelligently aggregating power from a number of different sources before sending it to data center racks.]]></summary>
+        <title type="html"><![CDATA[Canva gets to $4B in revenue as LLM referral traffic rises]]></title>
+        <id>https://techcrunch.com/?p=3090294</id>
+        <link href="https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/"/>
+        <updated>2026-02-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The creative company's monthly active users increased 20%, growth that was partially propelled by adoption of its AI tools.]]></summary>
         <author>
-            <name>Tim De Chant</name>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India’s Sarvam wants to bring its AI models to feature phones, cars, and smart glasses]]></title>
+        <id>https://techcrunch.com/?p=3093888</id>
+        <link href="https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/"/>
+        <updated>2026-02-18T13:01:04.000Z</updated>
+        <summary type="html"><![CDATA[The company is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[订单暴涨30%，这届年轻人开始流行“澡堂约会”？]]></title>
+        <id>df036b73d2552b6a6629fe0f41e066bf</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%AE%A2%E5%8D%95%E6%9A%B4%E6%B6%A830%25%EF%BC%8C%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E2%80%9C%E6%BE%A1%E5%A0%82%E7%BA%A6%E4%BC%9A%E2%80%9D%EF%BC%9F"/>
+        <updated>2026-02-18T13:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从腰托到零重力座椅，年轻人的腰为什么越用越废]]></title>
+        <id>abe2a23203dee3a841c629622a693623</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%8E%E8%85%B0%E6%89%98%E5%88%B0%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%BA%A7%E6%A4%85%EF%BC%8C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E8%85%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E7%94%A8%E8%B6%8A%E5%BA%9F"/>
+        <updated>2026-02-18T13:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -66,11 +364,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans]]></title>
+        <title type="html"><![CDATA[The Rise of RentAHuman, the Marketplace Where Bots Put People to Work]]></title>
         <id>69865e85c3efe03ee31a6737</id>
         <link href="https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/"/>
         <updated>2026-02-18T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“We would [all] love to have an AI boss who wouldn't yell at you or gaslight you. Claude as a boss is the nicest guy ever.”]]></summary>
+        <summary type="html"><![CDATA[WIRED spoke with the Zoomer founders of a platform where AI agents hire humans to do real-world tasks. Their pitch: "People would love to have a clanker as their boss."]]></summary>
         <author>
             <name>Kyle MacNeill</name>
         </author>
@@ -96,16 +394,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[U.S. court bars OpenAI from using ‘Cameo’]]></title>
-        <id>https://techcrunch.com/?p=3093869</id>
-        <link href="https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/"/>
-        <updated>2026-02-18T06:40:59.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI has renamed its feature in Sora from "Cameo" to "Characters."]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lovehoney Discount Codes and Deals: Up to 70% Off]]></title>
         <id>6979070032baa6e4d2aac945</id>
         <link href="https://www.wired.com/story/lovehoney-discount-code/"/>
@@ -123,16 +411,6 @@
         <summary type="html"><![CDATA[Find the latest Lowe’s promo codes and offers, including up to 40% off select major appliances and $5 off $50 with sign-up, here at WIRED.]]></summary>
         <author>
             <name>Matthew Korfhage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla dodges 30-day suspension in California after removing ‘Autopilot’]]></title>
-        <id>https://techcrunch.com/?p=3093851</id>
-        <link href="https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/"/>
-        <updated>2026-02-18T04:07:15.000Z</updated>
-        <summary type="html"><![CDATA[The decision comes a month after Tesla discontinued Autopilot, its basic driver-assistance system.]]></summary>
-        <author>
-            <name>Kirsten Korosec</name>
         </author>
     </entry>
     <entry>
@@ -173,46 +451,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says]]></title>
-        <id>https://techcrunch.com/?p=3093687</id>
-        <link href="https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/"/>
-        <updated>2026-02-18T00:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Amnesty International says it found evidence that a government customer of Intellexa, a sanctioned surveillance vendor, used its Predator spyware against a prominent journalist in Angola.]]></summary>
-        <author>
-            <name>Lorenzo Franceschi-Bicchierai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jack Altman joins Benchmark as GP]]></title>
-        <id>https://techcrunch.com/?p=3093698</id>
-        <link href="https://techcrunch.com/2026/02/17/jack-altman-joins-benchmark-as-gp/"/>
-        <updated>2026-02-17T23:54:55.000Z</updated>
-        <summary type="html"><![CDATA[Jack Altman and Benchmark announced today that he would be joining the firm as a general partner.]]></summary>
-        <author>
-            <name>Dominic-Madori Davis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ford turns to F1 and bounties to build a $30,000 electric truck]]></title>
-        <id>https://techcrunch.com/?p=3093721</id>
-        <link href="https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/"/>
-        <updated>2026-02-17T23:43:21.000Z</updated>
-        <summary type="html"><![CDATA[A combination of 3D-printed Lego-like parts, Formula 1 thinking, and a bounty program will help the company hit that target. The team, led by Tesla veteran Alan Clarke, is obsessed with efficiency.]]></summary>
-        <author>
-            <name>Kirsten Korosec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use]]></title>
-        <id>https://techcrunch.com/?p=3093564</id>
-        <link href="https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/"/>
-        <updated>2026-02-17T20:45:33.000Z</updated>
-        <summary type="html"><![CDATA[An internal research study at Meta found that parental supervision may not help teens regulate their social media, and teens with trauma are more inclined to overuse social media.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Best Noise-Canceling Headphones for Traveling Are $50 Off]]></title>
         <id>6994a1b9e8ce4dcb7c18d434</id>
         <link href="https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-226/"/>
@@ -220,26 +458,6 @@
         <summary type="html"><![CDATA[With excellent noise canceling, the QuietComfort Ultra 2 would love to join you on your next long-haul flight.]]></summary>
         <author>
             <name>Brad Bourque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple is reportedly cooking up a trio of AI wearables]]></title>
-        <id>https://techcrunch.com/?p=3093595</id>
-        <link href="https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/"/>
-        <updated>2026-02-17T20:14:00.000Z</updated>
-        <summary type="html"><![CDATA[As the AI hardware space heats up, the iPhone maker has multiple smart products in development.]]></summary>
-        <author>
-            <name>Lucas Ropek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thrive raises $10B for new fund, its largest yet]]></title>
-        <id>https://techcrunch.com/?p=3093620</id>
-        <link href="https://techcrunch.com/2026/02/17/thrive-raises-10b-for-new-fund-its-largest-yet/"/>
-        <updated>2026-02-17T20:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Thrive Capital just raised $10 billion for its new fund -- nearly double the size of its last fund.]]></summary>
-        <author>
-            <name>Dominic-Madori Davis</name>
         </author>
     </entry>
     <entry>
@@ -263,106 +481,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Climactic launches hybrid fund to get startups through the ‘valley of death’]]></title>
-        <id>https://techcrunch.com/?p=3093543</id>
-        <link href="https://techcrunch.com/2026/02/17/climactic-launches-hybrid-fund-to-get-startups-through-the-valley-of-death/"/>
-        <updated>2026-02-17T18:57:57.000Z</updated>
-        <summary type="html"><![CDATA[The new project, called Material Scale, will initially focus on climate tech startups in the apparel industry.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic releases Sonnet 4.6]]></title>
-        <id>https://techcrunch.com/?p=3093500</id>
-        <link href="https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/"/>
-        <updated>2026-02-17T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.]]></summary>
-        <author>
-            <name>Russell Brandom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistral AI buys Koyeb in first acquisition to back its cloud ambitions]]></title>
-        <id>https://techcrunch.com/?p=3093487</id>
-        <link href="https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/"/>
-        <updated>2026-02-17T17:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.]]></summary>
-        <author>
-            <name>Anna Heim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX vets raise $50M Series A for data center links]]></title>
-        <id>https://techcrunch.com/?p=3093331</id>
-        <link href="https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/"/>
-        <updated>2026-02-17T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mesh aims to mass-produce optical transceivers for AI data centers.]]></summary>
-        <author>
-            <name>Tim Fernholz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running AI models is turning into a memory game]]></title>
-        <id>https://techcrunch.com/?p=3093429</id>
-        <link href="https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/"/>
-        <updated>2026-02-17T16:44:14.000Z</updated>
-        <summary type="html"><![CDATA[When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.]]></summary>
-        <author>
-            <name>Russell Brandom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Parliament blocks AI on lawmakers’ devices, citing security risks]]></title>
-        <id>https://techcrunch.com/?p=3093475</id>
-        <link href="https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/"/>
-        <updated>2026-02-17T16:30:43.000Z</updated>
-        <summary type="html"><![CDATA[EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.]]></summary>
-        <author>
-            <name>Zack Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more]]></title>
-        <id>https://techcrunch.com/?p=3093452</id>
-        <link href="https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/"/>
-        <updated>2026-02-17T16:10:44.000Z</updated>
-        <summary type="html"><![CDATA[The feature is designed to work inside the website to understand its content and layout, allowing site owners to make changes with natural language commands. The WordPress AI assistant doesn't need precisely tailored prompts, either.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These are the countries moving to ban social media for children]]></title>
-        <id>https://techcrunch.com/?p=3092894</id>
-        <link href="https://techcrunch.com/2026/02/17/social-media-ban-children-countries-list/"/>
-        <updated>2026-02-17T15:59:38.000Z</updated>
-        <summary type="html"><![CDATA[Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.]]></summary>
-        <author>
-            <name>Aisha Malik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Fire TV’s new interface is now rolling out in the US]]></title>
-        <id>https://techcrunch.com/?p=3093446</id>
-        <link href="https://techcrunch.com/2026/02/17/amazon-fire-tvs-new-interface-is-now-rolling-out-in-the-u-s/"/>
-        <updated>2026-02-17T15:58:43.000Z</updated>
-        <summary type="html"><![CDATA[Fire TV's new interface simplifies its layout and navigation and adds Alexa+.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Podcasts is getting an enhanced video experience this spring]]></title>
-        <id>https://techcrunch.com/?p=3093437</id>
-        <link href="https://techcrunch.com/2026/02/17/apple-podcasts-is-getting-an-enhanced-video-experience-this-spring/"/>
-        <updated>2026-02-17T15:06:48.000Z</updated>
-        <summary type="html"><![CDATA[By bringing an enhanced video podcast viewing experience to its app, Apple is aiming to keep users from turning to rival platforms to watch their favorite shows.]]></summary>
-        <author>
-            <name>Aisha Malik</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inside the Homeland Security Forum Where ICE Agents Talk Shit About Other Agents]]></title>
         <id>6984d139e245891a230ce6d3</id>
         <link href="https://www.wired.com/story/hsi-forum-ice-agents/"/>
@@ -376,15 +494,6 @@
         <title type="html"><![CDATA[不被看好的烧脑爽片，成了春节档最惊喜黑马？]]></title>
         <id>a87f5749a57044c467255fce58619e8a</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%8D%E8%A2%AB%E7%9C%8B%E5%A5%BD%E7%9A%84%E7%83%A7%E8%84%91%E7%88%BD%E7%89%87%EF%BC%8C%E6%88%90%E4%BA%86%E6%98%A5%E8%8A%82%E6%A1%A3%E6%9C%80%E6%83%8A%E5%96%9C%E9%BB%91%E9%A9%AC%EF%BC%9F"/>
-        <updated>2026-02-17T13:02:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[后劲太大！春晚的“真人版飞天舞”，怎么这么好看？]]></title>
-        <id>7a5e9c88299d8a1b92a6eed2b5a60cc2</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%A7%EF%BC%81%E6%98%A5%E6%99%9A%E7%9A%84%E2%80%9C%E7%9C%9F%E4%BA%BA%E7%89%88%E9%A3%9E%E5%A4%A9%E8%88%9E%E2%80%9D%EF%BC%8C%E6%80%8E%E4%B9%88%E8%BF%99%E4%B9%88%E5%A5%BD%E7%9C%8B%EF%BC%9F"/>
         <updated>2026-02-17T13:02:00.000Z</updated>
         <author>
             <name>三联生活周刊</name>
@@ -418,15 +527,6 @@
         <summary type="html"><![CDATA[The residents of Potters Bar are working to protect the “greenbelt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.]]></summary>
         <author>
             <name>Joel Khalili</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年春晚，再次被老祖宗的审美震撼！]]></title>
-        <id>8dfd50d093cabe93ec1ffb979d6403e8</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%8A%E5%B9%B4%E6%98%A5%E6%99%9A%EF%BC%8C%E5%86%8D%E6%AC%A1%E8%A2%AB%E8%80%81%E7%A5%96%E5%AE%97%E7%9A%84%E5%AE%A1%E7%BE%8E%E9%9C%87%E6%92%BC%EF%BC%81"/>
-        <updated>2026-02-17T04:08:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -715,106 +815,6 @@ Florence Lo/Reuters
         <summary type="html"><![CDATA[As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.]]></summary>
         <author>
             <name>Zeyi Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social Security Workers Are Being Told to Hand Over Appointment Details to ICE]]></title>
-        <id>698f6b0d96ff6361aa06e900</id>
-        <link href="https://www.wired.com/story/social-security-administration-appointment-details-ice/"/>
-        <updated>2026-02-13T20:10:58.000Z</updated>
-        <summary type="html"><![CDATA[The recent request goes against decades of precedent and puts noncitizens at further risk of immigration enforcement actions.]]></summary>
-        <author>
-            <name>Zoë Schiffer, Vittoria Elliott, Leah Feiger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits]]></title>
-        <id>698f53de00b7d02591958c90</id>
-        <link href="https://www.wired.com/story/senators-urge-top-regulators-to-stay-out-of-prediction-market-lawsuits/"/>
-        <updated>2026-02-13T19:31:24.000Z</updated>
-        <summary type="html"><![CDATA[As prediction market platforms like Polymarket and Kalshi battle regulators in court, Senate Democrats are urging the CFTC to avoid weighing in, escalating a broader fight over the burgeoning industry.]]></summary>
-        <author>
-            <name>Kate Knibbs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join Our Livestream: The Hype, Reality, and Future of EVs]]></title>
-        <id>698c933d1d14eb5341d0b885</id>
-        <link href="https://www.wired.com/story/livestream-the-hype-reality-and-future-of-electric-vehicles/"/>
-        <updated>2026-02-13T19:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Pose your questions to a panel of WIRED experts about the future of the electric vehicle industry.]]></summary>
-        <author>
-            <name>Aarian Marshall, Jeremy White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Best Presidents' Day Deals on Gear Our Reviewers Actually Used (2026)]]></title>
-        <id>698e15207a06ae62e41925d5</id>
-        <link href="https://www.wired.com/story/presidents-day-deals-2026/"/>
-        <updated>2026-02-13T18:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Shop these limited-time sales to save on some of our favorite gadgets from Branch, Eufy, and more.]]></summary>
-        <author>
-            <name>Louryn Strampe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Record Low Snow in the West Will Mean Less Water, More Fire, and Political Chaos]]></title>
-        <id>698a5536802f6c30c2cff0f3</id>
-        <link href="https://www.wired.com/story/record-low-snow-in-the-west-will-mean-less-water-more-fire-and-political-chaos/"/>
-        <updated>2026-02-13T18:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Snowpack levels across a wide swath of western US states are among the lowest seen in decades, even as regulators struggle to negotiate water rights in the region.]]></summary>
-        <author>
-            <name>Molly Taft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ‘Heated Rivalry’ Fandom Is Tearing Itself Apart]]></title>
-        <id>6973d007d33efb9dc3070d5e</id>
-        <link href="https://www.wired.com/story/the-heated-rivalry-fandom-is-tearing-itself-apart/"/>
-        <updated>2026-02-13T18:21:21.000Z</updated>
-        <summary type="html"><![CDATA[The breakout hockey romance has sparked legions of enthralled fans, along with obsessive, parasocial behavior that’s starting to get called out.]]></summary>
-        <author>
-            <name>Brittany Spanos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Open Earbuds Are Just Over $20]]></title>
-        <id>698f5564b5692a4a1f60368f</id>
-        <link href="https://www.wired.com/story/acefast-acefit-air-deal-226/"/>
-        <updated>2026-02-13T18:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Don’t be fooled by a slowly dropping price tag, the Acefit are surprisingly capable.]]></summary>
-        <author>
-            <name>Brad Bourque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zillow Has Gone Wild—for AI]]></title>
-        <id>698e37e07d8225e0f70abd15</id>
-        <link href="https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/"/>
-        <updated>2026-02-13T16:14:25.000Z</updated>
-        <summary type="html"><![CDATA[As the housing market stalls, Zillow’s CEO sees AI as “an ingredient rather than a threat” that can both help the company protect its turf and reinvent how people search for homes.]]></summary>
-        <author>
-            <name>Steven Levy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Waterproof Sneakers Worth It? (2026)]]></title>
-        <id>698cc1aba64f491baf56799c</id>
-        <link href="https://www.wired.com/story/waterproof-running-shoes-worth-it/"/>
-        <updated>2026-02-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The idea of having warm, dry feet on your wet, snowy run is appealing. But you might not like the trade-offs.]]></summary>
-        <author>
-            <name>Kieran Alger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Apple 3-in-1 Wireless Travel Chargers (2026), Tested and Reviewed]]></title>
-        <id>697a2b9e003c831f236edc26</id>
-        <link href="https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/"/>
-        <updated>2026-02-13T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Keep your trio of Apple gadgets fully charged wherever you are with these compact folding travel chargers.]]></summary>
-        <author>
-            <name>Simon Hill</name>
         </author>
     </entry>
     <entry>
