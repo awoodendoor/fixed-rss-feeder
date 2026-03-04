@@ -1,18 +1,307 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-03T12:53:27.426Z</id>
+    <id>urn:2026-03-04T01:52:41.414Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T12:53:27.426Z</updated>
+    <updated>2026-03-04T01:52:41.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The candidate that Silicon Valley built is now the one they want to tear down]]></title>
-        <id>https://techcrunch.com/?p=3098759</id>
-        <link href="https://techcrunch.com/2026/03/03/the-candidate-that-silicon-valley-built-is-now-the-one-they-want-to-tear-down/"/>
-        <updated>2026-03-03T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethan Agarwal, a 40-year-old tech entrepreneur with no political background, told TechCrunch on Monday evening that he is running for California's 17th congressional district.]]></summary>
+        <title type="html"><![CDATA[美国袭击伊朗为脆弱的中美关系带来新挑战]]></title>
+        <id>https://cn.nytimes.com/world/20260304/us-iran-china-trump-xi/</id>
+        <link href="https://cn.nytimes.com/world/20260304/us-iran-china-trump-xi/?utm_source=RSS"/>
+        <updated>2026-03-04T01:41:26.000Z</updated>
+        <summary type="html"><![CDATA[美军在抓捕马杜罗不久后又击毙哈梅内伊，这是美国力量的强力展示，直指北京全球战略中重点培育的政府。不过分析认为，北京仍希望维持与美国关系的平稳。
+
+                    
+Pool photo by Jessica Lee
+                    
+中国国家主席习近平（右）与外交部长王毅上月在北京会面。]]></summary>
         <author>
-            <name>Connie Loizos</name>
+            <name>DAVID PIERSON</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中东局势冲击亚洲各国经济，中国能源安全面临考验]]></title>
+        <id>https://cn.nytimes.com/business/20260303/us-iran-china-japan-energy/</id>
+        <link href="https://cn.nytimes.com/business/20260303/us-iran-china-japan-energy/?utm_source=RSS"/>
+        <updated>2026-03-04T01:00:29.000Z</updated>
+        <summary type="html"><![CDATA[中东局势引发的石油价格波动和不确定性引发亚洲各国担忧。中东石油对中国整体能源安全至关重要。如果冲突持续，可能会对中国乃至地区经济造成严重冲击。
+
+                    
+Fadel Senna/Agence France-Presse — Getty Images
+                    
+一艘油轮通过霍尔木兹海峡，摄于上周。途经伊朗南部边境这条狭窄水道的航运船只已大幅减少。]]></summary>
+        <author>
+            <name>艾莎,RIVER AKIRA DAVIS,MEAGHAN TOBIN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI startups are selling the same equity at two different prices]]></title>
+        <id>https://techcrunch.com/?p=3099113</id>
+        <link href="https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/"/>
+        <updated>2026-03-04T00:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Some AI founders are using a novel valuation mechanism to manufacture unicorn status.]]></summary>
+        <author>
+            <name>Marina Temkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 发布 M5 系列芯片及 Studio Display、MacBook 系列新品]]></title>
+        <id>https://sspai.com/post/106811</id>
+        <link href="https://sspai.com/post/106811"/>
+        <updated>2026-03-03T23:57:57.000Z</updated>
+        <summary type="html"><![CDATA[Unihertz 发布全键盘新机 Titan 2 Elite 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A suite of government hacking tools targeting iPhones is now being used by cybercriminals]]></title>
+        <id>https://techcrunch.com/?p=3099061</id>
+        <link href="https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/"/>
+        <updated>2026-03-03T23:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Security researchers say exploits used by governments to hack into iPhones have been found to be used by cybercriminals. They warned of an emerging market for "secondhand" exploits.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alibaba’s Qwen tech lead steps down after major AI push]]></title>
+        <id>https://techcrunch.com/?p=3099065</id>
+        <link href="https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/"/>
+        <updated>2026-03-03T23:16:36.000Z</updated>
+        <summary type="html"><![CDATA[Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.]]></summary>
+        <author>
+            <name>Jagmeet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just three companies dominated the $189B in VC investments last month]]></title>
+        <id>https://techcrunch.com/?p=3098927</id>
+        <link href="https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/"/>
+        <updated>2026-03-03T22:38:58.000Z</updated>
+        <summary type="html"><![CDATA[Crunchbase data shows a record $189 billion of global venture capital flowed to startups last month, with AI startups nabbing 90% of the capital.]]></summary>
+        <author>
+            <name>Dominic-Madori Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok down for some in US, thanks to second Oracle outage since sale]]></title>
+        <id>https://techcrunch.com/?p=3099056</id>
+        <link href="https://techcrunch.com/2026/03/03/tiktok-down-for-some-in-u-s-thanks-to-second-oracle-outage-since-sale/"/>
+        <updated>2026-03-03T22:33:57.000Z</updated>
+        <summary type="html"><![CDATA[TikTok experienced a similar outage just days after ByteDance divested the app's U.S. operations.]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI companies are spending millions to thwart this former tech exec’s congressional bid]]></title>
+        <id>https://techcrunch.com/?p=3098987</id>
+        <link href="https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/"/>
+        <updated>2026-03-03T21:44:09.000Z</updated>
+        <summary type="html"><![CDATA[A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, a former tech executive himself, is one of them.]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s Why Trump Posted About Iran ‘Stealing’ the 2020 Election Hours After the US Attacked]]></title>
+        <id>69a5ba8fd284beff2b7b3814</id>
+        <link href="https://www.wired.com/story/heres-why-trump-posted-about-iran-stealing-the-2020-election-hours-after-the-us-attacked/"/>
+        <updated>2026-03-03T21:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Donald Trump’s post on Truth Social about Iran echoed a conspiracy theory that has been circulating online for years.]]></summary>
+        <author>
+            <name>David Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down]]></title>
+        <id>https://techcrunch.com/?p=3099008</id>
+        <link href="https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/"/>
+        <updated>2026-03-03T20:20:56.000Z</updated>
+        <summary type="html"><![CDATA[The company says the new model will reduce the "cringe" that's been annoying its users for months.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anduril aims at $60 billion valuation in new funding round]]></title>
+        <id>https://techcrunch.com/?p=3098986</id>
+        <link href="https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/"/>
+        <updated>2026-03-03T20:06:45.000Z</updated>
+        <summary type="html"><![CDATA[The funding round would come less than a year after Anduril's Series G, which closed in June with $2.5 billion against a $30 billion valuation.]]></summary>
+        <author>
+            <name>Russell Brandom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code rolls out a voice mode capability]]></title>
+        <id>https://techcrunch.com/?p=3099003</id>
+        <link href="https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/"/>
+        <updated>2026-03-03T20:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals]]></title>
+        <id>69a5e754fc068645e006095c</id>
+        <link href="https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/"/>
+        <updated>2026-03-03T19:01:35.000Z</updated>
+        <summary type="html"><![CDATA[A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of phones or more. Clues suggest it was originally built for the US government.]]></summary>
+        <author>
+            <name>Andy Greenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android users can now share tracker tag info with airlines to help locate lost luggage]]></title>
+        <id>https://techcrunch.com/?p=3098891</id>
+        <link href="https://techcrunch.com/2026/03/03/android-users-can-now-share-tracker-tag-info-with-airlines-to-help-locate-lost-luggage/"/>
+        <updated>2026-03-03T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 10 global airlines now accept Find Hub locations as part of their baggage recovery process.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Favorite Upgraded Gaming Headset Is $20 Off]]></title>
+        <id>69a71c7426e41aedb6115a01</id>
+        <link href="https://www.wired.com/story/razer-blackshark-v3-pro-deal-226/"/>
+        <updated>2026-03-03T18:36:27.000Z</updated>
+        <summary type="html"><![CDATA[The Razer BlackShark V3 Pro has excellent noise-canceling and spatial audio for focused gamers.]]></summary>
+        <author>
+            <name>Brad Bourque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’]]></title>
+        <id>https://techcrunch.com/?p=3098923</id>
+        <link href="https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/"/>
+        <updated>2026-03-03T18:27:47.000Z</updated>
+        <summary type="html"><![CDATA[Creators who break the rules will get a three-month suspension, and if they continue to violate the policy, they'll be permanently banned.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new MacBook Pro laptops are as much as $400 more expensive than their predecessors. Thank the RAM shortage.]]></title>
+        <id>https://techcrunch.com/?p=3098885</id>
+        <link href="https://techcrunch.com/2026/03/03/apple-new-macbook-pro-laptop-price-more-expensive-than-previous-models-ram-memory-shortage/"/>
+        <updated>2026-03-03T17:39:35.000Z</updated>
+        <summary type="html"><![CDATA[With the demands for more computers and data centers to power AI, the market is experiencing a shortage of RAM, causing memory prices to surge.]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacked traffic cams and hijacked TVs: How cyber operations supported the war against Iran]]></title>
+        <id>https://techcrunch.com/?p=3098854</id>
+        <link href="https://techcrunch.com/2026/03/03/hacked-traffic-cams-and-hijacked-tvs-how-cyber-operations-supported-the-war-against-iran/"/>
+        <updated>2026-03-03T17:37:59.000Z</updated>
+        <summary type="html"><![CDATA[After U.S. and Israeli forces started bombing Iran, reports say cyber operations have disrupted communications, supported surveillance activities, and have been used in psychological operations.]]></summary>
+        <author>
+            <name>Lorenzo Franceschi-Bicchierai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth]]></title>
+        <id>https://techcrunch.com/?p=3098890</id>
+        <link href="https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/"/>
+        <updated>2026-03-03T17:27:37.000Z</updated>
+        <summary type="html"><![CDATA[The news comes as Pinterest has faced serious headwinds. Shares tumbled over the past year, with disappointing earnings, layoffs affecting 15% of its workforce, a declining ad business, and increased rivalry from AI chatbots.]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week]]></title>
+        <id>https://techcrunch.com/?p=3098851</id>
+        <link href="https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/"/>
+        <updated>2026-03-03T17:22:42.000Z</updated>
+        <summary type="html"><![CDATA[This would mark the first time Apple competes with cheaper hardware like the Chromebook.]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amid new competition, Chrome speeds up its release schedule]]></title>
+        <id>https://techcrunch.com/?p=3098853</id>
+        <link href="https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/"/>
+        <updated>2026-03-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Chrome will begin shipping new releases every two weeks in September, instead of monthly.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audible launches a cheaper ‘Standard’ subscription plan, challenging Spotify]]></title>
+        <id>https://techcrunch.com/?p=3098841</id>
+        <link href="https://techcrunch.com/2026/03/03/audible-launches-a-cheaper-standard-subscription-plan-challenging-spotify/"/>
+        <updated>2026-03-03T16:40:19.000Z</updated>
+        <summary type="html"><![CDATA[Under the new Standard plan, subscribers will lose access to the audiobooks they've consumed when they unsubscribe. The Premium plan lets users keep the audiobooks they’ve listened to even if they unsubscribe.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X begins testing standalone X Chat app on iOS]]></title>
+        <id>https://techcrunch.com/?p=3098816</id>
+        <link href="https://techcrunch.com/2026/03/03/x-begins-testing-standalone-x-chat-app-on-ios/"/>
+        <updated>2026-03-03T15:50:16.000Z</updated>
+        <summary type="html"><![CDATA[The new app promises a way to send and receive messages without being distracted by your timeline.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple unveils new MacBook Air and MacBook Pro with M5]]></title>
+        <id>https://techcrunch.com/?p=3098793</id>
+        <link href="https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5/"/>
+        <updated>2026-03-03T15:41:36.000Z</updated>
+        <summary type="html"><![CDATA[These updated M5 chips were specifically designed to make the MacBook Air and MacBook Pro laptops better at handling intensive AI tasks.]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s new Studio Displays come with Thunderbolt 5]]></title>
+        <id>https://techcrunch.com/?p=3098791</id>
+        <link href="https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/"/>
+        <updated>2026-03-03T14:49:03.000Z</updated>
+        <summary type="html"><![CDATA[The new displays come with better cameras, new sound systems, and Thunderbolt 5 ports.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s New MacBook Air and MacBook Pro Have New Chips, More Storage, and Higher Prices]]></title>
+        <id>697130b1496fb61c2ef529d6</id>
+        <link href="https://www.wired.com/story/apple-macbook-macbook-air-m5-macbook-pro-m5-pro-m5-max-2026/"/>
+        <updated>2026-03-03T14:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Apple also announced two new pricey Studio Display computer monitors. If you're waiting on that rumored entry-level MacBook, the company seems to be saving it for its March 4 media event.]]></summary>
+        <author>
+            <name>Luke Larsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做自己就好]]></title>
+        <id>211a147f3651fab9efd146466dbb045b</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%81%9A%E8%87%AA%E5%B7%B1%E5%B0%B1%E5%A5%BD"/>
+        <updated>2026-03-03T14:13:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shark UV Reveal Review (2026): UV Light Mode]]></title>
+        <id>69a0d50a94014b747e89a7d6</id>
+        <link href="https://www.wired.com/review/shark-powerdetect-uv-reveal/"/>
+        <updated>2026-03-03T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[The UV light built into Shark’s newest robot vacuum is on a quest to embarrass me with how many stains it's spotted.]]></summary>
+        <author>
+            <name>Nena Farrell</name>
         </author>
     </entry>
     <entry>
@@ -36,13 +325,22 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Palantir, Microsoft, Amazon, and Google Power Trump’s Immigration Crackdown]]></title>
+        <title type="html"><![CDATA[All the Ways Big Tech Fuels ICE and CBP]]></title>
         <id>697a6f58a3baf4708b9c8d87</id>
         <link href="https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/"/>
         <updated>2026-03-03T11:30:00.000Z</updated>
         <summary type="html"><![CDATA[A WIRED analysis shows that ICE and CBP have collectively spent at least $515 million on products from Microsoft, Amazon, Google, and Palantir in the last few years alone.]]></summary>
         <author>
             <name>Caroline Haskins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生而孤独，却被万千宠爱：这只被全球“云收养”的小猴，拨动了谁的神经？ | 经济学人文化]]></title>
+        <id>a2e89b9b840ee9ff32a1025194119f03</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%94%9F%E8%80%8C%E5%AD%A4%E7%8B%AC%EF%BC%8C%E5%8D%B4%E8%A2%AB%E4%B8%87%E5%8D%83%E5%AE%A0%E7%88%B1%EF%BC%9A%E8%BF%99%E5%8F%AA%E8%A2%AB%E5%85%A8%E7%90%83%E2%80%9C%E4%BA%91%E6%94%B6%E5%85%BB%E2%80%9D%E7%9A%84%E5%B0%8F%E7%8C%B4%EF%BC%8C%E6%8B%A8%E5%8A%A8%E4%BA%86%E8%B0%81%E7%9A%84%E7%A5%9E%E7%BB%8F%EF%BC%9F%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E6%96%87%E5%8C%96"/>
+        <updated>2026-03-03T11:08:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
@@ -151,41 +449,6 @@ Vincent Alban/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cursor has reportedly surpassed $2B in annualized revenue]]></title>
-        <id>https://techcrunch.com/?p=3098742</id>
-        <link href="https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/"/>
-        <updated>2026-03-03T01:53:59.000Z</updated>
-        <summary type="html"><![CDATA[The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.]]></summary>
-        <author>
-            <name>Marina Temkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India’s Pronto formalizes house help as its valuation jumps 8x in under a year]]></title>
-        <id>https://techcrunch.com/?p=3098556</id>
-        <link href="https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/"/>
-        <updated>2026-03-03T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Pronto handles 18,000 daily bookings and plans rapid expansion as it races rivals to digitize India's largely offline home services market.]]></summary>
-        <author>
-            <name>Jagmeet Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中东局势冲击亚洲各国经济，中国能源安全面临考验]]></title>
-        <id>https://cn.nytimes.com/business/20260303/us-iran-china-japan-energy/</id>
-        <link href="https://cn.nytimes.com/business/20260303/us-iran-china-japan-energy/?utm_source=RSS"/>
-        <updated>2026-03-03T01:14:11.000Z</updated>
-        <summary type="html"><![CDATA[中东局势引发的石油价格波动和不确定性引发亚洲各国担忧。中东石油对中国整体能源安全至关重要。如果冲突持续，可能会对中国乃至地区经济造成严重冲击。
-
-                    
-Fadel Senna/Agence France-Presse — Getty Images
-                    
-一艘油轮通过霍尔木兹海峡，摄于上周。途经伊朗南部边境这条狭窄水道的航运船只已大幅减少。]]></summary>
-        <author>
-            <name>艾莎,RIVER AKIRA DAVIS,MEAGHAN TOBIN</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?]]></title>
         <id>69a61081896b60fea8247ba4</id>
         <link href="https://www.wired.com/story/joe-gebbia-mystery-metallic-device/"/>
@@ -206,23 +469,13 @@ Fadel Senna/Agence France-Presse — Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This AI Agent Is Ready to Serve, Mid-Phone Call]]></title>
+        <title type="html"><![CDATA[Summon This AI Agent by Speaking Its Wake Word Mid-Phone Call]]></title>
         <id>69a5fee7f5e4bf87e63fb289</id>
         <link href="https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/"/>
         <updated>2026-03-03T00:25:44.000Z</updated>
         <summary type="html"><![CDATA[Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.]]></summary>
         <author>
             <name>Boone Ashworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT uninstalls surged by 295% after DoD deal]]></title>
-        <id>https://techcrunch.com/?p=3098711</id>
-        <link href="https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/"/>
-        <updated>2026-03-03T00:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
         </author>
     </entry>
     <entry>
@@ -233,56 +486,6 @@ Fadel Senna/Agence France-Presse — Getty Images
         <summary type="html"><![CDATA[少数派的近期动态少数派年度征文来了，古法手搓大战人工智能，你会是哪条赛道的大赢家？参与一下重磅新片《寻源南疆》上线，我们在雪山上拍了一部「公路电影」。看看精彩画面将设计装进耳朵：少数派×飞傲联名CD机 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe wants to turn your AI costs into a profit center]]></title>
-        <id>https://techcrunch.com/?p=3098620</id>
-        <link href="https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/"/>
-        <updated>2026-03-02T23:18:27.000Z</updated>
-        <summary type="html"><![CDATA[Stripe released a preview intended to allow AI companies to easily track, pass through, and make a profit on underlying AI model fees.]]></summary>
-        <author>
-            <name>Julie Bort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay]]></title>
-        <id>https://techcrunch.com/?p=3098631</id>
-        <link href="https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/"/>
-        <updated>2026-03-02T23:01:57.000Z</updated>
-        <summary type="html"><![CDATA[The Japan-based company reportedly aimed for a public valuation of at least ¥1.5 trillion ($10 billion).]]></summary>
-        <author>
-            <name>Marina Temkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No one has a good plan for how AI companies should work with the government]]></title>
-        <id>https://techcrunch.com/?p=3098660</id>
-        <link href="https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/"/>
-        <updated>2026-03-02T22:59:10.000Z</updated>
-        <summary type="html"><![CDATA[As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.]]></summary>
-        <author>
-            <name>Russell Brandom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new app alerts you if someone nearby is wearing smart glasses]]></title>
-        <id>https://techcrunch.com/?p=3098085</id>
-        <link href="https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/"/>
-        <updated>2026-03-02T22:40:00.000Z</updated>
-        <summary type="html"><![CDATA[A hobbyist developer's new app, which can detect nearby smart glasses, comes amid resistance to always-on recording and listening devices that invade people's privacy.]]></summary>
-        <author>
-            <name>Zack Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram tracked growing usage while targeting teens, lawyers argue]]></title>
-        <id>https://techcrunch.com/?p=3098594</id>
-        <link href="https://techcrunch.com/2026/03/02/instagram-tracked-growing-usage-while-targeting-teens-lawyers-argue/"/>
-        <updated>2026-03-02T22:23:48.000Z</updated>
-        <summary type="html"><![CDATA[The company said usage grew from 40 minutes per day in 2023 to 46 minutes in 2026. Other documents referenced teens as being a top priority for the app before asking existing users for birthdays.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
         </author>
     </entry>
     <entry>
@@ -344,16 +547,6 @@ Altaf Qadri/Associated Press
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Users are ditching ChatGPT for Claude — here’s how to make the switch]]></title>
-        <id>https://techcrunch.com/?p=3098443</id>
-        <link href="https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/"/>
-        <updated>2026-03-02T18:42:11.000Z</updated>
-        <summary type="html"><![CDATA[Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Attacks on GPS Spike Amid US and Israeli War on Iran]]></title>
         <id>69a5a29afb8b2b3db6442fa2</id>
         <link href="https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/"/>
@@ -361,16 +554,6 @@ Altaf Qadri/Associated Press
         <summary type="html"><![CDATA[New analysis shows that attacks on satellite navigation systems have impacted some 1,100 ships in the Middle East since the US and Israel attacked Iran on February 28.]]></summary>
         <author>
             <name>Matt Burgess</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paramount+ and HBO Max to merge into one streaming service after WBD deal closes]]></title>
-        <id>https://techcrunch.com/?p=3098525</id>
-        <link href="https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/"/>
-        <updated>2026-03-02T18:34:19.000Z</updated>
-        <summary type="html"><![CDATA[Ellison reassured investors that HBO’s identity and creative vision as a studio would remain unchanged, stating, “Our viewpoint is HBO should stay HBO.”]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
         </author>
     </entry>
     <entry>
@@ -399,36 +582,6 @@ Arash Khamooshi for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk]]></title>
-        <id>https://techcrunch.com/?p=3098455</id>
-        <link href="https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/"/>
-        <updated>2026-03-02T17:18:34.000Z</updated>
-        <summary type="html"><![CDATA[Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a "supply chain risk" and instead to settle the matter quietly.]]></summary>
-        <author>
-            <name>Rebecca Bellan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X adds ‘Paid Partnership’ labels so creators can ditch the hashtags]]></title>
-        <id>https://techcrunch.com/?p=3098425</id>
-        <link href="https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/"/>
-        <updated>2026-03-02T16:25:08.000Z</updated>
-        <summary type="html"><![CDATA[The new labels comply with regulations and allow creators to be more transparent with their followers.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacktivists claim to have hacked Homeland Security to release ICE contract data]]></title>
-        <id>https://techcrunch.com/?p=3098421</id>
-        <link href="https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/"/>
-        <updated>2026-03-02T16:11:56.000Z</updated>
-        <summary type="html"><![CDATA[A hacking group called Department of Peace said they hacked a specific office within Homeland Security to protest ICE’s mass deportation campaign, and the companies aiding it.]]></summary>
-        <author>
-            <name>Lorenzo Franceschi-Bicchierai</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[War in Iran Spiked Oil Prices. Trump Will Decide How High They Go]]></title>
         <id>69a57dc199ba745596a012d0</id>
         <link href="https://www.wired.com/story/war-in-iran-sent-oil-prices-up-trump-will-decide-how-high-they-go/"/>
@@ -439,33 +592,12 @@ Arash Khamooshi for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A married founder duo’s company, 14.ai, is replacing customer support teams at startups]]></title>
-        <id>https://techcrunch.com/?p=3096045</id>
-        <link href="https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/"/>
-        <updated>2026-03-02T15:14:36.000Z</updated>
-        <summary type="html"><![CDATA[14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.]]></summary>
+        <title type="html"><![CDATA[應無所住，而生其心]]></title>
+        <id>a23279853886154d119e86c535d3bae0</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%87%89%E7%84%A1%E6%89%80%E4%BD%8F%EF%BC%8C%E8%80%8C%E7%94%9F%E5%85%B6%E5%BF%83"/>
+        <updated>2026-03-02T15:10:00.000Z</updated>
         <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple speeds up the iPad Air with an M4 upgrade, starting at $599]]></title>
-        <id>https://techcrunch.com/?p=3098385</id>
-        <link href="https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/"/>
-        <updated>2026-03-02T15:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Apple refreshes the iPad Air with the M4 chip and more memory to make it better for AI use cases.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple bakes in AI smarts into its new $599 iPhone 17e]]></title>
-        <id>https://techcrunch.com/?p=3098386</id>
-        <link href="https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/"/>
-        <updated>2026-03-02T14:53:14.000Z</updated>
-        <summary type="html"><![CDATA[The base model comes with 256 GB of storage, which Apple says is twice the entry storage from the previous generation at the same starting price.]]></summary>
-        <author>
-            <name>Aisha Malik</name>
+            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
@@ -479,16 +611,6 @@ Arash Khamooshi for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hackers and internet outages hit Iran amid US air strikes]]></title>
-        <id>https://techcrunch.com/?p=3098364</id>
-        <link href="https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/"/>
-        <updated>2026-03-02T14:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Users of a popular Iranian prayer app were flooded with phone notifications as U.S. air strikes hit Iran's biggest cities, killing the country's leader.]]></summary>
-        <author>
-            <name>Zack Whittaker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apple’s Budget iPhone 17e Gets a MagSafe Upgrade]]></title>
         <id>697705c34f8596680688476b</id>
         <link href="https://www.wired.com/story/apple-iphone-17e/"/>
@@ -496,26 +618,6 @@ Arash Khamooshi for The New York Times
         <summary type="html"><![CDATA[Building on the iPhone 16e from 2025, Apple’s latest iPhone has a few noteworthy upgrades with the same $599 price.]]></summary>
         <author>
             <name>Julian Chokkattu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyFitnessPal has acquired Cal AI, the viral calorie app built by teens]]></title>
-        <id>https://techcrunch.com/?p=3098039</id>
-        <link href="https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens/"/>
-        <updated>2026-03-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After wooing Cal AI for months, MyFitnessPal has successfully acquired its up-and-coming rival, Cal AI, the app built by teens soaring on the apps stores.]]></summary>
-        <author>
-            <name>Julie Bort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parade’s Cami Tellez announces new creator economy marketing platform, $4M in funding]]></title>
-        <id>https://techcrunch.com/?p=3098324</id>
-        <link href="https://techcrunch.com/2026/03/02/parades-cami-tellez-announces-new-creator-economy-marketing-platform-4m-in-funding/"/>
-        <updated>2026-03-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cami Tellez announces launch of new company, $4 million raise.]]></summary>
-        <author>
-            <name>Dominic-Madori Davis</name>
         </author>
     </entry>
     <entry>
@@ -544,6 +646,15 @@ Arash Khamooshi for The New York Times
         <updated>2026-03-02T13:00:00.000Z</updated>
         <author>
             <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普为何在伊朗问题上孤注一掷 | 经济学人社论]]></title>
+        <id>37f9b61b3b88ce5ce4fea05c2e2973b0</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E4%B8%8A%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%A4%BE%E8%AE%BA"/>
+        <updated>2026-03-02T13:00:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
@@ -714,25 +825,6 @@ Anna Rose Layden for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：OpenAI 接替 Anthropic 与五角大楼达成合作]]></title>
-        <id>https://sspai.com/post/106730</id>
-        <link href="https://sspai.com/post/106730"/>
-        <updated>2026-03-01T23:04:42.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI 接替 Anthropic 与五角大楼达成合作
-派拉蒙将收购华纳兄弟，Netflix 出局
-韩国解除对谷歌地图的数据限制
-Ultrahuman 推出 Ring Pro 指环
-英伟达将推出 AI 推理专用芯片
-内存成本提升可能让入门 PC 消失
-不妨一看的简讯
-少数派的近期动态
-你可能错过的好文章
-查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lenovo’s Latest Wacky Concepts Include a Laptop With a Built-in Portable Monitor]]></title>
         <id>69a1af7a1f9585923007b045</id>
         <link href="https://www.wired.com/story/lenovo-mwc-concepts-thinkbook-modular-ai-pc-legion-go-fold/"/>
@@ -808,6 +900,15 @@ Agence France-Presse — Getty Images
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[放下执着见如来]]></title>
+        <id>ec20f5a5a93dc4e16215fc8f0897f62e</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%94%BE%E4%B8%8B%E6%89%A7%E7%9D%80%E8%A7%81%E5%A6%82%E6%9D%A5"/>
+        <updated>2026-03-01T12:39:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Recteq Flagship 1600 Review: An Upgraded Smoker]]></title>
         <id>698f87c7c09d02e727a8e041</id>
         <link href="https://www.wired.com/review/recteq-flagship-1600-review/"/>
@@ -858,15 +959,6 @@ Agence France-Presse — Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[樊登老師新書《主角模式》| 臺北新書分享會]]></title>
-        <id>7aebf20f40521a12c48a1dfef7956984</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%A8%8A%E7%99%BB%E8%80%81%E5%B8%AB%E6%96%B0%E6%9B%B8%E3%80%8A%E4%B8%BB%E8%A7%92%E6%A8%A1%E5%BC%8F%E3%80%8B%7C%20%E8%87%BA%E5%8C%97%E6%96%B0%E6%9B%B8%E5%88%86%E4%BA%AB%E6%9C%83"/>
-        <updated>2026-03-01T09:24:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一日一技｜用频谱分析找出「假无损」音乐]]></title>
         <id>https://sspai.com/post/106454</id>
         <link href="https://sspai.com/post/106454"/>
@@ -874,24 +966,6 @@ Agence France-Presse — Getty Images
         <summary type="html"><![CDATA[你花钱买的高品质音乐，是真的「无损」吗？查看全文]]></summary>
         <author>
             <name>keeping</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早起打卡营（最后一天）]]></title>
-        <id>859d024e0405fcc2dbb1aac041facb18</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%97%A9%E8%B5%B7%E6%89%93%E5%8D%A1%E8%90%A5%EF%BC%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%EF%BC%89"/>
-        <updated>2026-03-01T03:11:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三十年过去了，宝可梦依然火爆全球| 经济学人文化]]></title>
-        <id>16f580967bfc22c1d1648d6d6fa8448f</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E4%B8%89%E5%8D%81%E5%B9%B4%E8%BF%87%E5%8E%BB%E4%BA%86%EF%BC%8C%E5%AE%9D%E5%8F%AF%E6%A2%A6%E4%BE%9D%E7%84%B6%E7%81%AB%E7%88%86%E5%85%A8%E7%90%83%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E6%96%87%E5%8C%96"/>
-        <updated>2026-03-01T03:11:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
@@ -1045,16 +1119,6 @@ Arash Khamooshi for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US and Israel Launch Strikes Against Iran]]></title>
-        <id>6966dab09730717f68405aee</id>
-        <link href="https://www.wired.com/story/us-iran-strike-donald-trump/"/>
-        <updated>2026-02-28T09:42:54.000Z</updated>
-        <summary type="html"><![CDATA[US president Donald Trump said a “major combat operation” against Iran had begun as he called for the country’s government to be overthrown.]]></summary>
-        <author>
-            <name>Matt Burgess, Lily Hay Newman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码]]></title>
         <id>https://sspai.com/post/106469</id>
         <link href="https://sspai.com/post/106469"/>
@@ -1062,77 +1126,6 @@ Arash Khamooshi for The New York Times
         <summary type="html"><![CDATA[那些互动量高的文章，往往不是最精致的，而是最真的。查看全文]]></summary>
         <author>
             <name>彷徨旅人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早起打卡营（0302-0329）]]></title>
-        <id>2ffaf2babc8e519b632c6ef5402a3435</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%97%A9%E8%B5%B7%E6%89%93%E5%8D%A1%E8%90%A5%EF%BC%880302-0329%EF%BC%89"/>
-        <updated>2026-02-28T04:05:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民以食为天：中国人为何这么舍得在吃上花钱 ？| 经济学人财经]]></title>
-        <id>86630d8c51bd729c1ece5a6a351c8f7f</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%B0%91%E4%BB%A5%E9%A3%9F%E4%B8%BA%E5%A4%A9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E8%88%8D%E5%BE%97%E5%9C%A8%E5%90%83%E4%B8%8A%E8%8A%B1%E9%92%B1%20%EF%BC%9F%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E8%B4%A2%E7%BB%8F"/>
-        <updated>2026-02-28T04:05:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’]]></title>
-        <id>69a22ffab6112f3ba234df67</id>
-        <link href="https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/"/>
-        <updated>2026-02-28T03:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.]]></summary>
-        <author>
-            <name>Maxwell Zeff, Will Knight, Lauren Goode, Paresh Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17 Best Wireless Chargers, All Tested and Reviewed (2026)]]></title>
-        <id>5fd1ea6cefa5f68151a599d7</id>
-        <link href="https://www.wired.com/gallery/best-wireless-chargers/"/>
-        <updated>2026-02-27T23:51:20.000Z</updated>
-        <summary type="html"><![CDATA[Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.]]></summary>
-        <author>
-            <name>Simon Hill, Julian Chokkattu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Deals Can Have You Zipping Around on a New E-Scooter This Spring]]></title>
-        <id>69a1ce0651e2b656613d587c</id>
-        <link href="https://www.wired.com/story/electric-scooters-spring-deals-2026/"/>
-        <updated>2026-02-27T21:55:44.000Z</updated>
-        <summary type="html"><![CDATA[With spring just around the corner, now's the smart time to snag an electric scooter.]]></summary>
-        <author>
-            <name>Boutayna Chokrane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Moves to Ban Anthropic From the US Government]]></title>
-        <id>69a093144a77d405a1150272</id>
-        <link href="https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/"/>
-        <updated>2026-02-27T21:36:31.000Z</updated>
-        <summary type="html"><![CDATA[President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.]]></summary>
-        <author>
-            <name>Will Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高市早苗的崛起对中国和世界都将产生深远影响]]></title>
-        <id>https://cn.nytimes.com/opinion/20260227/japan-us-defense-military/</id>
-        <link href="https://cn.nytimes.com/opinion/20260227/japan-us-defense-military/?utm_source=RSS"/>
-        <updated>2026-02-27T04:25:38.000Z</updated>
-        <summary type="html"><![CDATA[夹在咄咄逼人的中国与更难预测的美国之间，日本逐渐意识到，仅靠谨慎已不足以保障自身安全。高市早苗为日本带来的转变将影响深远。
-
-                    
-Pool photo by Kiyoshi Ota]]></summary>
-        <author>
-            <name>JOSHUA WALKER</name>
         </author>
     </entry>
     <entry>
