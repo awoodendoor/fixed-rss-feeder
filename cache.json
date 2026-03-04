@@ -12,12 +12,42 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/106497",
+          "author": "旭彦兮沐",
+          "description": "编者按：本文是少数派2025年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情PK ...查看全文",
+          "link": "https://sspai.com/post/106497",
+          "publishedOn": "2026-03-04T09:30:07.000Z",
+          "wordCount": 371,
+          "title": "年度征文｜至亲离世的 2025，我像是玩了一局成长游戏并做了一份攻略",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106477",
+          "author": "张立行",
+          "description": "面对信息过载，我为用 AI 为自己搭了一套信息工作流，希望也能给你带来一丝启发。查看全文",
+          "link": "https://sspai.com/post/106477",
+          "publishedOn": "2026-03-04T07:00:46.000Z",
+          "wordCount": 1034,
+          "title": "从采集到回顾，我用 AI 搭建了一套个人信息处理系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106660",
+          "author": "小胡小胡0009",
+          "description": "为了解决手动记录的繁琐并保持记录的连贯性，我通过一套自动化方案实现了如下效果：当 Clippings 文件夹中新增剪藏文件时，自动获取文章标题和文章总结，以文章总结的格式自动添加到当天日记的底部。查看全文",
+          "link": "https://sspai.com/post/106660",
+          "publishedOn": "2026-03-04T03:31:46.000Z",
+          "wordCount": 482,
+          "title": "一日一技｜将 Obsidian 剪藏文章自动添加至当天日记",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/106811",
           "author": "少数派编辑部",
           "description": "Unihertz 发布全键盘新机 Titan 2 Elite 等。查看全文",
           "link": "https://sspai.com/post/106811",
           "publishedOn": "2026-03-03T23:57:57.000Z",
-          "wordCount": 862,
+          "wordCount": 872,
           "title": "派早报：Apple 发布 M5 系列芯片及 Studio Display、MacBook 系列新品",
           "imageUrl": null
         },
@@ -57,7 +87,7 @@
           "description": "少数派的近期动态少数派年度征文来了，古法手搓大战人工智能，你会是哪条赛道的大赢家？参与一下重磅新片《寻源南疆》上线，我们在雪山上拍了一部「公路电影」。看看精彩画面将设计装进耳朵：少数派×飞傲联名CD机 ...查看全文",
           "link": "https://sspai.com/post/106766",
           "publishedOn": "2026-03-03T00:00:00.000Z",
-          "wordCount": 964,
+          "wordCount": 967,
           "title": "派早报：Apple 发布 iPhone 17e 与搭载 M4 芯片的 iPad Air 等新品",
           "imageUrl": null
         },
@@ -77,38 +107,8 @@
           "description": "现代设备无疑能做更多事，但我在 2026 年想重新试试 Windows Phone 8.1。查看全文",
           "link": "https://sspai.com/post/106467",
           "publishedOn": "2026-03-02T07:15:20.000Z",
-          "wordCount": 854,
-          "title": "给 Lumia 1020 用户的 Windows 8.1 漫游指南（2026）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106438",
-          "author": "西郊次生林",
-          "description": "当向 AI 寻求意见已经成为日常，我开始思考一个问题：AI 作为一个私人顾问，它到底干得怎么样呢？我究竟能不能依赖它？查看全文",
-          "link": "https://sspai.com/post/106438",
-          "publishedOn": "2026-03-02T03:42:30.000Z",
-          "wordCount": 415,
-          "title": "年度征文｜2025 年总结：一个纠结党试图向 AI 外包他的意志",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106454",
-          "author": "keeping",
-          "description": "你花钱买的高品质音乐，是真的「无损」吗？查看全文",
-          "link": "https://sspai.com/post/106454",
-          "publishedOn": "2026-03-01T07:54:25.000Z",
-          "wordCount": 306,
-          "title": "一日一技｜用频谱分析找出「假无损」音乐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106469",
-          "author": "彷徨旅人",
-          "description": "那些互动量高的文章，往往不是最精致的，而是最真的。查看全文",
-          "link": "https://sspai.com/post/106469",
-          "publishedOn": "2026-02-28T05:47:35.000Z",
-          "wordCount": 299,
-          "title": "年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码",
+          "wordCount": 857,
+          "title": "给 Lumia 1020 用户的 Windows Phone 8.1 漫游指南（2026）",
           "imageUrl": null
         }
       ]
@@ -366,6 +366,26 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=3099080",
+          "author": "Tim De Chant",
+          "description": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
+          "link": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
+          "publishedOn": "2026-03-04T12:00:00.000Z",
+          "wordCount": 3329,
+          "title": "Who needs data centers in space when they can float offshore?",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=1067"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3099147",
+          "author": "Ivan Mehta",
+          "description": "Eight Sleep said it was free-cash-flow positive in 2025, and plans to use the new funding for new products, global expansions, and clinical validation.",
+          "link": "https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/",
+          "publishedOn": "2026-03-04T11:00:00.000Z",
+          "wordCount": 3155,
+          "title": "Eight Sleep raises $50M at $1.5B valuation",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/Eight-Sleep-Pod-5-Hero-1.png?resize=1200,674"
+        },
+        {
           "id": "https://techcrunch.com/?p=3099113",
           "author": "Marina Temkin",
           "description": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
@@ -441,7 +461,7 @@
           "description": "The funding round would come less than a year after Anduril's Series G, which closed in June with $2.5 billion against a $30 billion valuation.",
           "link": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
           "publishedOn": "2026-03-03T20:06:45.000Z",
-          "wordCount": 3053,
+          "wordCount": 3047,
           "title": "Anduril aims at $60 billion valuation in new funding round",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152503873.jpg?resize=1200,685"
         },
@@ -451,7 +471,7 @@
           "description": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
           "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
           "publishedOn": "2026-03-03T20:02:10.000Z",
-          "wordCount": 3099,
+          "wordCount": 3068,
           "title": "Claude Code rolls out a voice mode capability",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/ClaudeCode2025.jpeg?w=1200"
         },
@@ -501,7 +521,7 @@
           "description": "The news comes as Pinterest has faced serious headwinds. Shares tumbled over the past year, with disappointing earnings, layoffs affecting 15% of its workforce, a declining ad business, and increased rivalry from AI chatbots.",
           "link": "https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/",
           "publishedOn": "2026-03-03T17:27:37.000Z",
-          "wordCount": 3066,
+          "wordCount": 3074,
           "title": "Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/bill-ready-pinterest-GettyImages-2213037081.jpg?w=1024"
         },
@@ -511,7 +531,7 @@
           "description": "This would mark the first time Apple competes with cheaper hardware like the Chromebook.",
           "link": "https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/",
           "publishedOn": "2026-03-03T17:22:42.000Z",
-          "wordCount": 3021,
+          "wordCount": 3018,
           "title": "Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/03/Apple-MacBook-Air-lifestyle-on-the-go-250305.jpg?resize=1200,675"
         },
@@ -544,26 +564,6 @@
           "wordCount": 3174,
           "title": "X begins testing standalone X Chat app on iOS",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/xchat-beta.jpeg?w=750"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3098793",
-          "author": "Amanda Silberling",
-          "description": "These updated M5 chips were specifically designed to make the MacBook Air and MacBook Pro laptops better at handling intensive AI tasks.",
-          "link": "https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5/",
-          "publishedOn": "2026-03-03T15:41:36.000Z",
-          "wordCount": 3361,
-          "title": "Apple unveils new MacBook Air and MacBook Pro with M5",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-MacBook-Air-hero-260303_big.jpg.medium_2x.jpg?resize=1200,801"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3098791",
-          "author": "Sarah Perez",
-          "description": "The new displays come with better cameras, new sound systems, and Thunderbolt 5 ports.",
-          "link": "https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/",
-          "publishedOn": "2026-03-03T14:49:03.000Z",
-          "wordCount": 3099,
-          "title": "Apple’s new Studio Displays come with Thunderbolt 5",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-Studio-Display-and-Studio-Display-XDR-260303_big.jpg.large_2x.jpg?resize=1200,676"
         }
       ]
     },
@@ -578,6 +578,26 @@
       "feedUrl": "http://cn.nytimes.com/rss/news.xml",
       "siteUrl": "https://cn.nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/world/20260304/iran-us-israel-war-persian-gulf/",
+          "author": "VIVIAN NEREIM",
+          "description": "作为对美国和以色列的报复，伊朗已向多个海湾国家发射逾千枚导弹与无人机，造成人员死亡。这些被夹在美国和伊朗之间的国家试图平衡利益，但如今正面临棘手难题。\n\n                    \nFadel Senna/Agence France-Presse — Getty Images\n                    \n周二，阿联酋一工业区发生爆炸。伊朗向沙特阿拉伯、阿联酋、卡塔尔、巴林、科威特和阿曼发射了逾千导弹和无人机。",
+          "link": "https://cn.nytimes.com/world/20260304/iran-us-israel-war-persian-gulf/?utm_source=RSS",
+          "publishedOn": "2026-03-04T04:21:12.000Z",
+          "wordCount": 237,
+          "title": "伊朗局势失控，海湾国家面临噩梦场景",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/03/multimedia/03int-gulf-assess-01-klcp/03int-gulf-assess-01-klcp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260304/iran-war-strategy-trump-israel/",
+          "author": "STEVEN ERLANGER",
+          "description": "面对美以压倒性火力，伊朗正努力将战场从本国领土扩大至整个地区。其战略是通过将战争复杂化、增加对世界经济的威胁，迫使特朗普在美国伤亡和通胀攀升前结束战争。\n\n                    \nMahmud Hams/Agence France-Presse — Getty Images\n                    \n卡塔尔多哈周日遭袭后的现场。伊朗正致力于扩大战场范围。",
+          "link": "https://cn.nytimes.com/world/20260304/iran-war-strategy-trump-israel/?utm_source=RSS",
+          "publishedOn": "2026-03-04T02:42:12.000Z",
+          "wordCount": 242,
+          "title": "伊朗的战略：扩大战场、推高战争成本，迫使特朗普收手",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/03/multimedia/03int-iran-region-01-fkzl/03int-iran-region-01-fkzl-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/world/20260304/us-iran-china-trump-xi/",
           "author": "DAVID PIERSON",
@@ -597,6 +617,36 @@
           "wordCount": 241,
           "title": "中东局势冲击亚洲各国经济，中国能源安全面临考验",
           "imageUrl": "https://static01.nyt.com/images/2026/03/02/multimedia/02Biz-Iran-Asia-01-fgjq/02Biz-Iran-Asia-01-fgjq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260304/china-education-ai/",
+          "author": "王月眉,JIAWEI WANG",
+          "description": "一些家长制作互动学习游戏，或用聊天机器人批改孩子的作业，还有一些家长借助由人工智能驱动的小工具来跨越语言障碍。这股热情催生了一个蓬勃发展的教育科技市场。",
+          "link": "https://cn.nytimes.com/china/20260304/china-education-ai/?utm_source=RSS",
+          "publishedOn": "2026-03-03T20:10:19.000Z",
+          "wordCount": 227,
+          "title": "中国家长如何利用人工智能“鸡娃”",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/16/vid-china-ai-55431-cover/vid-china-ai-55431-cover-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/mideast/20260303/dubai-travelers-stuck-iran-war/",
+          "author": "CEYLAN YEGINSU,OMNIA AL DESOUKIE,CHRISTINE CHUNG",
+          "description": "伊朗向阿联酋发射了大量导弹和无人机，以报复以色列和美国的袭击。阿联酋作为安全目的地的声誉面临考验。周六以来，超过1万架次中东进出航班被取消，已影响100万旅客。\n\n                    \nAltaf Qadri/Associated Press\n                    \n周日，迪拜国际机场停满了被迫停飞的飞机。周末的空袭迫使迪拜、阿布扎比以及卡塔尔多哈的机场关闭。周一，仅有数量有限的航班计划从迪拜和阿布扎比机场起飞。",
+          "link": "https://cn.nytimes.com/mideast/20260303/dubai-travelers-stuck-iran-war/?utm_source=RSS",
+          "publishedOn": "2026-03-03T18:10:53.000Z",
+          "wordCount": 246,
+          "title": "混乱、困惑和等待：大量国际旅客滞留阿联酋",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/02/multimedia/02Trav-Gulf-Tourism-01-tqvp/02Trav-Gulf-Tourism-01-tqvp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20260304/iran-revolution-khomeini-shah/",
+          "author": "ABBAS MILANI",
+          "description": "过去47年间，伊朗人民从未放弃过争取民主权利的斗争。如今，随着哈梅内伊以及约40名其他高级政治或军事成员死亡，变革近在咫尺。\n\n                    \nAbbas/Magnum Photos",
+          "link": "https://cn.nytimes.com/opinion/20260304/iran-revolution-khomeini-shah/?utm_source=RSS",
+          "publishedOn": "2026-03-03T17:18:46.000Z",
+          "wordCount": 237,
+          "title": "即将到来的伊朗革命",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/03/opinion/03milani-archive/03milani-archive-videoLarge.jpg"
         },
         {
           "id": "https://cn.nytimes.com/world/20260303/maduro-khamenei-trump-surveillance/",
@@ -627,16 +677,6 @@
           "wordCount": 231,
           "title": "谷爱凌和刘美贤为何在中美爱恨“两极分化”",
           "imageUrl": "https://static01.nyt.com/images/2026/03/03/multimedia/c03gu/c03gu-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/mideast/20260303/dubai-travelers-stuck-iran-war/",
-          "author": "CEYLAN YEGINSU,OMNIA AL DESOUKIE,CHRISTINE CHUNG",
-          "description": "伊朗向阿联酋发射了大量导弹和无人机，以报复以色列和美国的袭击。阿联酋作为安全目的地的声誉面临考验。周六以来，超过1万架次中东进出航班被取消，已影响100万旅客。\n\n                    \nAltaf Qadri/Associated Press\n                    \n周日，迪拜国际机场停满了被迫停飞的飞机。周末的空袭迫使迪拜、阿布扎比以及卡塔尔多哈的机场关闭。周一，仅有数量有限的航班计划从迪拜和阿布扎比机场起飞。",
-          "link": "https://cn.nytimes.com/mideast/20260303/dubai-travelers-stuck-iran-war/?utm_source=RSS",
-          "publishedOn": "2026-03-02T19:45:56.000Z",
-          "wordCount": 246,
-          "title": "混乱、困惑和等待：大量国际旅客滞留阿联酋",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/02/multimedia/02Trav-Gulf-Tourism-01-tqvp/02Trav-Gulf-Tourism-01-tqvp-articleLarge.jpg"
         },
         {
           "id": "https://cn.nytimes.com/usa/20260303/iran-khamenei-dead-trump-legal/",
@@ -737,46 +777,6 @@
           "wordCount": 251,
           "title": "特朗普为何选择此时对伊朗发动攻击",
           "imageUrl": "https://static01.nyt.com/images/2026/02/28/multimedia/28dc-assess-kbgf/28dc-assess-kbgf-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260227/china-ai-dating-apps/",
-          "author": "艾莎,MURPHY ZHAO,MEAGHAN TOBIN",
-          "description": "中国正面临严峻的人口危机，政府希望年轻女性优先考虑结婚生子，许多女性却在与聊天机器人谈恋爱。监管机构警告科技公司，不要将“设计目标设定为取代社交互动”。\n\n                    \nThe New York Times",
-          "link": "https://cn.nytimes.com/business/20260227/china-ai-dating-apps/?utm_source=RSS",
-          "publishedOn": "2026-02-26T20:47:35.000Z",
-          "wordCount": 246,
-          "title": "女性爱上人工智能，这对北京来说是个问题",
-          "imageUrl": "https://static01.nyt.com/images/2026/02/17/multimedia/2025-biz-standalone-promos-new-2026-02-19-china-ai-romance/2025-biz-standalone-promos-new-2026-02-19-china-ai-romance-articleLarge-v2.png"
-        },
-        {
-          "id": "https://cn.nytimes.com/culture/20260227/red-dawn-over-china-frank-dikotter/",
-          "author": "GARY J. BASS",
-          "description": "历史学家冯客在新作中指出，从建党到二战结束，中共的力量始终处于边缘地位；他们最终能夺取政权与其说靠的是民众支持，更多是源自毫不妥协的残酷和几分运气。\n\n                    \nChang W. Lee/The New York Times\n                    \n2025年，天安门广场的游客。",
-          "link": "https://cn.nytimes.com/culture/20260227/red-dawn-over-china-frank-dikotter/?utm_source=RSS",
-          "publishedOn": "2026-02-26T20:08:50.000Z",
-          "wordCount": 270,
-          "title": "中共为何能成功夺权？要感谢日本、美国和苏联",
-          "imageUrl": "https://static01.nyt.com/images/2026/02/24/multimedia/24TBR-Dikotter-Review-gqwm/24TBR-Dikotter-Review-gqwm-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260227/nyc-china-hometown-oklahoma-marijuana/",
-          "author": "JAY ROOT,傅才德,BIANCA PALLARO",
-          "description": "陈善东是美国福州琅岐校友会的成员。过去几年里，这类同乡会的多名高级成员在俄克拉荷马州经营或拥有大麻种植场。纽约的这些同乡会通常与北京有密切联系。\n\n                    \nShuran Huang for The New York Times\n                    \n紫光有限责任公司周三遭到突击搜查，这是陈善东在俄克拉荷马州乡村地区拥有的两家大型大麻种植园之一。",
-          "link": "https://cn.nytimes.com/usa/20260227/nyc-china-hometown-oklahoma-marijuana/?utm_source=RSS",
-          "publishedOn": "2026-02-26T19:31:44.000Z",
-          "wordCount": 249,
-          "title": "纽约华人同乡会成员在俄克拉荷马州被控贩运大麻",
-          "imageUrl": "https://static01.nyt.com/images/2026/02/26/multimedia/26met-hometown-charge-pgwh/26met-hometown-charge-pgwh-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260107/ny-china-hometown-association-oklahoma-marjiuana/",
-          "author": "JAY ROOT,BIANCA PALLARO,傅才德",
-          "description": "时报对俄克拉荷马州大麻农场的调查发现，多名纽约华人同乡会权势人物或相关人士与这个利润丰厚的产业息息相关。两党议员指中国正从华裔企业家的大麻产业投资中获益。\n\n                    \nShuran Huang for The New York Times\n                    \n俄克拉荷马州温伍德的Botanical Green Farms是与纽约市华人侨民团体领导人有联系的几家大麻农场之一。",
-          "link": "https://cn.nytimes.com/usa/20260107/ny-china-hometown-association-oklahoma-marjiuana/?utm_source=RSS",
-          "publishedOn": "2026-02-26T19:30:47.000Z",
-          "wordCount": 256,
-          "title": "美国大麻农场背后的纽约华人同乡会“大佬”",
-          "imageUrl": "https://static01.nyt.com/images/2025/12/22/multimedia/00ccp-pot-promo-hzkp/00ccp-pot-promo-hzkp-articleLarge.jpg"
         }
       ]
     },
@@ -786,53 +786,53 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A",
       "articles": [
         {
-          "id": "7438ad98246cc10c87450f9ac6854a52",
+          "id": "98a2515b67afc2e00251bbcb6dc2d5ce",
           "author": null,
           "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E5%85%A8%E5%91%98%E6%81%B6%E4%BA%BA%E2%80%9D%E7%9A%84%E7%8E%8B%E7%82%B8%E7%88%BD%E5%89%A7%EF%BC%8C%E6%88%B3%E7%A0%B4%E9%A1%B6%E5%B1%82%E5%AF%8C%E8%B1%AA%E7%9A%84%E9%9A%90%E7%A7%98%E4%B8%91%E9%97%BB%EF%BC%9F",
-          "publishedOn": "2026-03-02T13:00:00.000Z",
-          "wordCount": 264,
-          "title": "“全员恶人”的王炸爽剧，戳破顶层富豪的隐秘丑闻？",
-          "imageUrl": null
-        },
-        {
-          "id": "c74456caa3b88b6ad6c877e887cf8acf",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%88%B7%E5%B1%8F%E7%9A%84%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81%EF%BC%8C%E6%80%8E%E4%B9%88%E8%AE%B2%E7%BB%99%E5%AD%A9%E5%AD%90%E5%90%AC%EF%BC%9F",
-          "publishedOn": "2026-03-02T13:00:00.000Z",
-          "wordCount": 309,
-          "title": "刷屏的美伊冲突，怎么讲给孩子听？",
-          "imageUrl": null
-        },
-        {
-          "id": "2f8a5dd897485c2b3efb7ed798f091a9",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A810%E5%80%8D%EF%BC%8C%E6%9B%BE%E7%BB%8F%E7%9A%84%E2%80%9C%E7%94%B5%E5%AD%90%E5%9E%83%E5%9C%BE%E2%80%9D%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8D%A7%E6%88%90%E9%A1%B6%E6%B5%81%EF%BC%9F",
-          "publishedOn": "2026-03-02T09:30:00.000Z",
-          "wordCount": 271,
-          "title": "价格暴涨10倍，曾经的“电子垃圾”被年轻人捧成顶流？",
-          "imageUrl": null
-        },
-        {
-          "id": "0ee9b2b7cf96674663b0db7068d5d02a",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%8E%BB%E8%BF%87%E6%B5%B7%E5%BA%95%E6%8D%9E%EF%BC%8C%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%89%8D%E6%98%8E%E7%99%BD%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%A7%E9%99%86%E9%9C%87%E6%92%BC",
-          "publishedOn": "2026-03-02T09:30:00.000Z",
-          "wordCount": 299,
-          "title": "去过海底捞，韩国人才明白什么是大陆震撼",
-          "imageUrl": null
-        },
-        {
-          "id": "33f102d3f26371f36160d964c8479eea",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%87%E5%AE%B3%EF%BC%8C%E8%B0%81%E4%BC%9A%E6%8E%A5%E4%BB%BB%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9F",
-          "publishedOn": "2026-03-02T04:30:00.000Z",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%99%E5%8D%88%E7%81%AB%E9%A9%AC%E5%B9%B4%EF%BC%9A%E6%88%91%E4%BB%AC%E6%AF%94%E4%BB%BB%E4%BD%95%E6%97%B6%E5%80%99%E9%83%BD%E6%9B%B4%E9%9C%80%E8%A6%81%E2%80%9C%E4%B8%80%E9%A9%AC%E5%BD%93%E5%85%88%E2%80%9D",
+          "publishedOn": "2026-03-03T13:04:00.000Z",
           "wordCount": 270,
-          "title": "哈梅内伊遇害，谁会接任伊朗最高领袖？",
+          "title": "丙午火马年：我们比任何时候都更需要“一马当先”",
+          "imageUrl": null
+        },
+        {
+          "id": "67520687cab0871695ceab9872cfdbad",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%8A%95%E8%B5%84%E5%87%A0%E5%8D%81%E4%B8%87%E8%A1%80%E4%BA%8F%EF%BC%8C%E4%B8%AD%E5%B9%B4%E4%BA%BA%E6%89%8E%E5%A0%86%E7%9A%84%E6%90%9E%E9%92%B1%E6%A2%A6%E4%BD%95%E4%BB%A5%E6%88%90%E4%B8%BA%E2%80%9C%E5%8A%9D%E9%80%80%E9%A1%B6%E6%B5%81%E2%80%9D%EF%BC%9F",
+          "publishedOn": "2026-03-03T13:04:00.000Z",
+          "wordCount": 267,
+          "title": "投资几十万血亏，中年人扎堆的搞钱梦何以成为“劝退顶流”？",
+          "imageUrl": null
+        },
+        {
+          "id": "a1a3696779069e3e27e0210984dac193",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%BD%93%E7%94%9F%E6%B4%BB%E7%AA%81%E7%84%B6%E5%A4%B1%E5%BA%8F%EF%BC%8C%E6%88%91%E4%BB%AC%E8%AF%A5%E5%A6%82%E4%BD%95%E6%89%BE%E5%9B%9E%E8%87%AA%E5%B7%B1%EF%BC%9F",
+          "publishedOn": "2026-03-03T13:04:00.000Z",
+          "wordCount": 263,
+          "title": "当生活突然失序，我们该如何找回自己？",
+          "imageUrl": null
+        },
+        {
+          "id": "88f81ec792383b7777b32aa5a23c19ea",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%8A%E5%B9%B4%E6%98%A5%E5%A4%8F%E8%81%8C%E5%9C%BA%E5%A5%B3%E6%80%A7%E7%9A%84%E2%80%9C%E7%A9%BF%E6%90%AD%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D%EF%BC%8C%E4%B8%BA%E4%BD%95%E6%98%AF%E5%AE%83%EF%BC%9F",
+          "publishedOn": "2026-03-03T09:30:00.000Z",
+          "wordCount": 265,
+          "title": "今年春夏职场女性的“穿搭天花板”，为何是它？",
+          "imageUrl": null
+        },
+        {
+          "id": "5de36c05d5de382a49d3bc0eb54766f3",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%E5%87%BA%E7%82%89%EF%BC%8C%E8%A3%B8%E8%80%83%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%EF%BC%9F",
+          "publishedOn": "2026-03-03T09:30:00.000Z",
+          "wordCount": 257,
+          "title": "四六级成绩出炉，裸考的人怎么样了？",
           "imageUrl": null
         }
       ]
@@ -888,7 +888,7 @@
           "description": "",
           "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%94%BE%E4%B8%8B%E6%89%A7%E7%9D%80%E8%A7%81%E5%A6%82%E6%9D%A5",
           "publishedOn": "2026-03-01T12:39:00.000Z",
-          "wordCount": 316,
+          "wordCount": 336,
           "title": "放下执着见如来",
           "imageUrl": null
         }
@@ -900,12 +900,112 @@
       "siteUrl": "https://www.wired.com",
       "articles": [
         {
+          "id": "669ea457d9986d243366fce3",
+          "author": "Pete Cottell",
+          "description": "The future is here, and it is jacked up on B vitamins, red dye, and taurine. These are the best energy drinks to get from tired to wired.",
+          "link": "https://www.wired.com/story/best-energy-drinks/",
+          "publishedOn": "2026-03-04T12:38:00.000Z",
+          "wordCount": 45936,
+          "title": "I Ranked 30 Energy Drinks, From Celsius to Ghost (2025)",
+          "imageUrl": "https://media.wired.com/photos/68b9d9ac17d2db8dc97afaab/191:100/w_1280,c_limit/Update-%20The%20Best%20Energy%20Drinks.png"
+        },
+        {
+          "id": "69a70f3cd89b1debd9ae6684",
+          "author": "Simon Cohen",
+          "description": "Prepping for warmer weather? Marshall's midsize portable Bluetooth speaker sounds as good as it looks.",
+          "link": "https://www.wired.com/review/marshall-kilburn-iii/",
+          "publishedOn": "2026-03-04T12:30:00.000Z",
+          "wordCount": 23610,
+          "title": "Marshall Kilburn III Review: A Classic Rock Bluetooth Speaker",
+          "imageUrl": "https://media.wired.com/photos/69a7ba8c5ab1b7b49897cf6f/191:100/w_1280,c_limit/marshall-kilburn-iii-review-00013.jpeg"
+        },
+        {
+          "id": "69a06414ec85594ee3d5c111",
+          "author": "Andy Greenberg",
+          "description": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic leaks—a spying trick the NSA once codenamed TEMPEST.",
+          "link": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
+          "publishedOn": "2026-03-04T12:00:00.000Z",
+          "wordCount": 28543,
+          "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
+          "imageUrl": "https://media.wired.com/photos/69a1b2fb19c2d78a89b5221e/191:100/w_1280,c_limit/Tempest%20copy.jpg"
+        },
+        {
+          "id": "5d30ece3d738cc0009de595e",
+          "author": "Lisa Wood Shapiro",
+          "description": "Protect your home against dust, pets, allergies, and more with air purifiers tested firsthand by WIRED.",
+          "link": "https://www.wired.com/gallery/best-air-purifiers/",
+          "publishedOn": "2026-03-04T11:31:00.000Z",
+          "wordCount": 54831,
+          "title": "16 Best Air Purifiers (2026): Coway, AirDoctor, IQAir",
+          "imageUrl": "https://media.wired.com/photos/686841af120996c48be6fd17/191:100/w_1280,c_limit/Best%20Air%20Purifiers%20update.png"
+        },
+        {
+          "id": "6977f00ce7dfff7b27d1e356",
+          "author": "Webb Wright",
+          "description": "A new psychedelic retreat calling itself a “SETI for the mind” aims to establish two-way communication with the nonhuman entities people encounter while tripping on DMT.",
+          "link": "https://www.wired.com/story/some-people-see-aliens-while-on-dmt-researchers-want-to-find-out-what-they-can-teach-us/",
+          "publishedOn": "2026-03-04T11:30:00.000Z",
+          "wordCount": 28279,
+          "title": "Some People See Aliens While on DMT. Researchers Want to Find Out What They Can Teach Us",
+          "imageUrl": "https://media.wired.com/photos/699f69c97342358754f05efe/191:100/w_1280,c_limit/cul-dmt-aliens-1468585386.jpg"
+        },
+        {
+          "id": "698bc61826aca79c141aa588",
+          "author": "Steven Levy",
+          "description": "Kalshi lets you place bets on everything from football games to foreign invasions. The prediction market’s CEO, Tarek Mansour, says this doesn’t count as gambling—and is actually good for society.",
+          "link": "https://www.wired.com/story/big-interview-tarek-mansour-kalshi/",
+          "publishedOn": "2026-03-04T11:00:00.000Z",
+          "wordCount": 34719,
+          "title": "How Is Kalshi Not Gambling?",
+          "imageUrl": "https://media.wired.com/photos/69a8088804bf849bc7d5d0af/191:100/w_1280,c_limit/alombard_kalshi_2Q3A0551.jpg"
+        },
+        {
+          "id": "5ec54e3c73e169d072ba2512",
+          "author": "Boutayna Chokrane",
+          "description": "From massage guns to compression boots and LED face masks, these are the top performers in Therabody's wellness lineup.",
+          "link": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
+          "publishedOn": "2026-03-04T10:30:00.000Z",
+          "wordCount": 30038,
+          "title": "Best Theraguns and Therabody Tools for Smarter Recovery (2026)",
+          "imageUrl": "https://media.wired.com/photos/69a7791e79e62d2329a16572/191:100/w_1280,c_limit/The%20Best%20Theraguns%20and%20Therabody%20Devices%20for%20Rest%20and%20Relaxation.png"
+        },
+        {
+          "id": "69a1ae24bdaf19324fb7d8ff",
+          "author": "Emily Mullin",
+          "description": "No one has had a Synchron brain-computer interface longer than Rodney Gorham. He's still finding new ways to use it.",
+          "link": "https://www.wired.com/story/synchron-brain-computer-interface-five-years-als/",
+          "publishedOn": "2026-03-04T10:00:00.000Z",
+          "wordCount": 27354,
+          "title": "What It’s Like to Have a Brain Implant for 5 Years",
+          "imageUrl": "https://media.wired.com/photos/69a1c00663d7023723a168ed/191:100/w_1280,c_limit/Rodney%20Gorhman31%20(2).jpg"
+        },
+        {
+          "id": "69a6e8c9bc6ad522a5645566",
+          "author": "Boone Ashworth",
+          "description": "Google is partnering with Back Market to sell USB sticks that let you install ChromeOS Flex on older Windows and Intel-powered Macs collecting dust.",
+          "link": "https://www.wired.com/story/back-market-google-chromeos-flex-usb-sticks/",
+          "publishedOn": "2026-03-04T08:00:00.000Z",
+          "wordCount": 27144,
+          "title": "These Official ChromeOS Flex USB Sticks Can Give Your Old Mac or Windows PC a Second Life",
+          "imageUrl": "https://media.wired.com/photos/69a74134842491a433151896/191:100/w_1280,c_limit/BackMarket_6_1_2026-7385.jpg"
+        },
+        {
+          "id": "69a71144866212c46886fe62",
+          "author": "Julia Forbes",
+          "description": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
+          "link": "https://www.wired.com/story/barkbox-promo-code/",
+          "publishedOn": "2026-03-04T06:00:00.000Z",
+          "wordCount": 25290,
+          "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
+          "imageUrl": "https://media.wired.com/photos/67b63b967f8fc45af4896200/191:100/w_1280,c_limit/WIRED-Coupons-R2_7.png"
+        },
+        {
           "id": "69a5ba8fd284beff2b7b3814",
           "author": "David Gilbert",
           "description": "Donald Trump’s post on Truth Social about Iran echoed a conspiracy theory that has been circulating online for years.",
           "link": "https://www.wired.com/story/heres-why-trump-posted-about-iran-stealing-the-2020-election-hours-after-the-us-attacked/",
           "publishedOn": "2026-03-03T21:13:02.000Z",
-          "wordCount": 27536,
+          "wordCount": 27684,
           "title": "Here’s Why Trump Posted About Iran ‘Stealing’ the 2020 Election Hours After the US Attacked",
           "imageUrl": "https://media.wired.com/photos/69a5d98c9572e392b1f5652a/191:100/w_1280,c_limit/pol-trump-iran-2263908109.jpg"
         },
@@ -915,7 +1015,7 @@
           "description": "A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of phones or more. Clues suggest it was originally built for the US government.",
           "link": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
           "publishedOn": "2026-03-03T19:01:35.000Z",
-          "wordCount": 28362,
+          "wordCount": 27990,
           "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals",
           "imageUrl": "https://media.wired.com/photos/69a5fee53552f3bcbc80c606/191:100/w_1280,c_limit/sec-phone-hacking-2252317890.jpg"
         },
@@ -925,7 +1025,7 @@
           "description": "The Razer BlackShark V3 Pro has excellent noise-canceling and spatial audio for focused gamers.",
           "link": "https://www.wired.com/story/razer-blackshark-v3-pro-deal-226/",
           "publishedOn": "2026-03-03T18:36:27.000Z",
-          "wordCount": 25555,
+          "wordCount": 25318,
           "title": "Our Favorite Upgraded Gaming Headset Is $20 Off",
           "imageUrl": "https://media.wired.com/photos/69a72876a0daf5ba71406d34/191:100/w_1280,c_limit/Our%20Favorite%20Upgraded%20Gaming%20Headset%20Is%20$20%20Off.png"
         },
@@ -935,7 +1035,7 @@
           "description": "Apple also announced two new pricey Studio Display computer monitors. If you're waiting on that rumored entry-level MacBook, the company seems to be saving it for its March 4 media event.",
           "link": "https://www.wired.com/story/apple-macbook-macbook-air-m5-macbook-pro-m5-pro-m5-max-2026/",
           "publishedOn": "2026-03-03T14:45:03.000Z",
-          "wordCount": 27342,
+          "wordCount": 27359,
           "title": "Apple’s New MacBook Air and MacBook Pro Have New Chips, More Storage, and Higher Prices",
           "imageUrl": "https://media.wired.com/photos/69a6ed6ea5763d87abb3825a/191:100/w_1280,c_limit/Apple%20MacBook%20Pro%20M5%20Pro%20and%20M5%20Max%20SOURCE%20Apple.jpg"
         },
@@ -955,7 +1055,7 @@
           "description": "I've tested a ton of keyboard options to make your typing life easier, and a couple I’d avoid.",
           "link": "https://www.wired.com/gallery/best-ergonomic-keyboard/",
           "publishedOn": "2026-03-03T12:30:00.000Z",
-          "wordCount": 28101,
+          "wordCount": 28121,
           "title": "The Best Ergonomic Keyboard I've Tried (and Other Comfortable Typing Options)",
           "imageUrl": "https://media.wired.com/photos/69a61cf6896b60fea824819f/191:100/w_1280,c_limit/The%20Best%20Ergonomic%20Keyboards%20for%20Your%20Tired%20Hands.png"
         },
@@ -965,7 +1065,7 @@
           "description": "There have never been so many ways to check for hypertension. Here’s what's available and how to use them.",
           "link": "https://www.wired.com/story/how-to-monitor-blood-pressure-at-home/",
           "publishedOn": "2026-03-03T12:00:00.000Z",
-          "wordCount": 31144,
+          "wordCount": 31205,
           "title": "How to Monitor Your Blood Pressure at Home (2026)",
           "imageUrl": "https://media.wired.com/photos/69a617db5ff556d1ecb0ce68/191:100/w_1280,c_limit/Update-%20Blood%20Pressure%20Monitors.png"
         },
@@ -975,7 +1075,7 @@
           "description": "A WIRED analysis shows that ICE and CBP have collectively spent at least $515 million on products from Microsoft, Amazon, Google, and Palantir in the last few years alone.",
           "link": "https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/",
           "publishedOn": "2026-03-03T11:30:00.000Z",
-          "wordCount": 31522,
+          "wordCount": 32149,
           "title": "All the Ways Big Tech Fuels ICE and CBP",
           "imageUrl": "https://media.wired.com/photos/698d1ba970363b1f9894b5d8/191:100/w_1280,c_limit/How-Big-Tech-Powering-Trumps-Immigration-Crackdown-Business-2246517239.jpg"
         },
@@ -985,7 +1085,7 @@
           "description": "Apple turns 50 on April 1. In his new book, Apple: The First 50 Years, David Pogue chronicles the secrecy-laden environment in which Steve Jobs willed the first iPhone into existence.",
           "link": "https://www.wired.com/story/the-untold-story-of-the-birth-of-the-iphone-david-pogue-book-excerpt/",
           "publishedOn": "2026-03-03T11:00:00.000Z",
-          "wordCount": 29838,
+          "wordCount": 29950,
           "title": "The Untold Story of the Birth of the iPhone",
           "imageUrl": "https://media.wired.com/photos/69a603a267ff47d5ce5773b9/191:100/w_1280,c_limit/Book-Excerpt-Birth-Of-iPhone-Gear.jpg"
         },
@@ -995,7 +1095,7 @@
           "description": "After testing 100-plus sets, these are the sleepwear brands that earned permanent spots in my closet and my bed.",
           "link": "https://www.wired.com/story/the-best-pajamas-brands-for-women/",
           "publishedOn": "2026-03-03T10:30:00.000Z",
-          "wordCount": 32989,
+          "wordCount": 32729,
           "title": "Best Pajamas for Women (2026), WIRED Tested and Reviewed",
           "imageUrl": "https://media.wired.com/photos/69a5e1c0374098e65918b633/191:100/w_1280,c_limit/The%20Best%20Pajamas%20for%20Women%20I've%20Slept%20In,%20Ranked.png"
         },
@@ -1005,7 +1105,7 @@
           "description": "A combination of war alerts, breaking news updates, and algorithmic feeds are trapping users in a threat-monitoring loop.",
           "link": "https://www.wired.com/story/why-missile-alerts-and-war-updates-trigger-doomscrolling/",
           "publishedOn": "2026-03-03T10:00:00.000Z",
-          "wordCount": 26898,
+          "wordCount": 26655,
           "title": "Why Missile Alerts and War Updates Trigger Doomscrolling",
           "imageUrl": "https://media.wired.com/photos/69a6294009a61625bf0d414f/191:100/w_1280,c_limit/Screenshot%202026-03-02%20at%204.18.29%E2%80%AFPM.png"
         },
@@ -1015,7 +1115,7 @@
           "description": "After strikes killed senior Iranian officials, Iran cut off internet access. Journalists are relying on satellite links, encrypted apps, and smuggled footage to report from inside the country.",
           "link": "https://www.wired.com/story/how-journalists-are-reporting-from-iran-with-no-internet/",
           "publishedOn": "2026-03-03T09:30:00.000Z",
-          "wordCount": 26879,
+          "wordCount": 27031,
           "title": "How Journalists Are Reporting From Iran With No Internet",
           "imageUrl": "https://media.wired.com/photos/69a5aea14b1b9ad79750b1fe/191:100/w_1280,c_limit/media%20blackout%20copy.jpg"
         },
@@ -1025,7 +1125,7 @@
           "description": "Find the best L.L.Bean promo codes and coupons for 10% off your first order, major sale discounts, free shipping on $75+, and extra savings for select groups.",
           "link": "https://www.wired.com/story/ll-bean-promo-code/",
           "publishedOn": "2026-03-03T06:03:00.000Z",
-          "wordCount": 25519,
+          "wordCount": 25349,
           "title": "L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear",
           "imageUrl": "https://media.wired.com/photos/67b63b9a4816461befb48207/191:100/w_1280,c_limit/WIRED-Coupons-R2_12.png"
         },
@@ -1035,7 +1135,7 @@
           "description": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
           "link": "https://www.wired.com/story/lowes-promo-code/",
           "publishedOn": "2026-03-03T06:00:00.000Z",
-          "wordCount": 26215,
+          "wordCount": 26255,
           "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
           "imageUrl": "https://media.wired.com/photos/67b63b995a505b018b67ed92/191:100/w_1280,c_limit/WIRED-Coupons-R2_10.png"
         },
@@ -1045,7 +1145,7 @@
           "description": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
           "link": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
           "publishedOn": "2026-03-03T01:06:01.000Z",
-          "wordCount": 27598,
+          "wordCount": 26703,
           "title": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
           "imageUrl": "https://media.wired.com/photos/69a61e4e7c1057ec63585309/191:100/w_1280,c_limit/Gear_JoeGebbia_GettyImages-1183210213.jpg"
         },
@@ -1055,7 +1155,7 @@
           "description": "The Finnish company Jolla is back with the Linux-powered Jolla Phone. It’s being positioned as an antidote to the US-dominated smartphone status quo of Android and iOS.",
           "link": "https://www.wired.com/story/jolla-phone-2026/",
           "publishedOn": "2026-03-03T00:36:25.000Z",
-          "wordCount": 28017,
+          "wordCount": 28005,
           "title": "The ‘European’ Jolla Phone Is an Anti-Big-Tech Smartphone",
           "imageUrl": "https://media.wired.com/photos/69a5d273ed144c3e59b383cc/191:100/w_1280,c_limit/The%20Jolla%20Phone%20SOURCE%20Jolla.jpg"
         },
@@ -1065,7 +1165,7 @@
           "description": "Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.",
           "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
           "publishedOn": "2026-03-03T00:25:44.000Z",
-          "wordCount": 26638,
+          "wordCount": 26987,
           "title": "Summon This AI Agent by Speaking Its Wake Word Mid-Phone Call",
           "imageUrl": "https://media.wired.com/photos/69a60357f5e4bf87e63fb28e/191:100/w_1280,c_limit/sec-telecom-2259493480.jpg"
         },
@@ -1075,7 +1175,7 @@
           "description": "Missile and drone attacks have disrupted daily life, but delivery drivers are still diligently navigating streets to drop off orders across the region.",
           "link": "https://www.wired.com/story/with-missile-attacks-overhead-in-the-gulf-delivery-drivers-are-still-on-the-road/",
           "publishedOn": "2026-03-02T21:34:36.000Z",
-          "wordCount": 26921,
+          "wordCount": 26230,
           "title": "Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads",
           "imageUrl": "https://media.wired.com/photos/69a6006e3b620fa230274768/191:100/w_1280,c_limit/Missile-Attacks-Overwhelming-Gulf-Delivery-Drivers-Still-on-Roads-Business-2263719374.jpg"
         },
@@ -1085,7 +1185,7 @@
           "description": "How Kalshi decided to settle a market tied to Iran’s supreme leader prompted anger among traders who felt the rules weren’t clear.",
           "link": "https://www.wired.com/story/iranian-ayatollah-khameneis-death-sparks-revolt-among-kalshi-customers/",
           "publishedOn": "2026-03-02T20:08:38.000Z",
-          "wordCount": 26944,
+          "wordCount": 26254,
           "title": "Iranian Ayatollah Khamenei’s Death Sparks Revolt Among Kalshi Customers",
           "imageUrl": "https://media.wired.com/photos/69a5a55d3c0418a183c674e3/191:100/w_1280,c_limit/biz-kalshi-iran-2255173177.jpg"
         },
@@ -1095,7 +1195,7 @@
           "description": "New analysis shows that attacks on satellite navigation systems have impacted some 1,100 ships in the Middle East since the US and Israel attacked Iran on February 28.",
           "link": "https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/",
           "publishedOn": "2026-03-02T18:34:25.000Z",
-          "wordCount": 26167,
+          "wordCount": 26266,
           "title": "Attacks on GPS Spike Amid US and Israeli War on Iran",
           "imageUrl": "https://media.wired.com/photos/69a5a6d84fcfd717c76a5180/191:100/w_1280,c_limit/GettyImages-2221332981.jpg"
         },
@@ -1105,7 +1205,7 @@
           "description": "This 55-inch Vizio isn’t the fanciest, but you could do a lot worse for under $300.",
           "link": "https://www.wired.com/story/vizio-tv-deal-226/",
           "publishedOn": "2026-03-02T18:25:57.000Z",
-          "wordCount": 25020,
+          "wordCount": 25185,
           "title": "Our Favorite Budget TV Is on Sale",
           "imageUrl": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png"
         },
@@ -1115,7 +1215,7 @@
           "description": "The conflict in the Middle East is driving oil prices up in a midterm year when Americans are already focused on high energy bills.",
           "link": "https://www.wired.com/story/war-in-iran-sent-oil-prices-up-trump-will-decide-how-high-they-go/",
           "publishedOn": "2026-03-02T16:03:36.000Z",
-          "wordCount": 27728,
+          "wordCount": 27298,
           "title": "War in Iran Spiked Oil Prices. Trump Will Decide How High They Go",
           "imageUrl": "https://media.wired.com/photos/69a5818dfb8b2b3db6442eed/191:100/w_1280,c_limit/GettyImages-1250649650.jpg"
         },
@@ -1125,7 +1225,7 @@
           "description": "The iPad Air enjoys a relatively modest update with the M4 chip and 12 gigabytes of RAM.",
           "link": "https://www.wired.com/story/apple-ipad-air-m4-2026/",
           "publishedOn": "2026-03-02T14:36:31.000Z",
-          "wordCount": 25452,
+          "wordCount": 25581,
           "title": "Apple Gives the iPad Air a Small Power Boost",
           "imageUrl": "https://media.wired.com/photos/69a59eae4fcfd717c76a50bb/191:100/w_1280,c_limit/Apple-iPad-Air-M4-Final-Cut-Pro-260302_big.jpg.large_2x.jpg"
         },
@@ -1135,7 +1235,7 @@
           "description": "Building on the iPhone 16e from 2025, Apple’s latest iPhone has a few noteworthy upgrades with the same $599 price.",
           "link": "https://www.wired.com/story/apple-iphone-17e/",
           "publishedOn": "2026-03-02T14:08:39.000Z",
-          "wordCount": 26610,
+          "wordCount": 26632,
           "title": "Apple’s Budget iPhone 17e Gets a MagSafe Upgrade",
           "imageUrl": "https://media.wired.com/photos/69a59d6695113b9f7301270b/191:100/w_1280,c_limit/Apple%20iPhone%2017e%20SOURCE%20Apple.jpg"
         },
@@ -1145,7 +1245,7 @@
           "description": "The ByteDance company wants to make the case that XR is “not just for gaming” anymore by giving you a digital office.",
           "link": "https://www.wired.com/story/pico-os-6-project-swan-xr-headset/",
           "publishedOn": "2026-03-02T14:00:00.000Z",
-          "wordCount": 26486,
+          "wordCount": 26543,
           "title": "Pico’s Project Swan XR Headset Wants to Go Where the Apple Vision Pro Failed",
           "imageUrl": "https://media.wired.com/photos/69a20ccd7b6f4b7d840f4a0d/191:100/w_1280,c_limit/Headset%20Visual.jpg"
         },
@@ -1155,7 +1255,7 @@
           "description": "As the battle over prediction markets rages on, Mick Mulvaney is leading a new coalition that calls these platforms illegal gambling.",
           "link": "https://www.wired.com/story/former-top-trump-official-launches-coalition-to-protect-americans-from-prediction-markets/",
           "publishedOn": "2026-03-02T12:00:00.000Z",
-          "wordCount": 26369,
+          "wordCount": 26361,
           "title": "A Former Top Trump Official Is Going After Prediction Markets",
           "imageUrl": "https://media.wired.com/photos/69a1fd924158dddd6df7881e/191:100/w_1280,c_limit/Former-Top-Trump-Official-Launches-Coalition-to-Protect-Americans-From-Prediction-Markets-Business-1252575031.jpg"
         },
@@ -1165,7 +1265,7 @@
           "description": "From the AirPods Pro to the AirPods Max, these are the best headphones for your iPhone and beyond.",
           "link": "https://www.wired.com/gallery/best-airpods/",
           "publishedOn": "2026-03-02T11:32:00.000Z",
-          "wordCount": 28749,
+          "wordCount": 28795,
           "title": "Best AirPods (2026): Which Apple Headphones Should You Buy?",
           "imageUrl": "https://media.wired.com/photos/69a26cd85394f713c4a5a3ec/191:100/w_1280,c_limit/Which%20AirPods%20Should%20You%20Buy%20in%202026_.png"
         },
@@ -1175,7 +1275,7 @@
           "description": "Palestinian journalist Plestia Alaqad on bearing witness, the fragile power of social media, and why documenting lived reality matters more than ever.",
           "link": "https://www.wired.com/story/plestia-alaqad-gaza-citizen-journalist-social-media/",
           "publishedOn": "2026-03-02T10:30:00.000Z",
-          "wordCount": 28616,
+          "wordCount": 28532,
           "title": "When the Internet Goes Dark, the Truth Goes With It",
           "imageUrl": "https://media.wired.com/photos/699f8ba5cd6837e9ebf457f4/191:100/w_1280,c_limit/PLESTIA_WiredME_Web-LEAD.jpg"
         },
@@ -1185,7 +1285,7 @@
           "description": "As AI labs gorge themselves on compute, data center operators have headed north in search of cheap and plentiful energy.",
           "link": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
           "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 26376,
+          "wordCount": 26431,
           "title": "The Data Centers Have Arrived at the Edge of the Arctic Circle",
           "imageUrl": "https://media.wired.com/photos/699f79c89c1839834b2d7742/191:100/w_1280,c_limit/Arctic-Circle-Next-Frontier-In-AI-Infrastructure-Wars-Business-2163338735.jpg"
         },
@@ -1195,7 +1295,7 @@
           "description": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
           "link": "https://www.wired.com/story/mattress-firm-coupon/",
           "publishedOn": "2026-03-02T06:06:00.000Z",
-          "wordCount": 25982,
+          "wordCount": 26085,
           "title": "Mattress Firm Coupons and Discounts: Save Up to $500",
           "imageUrl": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/191:100/w_1280,c_limit/WIRED-Coupons-R2_3.png"
         },
@@ -1205,7 +1305,7 @@
           "description": "At MWC 2026, the company also showed off a dual-screen Yoga Book with 3D capabilities, and the Legion Go Fold—a gaming handheld with a folding screen that converts into a mini laptop.",
           "link": "https://www.wired.com/story/lenovo-mwc-concepts-thinkbook-modular-ai-pc-legion-go-fold/",
           "publishedOn": "2026-03-01T23:01:00.000Z",
-          "wordCount": 28800,
+          "wordCount": 28273,
           "title": "Lenovo’s Latest Wacky Concepts Include a Laptop With a Built-in Portable Monitor",
           "imageUrl": "https://media.wired.com/photos/69a2068621f86c9e289eb174/191:100/w_1280,c_limit/DSC_7446.jpg"
         },
@@ -1215,7 +1315,7 @@
           "description": "The all-out air assault on the Islamic Republic might be the biggest gamble of the president’s career.",
           "link": "https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/",
           "publishedOn": "2026-03-01T17:47:31.000Z",
-          "wordCount": 33439,
+          "wordCount": 33421,
           "title": "The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran",
           "imageUrl": "https://media.wired.com/photos/69a3b8c337746a56445e9886/191:100/w_1280,c_limit/GettyImages-2244475329.jpg"
         },
@@ -1225,7 +1325,7 @@
           "description": "The Strait of Hormuz is one of the most sensitive pressure points in the global economy. Conflict in Iran could put it at risk indefinitely.",
           "link": "https://www.wired.com/story/what-happens-if-iran-shuts-down-the-strait-of-hormuz/",
           "publishedOn": "2026-03-01T15:31:22.000Z",
-          "wordCount": 26827,
+          "wordCount": 26638,
           "title": "What Happens If Iran Shuts Down the Strait of Hormuz?",
           "imageUrl": "https://media.wired.com/photos/69a452a89458e915ed7887af/191:100/w_1280,c_limit/HormuzLead.jpg"
         },
@@ -1245,7 +1345,7 @@
           "description": "Video doorbells are handy, but they’re a threat to privacy. I spoke to experts about why you might ditch your doorbell, and how to safeguard your video.",
           "link": "https://www.wired.com/story/how-to-secure-your-video-doorbell/",
           "publishedOn": "2026-03-01T12:02:00.000Z",
-          "wordCount": 30275,
+          "wordCount": 29996,
           "title": "Video Doorbell Advice and Settings for Opting Out of the Surveillance State",
           "imageUrl": "https://media.wired.com/photos/69a298fc152a062652682e6a/191:100/w_1280,c_limit/How%20to%20Use%20a%20Video%20Doorbell%20Without%20Feeding%20the%20Surveillance%20State.png"
         },
@@ -1255,7 +1355,7 @@
           "description": "Looking for fast printing at a relatively affordable cost? You probably want a laser printer.",
           "link": "https://www.wired.com/gallery/best-laser-printers/",
           "publishedOn": "2026-03-01T11:30:00.000Z",
-          "wordCount": 24021,
+          "wordCount": 23988,
           "title": "Best Laser Printers I've Tried (2026): Brother, HP, and More",
           "imageUrl": "https://media.wired.com/photos/69a27f7ced5e0e393e7785f1/191:100/w_1280,c_limit/The%20Best%20Laser%20Printers%20You%20Can%20Buy.png"
         },
@@ -1265,7 +1365,7 @@
           "description": "There are plenty of ways to customize Chrome to make it easier to navigate the web, manage your tasks, and make your workflow more efficient.",
           "link": "https://www.wired.com/story/how-to-customize-google-chrome-toolbar-to-your-liking/",
           "publishedOn": "2026-03-01T11:00:00.000Z",
-          "wordCount": 26721,
+          "wordCount": 26613,
           "title": "Make the Most of Chrome's Toolbar by Customizing It to Your Liking",
           "imageUrl": "https://media.wired.com/photos/69a0404928675430f5eec4ac/191:100/w_1280,c_limit/GettyImages-2233007007.jpg"
         },
@@ -1275,7 +1375,7 @@
           "description": "In parts of the Middle East and North Africa, a patchwork of sanctions, payment failures, and licensing gaps pushes people into piracy networks.",
           "link": "https://www.wired.com/story/the-piracy-problem-streaming-platforms-cant-solve/",
           "publishedOn": "2026-03-01T10:00:00.000Z",
-          "wordCount": 27814,
+          "wordCount": 27574,
           "title": "The Piracy Problem Streaming Platforms Can’t Solve",
           "imageUrl": "https://media.wired.com/photos/69a22d897c6ac831ef25ac5a/191:100/w_1280,c_limit/Streaming_WiredME_Web-Lead2.jpg"
         },
@@ -1285,7 +1385,7 @@
           "description": "WIRED has reviewed hundreds of posts on X that promote misleading claims about the locations and scale of the attack.",
           "link": "https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/",
           "publishedOn": "2026-02-28T22:40:53.000Z",
-          "wordCount": 26342,
+          "wordCount": 26139,
           "title": "X Is Drowning in Disinformation Following US and Israeli Attack on Iran",
           "imageUrl": "https://media.wired.com/photos/69a30993070d210785f7d04d/191:100/w_1280,c_limit/Politics_WIRED_Iran_X.jpg"
         },
@@ -1295,109 +1395,9 @@
           "description": "America’s journey back to the moon has run into a few missteps. NASA administrator Jared Isaacman is banking on a new approach.",
           "link": "https://www.wired.com/story/nasa-is-making-big-changes-to-speed-up-the-artemis-program/",
           "publishedOn": "2026-02-28T16:00:00.000Z",
-          "wordCount": 29212,
+          "wordCount": 28933,
           "title": "NASA Is Making Big Changes to Speed Up the Artemis Program",
           "imageUrl": "https://media.wired.com/photos/69a1fc5ccd255f245e966b8e/191:100/w_1280,c_limit/sci-artemis2-2256758081.jpg"
-        },
-        {
-          "id": "69a2fc44c21be7a60d7b96de",
-          "author": "Ruchi Kumar",
-          "description": "As Israeli airstrikes hit Tehran this morning, Iranians received mysterious push notifications saying that “help is on the way,” promising amnesty if they surrender.",
-          "link": "https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/",
-          "publishedOn": "2026-02-28T15:58:09.000Z",
-          "wordCount": 27573,
-          "title": "Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes",
-          "imageUrl": "https://media.wired.com/photos/69a2fc44d16e57b38c5e2d95/191:100/w_1280,c_limit/MobileHackLead.jpg"
-        },
-        {
-          "id": "69a2f8e1ed5e0e393e77897b",
-          "author": "Dana Alomar",
-          "description": "As Iranian missiles targeted US-linked sites across the Gulf, the UAE’s missile shield was activated in real time.",
-          "link": "https://www.wired.com/story/uae-missile-intercept-system-iran/",
-          "publishedOn": "2026-02-28T15:12:51.000Z",
-          "wordCount": 28197,
-          "title": "This Is the System That Intercepted Iran’s Missiles Over the UAE",
-          "imageUrl": "https://media.wired.com/photos/69a2ffd3d16e57b38c5e2d9a/191:100/w_1280,c_limit/2263468713"
-        },
-        {
-          "id": "699f15349af3e6657d579acb",
-          "author": "Simon Hill",
-          "description": "The latest Xiaomi flagship is a beast and comes in a specially co-designed Leica edition that’s picture-perfect.",
-          "link": "https://www.wired.com/review/xiaomi-17-ultra-leitzphone/",
-          "publishedOn": "2026-02-28T14:32:00.000Z",
-          "wordCount": 22889,
-          "title": "Review: Xiaomi 17 Ultra and Leitzphone Pack Leica Magic Into a Flagship Phone",
-          "imageUrl": "https://media.wired.com/photos/69a25bc28fe42fcd6044ab2f/191:100/w_1280,c_limit/Xiaomi%20Leitzphone%20with%20Photography%20Kit%202%20%20SOURCE%20Simon%20Hill.jpg"
-        },
-        {
-          "id": "6708260f10137ae859e209ee",
-          "author": "Kat Merck",
-          "description": "Our team evaluated a ton of toiletry bags to find the best storage, organization, and design options for all your essentials.",
-          "link": "https://www.wired.com/gallery/best-toiletry-bags/",
-          "publishedOn": "2026-02-28T12:30:00.000Z",
-          "wordCount": 40744,
-          "title": "14 Best Travel Toiletry Bags, Tested Over Many Miles (2026)",
-          "imageUrl": "https://media.wired.com/photos/682e3843c1db3fd9eacdf22f/191:100/w_1280,c_limit/The-Best-Toiletry-Bags.jpg"
-        },
-        {
-          "id": "698bc3b6e67fc07451e8e91f",
-          "author": "Brad Bourque",
-          "description": "Everything you need to know about memory cards for cameras, video game systems, and more.",
-          "link": "https://www.wired.com/gallery/best-micro-sd-cards/",
-          "publishedOn": "2026-02-28T12:00:00.000Z",
-          "wordCount": 24553,
-          "title": "The Best MicroSD Cards for Your Camera, Switch, and More",
-          "imageUrl": "https://media.wired.com/photos/69a268e4067f37c7d49f54f6/191:100/w_1280,c_limit/The%20Best%20MicroSD%20Cards%20I've%20Tried.png"
-        },
-        {
-          "id": "6994f48b127026559adceac5",
-          "author": "Luke Larsen",
-          "description": "Most laptop cooling pads are useless, but if you get the right one, it can make a huge impact on how long your gaming laptop lasts.",
-          "link": "https://www.wired.com/story/best-laptop-cooling-pad/",
-          "publishedOn": "2026-02-28T11:38:00.000Z",
-          "wordCount": 30667,
-          "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
-          "imageUrl": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG"
-        },
-        {
-          "id": "69a1b9426ff67baf0755a13c",
-          "author": "Andy Greenberg, Lily Hay Newman, Maddy Varner",
-          "description": "Plus: The top US cyber agency falls into shambles, AI models develop an upsetting penchant for nuclear weapons, and more.",
-          "link": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/",
-          "publishedOn": "2026-02-28T11:30:00.000Z",
-          "wordCount": 27611,
-          "title": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
-          "imageUrl": "https://media.wired.com/photos/69a203e0a1f07be8b2d1f0b8/191:100/w_1280,c_limit/sec-roundup-romo-2228166651.jpg"
-        },
-        {
-          "id": "699dd41a1cf265b450d13ba2",
-          "author": "Molly Higgins",
-          "description": "HelloFresh’s budget subsidiary surprised me with its basic but tasty vegetarian meal selection.",
-          "link": "https://www.wired.com/story/everyplate-vegetarian-meal-kit-rave/",
-          "publishedOn": "2026-02-28T11:02:00.000Z",
-          "wordCount": 29770,
-          "title": "EveryPlate’s Meal Kit Offers Affordable Vegetarian Options",
-          "imageUrl": "https://media.wired.com/photos/69a1fd5faa7fa275477628a5/191:100/w_1280,c_limit/EveryPlate%20Is%20Cheaper%20Than%20Any%20Meal%20Kit%20I've%20Tried%20(and%20Is%20Surprisingly%20Tasty).png"
-        },
-        {
-          "id": "69a1a114097bbda60d878cc1",
-          "author": "Matthew Korfhage",
-          "description": "Checking up on the claims of water filter makers can be a discomfiting maze. Here's how to verify independent water filter certifications.",
-          "link": "https://www.wired.com/story/water-filter-explainer-nsf-verifications/",
-          "publishedOn": "2026-02-28T10:36:00.000Z",
-          "wordCount": 28133,
-          "title": "Which Water Filter Pitchers Filter PFAS? How to Check",
-          "imageUrl": "https://media.wired.com/photos/69a2079371b3466d9ed712df/191:100/w_1280,c_limit/Water%20Filter%20Explainer.png"
-        },
-        {
-          "id": "699ee74b96ff9899b69258fb",
-          "author": "Jeremy White",
-          "description": "Branded intimidating and scary, this full-face Ruroc headgear for the slopes made me a pariah on the piste.",
-          "link": "https://www.wired.com/story/this-helmet-ruined-my-ski-holiday/",
-          "publishedOn": "2026-02-28T10:00:00.000Z",
-          "wordCount": 27710,
-          "title": "This Ruroc Helmet Ruined My Ski Holiday",
-          "imageUrl": "https://media.wired.com/photos/699eebc38e84ee9a5aefef24/191:100/w_1280,c_limit/IMG_6457-Edit-Top-Art.jpg"
         }
       ]
     }
