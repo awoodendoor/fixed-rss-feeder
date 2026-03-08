@@ -12,6 +12,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/106483",
+          "author": "Enc3lMag1k",
+          "description": "晚安，明天见，过去的一切都不再属于崭新的你。查看全文",
+          "link": "https://sspai.com/post/106483",
+          "publishedOn": "2026-03-08T04:53:12.000Z",
+          "wordCount": 316,
+          "title": "晚安，明天见：Arrows N 与富士通的退场",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/106743",
           "author": "Sholmes",
           "description": "高昂的房租并没有带来相对应的舒适体验。查看全文",
@@ -100,16 +110,6 @@
           "wordCount": 571,
           "title": "靠大模型「吵架」完成固件逆向，我有哪些心得体会？",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106844",
-          "author": "少数派编辑部",
-          "description": "OpenAI 确认即将推出新版模型、Claude Code 上线语音模式等。查看全文",
-          "link": "https://sspai.com/post/106844",
-          "publishedOn": "2026-03-05T00:37:55.000Z",
-          "wordCount": 493,
-          "title": "派早报：Apple 推出 MacBook Neo、Setapp 调整商业模式等",
-          "imageUrl": null
         }
       ]
     },
@@ -125,12 +125,32 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=3100311",
+          "author": "Connie Loizos",
+          "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+          "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+          "publishedOn": "2026-03-08T06:05:26.000Z",
+          "wordCount": 3706,
+          "title": "A roadmap for AI, if anyone will listen",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-871198558.jpg?resize=1200,772"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3100281",
+          "author": "Jagmeet Singh",
+          "description": "A coalition of telecom operators and device makers is pushing $40 smartphones to bring up to 20 million people online, but rising component costs threaten the plan.",
+          "link": "https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/",
+          "publishedOn": "2026-03-08T05:00:00.000Z",
+          "wordCount": 3557,
+          "title": "Push for $40 smartphones builds momentum, but still faces cost hurdles",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/market-customer-1232017328.jpg?resize=1200,800"
+        },
+        {
           "id": "https://techcrunch.com/?p=3100305",
           "author": "Connie Loizos",
           "description": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
           "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
           "publishedOn": "2026-03-08T00:20:10.000Z",
-          "wordCount": 3067,
+          "wordCount": 3058,
           "title": "Google just gave Sundar Pichai a $692M pay package",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800"
         },
@@ -170,7 +190,7 @@
           "description": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
           "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
           "publishedOn": "2026-03-07T17:28:41.000Z",
-          "wordCount": 2961,
+          "wordCount": 2956,
           "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024"
         },
@@ -200,7 +220,7 @@
           "description": "This lawsuit comes after a Supreme Court decision struck down some of the president's sweeping tariffs, which had impacted Nintendo and thousands of other companies.",
           "link": "https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/",
           "publishedOn": "2026-03-06T22:35:35.000Z",
-          "wordCount": 3048,
+          "wordCount": 3042,
           "title": "Nintendo sues the US government for a refund on tariffs",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2263890630.jpg?resize=1200,800"
         },
@@ -250,7 +270,7 @@
           "description": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
           "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
           "publishedOn": "2026-03-06T19:00:22.000Z",
-          "wordCount": 2925,
+          "wordCount": 2920,
           "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200"
         },
@@ -303,26 +323,6 @@
           "wordCount": 3099,
           "title": "TriZetto confirms 3.4M people’s health and personal data was stolen during breach",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1481914168.jpg?resize=1200,801"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3099942",
-          "author": "Kate Park",
-          "description": "Indonesia has outlined new regulations that would restrict users under 16 from accessing digital platforms.",
-          "link": "https://techcrunch.com/2026/03/06/indonesia-outlines-plan-to-limit-under-16s-access-to-social-media/",
-          "publishedOn": "2026-03-06T14:18:16.000Z",
-          "wordCount": 3176,
-          "title": "Indonesia outlines plan to limit under-16s’ access to social media",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1892966240.jpg?resize=1200,865"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3099493",
-          "author": "Dominic-Madori Davis",
-          "description": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami.",
-          "link": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
-          "publishedOn": "2026-03-06T14:00:00.000Z",
-          "wordCount": 3283,
-          "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/CIty-Detect.webp?resize=1200,812"
         }
       ]
     },
@@ -550,7 +550,7 @@
           "description": "",
           "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%BE%8B%E6%89%80%E4%B8%BB%E4%BB%BB%E5%8D%B7%E6%AC%BE%E6%95%B0%E4%BA%BF%E5%A4%B1%E8%81%94%EF%BC%9A400%E5%A4%9A%E5%90%8D%E4%B8%AD%E4%BA%A7%E8%80%81%E4%BA%BA%EF%BC%8C%E8%A2%AB%E6%8E%8F%E7%A9%BA%E5%85%BB%E8%80%81%E9%92%B1",
           "publishedOn": "2026-03-07T13:17:00.000Z",
-          "wordCount": 265,
+          "wordCount": 268,
           "title": "律所主任卷款数亿失联：400多名中产老人，被掏空养老钱",
           "imageUrl": null
         },
@@ -560,7 +560,7 @@
           "description": "",
           "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%8B%BF%E4%BB%80%E4%B9%88%E4%BF%9D%E6%8C%81%E6%88%91%EF%BC%8C%E5%A4%8F%E5%A4%A9%E5%81%9A%E9%A5%AD%E7%9A%84%E2%80%9C%E4%BD%93%E9%9D%A2%E2%80%9D",
           "publishedOn": "2026-03-07T13:17:00.000Z",
-          "wordCount": 305,
+          "wordCount": 303,
           "title": "拿什么保持我，夏天做饭的“体面”",
           "imageUrl": null
         },
@@ -659,12 +659,82 @@
       "siteUrl": "https://www.wired.com",
       "articles": [
         {
+          "id": "699d6f81b8146cac77c1e23e",
+          "author": "Simon Hill",
+          "description": "Boosting internet speeds around your home is easy with Ethernet cables, and these tips will help you keep things neat.",
+          "link": "https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/",
+          "publishedOn": "2026-03-08T11:30:00.000Z",
+          "wordCount": 29833,
+          "title": "How to Run Ethernet Cables to Your Router and Keep Them Tidy",
+          "imageUrl": "https://media.wired.com/photos/69ab8df77066ad25778082bb/191:100/w_1280,c_limit/How%20to%20Run%20Ethernet%20Cables%20to%20Your%20Router%20and%20Keep%20Them%20Tidy.png"
+        },
+        {
+          "id": "69aa1038cb35fa25edf8f2f1",
+          "author": "Justin Pot",
+          "description": "Laptop batteries lag in performance as they age. But you can slow down their deterioration by tweaking your Mac’s charging settings.",
+          "link": "https://www.wired.com/story/only-charge-your-macbook-to-80-percent/",
+          "publishedOn": "2026-03-08T11:00:00.000Z",
+          "wordCount": 25840,
+          "title": "Force Your MacBook to Only Charge up to 80 Percent (and Why You Should)",
+          "imageUrl": "https://media.wired.com/photos/69aaf8d119e74863b0e32e23/191:100/w_1280,c_limit/GettyImages-630263110.jpg"
+        },
+        {
+          "id": "69ab1ea743edae1fce00c795",
+          "author": "Simon Cohen",
+          "description": "Say goodbye to disposable headphones with Fender’s customizable and replaceable parts.",
+          "link": "https://www.wired.com/review/fender-audio-mix/",
+          "publishedOn": "2026-03-08T11:00:00.000Z",
+          "wordCount": 23440,
+          "title": "Fender Mix Headphones Review: Modular Over-Ears",
+          "imageUrl": "https://media.wired.com/photos/69ac9c24db4ac0b1c8d9b76e/191:100/w_1280,c_limit/Review-%20Fender%20Mix%20Headphones.png"
+        },
+        {
+          "id": "67c743695c675d1b304872fb",
+          "author": "Julia Forbes",
+          "description": "From mattresses to sateen sheets, these exclusive deals on my personal picks can help you upgrade your sleep for less.",
+          "link": "https://www.wired.com/story/sleep-week-deals-2026/",
+          "publishedOn": "2026-03-08T10:31:00.000Z",
+          "wordCount": 31066,
+          "title": "A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart (2026)",
+          "imageUrl": "https://media.wired.com/photos/69acb3b0c61ab22ac1bc4d50/191:100/w_1280,c_limit/The%20Best%20Sleep%20Week%20Deals%20From%20a%20Certified%20Sleep%20Coach%20on%20Mattresses,%20Bedding,%20and%20Tech.png"
+        },
+        {
+          "id": "69a725c9b2dece17050becf9",
+          "author": "Scott Gilbertson",
+          "description": "Bialetti’s timeless design doesn’t just look good. It makes an incredible cup that’s perfect to keep you awake through the time change.",
+          "link": "https://www.wired.com/story/moka-pot-best-way-to-brew-coffee/",
+          "publishedOn": "2026-03-08T10:30:00.000Z",
+          "wordCount": 28140,
+          "title": "The Moka Pot Is the Best Way to Brew Coffee (2026)",
+          "imageUrl": "https://media.wired.com/photos/69ab85ad7066ad25778082ad/191:100/w_1280,c_limit/The%20Moka%20Pot%20Is%20the%20Best%20Way%20to%20Brew%20Coffee.png"
+        },
+        {
+          "id": "69a72e4c54dee4d486d6a200",
+          "author": "Nena Farrell",
+          "description": "I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that.",
+          "link": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
+          "publishedOn": "2026-03-08T10:09:00.000Z",
+          "wordCount": 30117,
+          "title": "Best Sunrise Alarm Clock (2026): Lumie, Hatch, WiiM",
+          "imageUrl": "https://media.wired.com/photos/69aca3f867d3aeccc7082e37/191:100/w_1280,c_limit/Should%20You%20Get%20a%20Sunrise%20Alarm%20Clock_.png"
+        },
+        {
+          "id": "69aad66c65edbc4f5049d85f",
+          "author": "Javier Carbajal",
+          "description": "A recent study suggests that left-handed people have an advantage in competitive contexts, while righties tend to cooperate better.",
+          "link": "https://www.wired.com/story/left-handed-people-are-more-competitive-says-science/",
+          "publishedOn": "2026-03-08T09:00:00.000Z",
+          "wordCount": 25781,
+          "title": "Left-Handed People Are More Competitive, Says Science",
+          "imageUrl": "https://media.wired.com/photos/69ab02c4ae15bcb547e25ca5/191:100/w_1280,c_limit/GettyImages-1253877737.jpg"
+        },
+        {
           "id": "69a768987de0c2a61ab3344c",
           "author": "Matthew Korfhage",
           "description": "A new generation of home machines has made good old drip coffee a place for connoisseurs. For more than a year, the Four is the source of my morning cup.",
           "link": "https://www.wired.com/story/ratio-four-drip-coffee-java-base/",
           "publishedOn": "2026-03-07T22:35:00.000Z",
-          "wordCount": 27982,
+          "wordCount": 28225,
           "title": "Why the Ratio Four Series Two Is What I Use to Test New Coffees",
           "imageUrl": "https://media.wired.com/photos/69ab835464d7eed1bd30d871/191:100/w_1280,c_limit/Drip%20Coffee%20Was%20My%20First%20Taste%20of%20Adulthood.%20The%20Ratio%20Four%20Brewer%20Offers%20It%20Pure.png"
         },
@@ -674,7 +744,7 @@
           "description": "You need to sort out that rat’s nest of cables under your desk. These cable management tips and products can help you do it.",
           "link": "https://www.wired.com/story/fix-the-dangling-wires-behind-your-desk/",
           "publishedOn": "2026-03-07T13:10:00.000Z",
-          "wordCount": 27982,
+          "wordCount": 27771,
           "title": "The WIRED Guide to Wires: How to Manage the Mess of Cables Around Your Desk",
           "imageUrl": "https://media.wired.com/photos/69ab7beedf7471f343fe92b0/191:100/w_1280,c_limit/Spring%20Scrub_Cable%20Management.png"
         },
@@ -684,7 +754,7 @@
           "description": "Want to digitally control your favorite instruments? These tools will help.",
           "link": "https://www.wired.com/gallery/best-midi-controllers/",
           "publishedOn": "2026-03-07T12:00:00.000Z",
-          "wordCount": 34142,
+          "wordCount": 34140,
           "title": "The Best MIDI Controllers for Synths, Guitars, and More (2026)",
           "imageUrl": "https://media.wired.com/photos/69ab9385e507bc24d160dc68/191:100/w_1280,c_limit/The%20Best%20MIDI%20Controllers%20for%20Synths,%20Recording,%20and%20More.png"
         },
@@ -694,7 +764,7 @@
           "description": "Should you get a high-tech jacket like a grid fleece, or stick with tried and true merino wool? We found the warmest, lightest mid layers for your next adventure.",
           "link": "https://www.wired.com/gallery/best-mid-layers/",
           "publishedOn": "2026-03-07T11:30:00.000Z",
-          "wordCount": 27062,
+          "wordCount": 27039,
           "title": "Best Mid Layer for Hiking, Backpacking, and Travel (2026)",
           "imageUrl": "https://media.wired.com/photos/69ab41dfdddf85b78be95084/191:100/w_1280,c_limit/The%20Best%20Mid%20Layers%20for%20Hiking,%20Backpacking,%20and%20Travel.png"
         },
@@ -704,7 +774,7 @@
           "description": "Plus: Proton helped the FBI identify a protester, the Leakbase cybercrime forum was busted in an international operation, and more.",
           "link": "https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/",
           "publishedOn": "2026-03-07T11:30:00.000Z",
-          "wordCount": 27653,
+          "wordCount": 27490,
           "title": "CBP Used Online Ad Data to Track Phone Locations",
           "imageUrl": "https://media.wired.com/photos/69ab57223f89949ac7678627/191:100/w_1280,c_limit/security_CBP_Tracking_GettyImages-1996179631.jpg"
         },
@@ -714,7 +784,7 @@
           "description": "As missiles and drones cross the region’s skies, the Gulf’s layered air-defense networks—from THAAD to Patriot batteries—are being tested in real time.",
           "link": "https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/",
           "publishedOn": "2026-03-07T11:00:00.000Z",
-          "wordCount": 28687,
+          "wordCount": 29052,
           "title": "How Each Gulf Country Is Intercepting Iranian Missiles and Drones",
           "imageUrl": "https://media.wired.com/photos/69ab643d69eb9242c5114a60/191:100/w_1280,c_limit/security_Iranian_Missiles_WIREDME.jpg"
         },
@@ -724,7 +794,7 @@
           "description": "Make a recovery plan now to avoid losing access to your account in the future.",
           "link": "https://www.wired.com/story/how-to-avoid-getting-locked-out-of-your-google-account/",
           "publishedOn": "2026-03-07T10:00:00.000Z",
-          "wordCount": 27160,
+          "wordCount": 27350,
           "title": "How to Avoid Getting Locked Out of Your Google Account",
           "imageUrl": "https://media.wired.com/photos/69aaf4d6de2344696698e466/191:100/w_1280,c_limit/GettyImages-2157553106.jpg"
         },
@@ -734,7 +804,7 @@
           "description": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
           "link": "https://www.wired.com/story/deveillance-spectre-i/",
           "publishedOn": "2026-03-06T23:45:14.000Z",
-          "wordCount": 28914,
+          "wordCount": 29435,
           "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
           "imageUrl": "https://media.wired.com/photos/69a9ed524d78fe1b285c59c4/191:100/w_1280,c_limit/Gear_Spectre_2.jpg"
         },
@@ -754,7 +824,7 @@
           "description": "From cast-iron pans to mechanical watches, we’ve rounded up products that are made to last for decades.",
           "link": "https://www.wired.com/story/buy-it-for-life/",
           "publishedOn": "2026-03-06T21:27:19.000Z",
-          "wordCount": 51035,
+          "wordCount": 51049,
           "title": "72 'Buy It for Life' Products: Cast-Iron, Tools, Speakers, Chairs, and More",
           "imageUrl": "https://media.wired.com/photos/69aa53e2c474b26a6b75ee8a/191:100/w_1280,c_limit/WIRED%E2%80%99s%20Favorite%20%E2%80%98Buy%20It%20for%20Life%E2%80%99%20Gear.png"
         },
@@ -764,7 +834,7 @@
           "description": "Here’s a guide to all the models—plus Pixel case recommendations and smart software tricks to try.",
           "link": "https://www.wired.com/story/best-google-pixel-phone/",
           "publishedOn": "2026-03-06T20:17:02.000Z",
-          "wordCount": 64358,
+          "wordCount": 64483,
           "title": "The Best Google Pixel Phones of 2026, Tested and Reviewed",
           "imageUrl": "https://media.wired.com/photos/68a7a913ababd253d6b1768f/191:100/w_1280,c_limit/Google%20Pixel%2010%20Series%20SOURCE%20Julian%20Chokkattu.jpg"
         },
@@ -774,7 +844,7 @@
           "description": "Iran’s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining.",
           "link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
           "publishedOn": "2026-03-06T20:06:06.000Z",
-          "wordCount": 27715,
+          "wordCount": 27720,
           "title": "The Future of Iran’s Internet Is More Uncertain Than Ever",
           "imageUrl": "https://media.wired.com/photos/69a8da68f44c9fe92207597a/191:100/w_1280,c_limit/security_IranConnectivity_GettyImages-2263888462.jpg"
         },
@@ -784,7 +854,7 @@
           "description": "Save a chunk of change on the Beats Studio Pro over-ear headphones.",
           "link": "https://www.wired.com/story/beats-studio-pro-deal-326/",
           "publishedOn": "2026-03-06T18:21:05.000Z",
-          "wordCount": 25068,
+          "wordCount": 24783,
           "title": "These Beats Headphones We Like Are $150 Off",
           "imageUrl": "https://media.wired.com/photos/69ab195f9fe32e08bb6fbf0b/191:100/w_1280,c_limit/These%20Beats%20Headphones%20We%20Like%20Are%20$150%20Off.png"
         },
@@ -794,7 +864,7 @@
           "description": "We were promised AI regulation and a race to the top. Now, we’re arguing about killer robots.",
           "link": "https://www.wired.com/story/when-ai-companies-go-to-war-safety-gets-left-behind/",
           "publishedOn": "2026-03-06T18:19:57.000Z",
-          "wordCount": 28097,
+          "wordCount": 28440,
           "title": "When AI Companies Go to War, Safety Gets Left Behind",
           "imageUrl": "https://media.wired.com/photos/69a8b9445f6b1f7116a8d6d2/191:100/w_1280,c_limit/Backchannel-AI-Pentagon-Business-2166909594..jpg"
         },
@@ -804,7 +874,7 @@
           "description": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to find the ones worth your money.",
           "link": "https://www.wired.com/gallery/best-android-phones/",
           "publishedOn": "2026-03-06T18:00:00.000Z",
-          "wordCount": 42916,
+          "wordCount": 42960,
           "title": "9 Best Android Phones of 2026, Tested and Reviewed",
           "imageUrl": "https://media.wired.com/photos/69aa57fa133f03206e0ed537/191:100/w_1280,c_limit/The%20Best%20Android%20Phones%20-%202.png"
         },
@@ -844,7 +914,7 @@
           "description": "The shameful pile of screenshots on my phone was as useless as it was disorganized. Rodeo and Swipewipe are helping to change that.",
           "link": "https://www.wired.com/story/rodeo-swipewipe-declutter-screenshots/",
           "publishedOn": "2026-03-06T12:01:00.000Z",
-          "wordCount": 27753,
+          "wordCount": 27655,
           "title": "These 2 Apps Help Me Make Sense of My 100K Screenshots",
           "imageUrl": "https://media.wired.com/photos/69aa1641d871d7f0e8562512/191:100/w_1280,c_limit/Spring%20Scrub_%20TWO%20APPS.png"
         },
@@ -854,7 +924,7 @@
           "description": "Laptop docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
           "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
           "publishedOn": "2026-03-06T11:39:00.000Z",
-          "wordCount": 32846,
+          "wordCount": 32840,
           "title": "7 Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
           "imageUrl": "https://media.wired.com/photos/6870914c7df7ab0fb03f65d5/191:100/w_1280,c_limit/The%20Best%20Laptop%20Docking%20Stations%20to%20Supercharge%20Your%20Workstation.png"
         },
@@ -864,7 +934,7 @@
           "description": "New research shows hundreds of attempts by apparent Iranian state hackers to hijack consumer-grade cameras, timed to missile and drone strikes. Israel, Russia, and Ukraine have also adopted this trick.",
           "link": "https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/",
           "publishedOn": "2026-03-06T11:30:00.000Z",
-          "wordCount": 27960,
+          "wordCount": 28073,
           "title": "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’",
           "imageUrl": "https://media.wired.com/photos/69a9c93009141c8fca7c8bff/191:100/w_1280,c_limit/security_IranCameras_GettyImages-1251774754.jpg"
         },
@@ -874,7 +944,7 @@
           "description": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
           "link": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
           "publishedOn": "2026-03-06T11:00:00.000Z",
-          "wordCount": 26595,
+          "wordCount": 26756,
           "title": "Why Is Alexa+ So Bad?",
           "imageUrl": "https://media.wired.com/photos/69aa27d5d871d7f0e8562540/191:100/w_1280,c_limit/Gear_Echo15_GettyImages-1343644732.jpg"
         },
@@ -894,7 +964,7 @@
           "description": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
           "link": "https://www.wired.com/story/best-smart-bird-feeders/",
           "publishedOn": "2026-03-06T10:30:00.000Z",
-          "wordCount": 47329,
+          "wordCount": 47347,
           "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
           "imageUrl": "https://media.wired.com/photos/6902aa64109367de30af13a4/191:100/w_1280,c_limit/The%20Best%20Smart%20Bird%20Feeders%20for%20Backyard%20Birding%202.png"
         },
@@ -904,7 +974,7 @@
           "description": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
           "link": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
           "publishedOn": "2026-03-06T10:00:00.000Z",
-          "wordCount": 31415,
+          "wordCount": 32237,
           "title": "Jack Dorsey Is Ready to Explain the Block Layoffs",
           "imageUrl": "https://media.wired.com/photos/69aa3519fd9d3f6311038e57/191:100/w_1280,c_limit/Big-Interview-Jack-Dorsey-Business-2001060765.jpg"
         },
@@ -914,7 +984,7 @@
           "description": "Women’s sleep apnea symptoms differ from men’s and can often be confused with hormonal shifts. Researchers are working to close the detection gap.",
           "link": "https://www.wired.com/story/sleep-apnea-women-detection-treatment/",
           "publishedOn": "2026-03-06T09:30:00.000Z",
-          "wordCount": 27006,
+          "wordCount": 27285,
           "title": "Sleep Apnea Often Goes Undetected in Women. That’s Starting to Change",
           "imageUrl": "https://media.wired.com/photos/69a8428b8a849494479d35f1/191:100/w_1280,c_limit/GettyImages-629409489.jpg"
         },
@@ -924,7 +994,7 @@
           "description": "From helium extraction in Qatar to shipping lanes in the Strait of Hormuz, the semiconductor industry depends on fragile links across the Gulf. Escalation could ripple through global chip production.",
           "link": "https://www.wired.com/story/the-war-on-iran-puts-global-chip-supply-and-ai-expansion-at-risk/",
           "publishedOn": "2026-03-06T09:00:00.000Z",
-          "wordCount": 26239,
+          "wordCount": 26735,
           "title": "The War on Iran Puts Global Chip Supplies and AI Expansion at Risk",
           "imageUrl": "https://media.wired.com/photos/69aa14a7fd9d3f6311038d51/191:100/w_1280,c_limit/Chip_lead.jpg"
         },
@@ -934,7 +1004,7 @@
           "description": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
           "link": "https://www.wired.com/story/mattress-firm-coupon/",
           "publishedOn": "2026-03-06T06:08:00.000Z",
-          "wordCount": 25573,
+          "wordCount": 25577,
           "title": "Mattress Firm Coupons and Discounts: Save Up to $600",
           "imageUrl": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/191:100/w_1280,c_limit/WIRED-Coupons-R2_3.png"
         },
@@ -944,7 +1014,7 @@
           "description": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 50% off countertop appliances.",
           "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
           "publishedOn": "2026-03-06T06:05:00.000Z",
-          "wordCount": 24839,
+          "wordCount": 24843,
           "title": "KitchenAid Promo Codes and Discounts: Save Up To 50%",
           "imageUrl": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/191:100/w_1280,c_limit/WIRED-Coupons-12.jpg"
         },
@@ -954,19 +1024,9 @@
           "description": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
           "link": "https://www.wired.com/story/peacock-promo-code/",
           "publishedOn": "2026-03-06T06:02:00.000Z",
-          "wordCount": 27753,
+          "wordCount": 27757,
           "title": "Peacock Promo Codes: 40% Off March 2026",
           "imageUrl": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/191:100/w_1280,c_limit/WIRED-Coupons-1.jpg"
-        },
-        {
-          "id": "67897e3548630cbedf000850",
-          "author": "Molly Higgins",
-          "description": "Tax season doesn’t have to be stressful. Score up to $150 on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-          "link": "https://www.wired.com/story/turbotax-coupon/",
-          "publishedOn": "2026-03-06T06:00:00.000Z",
-          "wordCount": 27375,
-          "title": "TurboTax Service Codes: Up to $150 Off | March 2026",
-          "imageUrl": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/191:100/w_1280,c_limit/WIRED-Coupons-11.jpg"
         },
         {
           "id": "69a9a8ed48195f1e9629ff6f",
@@ -979,12 +1039,22 @@
           "imageUrl": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/191:100/w_1280,c_limit/WIRED-Coupons-17.jpg"
         },
         {
+          "id": "67897e3548630cbedf000850",
+          "author": "Molly Higgins",
+          "description": "Tax season doesn’t have to be stressful. Score up to $150 on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+          "link": "https://www.wired.com/story/turbotax-coupon/",
+          "publishedOn": "2026-03-06T06:00:00.000Z",
+          "wordCount": 27389,
+          "title": "TurboTax Service Codes: Up to $150 Off | March 2026",
+          "imageUrl": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/191:100/w_1280,c_limit/WIRED-Coupons-11.jpg"
+        },
+        {
           "id": "69a84a1e7b1e561d71bd018d",
           "author": "Maddy Varner",
           "description": "As the conflict in the Middle East continues to escalate, more than a dozen countries in the region have reportedly been affected by air strikes.",
           "link": "https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/",
           "publishedOn": "2026-03-05T22:28:33.000Z",
-          "wordCount": 27787,
+          "wordCount": 27783,
           "title": "Here’s Every Country Directly Impacted by the War on Iran",
           "imageUrl": "https://media.wired.com/photos/69a8d5863abb8898930d9906/191:100/w_1280,c_limit/security_MiddleEastMap_GettyImages-129380269.jpg"
         },
@@ -994,7 +1064,7 @@
           "description": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/",
           "publishedOn": "2026-03-05T22:17:54.000Z",
-          "wordCount": 44734,
+          "wordCount": 44745,
           "title": "‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix",
           "imageUrl": "https://media.wired.com/photos/69a8b38b4d0db9b1303572a9/191:100/w_1280,c_limit/Uncanny-Valley-Iran-Politics-2264385014.jpg"
         },
@@ -1004,7 +1074,7 @@
           "description": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
           "link": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
           "publishedOn": "2026-03-05T22:00:00.000Z",
-          "wordCount": 27529,
+          "wordCount": 27539,
           "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
           "imageUrl": "https://media.wired.com/photos/69a887d2900eb391be83a12d/191:100/w_1280,c_limit/Model-Behavior-AI-Companies-Cant-Negotiate-With-Pentagon-Business.jpg"
         },
@@ -1014,7 +1084,7 @@
           "description": "ByteDance’s new Seedance 2.0 AI video model seemed unstoppable—until heavy demand strained the company’s compute capacity and copyright complaints began piling up.",
           "link": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
           "publishedOn": "2026-03-05T21:14:22.000Z",
-          "wordCount": 28690,
+          "wordCount": 28695,
           "title": "ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns",
           "imageUrl": "https://media.wired.com/photos/69a8cd045c3afa23e264984b/191:100/w_1280,c_limit/Made-In-China-ByteDance-AI-Ambitions-Business-1582149003.jpg"
         },
@@ -1024,7 +1094,7 @@
           "description": "Early March is the best time to see rare migratory species in your own backyard, and a smart feeder can help you ID them.",
           "link": "https://www.wired.com/story/its-time-to-put-out-your-hummingbird-feeders-2026/",
           "publishedOn": "2026-03-05T20:50:46.000Z",
-          "wordCount": 25599,
+          "wordCount": 25765,
           "title": "It’s Peak Season for Bird-Watchers to Spot Migratory Hummingbirds, and Our Favorite Feeder Is on Sale",
           "imageUrl": "https://media.wired.com/photos/69a9d1f7eef4a6939c4e057b/191:100/w_1280,c_limit/GettyImages-1175068274.jpg"
         },
@@ -1034,7 +1104,7 @@
           "description": "Daredevil: Born Again, The Dinosaurs, and For All Mankind are just a few of the TV shows we’re springing for this month.",
           "link": "https://www.wired.com/story/the-best-shows-to-stream-right-now/",
           "publishedOn": "2026-03-05T20:00:00.000Z",
-          "wordCount": 29891,
+          "wordCount": 29658,
           "title": "The 10 Best Shows to Stream Right Now (March 2026)",
           "imageUrl": "https://media.wired.com/photos/69a8d9a33be4d6b31259103f/191:100/w_1280,c_limit/Show-Guide-Culture-Daredevil-TCDDABO_G5013.jpg"
         },
@@ -1044,7 +1114,7 @@
           "description": "Donald Trump said he would replace the secretary of the Department of Homeland Security. Noem’s tenure was marked by aggressive anti-immigration tactics and ICE and CBP’s killing of two US protesters.",
           "link": "https://www.wired.com/story/the-controversies-finally-caught-up-to-kristi-noem/",
           "publishedOn": "2026-03-05T19:43:46.000Z",
-          "wordCount": 26932,
+          "wordCount": 26821,
           "title": "The Controversies Finally Caught Up to Kristi Noem",
           "imageUrl": "https://media.wired.com/photos/693b3a4b52e40de1a2301b5e/191:100/w_1280,c_limit/Pol_Kristi_Noem_GettyImages-2242496710.jpg"
         },
@@ -1054,7 +1124,7 @@
           "description": "Infighting and backlash among Heated Rivalry fans is most pronounced on X—fueled in part by censorship-driven migration from platforms like Tumblr.",
           "link": "https://www.wired.com/story/why-fandom-discourse-feels-extra-cringe-right-now/",
           "publishedOn": "2026-03-05T19:16:21.000Z",
-          "wordCount": 28240,
+          "wordCount": 28203,
           "title": "Why Fandom Discourse Feels Extra Cringe Right Now",
           "imageUrl": "https://media.wired.com/photos/69a9e1a0536fa1653fd1986b/191:100/w_1280,c_limit/Fandom-Discourse-is-Embarrassing-Culture-hudson-williams-connor-storrie_1.jpg"
         },
@@ -1064,7 +1134,7 @@
           "description": "Amazon and Best Buy have Roku's QLED Mini-LED panel marked down by hundreds of dollars.",
           "link": "https://www.wired.com/story/roku-pro-series-deal-326/",
           "publishedOn": "2026-03-05T18:26:54.000Z",
-          "wordCount": 24986,
+          "wordCount": 25035,
           "title": "The Best Roku TV Is $210 Off",
           "imageUrl": "https://media.wired.com/photos/69a9c981ba6a232306031f90/191:100/w_1280,c_limit/The%20Roku%20TV%20Is%20$210%20Off.png"
         },
@@ -1074,7 +1144,7 @@
           "description": "In January, after TikTok announced a deal to transfer its US operations, Apple began blocking people in the US from downloading or updating ByteDance apps designed for the Chinese market.",
           "link": "https://www.wired.com/story/bytedance-apps-are-no-longer-available-in-us-app-stores/",
           "publishedOn": "2026-03-05T17:03:59.000Z",
-          "wordCount": 27973,
+          "wordCount": 27977,
           "title": "Apple Blocks US Users From Downloading ByteDance’s Chinese Apps",
           "imageUrl": "https://media.wired.com/photos/69a744918974701e00ef7e9f/191:100/w_1280,c_limit/Apple-Blocks-Us-Users-From-Downloading-ByteDance-Chinese-Apps-Business-2228262733.jpg"
         },
@@ -1084,79 +1154,9 @@
           "description": "Can it really be the case that the company can now make a laptop $200 cheaper than a watch?",
           "link": "https://www.wired.com/story/the-bargain-basement-macbook-neo-exposes-the-insane-price-of-another-key-apple-product/",
           "publishedOn": "2026-03-05T17:00:16.000Z",
-          "wordCount": 28643,
+          "wordCount": 28647,
           "title": "The Bargain-Basement MacBook Neo Exposes the Insane Price of Another Key Apple Product",
           "imageUrl": "https://media.wired.com/photos/69a8d1ca0de8fc8dd1eec56b/191:100/w_1280,c_limit/Gear_barginmacbook_apple.jpg"
-        },
-        {
-          "id": "699cd9b25ebc125056b26846",
-          "author": "Kieran Alger",
-          "description": "The best new shoes in this hybrid, niche footwear style can take you from your front door, down the asphalt, and into the trees.",
-          "link": "https://www.wired.com/gallery/best-gravel-running-shoes/",
-          "publishedOn": "2026-03-05T13:00:00.000Z",
-          "wordCount": 28652,
-          "title": "Best Gravel Running Shoes (2026): Salomon, Adidas, Nike",
-          "imageUrl": "https://media.wired.com/photos/69a8b10e7ec5e387c831c738/191:100/w_1280,c_limit/The%20Best%20Gravel%20Running%20Shoes.png"
-        },
-        {
-          "id": "5b4386909bc3f356f4059227",
-          "author": "Adrienne So",
-          "description": "Rock your inner jock with a pair of sturdy, sweatproof, and tangle-proof headphones. Here are our favorites.",
-          "link": "https://www.wired.com/gallery/best-workout-headphones/",
-          "publishedOn": "2026-03-05T12:30:00.000Z",
-          "wordCount": 31403,
-          "title": "Best Workout Headphones (2026), Tested in the Gym and in the Streets",
-          "imageUrl": "https://media.wired.com/photos/69a895985108d1bdd754c5a0/191:100/w_1280,c_limit/The%20Best%20Headphones%20for%20Working%20Out.png"
-        },
-        {
-          "id": "69a85d5230a8ff44ae3193a1",
-          "author": "Chris Haslam",
-          "description": "Is a $250 Bluetooth speaker worth it? If it's this one made by KEF, it just might be.",
-          "link": "https://www.wired.com/review/kef-muo-2026/",
-          "publishedOn": "2026-03-05T12:00:00.000Z",
-          "wordCount": 23132,
-          "title": "KEF Muo Bluetooth Speaker: Portable Hi-Fi",
-          "imageUrl": "https://media.wired.com/photos/69a8b170661380d619c15741/191:100/w_1280,c_limit/KEF%20Muo_Lifestyle_KEF_Muo_2025_lifestyle_image_MossGreen_Planting.jpg"
-        },
-        {
-          "id": "69a620f13cc19fc094f8feea",
-          "author": "Michael Sawh",
-          "description": "Suunto's latest adventure fitness tracker finally introduces a bright AMOLED screen that's great for maps.",
-          "link": "https://www.wired.com/review/suunto-vertical-2/",
-          "publishedOn": "2026-03-05T11:30:00.000Z",
-          "wordCount": 22106,
-          "title": "Suunto Vertical 2 Review: Catching Up to the Pack",
-          "imageUrl": "https://media.wired.com/photos/69a89702306d34fffba449dd/191:100/w_1280,c_limit/Suunto-Vertical-2-source-Michael-Sawh.jpg"
-        },
-        {
-          "id": "69a4f113acf0c05284ac0afe",
-          "author": "Julian Chokkattu",
-          "description": "Nothing won't launch a flagship phone this year, but the colorful and affordable Phone (4a), Phone (4a) Pro, and Headphone (a) are here to fill the void.",
-          "link": "https://www.wired.com/story/nothing-phone-4a-and-phone-4a-pro-and-headphone-a/",
-          "publishedOn": "2026-03-05T11:15:00.000Z",
-          "wordCount": 28173,
-          "title": "Nothing Has Two New Midrange Phones, but Only One Will Be Sold in the US",
-          "imageUrl": "https://media.wired.com/photos/69a8c7d10de8fc8dd1eec4d1/191:100/w_1280,c_limit/Nothing-Phone-(4a)-Julian-Chokkattu-Gear.jpg"
-        },
-        {
-          "id": "69a7743de73a828d39feb93a",
-          "author": "Nena Farrell",
-          "description": "Forcing your body to wake up a full hour earlier out of nowhere will be as brutal as it sounds. Instead, start early and add some light to your routine.",
-          "link": "https://www.wired.com/story/survive-daylight-savings-by-starting-early/",
-          "publishedOn": "2026-03-05T11:02:00.000Z",
-          "wordCount": 27101,
-          "title": "How to Survive Daylight Saving Time: Start Early (2026)",
-          "imageUrl": "https://media.wired.com/photos/69a8b3c7d8fea122f1c704f8/191:100/w_1280,c_limit/The%20Best%20Way%20to%20Survive%20Daylight%20Saving%20Time%20Is%20to%20Start%20Early.png"
-        },
-        {
-          "id": "64c022160124a91cee27dba5",
-          "author": "Nena Farrell",
-          "description": "After sleeping on more than 70 different sets of sheets, these are the best sets that won't break the bank.",
-          "link": "https://www.wired.com/story/best-sheets/",
-          "publishedOn": "2026-03-05T10:34:00.000Z",
-          "wordCount": 34470,
-          "title": "Best Sheets Under $200 and $100 (2026): Cotton, Bamboo, Organic",
-          "imageUrl": "https://media.wired.com/photos/69a8943444e793eef516333c/191:100/w_1280,c_limit/The%20Sheet%20Sets%20Actually%20Worth%20Buying.png"
         }
       ]
     }
