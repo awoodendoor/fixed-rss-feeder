@@ -1,25 +1,238 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-13T01:55:11.784Z</id>
+    <id>urn:2026-03-13T12:55:29.031Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-13T01:55:11.784Z</updated>
+    <updated>2026-03-13T12:55:29.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[派早报：Apple 宣布下调中国区 App Store 佣金率]]></title>
-        <id>https://sspai.com/post/107158</id>
-        <link href="https://sspai.com/post/107158"/>
-        <updated>2026-03-13T00:46:23.000Z</updated>
-        <summary type="html"><![CDATA[三星调整 Galaxy 设备的底层刷机机制等，PEGI 将从 6 月起调整游戏年龄分级规则。查看全文]]></summary>
+        <title type="html"><![CDATA[Google's AI Searches Love to Refer You Back to Google]]></title>
+        <id>69b2ea587b5e35f42538760c</id>
+        <link href="https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/"/>
+        <updated>2026-03-13T12:31:55.000Z</updated>
+        <summary type="html"><![CDATA[The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.]]></summary>
+        <author>
+            <name>Reece Rogers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China’s OpenClaw Boom Is a Gold Rush for AI Companies]]></title>
+        <id>69af1f80cfee37417ffdeed0</id>
+        <link href="https://www.wired.com/story/china-is-going-all-in-on-openclaw/"/>
+        <updated>2026-03-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.]]></summary>
+        <author>
+            <name>Zeyi Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech K98M Wireless Keyboard Review: Great for Productivity]]></title>
+        <id>69b2f2661ba49c1007d84b4c</id>
+        <link href="https://www.wired.com/review/logitech-k98m-wireless/"/>
+        <updated>2026-03-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After a series of great low-profile keyboards, the iconic peripherals brand has finally figured out a wireless mechanical model.]]></summary>
+        <author>
+            <name>Henri Robbins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gamers’ Worst Nightmares About AI Are Coming True]]></title>
+        <id>69a5e4693cc19fc094f8f235</id>
+        <link href="https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/"/>
+        <updated>2026-03-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.]]></summary>
+        <author>
+            <name>Helen Vogelsong-Donahue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony WF-1000XM6 Review: My New Favorite Earbuds]]></title>
+        <id>69aeee4e5b82547ae8cf4a50</id>
+        <link href="https://www.wired.com/review/sony-wf-1000xm6/"/>
+        <updated>2026-03-13T10:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Sony's latest flagship earbuds have the best noise canceling—and maybe the best bass—I've ever heard from wireless earbuds.]]></summary>
+        <author>
+            <name>Parker Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6G Is Coming. Here’s What to Expect From the Next Generation of Cellular Tech]]></title>
+        <id>69a6fd689a13614a0c2896e8</id>
+        <link href="https://www.wired.com/story/6g-is-coming/"/>
+        <updated>2026-03-13T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like “sensing” of vehicles, devices, and people.]]></summary>
+        <author>
+            <name>Julian Chokkattu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
+        <id>https://sspai.com/post/107183</id>
+        <link href="https://sspai.com/post/107183"/>
+        <updated>2026-03-13T10:05:46.000Z</updated>
+        <summary type="html"><![CDATA[📅本周新预告《异兽魔都第二季》正式预告3月8日，动画剧集《异兽魔都第二季》发布了正式预告，将于4月1日上线流媒体平台。本作改编自林田球的同名漫画，林祐一郎执导，濑古浩司编剧，MAPPA制作，讲述头部变 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shingles Virus May Be Aging You More Quickly]]></title>
+        <id>699f28d65d7fb50806e862a4</id>
+        <link href="https://www.wired.com/story/shingles-virus-aging/"/>
+        <updated>2026-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Evidence suggests reactivations of the varicella-zoster virus may accelerate aging and raise dementia risk. Now scientists want to know if vaccines and antivirals could help protect the brain.]]></summary>
+        <author>
+            <name>David Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans]]></title>
+        <id>69af1a3ed391a3e90c3e9c5c</id>
+        <link href="https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/"/>
+        <updated>2026-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.]]></summary>
+        <author>
+            <name>Caroline Haskins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Moccamaster Delivers Drip Coffee Perfection]]></title>
+        <id>69afd93fda29ccbe6b55baa8</id>
+        <link href="https://www.wired.com/story/technivorm-moccamaster-drip-coffee-java-base/"/>
+        <updated>2026-03-13T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s stylish and reliable—and you can pry my Moccamaster from my cold, dead hands.]]></summary>
+        <author>
+            <name>Simon Hill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Phone Battery Dies Faster During a Public Emergency]]></title>
+        <id>69b2e6bd6455dae38956e446</id>
+        <link href="https://www.wired.com/story/why-your-phone-battery-dies-faster-during-a-public-emergency/"/>
+        <updated>2026-03-13T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[During a geopolitical crisis, things like weak signal strength, network congestion, and GPS interference can force smartphones to work harder. Here’s how you can save your battery.]]></summary>
+        <author>
+            <name>Carla Sertin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探访帝国之心，吴哥旅行完全指南（上） ：行程设计]]></title>
+        <id>https://sspai.com/post/106816</id>
+        <link href="https://sspai.com/post/106816"/>
+        <updated>2026-03-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026 年的第一场旅行，我把目的地交给了暹粒，突然理解了为什么法国人会说「即使是古希腊和古罗马遗迹，在吴哥窟面前也要黯然失色。」查看全文]]></summary>
+        <author>
+            <name>鸿苓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文｜看见并打开我和我妈之间的那扇门]]></title>
+        <id>https://sspai.com/post/106709</id>
+        <link href="https://sspai.com/post/106709"/>
+        <updated>2026-03-13T05:54:51.000Z</updated>
+        <summary type="html"><![CDATA[对我来说，我不想再把和我妈的矛盾扯到「原生家庭」上，然后画上一个句号。它应该是一个逗号，后面还可以接着写，咋写由我们决定。查看全文]]></summary>
+        <author>
+            <name>十七</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before quantum computing arrives, this startup wants enterprises already running on it]]></title>
+        <id>https://techcrunch.com/?p=3102179</id>
+        <link href="https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/"/>
+        <updated>2026-03-13T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.]]></summary>
+        <author>
+            <name>Anna Heim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗为何要封锁霍尔木兹海峡？]]></title>
+        <id>https://cn.nytimes.com/world/20260313/strait-of-hormuz-iran-blockade-explained/</id>
+        <link href="https://cn.nytimes.com/world/20260313/strait-of-hormuz-iran-blockade-explained/?utm_source=RSS"/>
+        <updated>2026-03-13T04:33:13.000Z</updated>
+        <summary type="html"><![CDATA[霍尔木兹海峡是是将石油、天然气和其他货物从波斯湾运往外界的唯一海上通道，具有重要战略意义。伊朗军队目前在波斯湾和霍尔木兹海峡拥有战略优势，有能力威胁航运交通。
+
+                    
+The New York Times
+                    
+《纽约时报》一项分析显示，自美以对伊朗开战近两周以来，至少已有16艘油轮、货船及其他商船在波斯湾及其周边海域遇袭。]]></summary>
+        <author>
+            <name>《纽约时报》</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Truecaller now lets you hang up on scammers — on behalf of your family]]></title>
+        <id>https://techcrunch.com/?p=3101896</id>
+        <link href="https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/"/>
+        <updated>2026-03-13T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed. The company, which has over 450 million users, first […]]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年春天火爆全网的“高级感穿搭”，为什么还是它？]]></title>
+        <id>39a2e6a064b744ce8a131ee959b5a56f</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%8A%E5%B9%B4%E6%98%A5%E5%A4%A9%E7%81%AB%E7%88%86%E5%85%A8%E7%BD%91%E7%9A%84%E2%80%9C%E9%AB%98%E7%BA%A7%E6%84%9F%E7%A9%BF%E6%90%AD%E2%80%9D%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%98%AF%E5%AE%83%EF%BC%9F"/>
+        <updated>2026-03-13T04:25:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一批觉醒的中产父母，已经开始拼这条赛道了]]></title>
+        <id>88994c841fcafa27a44834bec573b7ea</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%AC%AC%E4%B8%80%E6%89%B9%E8%A7%89%E9%86%92%E7%9A%84%E4%B8%AD%E4%BA%A7%E7%88%B6%E6%AF%8D%EF%BC%8C%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%8B%BC%E8%BF%99%E6%9D%A1%E8%B5%9B%E9%81%93%E4%BA%86"/>
+        <updated>2026-03-13T04:25:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无人幸免：伊朗战争让全球经济迎来巨震]]></title>
+        <id>https://cn.nytimes.com/business/20260313/iran-oil-shock-economy-global-impact/</id>
+        <link href="https://cn.nytimes.com/business/20260313/iran-oil-shock-economy-global-impact/?utm_source=RSS"/>
+        <updated>2026-03-13T03:02:02.000Z</updated>
+        <summary type="html"><![CDATA[全球经济本已因国际贸易秩序崩溃、乌克兰战争以及特朗普混乱的政策制定而备受冲击，愈演愈烈的伊朗战争成为又一次沉重的打击。亚洲经济体面临的风险尤为严峻。
+
+                    
+Altaf Qadri/Associated Press
+                    
+周三，霍尔木兹海峡的油轮与货船。]]></summary>
+        <author>
+            <name>PATRICIA COHEN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技｜在镜头前翻翻页，你就得到了一本电子书]]></title>
+        <id>https://sspai.com/post/106935</id>
+        <link href="https://sspai.com/post/106935"/>
+        <updated>2026-03-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这件事又一次提醒了我，我真正感兴趣的也许不是「如何把纸质书变成电子书」这件事本身，而是「我们到底应该把哪一步交给机器」。查看全文]]></summary>
+        <author>
+            <name>单宁酸也是Cecil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“民族团结”立法：习近平打造单一国家意识]]></title>
+        <id>https://cn.nytimes.com/china/20260313/china-minorities-xinjiang-tibet/</id>
+        <link href="https://cn.nytimes.com/china/20260313/china-minorities-xinjiang-tibet/?utm_source=RSS"/>
+        <updated>2026-03-13T02:27:21.000Z</updated>
+        <summary type="html"><![CDATA[中共一直在推动新疆、西藏等地区的少数民族将自己认同为爱国公民。“民族团结法”承载了习近平构建由党打造单一国家认同的使命，被视为保护北京统治，抵御威胁的手段。
+
+                    
+Andy Wong/Associated Press
+                    
+上周，少数民族代表抵达北京参加全国人民代表大会会议，这是中国的橡皮章立法机构。]]></summary>
+        <author>
+            <name>郭莉莉</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[每月提高20元，中国农民养老金增幅微薄凸显经济不平等]]></title>
         <id>https://cn.nytimes.com/china/20260313/china-pensions-inequality-farmers/</id>
         <link href="https://cn.nytimes.com/china/20260313/china-pensions-inequality-farmers/?utm_source=RSS"/>
-        <updated>2026-03-13T00:29:28.000Z</updated>
+        <updated>2026-03-13T02:18:35.000Z</updated>
         <summary type="html"><![CDATA[北京宣布将把农民基础养老金最低标准每月提高20元。如此微薄的增幅凸显了中国经济的不平等，也引发广泛争议，甚至一些人大代表也呼吁提高农民养老保障。
 
                     
@@ -31,11 +244,46 @@ Andrea Verdelli for The New York Times
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[314 周年庆：少数派软件、会员、栏目限时优惠]]></title>
+        <id>https://sspai.com/post/107091</id>
+        <link href="https://sspai.com/post/107091"/>
+        <updated>2026-03-13T02:05:52.000Z</updated>
+        <summary type="html"><![CDATA[少数派即将迎来14周岁，为了与大家共同庆祝我派的生日，我们的软件商城、会员服务和付费栏目都为大家准备了丰厚的优惠。少数派会员：优惠价格享受全新权益为了让更多朋友能体验少数派会员，即日起至3月24日，少 ...查看全文]]></summary>
+        <author>
+            <name>福利派</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国对60个国家启动贸易调查，矛头指向强迫劳动]]></title>
+        <id>https://cn.nytimes.com/usa/20260313/trump-forced-labor-tariffs/</id>
+        <link href="https://cn.nytimes.com/usa/20260313/trump-forced-labor-tariffs/?utm_source=RSS"/>
+        <updated>2026-03-13T02:02:26.000Z</updated>
+        <summary type="html"><![CDATA[此次调查矛头指向数十个国家，涉及这些国家对使用强迫劳动生产的商品方面的贸易政策。这是美国贸易代表办公室正在推进的多项调查之一，已引起一些贸易伙伴的不满和担忧。
+
+                    
+Mark Abramson for The New York Times
+                    
+货运卡车驶离洛杉矶港，摄于去年5月。最新的贸易调查是特朗普政府试图恢复一套全球关税体系的一部分。上个月，特朗普最初推动的关税方案被最高法院否决。]]></summary>
+        <author>
+            <name>ANA SWANSON</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 宣布下调中国区 App Store 佣金率]]></title>
+        <id>https://sspai.com/post/107158</id>
+        <link href="https://sspai.com/post/107158"/>
+        <updated>2026-03-13T00:46:23.000Z</updated>
+        <summary type="html"><![CDATA[三星调整 Galaxy 设备的底层刷机机制等，PEGI 将从 6 月起调整游戏年龄分级规则。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to watch Jensen Huang’s Nvidia GTC 2026 keynote]]></title>
         <id>https://techcrunch.com/?p=3102218</id>
         <link href="https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/"/>
         <updated>2026-03-12T23:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia kicks off its GTC conference with Huang's keynote on Monday, which can be watched in person or via livestream.]]></summary>
+        <summary type="html"><![CDATA[GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.]]></summary>
         <author>
             <name>Rebecca Szkutak</name>
         </author>
@@ -53,7 +301,7 @@ Andrea Verdelli for The New York Times
     <entry>
         <title type="html"><![CDATA[Channel Surfer lets you watch YouTube like it’s old-school cable TV]]></title>
         <id>https://techcrunch.com/?p=3102159</id>
-        <link href="https://techcrunch.com/2026/03/12/channel-surfer-lets-you-watch-youtube-like-its-old-school-cable-tv/"/>
+        <link href="https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/"/>
         <updated>2026-03-12T20:27:17.000Z</updated>
         <summary type="html"><![CDATA[The web app lets you turn on YouTube and surf channels like you're watching cable TV in the '90s.]]></summary>
         <author>
@@ -88,6 +336,21 @@ Andrea Verdelli for The New York Times
         <summary type="html"><![CDATA[In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.]]></summary>
         <author>
             <name>Brian Barrett, Zoë Schiffer, Leah Feiger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗战争如何让中国受益、让美国亚洲盟友不安]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20260313/iran-war-china-asia/</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20260313/iran-war-china-asia/?utm_source=RSS"/>
+        <updated>2026-03-12T19:21:30.000Z</updated>
+        <summary type="html"><![CDATA[伊朗战争迫使美国转移在亚洲的军事资源，这促使区域盟友重新思考对美国的依赖。分析认为，这场战争将削弱美国的影响力，提升中国信心，并加速中等强国的军备竞赛。
+
+                    
+Pool photo by Fazry Ismail
+                    
+2024年，美国海军林肯号航空母舰甲板上的战斗机。包括这艘航母在内的一个航母编队于1月从南海被调往中东。]]></summary>
+        <author>
+            <name>DAMIEN CAVE,CHOE SANG-HUN,赫海威,ERIC SCHMITT</name>
         </author>
     </entry>
     <entry>
@@ -148,6 +411,21 @@ Andrea Verdelli for The New York Times
         <summary type="html"><![CDATA[IK Multimedia's iLoud Micro Monitors are an excellent pick for anyone who works with audio and video, or just likes premium sound.]]></summary>
         <author>
             <name>Brad Bourque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷爱凌出席旧金山春节大游行：掌声与争议中的华裔明星]]></title>
+        <id>https://cn.nytimes.com/usa/20260313/eileen-gu-olympics-chinese-american/</id>
+        <link href="https://cn.nytimes.com/usa/20260313/eileen-gu-olympics-chinese-american/?utm_source=RSS"/>
+        <updated>2026-03-12T17:28:59.000Z</updated>
+        <summary type="html"><![CDATA[谷爱凌在旧金山的春节大游行中受到民众追捧，但在美国其他地方，她的身份和行为则更具争议性。她与刘美贤得到的不同待遇也在美国华裔群体中引发讨论。
+
+                    
+Mike Kai Chen for The New York Times
+                    
+谷爱凌常说：“我在美国时是美国人，在中国时是中国人。”]]></summary>
+        <author>
+            <name>AMY QIN,CORAL MURPHY MARCOS</name>
         </author>
     </entry>
     <entry>
@@ -271,26 +549,6 @@ Andrea Verdelli for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rivian R2 launch: Here’s what $57,990 gets you]]></title>
-        <id>https://techcrunch.com/?p=3101946</id>
-        <link href="https://techcrunch.com/2026/03/12/rivian-r2-launch-heres-what-57990-gets-you/"/>
-        <updated>2026-03-12T15:02:09.000Z</updated>
-        <summary type="html"><![CDATA[Two years after revealing what its affordable next-generation EV would look like, Rivian has shared all of the pricing, colors, and performance specs for its upcoming R2 SUV. And like so many new car releases, it’s complicated.]]></summary>
-        <author>
-            <name>Kirsten Korosec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber, Wayve, and Nissan plan to launch a robotaxi service in Tokyo this year]]></title>
-        <id>https://techcrunch.com/?p=3101935</id>
-        <link href="https://techcrunch.com/2026/03/12/uber-wayve-and-nissan-plan-to-launch-a-robotaxi-service-in-tokyo-this-year/"/>
-        <updated>2026-03-12T14:58:46.000Z</updated>
-        <summary type="html"><![CDATA[Nissan will integrate Wayve's self-driving software into the Leaf with the goal of making the vehicles available on the Uber app in Tokyo.]]></summary>
-        <author>
-            <name>Sean O'Kane</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Essential Gear for an Emergency Kit—for Cars or Go-Bags]]></title>
         <id>68f7bc3262883d2cd39ed9eb</id>
         <link href="https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/"/>
@@ -378,16 +636,6 @@ Andrea Verdelli for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Watch the Oscars (2026)]]></title>
-        <id>69a8d203d11aac3069d1a33d</id>
-        <link href="https://www.wired.com/story/how-to-watch-the-oscars-2026/"/>
-        <updated>2026-03-12T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 98th Annual Academy Awards will happen on Sunday, March 15. Here's how to make sure you catch every speech, joke, dress, and song.]]></summary>
-        <author>
-            <name>Michael Calore</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Best Large TVs (Best Over 75 Inches): Samsung, LG, and More]]></title>
         <id>69a8b5ba5c52c978c4b3f2ab</id>
         <link href="https://www.wired.com/gallery/best-large-tvs/"/>
@@ -395,6 +643,16 @@ Andrea Verdelli for The New York Times
         <summary type="html"><![CDATA[TVs are bigger and better than ever. These are my favorite screens that come in extra-large sizes, from affordable to ostentatious.]]></summary>
         <author>
             <name>Ryan Waniata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Watch the Oscars (2026)]]></title>
+        <id>69a8d203d11aac3069d1a33d</id>
+        <link href="https://www.wired.com/story/how-to-watch-the-oscars-2026/"/>
+        <updated>2026-03-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 98th Annual Academy Awards will happen on Sunday, March 15. Here's how to make sure you catch every speech, joke, dress, and song.]]></summary>
+        <author>
+            <name>Michael Calore</name>
         </author>
     </entry>
     <entry>
@@ -479,24 +737,6 @@ Benoit Tessier/Reuters
 在伊朗的威胁之下，波斯湾的商业航运已陷入停滞，油价随之飙升。]]></summary>
         <author>
             <name>MARK MAZZETTI,TYLER PAGER,黄安伟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“免费住院”骗局下，他们成为精神病专科医院的“骗保摇钱树”]]></title>
-        <id>602efbdfc8ac3065611b77505417e4a8</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E5%85%8D%E8%B4%B9%E4%BD%8F%E9%99%A2%E2%80%9D%E9%AA%97%E5%B1%80%E4%B8%8B%EF%BC%8C%E4%BB%96%E4%BB%AC%E6%88%90%E4%B8%BA%E7%B2%BE%E7%A5%9E%E7%97%85%E4%B8%93%E7%A7%91%E5%8C%BB%E9%99%A2%E7%9A%84%E2%80%9C%E9%AA%97%E4%BF%9D%E6%91%87%E9%92%B1%E6%A0%91%E2%80%9D"/>
-        <updated>2026-03-12T04:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老饕们的“鲜味”担当，为什么是云南羊肚菌？]]></title>
-        <id>429c9bc90c0f3cef08c47f4f2d44c340</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%80%81%E9%A5%95%E4%BB%AC%E7%9A%84%E2%80%9C%E9%B2%9C%E5%91%B3%E2%80%9D%E6%8B%85%E5%BD%93%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%91%E5%8D%97%E7%BE%8A%E8%82%9A%E8%8F%8C%EF%BC%9F"/>
-        <updated>2026-03-12T04:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -824,16 +1064,6 @@ Arash Khamooshi for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[再谈 eSIM 手机：海内外不同手机比较与技术讨论]]></title>
-        <id>https://sspai.com/post/106719</id>
-        <link href="https://sspai.com/post/106719"/>
-        <updated>2026-03-11T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[本文将简单回顾 eSIM 智能手机的起点，介绍当下各品牌智能手机支持 eSIM 的情况，探讨一些关于 eSIM 的技术话题。查看全文]]></summary>
-        <author>
-            <name>Neighbor_Z</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rally Orbital Massager Review: The Oscillating Revolution]]></title>
         <id>69ab380a15dae1d56d0bf981</id>
         <link href="https://www.wired.com/review/rally-orbital-massager/"/>
@@ -854,47 +1084,6 @@ Arash Khamooshi for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[两百元，我把吃灰动感单车改造成了万能游戏外设]]></title>
-        <id>https://sspai.com/prime/story/exercise-bike-gaming-peripheral</id>
-        <link href="https://sspai.com/prime/story/exercise-bike-gaming-peripheral"/>
-        <updated>2026-03-11T08:36:49.000Z</updated>
-        <summary type="html"><![CDATA[前言：一场对抗「西西弗斯式」无聊的折腾对于忙碌又被惯坏的现代人而言，坚持运动从来都不是一件容易的事。我们常用的解决方案往往依赖外部激励：要么是AppleWatch提供的数值化圆环，要么是Switch《 ...查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>Gurri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technology Is Reshaping Sleep Apnea Treatment]]></title>
-        <id>69a83eaf7b1e561d71bd0189</id>
-        <link href="https://www.wired.com/story/sleep-apnea-treatment-tech/"/>
-        <updated>2026-03-11T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For decades, cumbersome CPAP machines have been the primary way to help people with sleep apnea. A range of new options has recently come into focus.]]></summary>
-        <author>
-            <name>Anna McKie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文｜2025 副业备忘录：从 3D 打印到「一人企业」]]></title>
-        <id>https://sspai.com/post/106723</id>
-        <link href="https://sspai.com/post/106723"/>
-        <updated>2026-03-11T07:24:40.000Z</updated>
-        <summary type="html"><![CDATA[把想到的、想做的做出来，便能有自己的一方小小天地。查看全文]]></summary>
-        <author>
-            <name>小鱼Quentin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市漫步指南：用 10 天走进东北白山黑水]]></title>
-        <id>https://sspai.com/post/106373</id>
-        <link href="https://sspai.com/post/106373"/>
-        <updated>2026-03-11T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[这一次，我终于用 10 天时间真正走进白山黑水之间，补上一场迟到了很多年的东北初见。查看全文]]></summary>
-        <author>
-            <name>PJHubs</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[拉美国家为何表面附和美国，私下兑现中国支票]]></title>
         <id>https://cn.nytimes.com/opinion/20260311/trump-latin-america-china/</id>
         <link href="https://cn.nytimes.com/opinion/20260311/trump-latin-america-china/?utm_source=RSS"/>
@@ -905,16 +1094,6 @@ Arash Khamooshi for The New York Times
 Photo illustration by Philotheus Nisch for The New York Times; source photograph by Eric Lee for The New York Times]]></summary>
         <author>
             <name>OLIVER STUENKEL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Do in Chicago If You’re Here for Business (2026)]]></title>
-        <id>68d6ef7265b9de5f33d504de</id>
-        <link href="https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/"/>
-        <updated>2026-03-11T03:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Where to lock in, power down, and actually enjoy your business trip.]]></summary>
-        <author>
-            <name>Boutayna Chokrane</name>
         </author>
     </entry>
     <entry>
@@ -948,16 +1127,6 @@ Raghed Waked/Reuters
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[产品团购暨直播 | 少数派十四周年：一场特别的周年回馈活动]]></title>
-        <id>https://sspai.com/post/107020</id>
-        <link href="https://sspai.com/post/107020"/>
-        <updated>2026-03-11T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[少数派又陪大家走过了一年。关于少数派十四周年，我们将带来一场特别的回馈活动。少数派创始人老麦也将来到少数派共创直播间，与大家聊聊关于少数派2025的共创历程。2025的主线：找回那份久违的专注少数派的 ...查看全文]]></summary>
-        <author>
-            <name>什么陈</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[茅台之乡陷困局，“中国酒都”力图突围]]></title>
         <id>https://cn.nytimes.com/china/20260309/maotai-china-liquor-capital/</id>
         <link href="https://cn.nytimes.com/china/20260309/maotai-china-liquor-capital/?utm_source=RSS"/>
@@ -987,111 +1156,6 @@ Tierney L. Cross/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[伊朗最高领袖办公室：全方位统领国家权力的“国中之国”]]></title>
-        <id>https://cn.nytimes.com/world/20260311/iran-supreme-leader-secretive-office/</id>
-        <link href="https://cn.nytimes.com/world/20260311/iran-supreme-leader-secretive-office/?utm_source=RSS"/>
-        <updated>2026-03-11T02:23:59.000Z</updated>
-        <summary type="html"><![CDATA[伊朗的最高领袖办公室通常简称为贝特，老哈梅内伊在位期间，贝特的规模从数十人扩大到一个拥有4千名雇员的庞大机构，在国家事务中一直发挥着超乎寻常的作用。
-
-                    
-Rouzbeh Fouladi/Agence France-Presse — Getty Images
-                    
-前伊朗最高领袖阿亚图拉阿里·哈梅内伊之子穆杰塔巴·哈梅内伊，2019年摄于德黑兰。]]></summary>
-        <author>
-            <name>NEIL MACFARQUHAR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Administration Won’t Rule Out Further Action Against Anthropic]]></title>
-        <id>69b0aae334b64baf76d89f7e</id>
-        <link href="https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/"/>
-        <updated>2026-03-11T01:41:42.000Z</updated>
-        <summary type="html"><![CDATA[The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.]]></summary>
-        <author>
-            <name>Paresh Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国在伊朗战争爆发前已开始囤积石油]]></title>
-        <id>https://cn.nytimes.com/world/20260311/china-iran-oil/</id>
-        <link href="https://cn.nytimes.com/world/20260311/china-iran-oil/?utm_source=RSS"/>
-        <updated>2026-03-11T01:10:07.000Z</updated>
-        <summary type="html"><![CDATA[官方数据显示，中国今年1月至2月的石油进口量较去年同期增长15.8%。过去一年，中国一直在不断扩充战略石油储备。如今，这些储备预计将派上用场。
-
-                    
-Agence France-Presse — Getty Images
-                    
-周二，一艘油轮在青岛港的码头卸载原油。]]></summary>
-        <author>
-            <name>艾莎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“能源武器”卷土重来：石油再次成为地缘政治工具]]></title>
-        <id>https://cn.nytimes.com/business/20260311/oil-gas-iran-war/</id>
-        <link href="https://cn.nytimes.com/business/20260311/oil-gas-iran-war/?utm_source=RSS"/>
-        <updated>2026-03-10T23:53:26.000Z</updated>
-        <summary type="html"><![CDATA[伊朗战争导致石油价格飙升，各国疲于应对。这提醒世人：尽管石油在全球能源需求中的占比已低于往昔，但它在地缘政治与全球经济中仍拥有持久的影响力。
-
-                    
-Damian Dovarganes/Associated Press
-                    
-上周，一艘油轮停泊在加利福尼亚州埃尔塞贡多市海岸附近。尽管美国是全球最大的石油和天然气生产国，但中东战争的影响仍在持续发酵。]]></summary>
-        <author>
-            <name>REBECCA F. ELLIOTT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS]]></title>
-        <id>69b0614b77cce5082a30f877</id>
-        <link href="https://www.wired.com/story/pete-hegseth-is-pushing-defense-employees-to-volunteer-for-dhs/"/>
-        <updated>2026-03-10T20:06:45.000Z</updated>
-        <summary type="html"><![CDATA[The defense secretary has made clear that Pentagon managers are to encourage workers, including civilians, to volunteer to assist in the administration’s immigration crackdown.]]></summary>
-        <author>
-            <name>Vittoria Elliott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anker’s Discounted Power Station Can Power Your Next Camping Trip]]></title>
-        <id>69b02fa5268ace4336d61bfd</id>
-        <link href="https://www.wired.com/story/anker-solix-c1000-spring-deal/"/>
-        <updated>2026-03-10T18:55:32.000Z</updated>
-        <summary type="html"><![CDATA[Go off-grid camping for a long weekend with my favorite portable power station from Anker. It’s on sale.]]></summary>
-        <author>
-            <name>Simon Hill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interstellar Comet 3I/Atlas Has Another Surprise: It’s Full of Alcohol]]></title>
-        <id>69b00c9e993228ad6bbbc39b</id>
-        <link href="https://www.wired.com/story/interstellar-comet-3i-atlas-has-another-surprise-its-full-of-alcohol/"/>
-        <updated>2026-03-10T18:48:25.000Z</updated>
-        <summary type="html"><![CDATA[Analysis of the tail of 3I/Atlas reveals that it contains an anomalous proportion of methanol, a class of alcohol used in fuels.]]></summary>
-        <author>
-            <name>Jorge Garay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHS Ousts CBP Privacy Officers Who Questioned ‘Illegal’ Orders]]></title>
-        <id>69aaefdc8dc52763006304ef</id>
-        <link href="https://www.wired.com/story/cbp-privacy-threshold-analysis-foia/"/>
-        <updated>2026-03-10T18:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Department of Homeland Security leaders removed top privacy officers who objected to mislabeling government records to block their public release, WIRED has learned.]]></summary>
-        <author>
-            <name>Dell Cameron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Favorite Earbuds for Samsung Owners Are on Sale]]></title>
-        <id>69b0494b7445816014dfceea</id>
-        <link href="https://www.wired.com/story/samsung-galaxy-buds-fe-deal-326/"/>
-        <updated>2026-03-10T17:50:54.000Z</updated>
-        <summary type="html"><![CDATA[The Samsung Galaxy Buds 3 FE are a great pairing for anyone with a Galaxy phone.]]></summary>
-        <author>
-            <name>Brad Bourque</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[逃离卡塔尔：一段历时62小时、游遍四大洲的回家之路]]></title>
         <id>https://cn.nytimes.com/world/20260311/canceled-flights-middle-east-iran-war/</id>
         <link href="https://cn.nytimes.com/world/20260311/canceled-flights-middle-east-iran-war/?utm_source=RSS"/>
@@ -1106,75 +1170,12 @@ Damian Dovarganes/Associated Press
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fake AI Content About the Iran War Is All Over X]]></title>
-        <id>69aed74711a707016d73d1f8</id>
-        <link href="https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/"/>
-        <updated>2026-03-10T16:45:47.000Z</updated>
-        <summary type="html"><![CDATA[X’s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.]]></summary>
-        <author>
-            <name>David Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Trumpworld Events Company Is Raking In Millions in Federal Contracts]]></title>
-        <id>69a5b79b7a31ecab181c1bc3</id>
-        <link href="https://www.wired.com/story/they-helped-plan-the-january-6-rally-now-their-events-company-is-raking-in-millions-in-government-contracts/"/>
-        <updated>2026-03-10T15:40:18.000Z</updated>
-        <summary type="html"><![CDATA[The Trump administration has awarded Event Strategies several contracts—including one that could be worth up to $100 million—with little competition, according to federal filings.]]></summary>
-        <author>
-            <name>David Gilbert, Matt Giles, Leah Feiger, Zoë Schiffer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国AI巨头撒钱“圈粉”，这场近身肉搏的激战还能撑多久？ | 经济学人商业]]></title>
         <id>e25987587ae6a606cf97bb0853748c5a</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E4%B8%AD%E5%9B%BDAI%E5%B7%A8%E5%A4%B4%E6%92%92%E9%92%B1%E2%80%9C%E5%9C%88%E7%B2%89%E2%80%9D%EF%BC%8C%E8%BF%99%E5%9C%BA%E8%BF%91%E8%BA%AB%E8%82%89%E6%90%8F%E7%9A%84%E6%BF%80%E6%88%98%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85%EF%BC%9F%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%95%86%E4%B8%9A"/>
         <updated>2026-03-10T07:08:00.000Z</updated>
         <author>
             <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭秘伊斯兰革命卫队：伊朗军事化国家的支柱]]></title>
-        <id>https://cn.nytimes.com/world/20260310/iran-islamic-revolutionary-guards-corps/</id>
-        <link href="https://cn.nytimes.com/world/20260310/iran-islamic-revolutionary-guards-corps/?utm_source=RSS"/>
-        <updated>2026-03-10T04:52:52.000Z</updated>
-        <summary type="html"><![CDATA[伊朗表面上是神权国家，但革命卫队构成了这个军事化国家的支柱。分析认为，革命卫队在军事、政治与经济领域的广泛影响力是阻碍伊朗政权更迭乃至任何变革的主要障碍。
-
-                    
-Arash Khamooshi for The New York Times
-                    
-2024年，伊斯兰革命卫队成员在德黑兰悼念被以色列杀死的巴勒斯坦和黎巴嫩武装分子。]]></summary>
-        <author>
-            <name>NEIL MACFARQUHAR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中东冲突升级，中国经济风险加剧]]></title>
-        <id>https://cn.nytimes.com/business/20260310/china-trade-persian-gulf-iran/</id>
-        <link href="https://cn.nytimes.com/business/20260310/china-trade-persian-gulf-iran/?utm_source=RSS"/>
-        <updated>2026-03-10T04:08:13.000Z</updated>
-        <summary type="html"><![CDATA[伊朗是中国的盟友和金融合作伙伴，霍尔木兹海峡是中国能源和货物运输的重要通道。近年来，中国对中东的投资增长迅速，若冲突扩大，北京可能将蒙受损失。
-
-                    
-The New York Times
-                    
-中国北仑港。随着中美贸易争端加剧，中东对中国的重要性日益凸显。]]></summary>
-        <author>
-            <name>艾莎,MURPHY ZHAO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普根本不知道该如何结束伊朗战争]]></title>
-        <id>https://cn.nytimes.com/opinion/20260310/iran-israel-united-states-bombing/</id>
-        <link href="https://cn.nytimes.com/opinion/20260310/iran-israel-united-states-bombing/?utm_source=RSS"/>
-        <updated>2026-03-09T18:18:34.000Z</updated>
-        <summary type="html"><![CDATA[伊朗政权是一个耻辱，应该被推翻。但无休止的空袭把伊朗彻底摧毁，使其变成一个任何人都无法治理的烂摊子。那将是一场无法估量的灾难。
-
-                    
-Nanna Heitmann for The New York Times]]></summary>
-        <author>
-            <name>托马斯·弗里德曼</name>
         </author>
     </entry>
     <entry>
