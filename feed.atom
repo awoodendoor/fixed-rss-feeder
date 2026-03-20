@@ -1,38 +1,354 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-19T13:00:18.713Z</id>
+    <id>urn:2026-03-20T01:57:57.673Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T13:00:18.713Z</updated>
+    <updated>2026-03-20T01:57:57.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Feds intensify investigation into Tesla’s Full Self-Driving (Supervised) software]]></title>
-        <id>https://techcrunch.com/?p=3103964</id>
-        <link href="https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/"/>
-        <updated>2026-03-19T12:32:47.000Z</updated>
-        <summary type="html"><![CDATA[The National Highway Traffic Safety Administration has upgraded its probe after finding more instances of Tesla's driving software struggling in low-visibility conditions.]]></summary>
+        <title type="html"><![CDATA[特朗普用珍珠港事件开玩笑，高市早苗面露尴尬]]></title>
+        <id>https://cn.nytimes.com/world/20260320/trump-japan-pearl-harbor-oval-office-takaichi/</id>
+        <link href="https://cn.nytimes.com/world/20260320/trump-japan-pearl-harbor-oval-office-takaichi/?utm_source=RSS"/>
+        <updated>2026-03-20T01:02:39.000Z</updated>
+        <summary type="html"><![CDATA[特朗普在与高市早苗会面时提及珍珠港事件，称日本更懂得在战争中“出其不意”。高市早苗瞪大双眼，一言不发。美国历任总统一直避免对珍珠港事件发表严厉言论。
+
+                    
+Doug Mills/The New York Times]]></summary>
+        <author>
+            <name>赫海威</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：小米发布多款新品、稀宇科技发布 MiniMax-M2.7 模型等]]></title>
+        <id>https://sspai.com/post/107563</id>
+        <link href="https://sspai.com/post/107563"/>
+        <updated>2026-03-20T00:38:32.000Z</updated>
+        <summary type="html"><![CDATA[Google Stitch 引入 vibe design 设计理念，飞利浦推出全新 Moving Sound 系列等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Takes Down Botnets Used in Record-Breaking Cyberattacks]]></title>
+        <id>69bc0fc990a1aefd26b02424</id>
+        <link href="https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/"/>
+        <updated>2026-03-20T00:07:30.000Z</updated>
+        <summary type="html"><![CDATA[The Aisuru, Kimwolf, JackSkid, and Mossad botnets had infected more than 3 million devices in total, many inside home networks, according to the US Justice Department.]]></summary>
+        <author>
+            <name>Andy Greenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁来判断伊朗构成的威胁？美国情报总监“甩锅”特朗普]]></title>
+        <id>https://cn.nytimes.com/usa/20260320/tulsi-gabbard-iran-trump/</id>
+        <link href="https://cn.nytimes.com/usa/20260320/tulsi-gabbard-iran-trump/?utm_source=RSS"/>
+        <updated>2026-03-19T23:52:54.000Z</updated>
+        <summary type="html"><![CDATA[在关于伊朗问题的听证会上，国家情报总监加巴德表示，只有特朗普总统才有权决定何为“迫在眉睫”的威胁。此前，她的亲信肯特因反对伊朗战争而辞去在反恐部门的职位。
+
+                    
+Tierney L. Cross/The New York Times
+                    
+国家情报总监图尔西·加巴德在周三的参议院全球威胁听证会上。她表示，只有总统才有权决定什么构成“迫在眉睫的威胁”。]]></summary>
+        <author>
+            <name>DAVID E. SANGER,JULIAN E. BARNES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon acquires Rivr, maker of a stair-climbing delivery robot]]></title>
+        <id>https://techcrunch.com/?p=3104295</id>
+        <link href="https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/"/>
+        <updated>2026-03-19T23:28:37.000Z</updated>
+        <summary type="html"><![CDATA[Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.]]></summary>
+        <author>
+            <name>Kirsten Korosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI]]></title>
+        <id>https://techcrunch.com/?p=3104201</id>
+        <link href="https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"/>
+        <updated>2026-03-19T22:09:24.000Z</updated>
+        <summary type="html"><![CDATA[The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.]]></summary>
+        <author>
+            <name>Lucas Ropek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’]]></title>
+        <id>69baf1afb2b641906b1ec590</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/"/>
+        <updated>2026-03-19T21:43:56.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.]]></summary>
+        <author>
+            <name>Brian Barrett, Zoë Schiffer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant]]></title>
+        <id>https://techcrunch.com/?p=3104168</id>
+        <link href="https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/"/>
+        <updated>2026-03-19T21:13:50.000Z</updated>
+        <summary type="html"><![CDATA[A dancing robot in a Haidilao hot pot restaurant boogied down a little too hard.]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymarket continues its partnership spree with a Major League Baseball deal]]></title>
+        <id>https://techcrunch.com/?p=3104064</id>
+        <link href="https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/"/>
+        <updated>2026-03-19T19:46:30.000Z</updated>
+        <summary type="html"><![CDATA[MLB is only the latest in a string of recently announced partnerships involving the prediction market.]]></summary>
+        <author>
+            <name>Lucas Ropek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says]]></title>
+        <id>https://techcrunch.com/?p=3104097</id>
+        <link href="https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"/>
+        <updated>2026-03-19T19:09:02.000Z</updated>
+        <summary type="html"><![CDATA[AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bluesky announces $100M Series B after CEO transition]]></title>
+        <id>https://techcrunch.com/?p=3103986</id>
+        <link href="https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/"/>
+        <updated>2026-03-19T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The additional funds have been used to scale Bluesky's team, while the company continues to develop Bluesky's app and the underlying ATProto that powers it.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geothermal startup Fervo catapults itself over the ‘valley of death’]]></title>
+        <id>https://techcrunch.com/?p=3104104</id>
+        <link href="https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/"/>
+        <updated>2026-03-19T18:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Fervo landed a large new loan with terms that strongly suggest the company's most turbulent days are behind it.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FCC Enforcement Chief Offered to Help Brendan Carr Target Disney, Records Show]]></title>
+        <id>69babb98a0aeef8ebeecdff5</id>
+        <link href="https://www.wired.com/story/fcc-enforcement-chief-offered-to-help-brendan-carr-target-disney-records-show/"/>
+        <updated>2026-03-19T18:10:54.000Z</updated>
+        <summary type="html"><![CDATA[Last year, as FCC chair Brendan Carr threatened ABC over a Jimmy Kimmel monolog, a civil servant overseeing West Coast stations privately pledged support, according to emails obtained by WIRED.]]></summary>
+        <author>
+            <name>Dell Cameron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze]]></title>
+        <id>69bbfe9b32d17161ad16193a</id>
+        <link href="https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/"/>
+        <updated>2026-03-19T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.]]></summary>
+        <author>
+            <name>Maxwell Zeff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Original AirPods Max Are $100 Off]]></title>
+        <id>69bc24c315c68719e69389b0</id>
+        <link href="https://www.wired.com/story/airpods-max-deal-326/"/>
+        <updated>2026-03-19T17:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Save big on Apple’s previous-generation premium over-ear headset.]]></summary>
+        <author>
+            <name>Brad Bourque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Will Keep Horizon Worlds Alive in VR ‘for the Foreseeable Future’]]></title>
+        <id>69bc2277ed181388f67ad281</id>
+        <link href="https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/"/>
+        <updated>2026-03-19T17:33:56.000Z</updated>
+        <summary type="html"><![CDATA[A day after saying it would shut down its metaverse, Meta CTO Andrew Bosworth announced the service will remain available in VR—with limited support.]]></summary>
+        <author>
+            <name>Boone Ashworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors]]></title>
+        <id>https://techcrunch.com/?p=3104051</id>
+        <link href="https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/"/>
+        <updated>2026-03-19T17:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google introduces a new way for users to sideload Android apps that still protects against scams]]></title>
+        <id>https://techcrunch.com/?p=3104027</id>
+        <link href="https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/"/>
+        <updated>2026-03-19T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is making Android sideloading easier with a new advanced setting that lets users disable app verification after a multistep security process.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Game Turns the H-1B Visa System Into a Surreal Simulation]]></title>
+        <id>69badfbb490221c281b2be77</id>
+        <link href="https://www.wired.com/story/made-in-china-a-new-game-turns-the-h-1b-visa-system-into-a-surreal-simulation/"/>
+        <updated>2026-03-19T16:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Inspired by real immigrant stories, H1B.Life captures the uncertainty, trade-offs, and pure luck that shape the lives of people trying to build a future in the US.]]></summary>
+        <author>
+            <name>Zeyi Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI]]></title>
+        <id>https://techcrunch.com/?p=3104019</id>
+        <link href="https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/"/>
+        <updated>2026-03-19T16:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance]]></title>
+        <id>69bbfd18fd75ae0f6f7d15f8</id>
+        <link href="https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/"/>
+        <updated>2026-03-19T16:06:49.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.]]></summary>
+        <author>
+            <name>Reece Rogers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta decides not to shut down Horizon Worlds on VR after all]]></title>
+        <id>https://techcrunch.com/?p=3103555</id>
+        <link href="https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/"/>
+        <updated>2026-03-19T15:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Horizon Worlds was once a cornerstone of Meta's plans to build a social metaverse -- four years later, the company almost shut it down.]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI seizes pro-Iranian hacking group’s websites after destructive Stryker hack]]></title>
+        <id>https://techcrunch.com/?p=3103998</id>
+        <link href="https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/"/>
+        <updated>2026-03-19T15:10:32.000Z</updated>
+        <summary type="html"><![CDATA[The FBI and the Justice Department took down two websites linked to the pro-Iranian hacktivist group Handala, which last week hacked medical tech giant Stryker.]]></summary>
+        <author>
+            <name>Lorenzo Franceschi-Bicchierai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA urges companies to secure Microsoft Intune systems after hackers mass-wipe Stryker devices]]></title>
+        <id>https://techcrunch.com/?p=3103995</id>
+        <link href="https://techcrunch.com/2026/03/19/cisa-urges-companies-to-secure-microsoft-intune-systems-after-hackers-mass-wipe-stryker-devices/"/>
+        <updated>2026-03-19T15:08:31.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. cybersecurity agency urged companies to prevent access to systems used for remotely managing their fleets of employee devices after hackers broke into a major U.S. medical tech giant and remotely wiped thousands of phones and computers.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TechCrunch Startup Battlefield 200 nominations are still open]]></title>
+        <id>https://techcrunch.com/?p=3103897</id>
+        <link href="https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/"/>
+        <updated>2026-03-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.]]></summary>
+        <author>
+            <name>TechCrunch Events</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rivian sacrifices 2027 profit goal to push deeper into autonomy]]></title>
+        <id>https://techcrunch.com/?p=3103978</id>
+        <link href="https://techcrunch.com/2026/03/19/rivian-sacrifices-2027-profit-goal-to-push-deeper-into-autonomy/"/>
+        <updated>2026-03-19T14:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Rivian admitted in a regulatory filing that it is delaying its goal of reaching "positive EBITDA" next year because of how much it is spending on developing self-driving technology.]]></summary>
         <author>
             <name>Sean O'Kane</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon brings Alexa+ to the UK]]></title>
-        <id>https://techcrunch.com/?p=3103932</id>
-        <link href="https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/"/>
-        <updated>2026-03-19T12:27:24.000Z</updated>
-        <summary type="html"><![CDATA[The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.]]></summary>
+        <title type="html"><![CDATA[Signal’s Creator Is Helping Encrypt Meta AI]]></title>
+        <id>69baaa2eb29ba5f706fcfd9a</id>
+        <link href="https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"/>
+        <updated>2026-03-19T14:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.]]></summary>
+        <author>
+            <name>Lily Hay Newman, Matt Burgess</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K2 to launch its first high-powered satellite for space compute]]></title>
+        <id>https://techcrunch.com/?p=3103729</id>
+        <link href="https://techcrunch.com/2026/03/19/k2-to-launch-its-first-high-powered-satellite-for-space-compute/"/>
+        <updated>2026-03-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[K2's Gravitas is an ambitious project that aims to demonstrate the tech needed to build data centers in space.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tools for founders to navigate and move past conflict]]></title>
+        <id>https://techcrunch.com/?p=3103853</id>
+        <link href="https://techcrunch.com/2026/03/19/tools-for-founders-to-navigate-and-move-past-conflict/"/>
+        <updated>2026-03-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Founders can create frameworks for working through conflict and change when the team is just two or three people, and if done correctly, it can scale with the company.]]></summary>
+        <author>
+            <name>Maggie Nye, Isabelle Johannessen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alphabet’s X has a new spinout, and it’s going after one of the world’s most expensive bureaucratic nightmares]]></title>
+        <id>https://techcrunch.com/?p=3103908</id>
+        <link href="https://techcrunch.com/2026/03/19/alphabets-x-has-a-new-spinout-and-its-going-after-one-of-the-worlds-most-expensive-bureaucratic-nightmares/"/>
+        <updated>2026-03-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anori aims to shrink the pre-development process by getting all parties, including the city, on a unified platform from the start so that compliance conflicts are surfaced in weeks instead of months or years.]]></summary>
+        <author>
+            <name>Connie Loizos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consumer-focused privacy company Cloaked raises $375M as it expands to enterprise]]></title>
+        <id>https://techcrunch.com/?p=3103910</id>
+        <link href="https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/"/>
+        <updated>2026-03-19T13:19:41.000Z</updated>
+        <summary type="html"><![CDATA[Cloaked's latest round is a mix of equity and growth funding.]]></summary>
         <author>
             <name>Ivan Mehta</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uber taps Rivian to build robotaxis in deal worth up to $1.25B]]></title>
-        <id>https://techcrunch.com/?p=3103822</id>
-        <link href="https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/"/>
-        <updated>2026-03-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Uber is kicking off the partnership with an initial $300 million investment, while Rivian will provide as many as 50,000 autonomous R2 SUVs.]]></summary>
+        <title type="html"><![CDATA[拍出年度爆款后，这个全球顶流美少年还是翻车了？]]></title>
+        <id>98876719b8f69ec21fe95a1d438fbd20</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%8B%8D%E5%87%BA%E5%B9%B4%E5%BA%A6%E7%88%86%E6%AC%BE%E5%90%8E%EF%BC%8C%E8%BF%99%E4%B8%AA%E5%85%A8%E7%90%83%E9%A1%B6%E6%B5%81%E7%BE%8E%E5%B0%91%E5%B9%B4%E8%BF%98%E6%98%AF%E7%BF%BB%E8%BD%A6%E4%BA%86%EF%BC%9F"/>
+        <updated>2026-03-19T13:07:00.000Z</updated>
         <author>
-            <name>Sean O'Kane, Kirsten Korosec</name>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[资讯｜3万高薪抢人，文科生又逆袭了？]]></title>
+        <id>27ccaef97891b6f0435d29e5c5adefb9</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%B5%84%E8%AE%AF%EF%BD%9C3%E4%B8%87%E9%AB%98%E8%96%AA%E6%8A%A2%E4%BA%BA%EF%BC%8C%E6%96%87%E7%A7%91%E7%94%9F%E5%8F%88%E9%80%86%E8%A2%AD%E4%BA%86%EF%BC%9F"/>
+        <updated>2026-03-19T13:07:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tubi joins forces with popular TikTokers to create original streaming content]]></title>
+        <id>https://techcrunch.com/?p=3103769</id>
+        <link href="https://techcrunch.com/2026/03/19/tubi-joins-forces-with-popular-tiktokers-to-create-original-streaming-content/"/>
+        <updated>2026-03-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tubi launched its “Creatorverse Incubator” to help TikTokers create original shows exclusively for the streaming service.]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
         </author>
     </entry>
     <entry>
@@ -63,16 +379,6 @@
         <summary type="html"><![CDATA[If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.]]></summary>
         <author>
             <name>Nena Farrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside a $1.1B deal to reshore critical minerals refining]]></title>
-        <id>https://techcrunch.com/?p=3103777</id>
-        <link href="https://techcrunch.com/2026/03/19/inside-a-1-1b-deal-to-reshore-critical-minerals-refining/"/>
-        <updated>2026-03-19T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Critical minerals startup Nth Cycle is betting that its modular approach to nickel refining can make the practice viable in the U.S. and Europe.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
         </author>
     </entry>
     <entry>
@@ -166,16 +472,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Multiverse Computing pushes its compressed AI models into the mainstream]]></title>
-        <id>https://techcrunch.com/?p=3103843</id>
-        <link href="https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/"/>
-        <updated>2026-03-19T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.]]></summary>
-        <author>
-            <name>Anna Heim</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[年度征文 | 最后一页并不存在——我的2025]]></title>
         <id>https://sspai.com/post/106957</id>
         <link href="https://sspai.com/post/106957"/>
@@ -183,16 +479,6 @@
         <summary type="html"><![CDATA[AI 不会用定论结束一个新的故事，正如新时代不会以一个变数走向终结一样，因为最后一页并不存在，唯有一次次的启程。查看全文]]></summary>
         <author>
             <name>Enc3lMag1k</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval]]></title>
-        <id>https://techcrunch.com/?p=3103929</id>
-        <link href="https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/"/>
-        <updated>2026-03-19T06:11:53.000Z</updated>
-        <summary type="html"><![CDATA[The founders are worth paying attention to.]]></summary>
-        <author>
-            <name>Connie Loizos</name>
         </author>
     </entry>
     <entry>
@@ -206,13 +492,23 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Buy Discount Codes and Deals: Up to 60% Off]]></title>
-        <id>69bae670259bc7437f50c0b6</id>
-        <link href="https://www.wired.com/story/best-buy-discount-code/"/>
+        <title type="html"><![CDATA[20% Off LG Promo Code & Coupons | March 2026]]></title>
+        <id>67d879bf81a4d165ab8f1213</id>
+        <link href="https://www.wired.com/story/lg-promo-code/"/>
         <updated>2026-03-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save at Best Buy with 10% back in rewards for new cardmembers, free 2-day shipping with My Best Buy Plus, daily deals, price match guarantee, and more.]]></summary>
+        <summary type="html"><![CDATA[Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.]]></summary>
         <author>
             <name>Ryan Waniata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30% Off Canon Promo Codes | March 2026]]></title>
+        <id>67252234563a280b6ad5ef8d</id>
+        <link href="https://www.wired.com/story/canon-promo-code/"/>
+        <updated>2026-03-19T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this March.]]></summary>
+        <author>
+            <name>Scott Gilbertson</name>
         </author>
     </entry>
     <entry>
@@ -246,23 +542,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20% Off LG Promo Code & Coupons | March 2026]]></title>
-        <id>67d879bf81a4d165ab8f1213</id>
-        <link href="https://www.wired.com/story/lg-promo-code/"/>
+        <title type="html"><![CDATA[Best Buy Discount Codes and Deals: Up to 60% Off]]></title>
+        <id>69bae670259bc7437f50c0b6</id>
+        <link href="https://www.wired.com/story/best-buy-discount-code/"/>
         <updated>2026-03-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.]]></summary>
+        <summary type="html"><![CDATA[Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.]]></summary>
         <author>
             <name>Ryan Waniata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30% Off Canon Promo Codes | March 2026]]></title>
-        <id>67252234563a280b6ad5ef8d</id>
-        <link href="https://www.wired.com/story/canon-promo-code/"/>
-        <updated>2026-03-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this March.]]></summary>
-        <author>
-            <name>Scott Gilbertson</name>
         </author>
     </entry>
     <entry>
@@ -381,26 +667,6 @@ Arash Khamooshi for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta is having trouble with rogue AI agents]]></title>
-        <id>https://techcrunch.com/?p=3103862</id>
-        <link href="https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/"/>
-        <updated>2026-03-18T23:42:46.000Z</updated>
-        <summary type="html"><![CDATA[A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.]]></summary>
-        <author>
-            <name>Amanda Silberling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Altman’s thank-you to coders draws the memes]]></title>
-        <id>https://techcrunch.com/?p=3103828</id>
-        <link href="https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/"/>
-        <updated>2026-03-18T23:12:58.000Z</updated>
-        <summary type="html"><![CDATA[Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.]]></summary>
-        <author>
-            <name>Julie Bort</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特朗普敦促日本介入中东冲突，高市早苗陷入两难]]></title>
         <id>https://cn.nytimes.com/world/20260319/trump-japan-takaichi-iran-hormuz/</id>
         <link href="https://cn.nytimes.com/world/20260319/trump-japan-takaichi-iran-hormuz/?utm_source=RSS"/>
@@ -416,26 +682,6 @@ Haiyun Jiang/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place]]></title>
-        <id>https://techcrunch.com/?p=3103772</id>
-        <link href="https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/"/>
-        <updated>2026-03-18T20:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business]]></title>
-        <id>https://techcrunch.com/?p=3102415</id>
-        <link href="https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/"/>
-        <updated>2026-03-18T20:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.]]></summary>
-        <author>
-            <name>Rebecca Szkutak</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Best Outdoor Deals From the REI Member Days Sale (2026)]]></title>
         <id>69b2d7d5462d71631c0d9293</id>
         <link href="https://www.wired.com/story/rei-member-days-sale-2026/"/>
@@ -443,16 +689,6 @@ Haiyun Jiang/The New York Times
         <summary type="html"><![CDATA[REI’s Member Days sale has deals on our favorite tents, backpacks, rain jackets, and more gear to outfit you for summer.]]></summary>
         <author>
             <name>Scott Gilbertson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI is buying location data to track US citizens, director confirms]]></title>
-        <id>https://techcrunch.com/?p=3103731</id>
-        <link href="https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/"/>
-        <updated>2026-03-18T18:32:32.000Z</updated>
-        <summary type="html"><![CDATA[FBI director Kash Patel told lawmakers that the agency is actively purchasing commercially available location data, which can track Americans without needing a warrant.]]></summary>
-        <author>
-            <name>Zack Whittaker</name>
         </author>
     </entry>
     <entry>
@@ -466,26 +702,6 @@ Haiyun Jiang/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes]]></title>
-        <id>https://techcrunch.com/?p=3103721</id>
-        <link href="https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/"/>
-        <updated>2026-03-18T17:58:28.000Z</updated>
-        <summary type="html"><![CDATA[He told the Wall Street Journal he thinks autonomous planes will be "10 times harder than Nikola ever was."]]></summary>
-        <author>
-            <name>Sean O'Kane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid]]></title>
-        <id>https://techcrunch.com/?p=3103690</id>
-        <link href="https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/"/>
-        <updated>2026-03-18T17:54:31.000Z</updated>
-        <summary type="html"><![CDATA[Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Best Sonos Bluetooth Speaker Is $40 Off]]></title>
         <id>69bad57248cfa1aefb91884d</id>
         <link href="https://www.wired.com/story/sonos-roam-2-deal-326/"/>
@@ -493,16 +709,6 @@ Haiyun Jiang/The New York Times
         <summary type="html"><![CDATA[Add the Sonos Roam 2 to your existing home setup, or take it to go with Bluetooth.]]></summary>
         <author>
             <name>Brad Bourque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebel Audio is a new AI podcasting tool aimed at first-time creators]]></title>
-        <id>https://techcrunch.com/?p=3103590</id>
-        <link href="https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/"/>
-        <updated>2026-03-18T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
         </author>
     </entry>
     <entry>
@@ -518,66 +724,6 @@ Alex Welsh for The New York Times
 艾杰西将自己对中国文化的痴迷变成了一段长达十年的喜剧表演生涯，并在新近出版的回忆录《这一切在中国更好笑：一位美国喜剧演员的跨文化之旅》中讲述了这段经历。]]></summary>
         <author>
             <name>SOPAN DEB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gemini-powered features in Google Workspace that are worth using]]></title>
-        <id>https://techcrunch.com/?p=3103221</id>
-        <link href="https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/"/>
-        <updated>2026-03-18T16:43:18.000Z</updated>
-        <summary type="html"><![CDATA[From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apps to distract you from the endless cycle of doomscrolling]]></title>
-        <id>https://techcrunch.com/?p=3102406</id>
-        <link href="https://techcrunch.com/2026/03/18/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"/>
-        <updated>2026-03-18T16:34:42.000Z</updated>
-        <summary type="html"><![CDATA[It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.]]></summary>
-        <author>
-            <name>Aisha Malik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The leaderboard “you can’t game,” funded by the companies it ranks]]></title>
-        <id>https://techcrunch.com/?post_type=tc_video&amp;p=3103461</id>
-        <link href="https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/"/>
-        <updated>2026-03-18T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]]]></summary>
-        <author>
-            <name>Theresa Loconsolo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This startup wants to make enterprise software look more like a prompt]]></title>
-        <id>https://techcrunch.com/?p=3103363</id>
-        <link href="https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/"/>
-        <updated>2026-03-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The company has raised $12 million in seed funding to build an AI operating system for enterprise.]]></summary>
-        <author>
-            <name>Tim Fernholz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook launches a new monetization program to attract popular creators from TikTok, YouTube]]></title>
-        <id>https://techcrunch.com/?p=3103552</id>
-        <link href="https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/"/>
-        <updated>2026-03-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Facebook says it paid creators nearly $3 billion through its monetization programs in 2025, a 35% increase from the previous year and its highest annual total to date.]]></summary>
-        <author>
-            <name>Aisha Malik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequen snags $16M to bring TikTok-style personalization tech to any consumer company]]></title>
-        <id>https://techcrunch.com/?p=3103554</id>
-        <link href="https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/"/>
-        <updated>2026-03-18T15:58:50.000Z</updated>
-        <summary type="html"><![CDATA[With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
         </author>
     </entry>
     <entry>
@@ -598,24 +744,6 @@ Alex Welsh for The New York Times
         <summary type="html"><![CDATA[A powerful iPhone-hacking technique known as DarkSword has been discovered in use by Russian hackers. It can take over devices running iOS 18 that simply visit infected websites.]]></summary>
         <author>
             <name>Andy Greenberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[直播预告｜春天正是读书天]]></title>
-        <id>e6b3ea7ad0be8b285a2aa836e5869864</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%9B%B4%E6%92%AD%E9%A2%84%E5%91%8A%EF%BD%9C%E6%98%A5%E5%A4%A9%E6%AD%A3%E6%98%AF%E8%AF%BB%E4%B9%A6%E5%A4%A9"/>
-        <updated>2026-03-18T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京这家深夜食堂，藏着多少种相亲奇遇？]]></title>
-        <id>3a02603c2ed98927a952ab68b0f95933</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%8C%97%E4%BA%AC%E8%BF%99%E5%AE%B6%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82%EF%BC%8C%E8%97%8F%E7%9D%80%E5%A4%9A%E5%B0%91%E7%A7%8D%E7%9B%B8%E4%BA%B2%E5%A5%87%E9%81%87%EF%BC%9F"/>
-        <updated>2026-03-18T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -904,16 +1032,6 @@ Meta于去年12月宣布，已收购源于中国的新加坡人工智能初创�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：OPPO Find N6 发布，广汽、华为联合发布「启境」GT7 等]]></title>
-        <id>https://sspai.com/post/107485</id>
-        <link href="https://sspai.com/post/107485"/>
-        <updated>2026-03-17T23:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Beats 与 Nike 联名版 Powerbeats Pro 2 发布，OpenAI 发布 GPT-5.4 mini 与 nano 小型模型等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[伊朗战事搅动中美关系，峰会推迟对谁更加不利？]]></title>
         <id>https://cn.nytimes.com/world/20260318/iran-war-china-us-trump-xi/</id>
         <link href="https://cn.nytimes.com/world/20260318/iran-war-china-us-trump-xi/?utm_source=RSS"/>
@@ -939,16 +1057,6 @@ Rodger Bosch/Agence France-Presse — Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DoorDash Reservations Scored America’s Most Exclusive Restaurants]]></title>
-        <id>69b463f47f3e3000e5be1a0b</id>
-        <link href="https://www.wired.com/story/doordash-reservations-exclusive-restaurants/"/>
-        <updated>2026-03-17T20:32:13.000Z</updated>
-        <summary type="html"><![CDATA[After the rise (and fall) of reservation scalping, DoorDash and a host of apps are fighting to book you a seat at the country’s most exclusive restaurants.]]></summary>
-        <author>
-            <name>Matthew Korfhage</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特朗普的下一个目标：“拿下古巴”]]></title>
         <id>https://cn.nytimes.com/world/20260318/trump-cuba-intervention/</id>
         <link href="https://cn.nytimes.com/world/20260318/trump-cuba-intervention/?utm_source=RSS"/>
@@ -961,86 +1069,6 @@ Norlys Perez/Reuters
 周一哈瓦那停电期间，聚集在街头的民众。]]></summary>
         <author>
             <name>JACK NICAS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Sonos Over-Ear Headphones Are $100 Off]]></title>
-        <id>69b984a90e3cc160383bc96b</id>
-        <link href="https://www.wired.com/story/sonos-ace-deal-326/"/>
-        <updated>2026-03-17T17:45:22.000Z</updated>
-        <summary type="html"><![CDATA[This super comfortable headset has some top-tier active noise canceling. Unlike other headphones, it also integrates with your existing Sonos gear.]]></summary>
-        <author>
-            <name>Brad Bourque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dyson’s New PencilWash Is Here]]></title>
-        <id>69b877a020080416b8e9b9d9</id>
-        <link href="https://www.wired.com/story/dyson-pencilwash-now-available/"/>
-        <updated>2026-03-17T16:49:41.000Z</updated>
-        <summary type="html"><![CDATA[The debut follows the release of Dyson’s newest robot vacuum and a larger wet cleaner last week.]]></summary>
-        <author>
-            <name>Nena Farrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Clamp Every Accessory I Can to My Desk To Avoid Clutter, and You Should, Too]]></title>
-        <id>69aae5676e2a2e9530ad2ab7</id>
-        <link href="https://www.wired.com/story/you-should-be-mounting-everything-on-your-desk/"/>
-        <updated>2026-03-17T12:38:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s time to clamp down on the chaos and clear your desktop with these clever mounted accessories.]]></summary>
-        <author>
-            <name>Simon Hill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skylight’s Calendar 2 Review: Its Best Digital Calendar Yet]]></title>
-        <id>69b08a7201803d0c2b892772</id>
-        <link href="https://www.wired.com/review/skylight-calendar-2/"/>
-        <updated>2026-03-17T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Skylight’s popular digital calendar gets its Goldilocks size. But like with the Calendar Max before it, you have to prepare your family for a full conversion to keep it useful.]]></summary>
-        <author>
-            <name>Nena Farrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Invisalign Became the World’s Biggest User of 3D Printers]]></title>
-        <id>69a2019a8533c8c776f70541</id>
-        <link href="https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/"/>
-        <updated>2026-03-17T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.]]></summary>
-        <author>
-            <name>Paresh Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Gravel Running Shoes? (2026)]]></title>
-        <id>69166b4c7410c68a0a10e328</id>
-        <link href="https://www.wired.com/story/what-are-gravel-running-shoes/"/>
-        <updated>2026-03-17T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This new-ish hybrid between trail runners and road runners is designed for less technical terrain and the occasional road run.]]></summary>
-        <author>
-            <name>Kieran Alger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Your Own NAS Server for Backups and Content Streaming]]></title>
-        <id>6986080d6384a6dbf68329b4</id>
-        <link href="https://www.wired.com/story/how-to-set-up-nas-server/"/>
-        <updated>2026-03-17T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A home network-attached storage (NAS) server is ideal for backups, content streaming, and more. It could even save you money in the long run.]]></summary>
-        <author>
-            <name>Simon Hill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web]]></title>
-        <id>69b430703c1443d1ac8419bd</id>
-        <link href="https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/"/>
-        <updated>2026-03-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.]]></summary>
-        <author>
-            <name>Lily Hay Newman, Matt Burgess</name>
         </author>
     </entry>
     <entry>
@@ -1112,36 +1140,6 @@ Ludovic Marin/Agence France-Presse — Getty Images
 Associated Press]]></summary>
         <author>
             <name>《纽约时报》</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普扯下了美国文明的遮羞布？]]></title>
-        <id>https://cn.nytimes.com/opinion/20260317/iran-war-trump/</id>
-        <link href="https://cn.nytimes.com/opinion/20260317/iran-war-trump/?utm_source=RSS"/>
-        <updated>2026-03-16T22:44:57.000Z</updated>
-        <summary type="html"><![CDATA[特朗普的伊朗战争可能松开了文明国家为保护人性而套上的枷锁，其遗产令人胆寒。在一些人眼中，特朗普正带领美国走向一个流氓国家。
-
-                    
-Majid Saeedi/Getty Images
-                    
-德黑兰一座居民楼楼体侧面被炸开。]]></summary>
-        <author>
-            <name>纪思道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[继续战斗还是设法抽身？特朗普面临严峻选择]]></title>
-        <id>https://cn.nytimes.com/usa/20260316/trump-stark-choices-iran-war/</id>
-        <link href="https://cn.nytimes.com/usa/20260316/trump-stark-choices-iran-war/?utm_source=RSS"/>
-        <updated>2026-03-16T04:32:25.000Z</updated>
-        <summary type="html"><![CDATA[两个选项都极具挑战，且会导致严重后果。继续战斗将使更多美国人的生命处于危险之中，加剧财政成本；撤军则可能会冒下让伊朗政府将核燃料武器化的风险。
-
-                    
-Doug Mills/The New York Times
-                    
-特朗普总统公开纠结于走与留之间的选择，时而暗示战争已基本胜利，时而又似乎承认前方仍有激战。]]></summary>
-        <author>
-            <name>DAVID E. SANGER,ERIC SCHMITT,TYLER PAGER,RONEN BERGMAN,JULIAN E. BARNES</name>
         </author>
     </entry>
     <entry>
