@@ -1,10 +1,258 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-25T02:02:23.540Z</id>
+    <id>urn:2026-03-25T13:05:26.043Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-25T02:02:23.540Z</updated>
+    <updated>2026-03-25T13:05:26.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[When Satellite Data Becomes a Weapon]]></title>
+        <id>69c3cf94d93cb01f52357a7e</id>
+        <link href="https://www.wired.com/story/when-satellite-data-becomes-a-weapon/"/>
+        <updated>2026-03-25T13:00:42.000Z</updated>
+        <summary type="html"><![CDATA[As war reshapes the Gulf, the satellite infrastructure the world relies on to see conflict clearly is being delayed, spoofed, and privately controlled—and nobody is sure who is responsible.]]></summary>
+        <author>
+            <name>Gia Chaudry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After pivoting, Y Combinator grad Glimpse raises $35M led by a16z]]></title>
+        <id>https://techcrunch.com/?p=3105265</id>
+        <link href="https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/"/>
+        <updated>2026-03-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Glimpse announced on Wednesday a $35 million Series A led by Andreessen Horowitz, with participation from 8VC and YC.]]></summary>
+        <author>
+            <name>Dominic-Madori Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harbinger’s next product will be hybrid emergency vehicles]]></title>
+        <id>https://techcrunch.com/?p=3105656</id>
+        <link href="https://techcrunch.com/2026/03/25/harbingers-next-product-will-be-hybrid-emergency-vehicles/"/>
+        <updated>2026-03-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The young California startup is already building RVs, FedEx vans, and box trucks. Now its hybrid powertrain will underpin ambulances and mobile healthcare units.]]></summary>
+        <author>
+            <name>Sean O'Kane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arinna raises $4M seed round to solve the space power problem]]></title>
+        <id>https://techcrunch.com/?p=3105679</id>
+        <link href="https://techcrunch.com/2026/03/25/arinna-4-million-seed-round-solar-energy-space-power-problem/"/>
+        <updated>2026-03-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arinna builds solar cells specifically for spacecraft and has developed an ultrathin new material that it expects to be far more flexible and more efficient than current technology.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor]]></title>
+        <id>https://techcrunch.com/?p=3105775</id>
+        <link href="https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/"/>
+        <updated>2026-03-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sift is building the data infrastructure for advanced manufacturing.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s Galaxy A37 and Galaxy A57 Phones Get Price Hikes]]></title>
+        <id>69c1a69a8d470e1446eb5d3f</id>
+        <link href="https://www.wired.com/story/samsung-galaxy-a37-galaxy-a57/"/>
+        <updated>2026-03-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Galaxy A37 and Galaxy A57 aren’t drastically different from their predecessors, but the $50 price bump is indicative of the economic climate.]]></summary>
+        <author>
+            <name>Julian Chokkattu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Digital Wall Calendar (2026): Skylight, Apolosign]]></title>
+        <id>69b9d66a15f23eaf2c953090</id>
+        <link href="https://www.wired.com/story/are-digital-wall-calendars-worth-it/"/>
+        <updated>2026-03-25T11:31:00.000Z</updated>
+        <summary type="html"><![CDATA[I was convinced these devices were just tabletop clutter. I was proven wrong.]]></summary>
+        <author>
+            <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucid Bots raises $20M to keep up with demand for its window-washing drones]]></title>
+        <id>https://techcrunch.com/?p=3105379</id>
+        <link href="https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/"/>
+        <updated>2026-03-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.]]></summary>
+        <author>
+            <name>Rebecca Szkutak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aeronaut Is an Actual Mac App for Bluesky]]></title>
+        <id>69bdd2b10ccced92a573f732</id>
+        <link href="https://www.wired.com/story/aeronaut-mac-app-for-bluesky/"/>
+        <updated>2026-03-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you miss social media on your desktop—à la Tweetbot, TweetDeck, or the official Twitter app—then check out this macOS client for Bluesky.]]></summary>
+        <author>
+            <name>Justin Pot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lego Star Wars Smart Play Throne Room Duel and A-Wing Review]]></title>
+        <id>69c12de7659939e541a6de5a</id>
+        <link href="https://www.wired.com/story/lego-star-wars-smart-play-throne-room-duel-a-wing-review/"/>
+        <updated>2026-03-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Curious about Lego’s new Smart Brick Star Wars sets? I tested the iconic Throne Room duel.]]></summary>
+        <author>
+            <name>Simon Hill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off]]></title>
+        <id>69bb03aac28f59d9e9a29419</id>
+        <link href="https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/"/>
+        <updated>2026-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.]]></summary>
+        <author>
+            <name>Lauren Goode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How American Camouflage Conquered the World]]></title>
+        <id>698d09c0f17ecef333135e22</id>
+        <link href="https://www.wired.com/camouflage-multicam-military-navy-seals-ice/"/>
+        <updated>2026-03-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The world-famous MultiCam pattern was designed for the military by two Brooklyn hipsters. Now everyone—from babies to ICE agents—is suited up for battle.]]></summary>
+        <author>
+            <name>Avery Trufelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」]]></title>
+        <id>https://sspai.com/post/107800</id>
+        <link href="https://sspai.com/post/107800"/>
+        <updated>2026-03-25T09:42:06.000Z</updated>
+        <summary type="html"><![CDATA[Apple今日宣布面向企业用户推出全新一站式服务平台：Apple商务，将于4月14日在超过200个国家和地区正式发布。Apple商务(AppleBusiness)是Apple对于目前针对商业客户推出的 ...查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iranians Don’t Have a Missile Alert System, So Volunteers Built Their Own Warning Map]]></title>
+        <id>69c13ea13e968210d5126427</id>
+        <link href="https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/"/>
+        <updated>2026-03-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The crowdsourced website and app Mahsa Alert provides citizens in Iran with crucial information amid the country’s ongoing war with the US and Israel—and an internet blackout.]]></summary>
+        <author>
+            <name>Matt Burgess, Lily Hay Newman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探访帝国之心，吴哥旅行完全指南（下）：景点体验]]></title>
+        <id>https://sspai.com/post/106822</id>
+        <link href="https://sspai.com/post/106822"/>
+        <updated>2026-03-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[出发前我对柬埔寨的想象里装满了不确定性，真正踏上这片土地之后，心却奇怪地安静下来。查看全文]]></summary>
+        <author>
+            <name>鸿苓</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These 25 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History  (2026)]]></title>
+        <id>69b4396a7f3e3000e5be1861</id>
+        <link href="https://www.wired.com/story/the-amazon-spring-sale-2026/"/>
+        <updated>2026-03-25T07:01:00.000Z</updated>
+        <summary type="html"><![CDATA[This sale spans almost an entire week, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.]]></summary>
+        <author>
+            <name>Louryn Strampe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直面「猝死」这个话题：你需要了解哪些知识？]]></title>
+        <id>https://sspai.com/post/65228</id>
+        <link href="https://sspai.com/post/65228"/>
+        <updated>2026-03-25T06:31:17.000Z</updated>
+        <summary type="html"><![CDATA[心内科博士又来吓唬你了！（不是查看全文]]></summary>
+        <author>
+            <name>刀客特Leslie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“讲现实”的张雪峰离世，他留下的生意与争议]]></title>
+        <id>165603508d9b9814800f5421601804cf</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E8%AE%B2%E7%8E%B0%E5%AE%9E%E2%80%9D%E7%9A%84%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A6%BB%E4%B8%96%EF%BC%8C%E4%BB%96%E7%95%99%E4%B8%8B%E7%9A%84%E7%94%9F%E6%84%8F%E4%B8%8E%E4%BA%89%E8%AE%AE"/>
+        <updated>2026-03-25T06:18:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么有钱人不拉窗帘？]]></title>
+        <id>f8c3c7967de710104bf82fb25a17ab37</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E9%92%B1%E4%BA%BA%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%EF%BC%9F"/>
+        <updated>2026-03-25T06:18:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rover Promo Codes and Deals: Get Up to $50 This Month]]></title>
+        <id>69c2a669ff7423eb206178f9</id>
+        <link href="https://www.wired.com/story/rover-promo-code/"/>
+        <updated>2026-03-25T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for reliable pet care? Use a Rover promo code or referral link to save on dog walking, pet sitting, and boarding services this month.]]></summary>
+        <author>
+            <name>Julia Forbes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 26.4 值得关注的新特性]]></title>
+        <id>https://sspai.com/post/107743</id>
+        <link href="https://sspai.com/post/107743"/>
+        <updated>2026-03-25T03:37:19.000Z</updated>
+        <summary type="html"><![CDATA[在经历了iOS26.3版本的小幅改动之后，Apple在iOS26.4推出了诸多实用、重要的更新内容，包括AppleMusic、播客、CarPlay、提醒事项、家庭共享等在内都得到了显著的优化提升。接下 ...查看全文]]></summary>
+        <author>
+            <name>Vanilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[官员称美国向伊朗递交结束战争计划]]></title>
+        <id>https://cn.nytimes.com/world/20260325/us-iran-peace-plan/</id>
+        <link href="https://cn.nytimes.com/world/20260325/us-iran-peace-plan/?utm_source=RSS"/>
+        <updated>2026-03-25T02:45:39.000Z</updated>
+        <summary type="html"><![CDATA[知情官员称，该计划通过巴基斯坦传递，尚不清楚伊朗是否可能接受其作为谈判基础。此举反映出美国正急于寻求摆脱冲突的出路，以应对战争带来的经济影响。
+
+                    
+Arash Khamooshi for The New York Times
+                    
+周一，德黑兰一处公寓楼遭空袭炸毁。]]></summary>
+        <author>
+            <name>ADAM RASGON,JULIAN E. BARNES,FARNAZ FASSIHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯油轮驶向古巴，中俄情报布局再次引发美国警惕]]></title>
+        <id>https://cn.nytimes.com/world/20260325/cuba-russia-china/</id>
+        <link href="https://cn.nytimes.com/world/20260325/cuba-russia-china/?utm_source=RSS"/>
+        <updated>2026-03-25T02:43:11.000Z</updated>
+        <summary type="html"><![CDATA[特朗普指责古巴允许中俄在该国部署“先进的军事和情报能力”，威胁到美国的国家安全。尽管这几国均否认间谍基地的存在，但争议凸显出古巴在大国情报博弈中的战略位置。
+
+                    
+Norlys Perez/Reuters
+                    
+特朗普曾表示要利用其经济杠杆对古巴进行“友好接管”，并正在施压要求罢免古巴总统米格尔·迪亚斯-卡内尔。]]></summary>
+        <author>
+            <name>MICHAEL CROWLEY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A former Thiel fellow’s startup just launched a drone it says can replace police helicopters]]></title>
+        <id>https://techcrunch.com/?p=3104823</id>
+        <link href="https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/"/>
+        <updated>2026-03-25T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Brinc launched its newest 911 response drone this week, as the company seeks to expand its prominence in the public safety industry.]]></summary>
+        <author>
+            <name>Lucas Ropek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金正恩如何利用伊朗战争为朝鲜核武库辩护]]></title>
         <id>https://cn.nytimes.com/asia-pacific/20260325/north-korea-kim-iran-nuclear/</id>
@@ -43,21 +291,6 @@ Anthony Wallace/Agence France-Presse — Getty Images
         <summary type="html"><![CDATA[The acquisition of Fauna Robotics is the second robotics startup Amazon has purchased this month.]]></summary>
         <author>
             <name>Kirsten Korosec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[官员称美国向伊朗提交结束战争计划]]></title>
-        <id>https://cn.nytimes.com/world/20260325/us-iran-peace-plan/</id>
-        <link href="https://cn.nytimes.com/world/20260325/us-iran-peace-plan/?utm_source=RSS"/>
-        <updated>2026-03-25T00:49:42.000Z</updated>
-        <summary type="html"><![CDATA[知情官员称，该计划通过巴基斯坦传递，尚不清楚伊朗是否可能接受其作为谈判基础。此举反映出美国正急于寻求摆脱冲突的出路，以应对战争带来的经济影响。
-
-                    
-Arash Khamooshi for The New York Times
-                    
-周一，德黑兰一处公寓楼遭空袭炸毁。]]></summary>
-        <author>
-            <name>ADAM RASGON,JULIAN E. BARNES,FARNAZ FASSIHI</name>
         </author>
     </entry>
     <entry>
@@ -216,6 +449,16 @@ Haiyun Jiang/The New York Times
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[霍尔木兹海峡重新开放有多难？]]></title>
+        <id>https://cn.nytimes.com/world/20260325/strait-of-hormuz-difficulties-iran-trump/</id>
+        <link href="https://cn.nytimes.com/world/20260325/strait-of-hormuz-difficulties-iran-trump/?utm_source=RSS"/>
+        <updated>2026-03-24T19:24:08.000Z</updated>
+        <summary type="html"><![CDATA[特朗普誓言“无论如何”要重新开放这条航道，但地理条件令伊朗握有战略优势。专家警告，除非与伊朗达成协议，或采取危险且漫长的占领行动，否则难以完全恢复通航。]]></summary>
+        <author>
+            <name>AGNES CHANG</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google TV’s new Gemini features keep fans updated on sports teams and more]]></title>
         <id>https://techcrunch.com/?p=3105572</id>
         <link href="https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/"/>
@@ -236,36 +479,6 @@ Haiyun Jiang/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI adds open source tools to help developers build for teen safety]]></title>
-        <id>https://techcrunch.com/?p=3105471</id>
-        <link href="https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/"/>
-        <updated>2026-03-24T18:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.]]></summary>
-        <author>
-            <name>Amanda Silberling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talat’s AI meeting notes stay on your machine, not in the cloud]]></title>
-        <id>https://techcrunch.com/?p=3105411</id>
-        <link href="https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/"/>
-        <updated>2026-03-24T18:41:33.000Z</updated>
-        <summary type="html"><![CDATA[The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BKR Capital raises $14.5M (so far) to  invest in Black founders]]></title>
-        <id>https://techcrunch.com/?p=3105281</id>
-        <link href="https://techcrunch.com/2026/03/24/bkr-capital-raises-14-5m-so-far-to-invest-in-black-founders/"/>
-        <updated>2026-03-24T17:47:41.000Z</updated>
-        <summary type="html"><![CDATA[BKR Capital announced Monday that its Fund II closed $20 million Canadian toward its $50 million target.]]></summary>
-        <author>
-            <name>Dominic-Madori Davis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Our Favorite Turntable Is $51 Off Before Record Store Day]]></title>
         <id>69c2be59dc234bb60593777d</id>
         <link href="https://www.wired.com/story/atlp120x-deal-326/"/>
@@ -276,33 +489,29 @@ Haiyun Jiang/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crunchyroll confirms data breach after hacker claims unauthorized access]]></title>
-        <id>https://techcrunch.com/?p=3105375</id>
-        <link href="https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/"/>
-        <updated>2026-03-24T17:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Crunchyroll said it continues to investigate the data breach involving its users' personal information.]]></summary>
+        <title type="html"><![CDATA[伊朗的霍尔木兹“核武器”]]></title>
+        <id>https://cn.nytimes.com/opinion/20260325/iran-trump-hormuz/</id>
+        <link href="https://cn.nytimes.com/opinion/20260325/iran-trump-hormuz/?utm_source=RSS"/>
+        <updated>2026-03-24T17:02:30.000Z</updated>
+        <summary type="html"><![CDATA[伊朗制造大混乱的能力并非依赖单一武器实现瞬间毁灭，而是可打击海湾邻国油气设施的导弹发射装置和对霍尔木兹海峡周边的实际控制。
+
+                    
+Illustration by The New York Times; source imagery by NAEL CHAHINE and Restu Ariyadi, via Getty Images]]></summary>
         <author>
-            <name>Jagmeet Singh</name>
+            <name>ROSS DOUTHAT</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doss raises $55M for AI inventory management that plugs into ERP]]></title>
-        <id>https://techcrunch.com/?p=3105367</id>
-        <link href="https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/"/>
-        <updated>2026-03-24T17:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.]]></summary>
+        <title type="html"><![CDATA[牛油果有多健康？]]></title>
+        <id>https://cn.nytimes.com/health/20260325/avocados-health-benefits-recipes/</id>
+        <link href="https://cn.nytimes.com/health/20260325/avocados-health-benefits-recipes/?utm_source=RSS"/>
+        <updated>2026-03-24T17:01:46.000Z</updated>
+        <summary type="html"><![CDATA[牛油果营养密度高、碳水化合物含量低，同时富含健康脂肪和膳食纤维，有助于平衡胆固醇，有益于肠道微生物群，可能还会降低患心脏病的风险。那么，应该如何食用牛油果？
+
+                    
+Bobbi Lin for The New York Times]]></summary>
         <author>
-            <name>Marina Temkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Music partners with Ticketmaster to power its concert discovery feature]]></title>
-        <id>https://techcrunch.com/?p=3105314</id>
-        <link href="https://techcrunch.com/2026/03/24/apple-music-partners-with-ticketmaster-to-power-its-concert-discovery-feature/"/>
-        <updated>2026-03-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple Music teamed up with Ticketmaster to power its Concert Discovery feature, which recommends live music events based on users' listening habits.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
+            <name>CAROLINE HOPKINS</name>
         </author>
     </entry>
     <entry>
@@ -337,15 +546,6 @@ Haiyun Jiang/The New York Times
         <title type="html"><![CDATA[深中停办“丘少班”：牛娃冲奥赛上名校的出路凉了？]]></title>
         <id>2dcd1e2b80e3edc1d146205a9f54b8f5</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%B7%B1%E4%B8%AD%E5%81%9C%E5%8A%9E%E2%80%9C%E4%B8%98%E5%B0%91%E7%8F%AD%E2%80%9D%EF%BC%9A%E7%89%9B%E5%A8%83%E5%86%B2%E5%A5%A5%E8%B5%9B%E4%B8%8A%E5%90%8D%E6%A0%A1%E7%9A%84%E5%87%BA%E8%B7%AF%E5%87%89%E4%BA%86%EF%BC%9F"/>
-        <updated>2026-03-24T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18世纪威尼斯医院与它们的孤女音乐家们]]></title>
-        <id>be62714759b778d491bdb9c25d4d5488</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+18%E4%B8%96%E7%BA%AA%E5%A8%81%E5%B0%BC%E6%96%AF%E5%8C%BB%E9%99%A2%E4%B8%8E%E5%AE%83%E4%BB%AC%E7%9A%84%E5%AD%A4%E5%A5%B3%E9%9F%B3%E4%B9%90%E5%AE%B6%E4%BB%AC"/>
         <updated>2026-03-24T13:00:00.000Z</updated>
         <author>
             <name>三联生活周刊</name>
@@ -392,16 +592,6 @@ Haiyun Jiang/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘Get Down! Get Down! They’re Gonna See Us!’: Six Months of Hiding From ICE]]></title>
-        <id>698d09eec092dc0d6c3de041</id>
-        <link href="https://www.wired.com/story/get-down-get-down-six-months-of-hiding-from-ice/"/>
-        <updated>2026-03-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A family in Chicago has been terrified to leave their apartment. Agents could be anywhere.]]></summary>
-        <author>
-            <name>Maddy Crowell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Your Body Is Betraying Your Right to Privacy]]></title>
         <id>69b1c240c0efa4d50c96a15c</id>
         <link href="https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/"/>
@@ -412,12 +602,13 @@ Haiyun Jiang/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[光吃不胖的“减脂神菜”，馋哭了想偷偷减肥的中年人？]]></title>
-        <id>ab60bdf2cf4e72fbffe4ee7adc0d9f42</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%85%89%E5%90%83%E4%B8%8D%E8%83%96%E7%9A%84%E2%80%9C%E5%87%8F%E8%84%82%E7%A5%9E%E8%8F%9C%E2%80%9D%EF%BC%8C%E9%A6%8B%E5%93%AD%E4%BA%86%E6%83%B3%E5%81%B7%E5%81%B7%E5%87%8F%E8%82%A5%E7%9A%84%E4%B8%AD%E5%B9%B4%E4%BA%BA%EF%BC%9F"/>
-        <updated>2026-03-24T09:47:00.000Z</updated>
+        <title type="html"><![CDATA[‘Get Down! Get Down! They’re Gonna See Us!’: Six Months of Hiding From ICE]]></title>
+        <id>698d09eec092dc0d6c3de041</id>
+        <link href="https://www.wired.com/story/get-down-get-down-six-months-of-hiding-from-ice/"/>
+        <updated>2026-03-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A family in Chicago has been terrified to leave their apartment. Agents could be anywhere.]]></summary>
         <author>
-            <name>三联生活周刊</name>
+            <name>Maddy Crowell</name>
         </author>
     </entry>
     <entry>
@@ -471,11 +662,11 @@ Haiyun Jiang/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[当历史被重新看见：用 iPad 和 Mac 辅助古代壁画修复]]></title>
+        <title type="html"><![CDATA[当历史被重新看见：用 Apple 产品辅助古代壁画修复]]></title>
         <id>https://sspai.com/post/107740</id>
         <link href="https://sspai.com/post/107740"/>
         <updated>2026-03-24T08:33:31.000Z</updated>
-        <summary type="html"><![CDATA[提起iPad和Mac，我们总能想到各类创作者们用这些设备完成的现代艺术作品，比如用Procreate画出的精美数字画作、或是用Mac制作的创意平面插图。但你可能不知道的是，iPad和Mac也被广泛应用 ...查看全文]]></summary>
+        <summary type="html"><![CDATA[提起iPad和Mac，我们总能想到各类创作者们用这些设备完成的现代艺术作品，比如用Procreate画出的精美数字画作、或是用Mac制作的创意平面插图。但你可能不知道的是，Apple产品也被广泛应用于 ...查看全文]]></summary>
         <author>
             <name>waychane</name>
         </author>
@@ -816,16 +1007,6 @@ Raul Ariano for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mac 选购指南 2026 春季版]]></title>
-        <id>https://sspai.com/post/85735</id>
-        <link href="https://sspai.com/post/85735"/>
-        <updated>2026-03-23T06:38:38.000Z</updated>
-        <summary type="html"><![CDATA[我该不该用 MacBook Neo 入门 macOS？以及其他 Mac 我应该怎么选。查看全文]]></summary>
-        <author>
-            <name>Kostya</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特朗普考虑伊朗战争退出方案，究竟何时收手？]]></title>
         <id>https://cn.nytimes.com/usa/20260323/trump-iran-offramp/</id>
         <link href="https://cn.nytimes.com/usa/20260323/trump-iran-offramp/?utm_source=RSS"/>
@@ -854,16 +1035,6 @@ Andy Wong/Associated Press]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一日一技｜基于 Tasker 的节假日补班闹钟怎么做？]]></title>
-        <id>https://sspai.com/post/106993</id>
-        <link href="https://sspai.com/post/106993"/>
-        <updated>2026-03-23T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[手握非国行的 Android 手机或者 Pixel 机型的小伙伴不妨试试。查看全文]]></summary>
-        <author>
-            <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中年失业、向下流动：中国“改革一代”的职场困境]]></title>
         <id>https://cn.nytimes.com/china/20260323/laid-off-in-midlife-chinas-reform-generation-braces-for-downward-mobility/</id>
         <link href="https://cn.nytimes.com/china/20260323/laid-off-in-midlife-chinas-reform-generation-braces-for-downward-mobility/?utm_source=RSS"/>
@@ -884,36 +1055,6 @@ Lisk Feng]]></summary>
         <summary type="html"><![CDATA[K-pop在中国市场规模庞大且利润丰厚，但最近，一些韩国流行团体中的日本艺人在中国的演唱会和活动中缺席，专家认为这一现象与北京和东京之间的外交争端有关。]]></summary>
         <author>
             <name>JOHN YOON</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被誉为善治巅峰的西周为何崩溃？新研究改写美人祸国论]]></title>
-        <id>https://cn.nytimes.com/china/20260317/china-zhou-dynasty-king-climate-change/</id>
-        <link href="https://cn.nytimes.com/china/20260317/china-zhou-dynasty-king-climate-change/?utm_source=RSS"/>
-        <updated>2026-03-23T00:43:50.000Z</updated>
-        <summary type="html"><![CDATA[关于西周灭亡的传统解释是一个关于美人祸国的故事。新研究则提供了史学家认为更为可信的解释：气候突变引发的干旱和异常寒冷以及政权内部冲突导致了王朝的覆灭。
-
-                    
-Qilai Shen for The New York Times
-                    
-研究人员正在贺家村附近发掘据信是西周都城入口处一座防御城门的遗迹，摄于去年12月。]]></summary>
-        <author>
-            <name>ANDREW HIGGINS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[油价飙升、航班取消：航空燃油危机席卷亚洲]]></title>
-        <id>https://cn.nytimes.com/business/20260323/oil-jetfuel-asia/</id>
-        <link href="https://cn.nytimes.com/business/20260323/oil-jetfuel-asia/?utm_source=RSS"/>
-        <updated>2026-03-22T23:21:51.000Z</updated>
-        <summary type="html"><![CDATA[中东战争爆发三周后，航空煤油价格飙升至历史最高水平。严重依赖中东石油且战略储备有限的亚洲各国首当其冲。一些航空公司已取消数千架次航班，数以万计的乘客滞留。
-
-                    
-Marty Melville/Agence France-Presse — Getty Images
-                    
-新西兰惠灵顿国际机场。新西兰航空公司已取消了约1100架次航班，影响将持续至5月初。]]></summary>
-        <author>
-            <name>艾莎,AARON KROLIK,TUNG NGO,VICTORIA KIM</name>
         </author>
     </entry>
     <entry>
@@ -1002,16 +1143,6 @@ Ian C. Bates for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[看见 App Store 生态的更多可能，Tim Cook 会见中国游戏开发者]]></title>
-        <id>https://sspai.com/post/107642</id>
-        <link href="https://sspai.com/post/107642"/>
-        <updated>2026-03-22T09:07:23.000Z</updated>
-        <summary type="html"><![CDATA[结束了在成都举办的Apple五十周年全球第二站活动之后，TimCook又马不停蹄地来到北京，与多位中国优秀的游戏开发者们会面交流，了解他们的作品及Apple技术对他们的支持。《逃离鸭科夫》是一款由开发 ...查看全文]]></summary>
-        <author>
-            <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mexico City's 'Xoli' Chatbot Will Help World Cup Tourists Navigate the City]]></title>
         <id>69bd7a4c33c22df804228ffa</id>
         <link href="https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/"/>
@@ -1037,144 +1168,6 @@ Ian C. Bates for The New York Times
         <updated>2026-03-22T08:45:00.000Z</updated>
         <author>
             <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用十年手机相册，记录颐和园的日夜春秋]]></title>
-        <id>https://sspai.com/post/107010</id>
-        <link href="https://sspai.com/post/107010"/>
-        <updated>2026-03-22T06:35:06.000Z</updated>
-        <summary type="html"><![CDATA[这些照片代表的生命瞬间，才是我真正的人生。查看全文]]></summary>
-        <author>
-            <name>知道分子吴先先</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[71 Best Podcasts (2026): True Crime, Culture, Science, Fiction]]></title>
-        <id>620519ac98c5aa9edfd4d606</id>
-        <link href="https://www.wired.com/story/best-podcasts/"/>
-        <updated>2026-03-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get your fix of tech, true crime, pop culture, or comedy with these audio adventures.]]></summary>
-        <author>
-            <name>Simon Hill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Protein Bars (2026): Vegan, Gluten-Free, High Fiber]]></title>
-        <id>6939e18e0a65da78f691cbde</id>
-        <link href="https://www.wired.com/story/best-protein-bars/"/>
-        <updated>2026-03-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What to prioritize, what to skip, when to enjoy—plus, we’ve selected WIRED's favorite bars worth trying.]]></summary>
-        <author>
-            <name>Boutayna Chokrane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aiper Scuba V3 Pool Robot Review: Eye on the Prize]]></title>
-        <id>69bc1989df76d8d9b81a2749</id>
-        <link href="https://www.wired.com/review/aiper-scuba-v3-pool-robot/"/>
-        <updated>2026-03-21T11:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Now outfitted with AI computer vision, this new pool cleaner can actively search for debris.]]></summary>
-        <author>
-            <name>Christopher Null</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work]]></title>
-        <id>69bd8fdf426abb20ef0bb099</id>
-        <link href="https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/"/>
-        <updated>2026-03-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.]]></summary>
-        <author>
-            <name>Reece Rogers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck]]></title>
-        <id>69bd5d32eccbfc33fa7b89b2</id>
-        <link href="https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/"/>
-        <updated>2026-03-21T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Plus: The FBI admits it’s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.]]></summary>
-        <author>
-            <name>Matt Burgess, Lily Hay Newman, Andy Greenberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 19 Best EVs Coming in 2026]]></title>
-        <id>6966e42a7f908af75073dbce</id>
-        <link href="https://www.wired.com/story/the-16-best-evs-coming-in-2026/"/>
-        <updated>2026-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re expecting fresh electrics from Rivian, Hyundai, Honda, BMW, and newcomer Slate, among others. Here are the EVs arriving this year that we’re most excited about.]]></summary>
-        <author>
-            <name>Jeremy White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Jury Duty Presents: Company Retreat' Almost Makes Corporate Culture Seem Fun]]></title>
-        <id>69b829c63923a4763f23c46b</id>
-        <link href="https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/"/>
-        <updated>2026-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Amazon Prime prank series amplifies the hijinks of workplace dynamics, while showing how people find purpose—and community—in their jobs despite impossible situations.]]></summary>
-        <author>
-            <name>Jason Parham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps]]></title>
-        <id>69bad90eb2b641906b1ec2d7</id>
-        <link href="https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/"/>
-        <updated>2026-03-21T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Chinese automaker is racing ahead of global competitors—but don’t expect to see those gains in the US anytime soon.]]></summary>
-        <author>
-            <name>Aarian Marshall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Denies It Could Sabotage AI Tools During War]]></title>
-        <id>69bdd2b0c2b333785bb099ea</id>
-        <link href="https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/"/>
-        <updated>2026-03-21T00:03:20.000Z</updated>
-        <summary type="html"><![CDATA[The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.]]></summary>
-        <author>
-            <name>Paresh Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone]]></title>
-        <id>69bd4f90fcdccbf431ec9595</id>
-        <link href="https://www.wired.com/story/amazon-smartphone-rumor-2026/"/>
-        <updated>2026-03-20T22:03:09.000Z</updated>
-        <summary type="html"><![CDATA[The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.]]></summary>
-        <author>
-            <name>Julian Chokkattu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国在伊朗陷入泥潭，特朗普只能怪他自己]]></title>
-        <id>https://cn.nytimes.com/opinion/20260320/trump-iran-war/</id>
-        <link href="https://cn.nytimes.com/opinion/20260320/trump-iran-war/?utm_source=RSS"/>
-        <updated>2026-03-20T03:59:31.000Z</updated>
-        <summary type="html"><![CDATA[特朗普在自行发起战争的同时，宣布了自相矛盾的战争目标。这不应该是民主国家走向战争的方式。特朗普不是领导国家走向战场的合适人选。
-
-                    
-George Douglas]]></summary>
-        <author>
-            <name>DAVID FRENCH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Labubu走向大银幕，泡泡玛特与索尼联手打造电影]]></title>
-        <id>https://cn.nytimes.com/film-tv/20260320/labubu-movie-paul-king/</id>
-        <link href="https://cn.nytimes.com/film-tv/20260320/labubu-movie-paul-king/?utm_source=RSS"/>
-        <updated>2026-03-20T03:13:46.000Z</updated>
-        <summary type="html"><![CDATA[泡泡玛特与索尼影业宣布，Labubu将成为好莱坞电影的主角。这部影片将成为继芭比、乐高和变形金刚等作之后，又一部将人气潮玩打造成商业大片主角的作品。
-
-                    
-Kevin Frayer/Getty Images
-                    
-去年，一名扮演Labubu的表演者在北京“泡泡玛特城市乐园”主题公园向游客问好。]]></summary>
-        <author>
-            <name>CLAIRE MOSES</name>
         </author>
     </entry>
 </feed>
