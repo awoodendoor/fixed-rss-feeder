@@ -12,6 +12,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/105990",
+          "author": "任亚军",
+          "description": "三种更新方式，从万年历、通知推送到信息展示。查看全文",
+          "link": "https://sspai.com/post/105990",
+          "publishedOn": "2026-03-29T09:38:34.000Z",
+          "wordCount": 297,
+          "title": "自制电子墨水屏，以及我用它来干了什么？",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/107980",
           "author": "bakamio",
           "description": "我喜欢 Raycast，所以想为它写一份平易近人的入门指南，让大家都来用。查看全文",
@@ -99,16 +109,6 @@
           "publishedOn": "2026-03-26T09:01:59.000Z",
           "wordCount": 229,
           "title": "住久了没意思？租房常见问题与我的改造原则",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/107773",
-          "author": "ROB1N",
-          "description": "三大特摄剧，只有战队被叫停，就连收视比它低得多的奥特曼都还活得好好的，问题究竟出在哪了？查看全文",
-          "link": "https://sspai.com/post/107773",
-          "publishedOn": "2026-03-26T08:00:00.000Z",
-          "wordCount": 271,
-          "title": "空想特摄的浪漫（三）：超级战队系列",
           "imageUrl": null
         }
       ]
@@ -250,7 +250,7 @@
           "description": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
           "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
           "publishedOn": "2026-03-27T19:11:28.000Z",
-          "wordCount": 3478,
+          "wordCount": 3484,
           "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/SK-hynix-logo.jpg?w=1200"
         },
@@ -270,7 +270,7 @@
           "description": "The European Union's top executive body has confirmed a cyberattack after hackers reportedly stole reams of data from the European Commission's cloud storage.",
           "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
           "publishedOn": "2026-03-27T17:59:29.000Z",
-          "wordCount": 2965,
+          "wordCount": 2961,
           "title": "European Commission confirms cyberattack after hackers claim data breach",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1146371917.jpg?w=1024"
         },
@@ -545,6 +545,36 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A",
       "articles": [
         {
+          "id": "9daf7012bdc736759ec85c7ef7942887",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E6%88%91%E7%BB%88%E4%BA%8E%E8%AF%BB%E5%AE%8C%E4%BA%86%E3%80%8A%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC%E3%80%8B%EF%BC%81%E2%80%9D",
+          "publishedOn": "2026-03-29T04:00:00.000Z",
+          "wordCount": 263,
+          "title": "“我终于读完了《百年孤独》！”",
+          "imageUrl": null
+        },
+        {
+          "id": "0aeb44bb22ab492d483fcf800c0f7ae8",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+87%E5%B2%81%E6%9D%8E%E6%98%8C%E9%92%B0%E9%80%9D%E4%B8%96%EF%BC%9A%E4%B8%80%E4%BB%A3%E5%8D%8E%E4%BA%BA%E7%A5%9E%E6%8E%A2%E8%90%BD%E5%B9%95",
+          "publishedOn": "2026-03-29T04:00:00.000Z",
+          "wordCount": 304,
+          "title": "87岁李昌钰逝世：一代华人神探落幕",
+          "imageUrl": null
+        },
+        {
+          "id": "fb4a3b710f3354b4b8a0bc3eb78a15fe",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%98%A5%E7%AC%8B%E2%80%9C%E7%83%A4%E2%80%9D%E6%88%90%E5%9B%9B%E5%AD%A3%E8%8F%9C%EF%BC%8C%E5%A5%89%E5%8C%96%E4%BA%BA%E8%BF%98%E6%98%AF%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86%EF%BC%81",
+          "publishedOn": "2026-03-29T04:00:00.000Z",
+          "wordCount": 310,
+          "title": "春笋“烤”成四季菜，奉化人还是太超前了！",
+          "imageUrl": null
+        },
+        {
           "id": "c2d49c429bae1d7449df27ebef14fa32",
           "author": null,
           "description": "",
@@ -563,36 +593,6 @@
           "wordCount": 303,
           "title": "我发现初中后劲不足的孩子，都有一个通病",
           "imageUrl": null
-        },
-        {
-          "id": "b53f0a9c6fd54c468a319b6dd678544b",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%A2%AB%E7%94%9F%E6%B4%BB%E6%8F%89%E7%A2%8E%E7%9A%84%E4%BA%BA%EF%BC%8C%E9%83%BD%E8%AF%A5%E8%AF%BB%E8%AF%BB%E4%BD%99%E7%A7%80%E5%8D%8E%E8%BF%99%E6%9C%AC%E8%AF%97%E9%9B%86",
-          "publishedOn": "2026-03-28T04:09:00.000Z",
-          "wordCount": 299,
-          "title": "被生活揉碎的人，都该读读余秀华这本诗集",
-          "imageUrl": null
-        },
-        {
-          "id": "ac6c05a7fdbcf9850877246ca7e68943",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E3%80%81%E6%8F%90%E5%89%8D%E9%80%80%E4%BC%91%E2%80%9D%E5%9B%9B%E5%B9%B4%E5%90%8E%EF%BC%8C40%E5%B2%81%E7%9A%84%E5%A5%B9%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%B8%8A%E7%8F%AD%E4%BA%86",
-          "publishedOn": "2026-03-28T04:09:00.000Z",
-          "wordCount": 256,
-          "title": "“财富自由、提前退休”四年后，40岁的她又回来上班了",
-          "imageUrl": null
-        },
-        {
-          "id": "4748b1404a5612eb9648b2710579f307",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%BB%84%E5%B1%B1%E5%A5%87%E9%81%87%E8%AE%B0%EF%BC%8C%E4%B8%80%E5%9C%BA%E5%BE%92%E6%AD%A5%E8%87%AA%E7%84%B6%E7%9A%84%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%A1%8C",
-          "publishedOn": "2026-03-28T04:09:00.000Z",
-          "wordCount": 312,
-          "title": "黄山奇遇记，一场徒步自然的探索之行",
-          "imageUrl": null
         }
       ]
     },
@@ -607,7 +607,7 @@
           "description": "",
           "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%B4%9B%E8%B5%B7%E5%8A%BF%E4%B8%8D%E5%8F%AF%E6%8C%A1",
           "publishedOn": "2026-03-24T04:07:00.000Z",
-          "wordCount": 306,
+          "wordCount": 311,
           "title": "字节跳动崛起势不可挡",
           "imageUrl": null
         },
@@ -627,7 +627,7 @@
           "description": "",
           "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%93%AA%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%9C%A8%E8%83%BD%E6%BA%90%E5%86%B2%E5%87%BB%E4%B8%AD%E6%8D%9F%E5%A4%B1%E6%9C%80%E6%83%A8%E9%87%8D%EF%BC%9F%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E8%B4%A2%E7%BB%8F",
           "publishedOn": "2026-03-23T12:30:00.000Z",
-          "wordCount": 324,
+          "wordCount": 339,
           "title": "哪个国家在能源冲击中损失最惨重？| 经济学人财经",
           "imageUrl": null
         },
@@ -637,7 +637,7 @@
           "description": "",
           "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E4%B8%AD%E5%9B%BD%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E9%A6%96%E4%B8%AA%E5%BB%BA%E6%88%90%E5%95%86%E4%B8%9A%E5%8F%8D%E5%BA%94%E5%A0%86%E7%9A%84%E5%9B%BD%E5%AE%B6%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%A7%91%E6%8A%80",
           "publishedOn": "2026-03-22T08:45:00.000Z",
-          "wordCount": 302,
+          "wordCount": 319,
           "title": "中国可能成为首个建成商业反应堆的国家 | 经济学人科技",
           "imageUrl": null
         },
@@ -659,12 +659,82 @@
       "siteUrl": "https://www.wired.com",
       "articles": [
         {
+          "id": "5ad9f8845ac0d714a1b64321",
+          "author": "Julian Chokkattu",
+          "description": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to find the ones worth your money.",
+          "link": "https://www.wired.com/gallery/best-android-phones/",
+          "publishedOn": "2026-03-29T11:00:00.000Z",
+          "wordCount": 43240,
+          "title": "9 Best Android Phones of 2026, Tested and Reviewed",
+          "imageUrl": "https://media.wired.com/photos/69aa57fa133f03206e0ed537/191:100/w_1280,c_limit/The%20Best%20Android%20Phones%20-%202.png"
+        },
+        {
+          "id": "69c40c5f689e570f9a1d1c9b",
+          "author": "Aarian Marshall",
+          "description": "The incidents in Austin raise questions about how self-driving cars “learn” and adapt to their surroundings.",
+          "link": "https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/",
+          "publishedOn": "2026-03-29T11:00:00.000Z",
+          "wordCount": 27956,
+          "title": "A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work",
+          "imageUrl": "https://media.wired.com/photos/69c41990d449365b26bdb7c5/191:100/w_1280,c_limit/gear_waymo_bus_GettyImages-2149191988.jpg"
+        },
+        {
+          "id": "69bddc79fd20cef798ac9b05",
+          "author": "David Nield",
+          "description": "All your snaps come with metadata containing more information than you might realize.",
+          "link": "https://www.wired.com/story/how-to-stop-your-photos-giving-away-your-location/",
+          "publishedOn": "2026-03-29T10:30:00.000Z",
+          "wordCount": 26922,
+          "title": "Your Photos Are Probably Giving Away Your Location. Here’s How to Stop That",
+          "imageUrl": "https://media.wired.com/photos/69c3cbd2667a0efa0564afc3/191:100/w_1280,c_limit/032526_Gear-Your%20Photos%20Are%20Probably%20Giving%20Away%20Your%20Location.jpg"
+        },
+        {
+          "id": "69bd68306c4fd1c696b7481e",
+          "author": "Ryan Waniata",
+          "description": "Everyone needs a good pair of ANC earbuds. These are the best of the bunch.",
+          "link": "https://www.wired.com/gallery/best-noise-canceling-earbuds/",
+          "publishedOn": "2026-03-29T10:30:00.000Z",
+          "wordCount": 27478,
+          "title": "Best Noise-Canceling Earbuds: Bose, Sony, Apple, and More",
+          "imageUrl": "https://media.wired.com/photos/69c6c3acb2e9941fa7bff773/191:100/w_1280,c_limit/Best-Noise-Canceling-Earbuds.jpg"
+        },
+        {
+          "id": "69c279bbcdcddef09fe3ed10",
+          "author": "Jeremy White",
+          "description": "Veteran designers in the auto industry—and Jony Ive—tell us how hard it is to make a functional yet beautiful steering wheel.",
+          "link": "https://www.wired.com/story/the-deceptively-tricky-art-of-designing-a-steering-wheel/",
+          "publishedOn": "2026-03-29T10:00:00.000Z",
+          "wordCount": 32338,
+          "title": "The Deceptively Tricky Art of Designing a Steering Wheel",
+          "imageUrl": "https://media.wired.com/photos/69c5335d0f4f67ce2441bc51/191:100/w_1280,c_limit/032526_The%20Deceptively%20Tricky%20Art%20of%20Designing%20a%20Steering%20Wheel.jpg"
+        },
+        {
+          "id": "64677ce788479249e0cc2920",
+          "author": "Michael Sawh",
+          "description": "These chest straps and watches will help you keep your finger on your pulse—and many other heart-related metrics.",
+          "link": "https://www.wired.com/gallery/best-heart-rate-monitors/",
+          "publishedOn": "2026-03-29T09:30:00.000Z",
+          "wordCount": 32325,
+          "title": "Best Heart Rate Monitors (2026): Polar, Coros, Garmin",
+          "imageUrl": "https://media.wired.com/photos/68a957cf70656c60608141a9/191:100/w_1280,c_limit/The%20Best%20Heart%20Rate%20Monitors%20to%20Check%20Your%20Cardiac%20Health.png"
+        },
+        {
+          "id": "69b4396a7f3e3000e5be1861",
+          "author": "Louryn Strampe",
+          "description": "This sale spans almost an entire week, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.",
+          "link": "https://www.wired.com/story/the-amazon-spring-sale-2026-2/",
+          "publishedOn": "2026-03-29T09:03:00.000Z",
+          "wordCount": 35731,
+          "title": "These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
+          "imageUrl": "https://media.wired.com/photos/69c31871ea56e672b4eef17c/191:100/w_1280,c_limit/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg"
+        },
+        {
           "id": "69bdd407ac1990a74f74d284",
           "author": "Adrienne So",
           "description": "We tested Garmin’s GPS-enabled fitness trackers and found the perfect picks for casual hikers, backcountry skiers, and more.",
           "link": "https://www.wired.com/story/best-garmin-watch/",
           "publishedOn": "2026-03-28T11:30:00.000Z",
-          "wordCount": 33866,
+          "wordCount": 33792,
           "title": "What Is the Best Garmin Watch Right Now? (2026)",
           "imageUrl": "https://media.wired.com/photos/69c6b3f2b2e9941fa7bff511/191:100/w_1280,c_limit/What's-the-Best-Garmin-Watch-Right-Now-.jpg"
         },
@@ -674,7 +744,7 @@
           "description": "Slap a case on your shiny new Pixel, whether you have the Pixel 10a, Pixel 10, or Pixel 10 Pro XL. We also have recommendations for Qi2 chargers and other accessories.",
           "link": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
           "publishedOn": "2026-03-28T11:08:00.000Z",
-          "wordCount": 38776,
+          "wordCount": 38707,
           "title": "The Best Pixel 10 Cases and Accessories (2026): We’ve Tested Dozens",
           "imageUrl": "https://media.wired.com/photos/68bbcf49f02d871ebe651fbb/191:100/w_1280,c_limit/Top%20Art%20Pixel%2010%20Cases%20SOURCE%20Julian%20Chokkattu.jpg"
         },
@@ -684,7 +754,7 @@
           "description": "Companies hope that biometric age-verification tech in cartridges could put flavored vapes back in business. But it's unlikely to solve the real problems.",
           "link": "https://www.wired.com/story/your-vape-wants-to-know-how-old-you-are/",
           "publishedOn": "2026-03-28T11:00:00.000Z",
-          "wordCount": 28364,
+          "wordCount": 28209,
           "title": "Your Vape Wants to Know How Old You Are",
           "imageUrl": "https://media.wired.com/photos/69c6b32db2e9941fa7bff508/191:100/w_1280,c_limit/gear_vape_age_GettyImages-2216295204.jpg"
         },
@@ -694,7 +764,7 @@
           "description": "From flagship and budget to flipping and folding, Samsung’s Galaxy range spans the breadth of the smartphone cosmos. WIRED’s here to help you make your choice.",
           "link": "https://www.wired.com/gallery/best-samsung-phones/",
           "publishedOn": "2026-03-28T10:30:00.000Z",
-          "wordCount": 38622,
+          "wordCount": 38553,
           "title": "The Best Samsung Phones of 2026, Tested and Reviewed",
           "imageUrl": "https://media.wired.com/photos/69c6f5f3769405385e981558/191:100/w_1280,c_limit/Samsung%20Galaxy%20S26%20Series%20SOURCE%20Julian%20Chokkattu%20(3).jpg"
         },
@@ -714,9 +784,19 @@
           "description": "It’s a small world after all, and these cameras can capture all of it at once, giving you a 360-degree view.",
           "link": "https://www.wired.com/gallery/best-360-cameras/",
           "publishedOn": "2026-03-28T09:30:00.000Z",
-          "wordCount": 30598,
+          "wordCount": 30529,
           "title": "Best 360 Cameras (2026): DJI, Insta360, GoPro",
           "imageUrl": "https://media.wired.com/photos/68a9553c808c84e00ba94566/191:100/w_1280,c_limit/The%20Best%20360%20Cameras%20to%20See%20the%20World%20Around%20You.png"
+        },
+        {
+          "id": "690d12ea0bcd6d7c5eccd47d",
+          "author": "Brad Bourque",
+          "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+          "link": "https://www.wired.com/story/meta-quest-promo-code/",
+          "publishedOn": "2026-03-28T05:00:00.000Z",
+          "wordCount": 27417,
+          "title": "Meta Quest Promo Codes: $50 Off | March 2026",
+          "imageUrl": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/191:100/w_1280,c_limit/WIRED-Coupons-R2_8.png"
         },
         {
           "id": "694592ca332d8945ef80edae",
@@ -724,7 +804,7 @@
           "description": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
           "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
           "publishedOn": "2026-03-28T05:00:00.000Z",
-          "wordCount": 25881,
+          "wordCount": 25812,
           "title": "Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets",
           "imageUrl": "https://media.wired.com/photos/67b63b995a505b018b67ed92/191:100/w_1280,c_limit/WIRED-Coupons-R2_10.png"
         },
@@ -734,19 +814,9 @@
           "description": "From $0 delivery fees on your first three orders to $50 credits with the Instacart Mastercard, here is how to maximize your grocery budget this month.",
           "link": "https://www.wired.com/story/instacart-promo/code/",
           "publishedOn": "2026-03-28T05:00:00.000Z",
-          "wordCount": 26647,
+          "wordCount": 26620,
           "title": "Instacart Promo Code: Save on Groceries in March 2026",
           "imageUrl": "https://media.wired.com/photos/67b63b9079f27a355461c964/191:100/w_1280,c_limit/WIRED-Coupons-R2_2.png"
-        },
-        {
-          "id": "690d12ea0bcd6d7c5eccd47d",
-          "author": "Brad Bourque",
-          "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-          "link": "https://www.wired.com/story/meta-quest-promo-code/",
-          "publishedOn": "2026-03-28T05:00:00.000Z",
-          "wordCount": 27486,
-          "title": "Meta Quest Promo Codes: $50 Off | March 2026",
-          "imageUrl": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/191:100/w_1280,c_limit/WIRED-Coupons-R2_8.png"
         },
         {
           "id": "69c6d0d1b1e88611bd9731df",
@@ -754,7 +824,7 @@
           "description": "From 40% off accessory bundles to verified student and military discounts, here's how to save on Predator, Nitro, and Swift laptops and monitors at Acer.com.",
           "link": "https://www.wired.com/story/acer-promo-code/",
           "publishedOn": "2026-03-28T05:00:00.000Z",
-          "wordCount": 25874,
+          "wordCount": 25847,
           "title": "Acer Promo Codes and Deals: Save 40% on Bundles",
           "imageUrl": "https://media.wired.com/photos/67b63b995a505b018b67ed92/191:100/w_1280,c_limit/WIRED-Coupons-R2_10.png"
         },
@@ -764,7 +834,7 @@
           "description": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
           "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
           "publishedOn": "2026-03-27T21:46:39.000Z",
-          "wordCount": 27908,
+          "wordCount": 27312,
           "title": "AI Research Is Getting Harder to Separate From Geopolitics",
           "imageUrl": "https://media.wired.com/photos/69c6b7c2b1e88611bd972d9a/191:100/w_1280,c_limit/Made-In-China-AI-Research-Is-Starting-to-Split-Along-Geopolitical-Lines-Business-2246178146.jpg"
         },
@@ -774,7 +844,7 @@
           "description": "The Branch Ergonomic Chair Pro offers great value at full price—but right now, it's $100 off.",
           "link": "https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/",
           "publishedOn": "2026-03-27T20:45:41.000Z",
-          "wordCount": 25258,
+          "wordCount": 25209,
           "title": "The Best Office Chair Is $50 Cheaper Than We've Seen Before",
           "imageUrl": "https://media.wired.com/photos/69c6b5b86eaa8a62bf6b71cd/191:100/w_1280,c_limit/The-Best-Office-Chair-is-Cheaper-Than-We've-Seen-Before.jpg"
         },
@@ -784,7 +854,7 @@
           "description": "As Washington wrangles over the future of federal employees’ pay, here are some ideas for passing the time.",
           "link": "https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/",
           "publishedOn": "2026-03-27T20:44:00.000Z",
-          "wordCount": 27527,
+          "wordCount": 27478,
           "title": "10 Things You Can Do While Waiting in the TSA Line",
           "imageUrl": "https://media.wired.com/photos/69c6c6fead062033a04be7a8/191:100/w_1280,c_limit/gear_TSA_Lines_GettyImages-2267899051.jpg"
         },
@@ -794,7 +864,7 @@
           "description": "Plus: Apple makes big claims about the effectiveness of its Lockdown Mode anti-spyware feature, Russia moves to implement homegrown encryption for 5G, and more.",
           "link": "https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/",
           "publishedOn": "2026-03-27T19:45:21.000Z",
-          "wordCount": 29549,
+          "wordCount": 29357,
           "title": "Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s",
           "imageUrl": "https://media.wired.com/photos/69c6b14c2e33b7e4cae4cc2b/191:100/w_1280,c_limit/secutiy_Kash_Patel_GettyImages-2266686717.jpg"
         },
@@ -804,7 +874,7 @@
           "description": "Save big on this oversized Sennheiser soundbar with lots of ports and excellent virtual surround.",
           "link": "https://www.wired.com/story/sennheiser-ambeo-max-deal-326/",
           "publishedOn": "2026-03-27T17:39:12.000Z",
-          "wordCount": 25538,
+          "wordCount": 25489,
           "title": "This Premium Sennheiser Soundbar Is $1,000 Off",
           "imageUrl": "https://media.wired.com/photos/69c6bfb494502e7091a2c38a/191:100/w_1280,c_limit/This-Sennheiser-Soundbar-Is-$1,000-Off.jpg"
         },
@@ -814,7 +884,7 @@
           "description": "“ICE are here and they’re doing literally nothing to help,” said an airline worker in New York.",
           "link": "https://www.wired.com/story/ice-agents-frustrate-airport-employees-as-shutdown-drags-on/",
           "publishedOn": "2026-03-27T15:18:19.000Z",
-          "wordCount": 27080,
+          "wordCount": 27346,
           "title": "ICE Agents Frustrate Airport Workers as Shutdown Drags On",
           "imageUrl": "https://media.wired.com/photos/69c4659cd635c97c9c58dc41/191:100/w_1280,c_limit/politics_Airport_ICE_AP26082656566250.jpg"
         },
@@ -824,7 +894,7 @@
           "description": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
           "link": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
           "publishedOn": "2026-03-27T15:00:00.000Z",
-          "wordCount": 26715,
+          "wordCount": 27266,
           "title": "Apple Still Plans to Sell iPhones When It Turns 100",
           "imageUrl": "https://media.wired.com/photos/69c5b9b4b9e372b94d2465cd/191:100/w_1280,c_limit/Backchannel-Future-of-Apple-Business-1005306778..jpg"
         },
@@ -834,7 +904,7 @@
           "description": "These apps and websites find bus, train, and ferry tickets when you want more options than flying to your destination.",
           "link": "https://www.wired.com/story/skip-the-tsa-line-where-to-find-travel-by-bus-train-and-boat/",
           "publishedOn": "2026-03-27T13:22:49.000Z",
-          "wordCount": 26592,
+          "wordCount": 26543,
           "title": "Skip the TSA Line: Where to Find Travel by Bus, Train, and Boat",
           "imageUrl": "https://media.wired.com/photos/69c68486334e40486230fccb/191:100/w_1280,c_limit/2246378994"
         },
@@ -854,7 +924,7 @@
           "description": "These convenient and slim magnetic wallets are the ones you’ll want to stick to the back of your smartphone.",
           "link": "https://www.wired.com/gallery/best-magsafe-wallets/",
           "publishedOn": "2026-03-27T12:08:00.000Z",
-          "wordCount": 31091,
+          "wordCount": 31022,
           "title": "13 Best MagSafe Wallets (2026), Tested IRL",
           "imageUrl": "https://media.wired.com/photos/6878257d08a39480606bbdb5/191:100/w_1280,c_limit/The%20Best%20MagSafe%20Wallets.png"
         },
@@ -864,7 +934,7 @@
           "description": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
           "link": "https://www.wired.com/story/best-portable-external-storage-drives/",
           "publishedOn": "2026-03-27T11:30:00.000Z",
-          "wordCount": 38453,
+          "wordCount": 38404,
           "title": "Best External Hard Drive (2026): SSD to Store Data, Video, and More",
           "imageUrl": "https://media.wired.com/photos/68d1a8a2627fe89f30b86df5/191:100/w_1280,c_limit/The%20Best%20External%20Hard%20Drives.png"
         },
@@ -874,7 +944,7 @@
           "description": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
           "link": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
           "publishedOn": "2026-03-27T11:00:00.000Z",
-          "wordCount": 27762,
+          "wordCount": 27760,
           "title": "The Latest AI Documentary Asks: Just How Scared Should We Be?",
           "imageUrl": "https://media.wired.com/photos/69c45157086bd87019415371/191:100/w_1280,c_limit/AI-Doc-Culture-AI_FP_00001.jpg"
         },
@@ -884,19 +954,9 @@
           "description": "That’s good news, since the forecast is sunshine for the next 5 billion years.",
           "link": "https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/",
           "publishedOn": "2026-03-27T11:00:00.000Z",
-          "wordCount": 28084,
+          "wordCount": 28275,
           "title": "One Way or Another, Most of Our Electricity Comes From Solar Power",
           "imageUrl": "https://media.wired.com/photos/69c5b42748e037141120e175/191:100/w_1280,c_limit/Most-of-Our-Electricity-Comes-From-Solar-Power-Science-1396998766.jpg"
-        },
-        {
-          "id": "59c93d28e7a725360459fd27",
-          "author": "Simon Hill",
-          "description": "Save your memories now, because if your iPhone gets stolen or lost, your photos and other precious files could be gone forever.",
-          "link": "https://www.wired.com/story/how-to-backup-your-iphone/",
-          "publishedOn": "2026-03-27T10:30:00.000Z",
-          "wordCount": 30937,
-          "title": "How to Back Up Your iPhone to iCloud, MacOS, or Windows (2026)",
-          "imageUrl": "https://media.wired.com/photos/69c5e00d3d62f10d14ab0ce6/191:100/w_1280,c_limit/GettyImages-2233006944.jpg"
         },
         {
           "id": "69c40d0935fd13aa40807d68",
@@ -904,9 +964,19 @@
           "description": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
           "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
           "publishedOn": "2026-03-27T10:30:00.000Z",
-          "wordCount": 28486,
+          "wordCount": 28371,
           "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
           "imageUrl": "https://media.wired.com/photos/69c566552e06a34450ad87fa/191:100/w_1280,c_limit/Asked-ChatGPT-Questions-Here-Are-Ads-I-Saw-Most-Often-Gear-1258531803.jpg"
+        },
+        {
+          "id": "59c93d28e7a725360459fd27",
+          "author": "Simon Hill",
+          "description": "Save your memories now, because if your iPhone gets stolen or lost, your photos and other precious files could be gone forever.",
+          "link": "https://www.wired.com/story/how-to-backup-your-iphone/",
+          "publishedOn": "2026-03-27T10:30:00.000Z",
+          "wordCount": 30819,
+          "title": "How to Back Up Your iPhone to iCloud, MacOS, or Windows (2026)",
+          "imageUrl": "https://media.wired.com/photos/69c5e00d3d62f10d14ab0ce6/191:100/w_1280,c_limit/GettyImages-2233006944.jpg"
         },
         {
           "id": "69bf182ef9fde6be33032884",
@@ -924,7 +994,7 @@
           "description": "Months into a supposed ceasefire in Gaza, doctors still have to smuggle in basic medical supplies—and treat new casualties of war.",
           "link": "https://www.wired.com/story/gaza-war-al-shifa-hospital-ghosts/",
           "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 34448,
+          "wordCount": 34510,
           "title": "At Gaza’s Al-Shifa Hospital, the War Isn’t Over",
           "imageUrl": "https://media.wired.com/photos/69c552e4fa7ad3cd5ef140f8/191:100/w_1280,c_limit/gazaFinal.jpg"
         },
@@ -934,7 +1004,7 @@
           "description": "The best espresso makers can turn your kitchen into a café and help you hone the art of the perfect shot.",
           "link": "https://www.wired.com/gallery/best-espresso-machines/",
           "publishedOn": "2026-03-27T09:33:00.000Z",
-          "wordCount": 38615,
+          "wordCount": 38546,
           "title": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros",
           "imageUrl": "https://media.wired.com/photos/699d08b7fbe4706f6e413cbd/191:100/w_1280,c_limit/Review-%20Fellow%20Series%201%20Espresso%20Machine.png"
         },
@@ -954,7 +1024,7 @@
           "description": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
           "link": "https://www.wired.com/story/surfshark-coupon/",
           "publishedOn": "2026-03-27T05:00:00.000Z",
-          "wordCount": 26396,
+          "wordCount": 26326,
           "title": "Surfshark Promo Codes: 87% Off | March 2026",
           "imageUrl": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/191:100/w_1280,c_limit/WIRED-Coupons-17.jpg"
         },
@@ -964,7 +1034,7 @@
           "description": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases during the Spring Sale.",
           "link": "https://www.wired.com/story/layla-sleep-coupon/",
           "publishedOn": "2026-03-27T05:00:00.000Z",
-          "wordCount": 25682,
+          "wordCount": 25613,
           "title": "Layla Sleep Coupon: Save Up to $600 in March 2026",
           "imageUrl": "https://media.wired.com/photos/67b63b9a4816461befb48207/191:100/w_1280,c_limit/WIRED-Coupons-R2_12.png"
         },
@@ -974,7 +1044,7 @@
           "description": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and up to 50% off for existing customers.",
           "link": "https://www.wired.com/story/doordash-promo-code/",
           "publishedOn": "2026-03-27T05:00:00.000Z",
-          "wordCount": 27312,
+          "wordCount": 27263,
           "title": "50% Off DoorDash Promo Code | March 2026",
           "imageUrl": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/191:100/w_1280,c_limit/WIRED-Coupons-10.jpg"
         },
@@ -984,7 +1054,7 @@
           "description": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
           "link": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
           "publishedOn": "2026-03-26T23:33:05.000Z",
-          "wordCount": 26774,
+          "wordCount": 26749,
           "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
           "imageUrl": "https://media.wired.com/photos/69c5b0bd07d68ae7468ce59a/191:100/w_1280,c_limit/Apple-Supply-Chain-Risk-Business-2261514689.jpg"
         },
@@ -994,7 +1064,7 @@
           "description": "Experts say that an American ground operation targeting nuclear sites in Iran would be incredibly complicated, put troops’ lives at great risk—and might still fail.",
           "link": "https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/",
           "publishedOn": "2026-03-26T21:42:52.000Z",
-          "wordCount": 28630,
+          "wordCount": 28674,
           "title": "How Trump’s Plot to Grab Iran's Nuclear Fuel Would Actually Work",
           "imageUrl": "https://media.wired.com/photos/69c31174ac9dd3ca1ad22d1e/191:100/w_1280,c_limit/security_uranium_GettyImages-1226809254.jpg"
         },
@@ -1004,7 +1074,7 @@
           "description": "This viral magnetic travel-toiletry system is rarely on sale, and this discount is legitimately good.",
           "link": "https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/",
           "publishedOn": "2026-03-26T18:16:28.000Z",
-          "wordCount": 25861,
+          "wordCount": 25790,
           "title": "You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade",
           "imageUrl": "https://media.wired.com/photos/69c56acfbf542f5813ce4da0/191:100/w_1280,c_limit/This-Is-the-Cheapest-Cadence-Capsules-Have-Been-This-Year.jpg"
         },
@@ -1014,7 +1084,7 @@
           "description": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
           "link": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
           "publishedOn": "2026-03-26T18:00:00.000Z",
-          "wordCount": 29475,
+          "wordCount": 29520,
           "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
           "imageUrl": "https://media.wired.com/photos/69c44c4c4ff31d9d83686fcc/191:100/w_1280,c_limit/Model-Behavior-Newsletter-Writers-Using-AI-to-Write-Their-Columns-Business.jpg"
         },
@@ -1024,7 +1094,7 @@
           "description": "Amazon's Spring Sale has multiple of our favorite e-readers discounted, including one that's now under $100.",
           "link": "https://www.wired.com/story/e-reader-deals-amazon-spring-sale/",
           "publishedOn": "2026-03-26T17:25:39.000Z",
-          "wordCount": 26310,
+          "wordCount": 26230,
           "title": "Which E-Readers I'd Recommend Buying in Amazon's Spring Sale",
           "imageUrl": "https://media.wired.com/photos/69c48b0a086bd8701941544f/191:100/w_1280,c_limit/Our-Favorite-E-Readers-Are-On-Sale-Right-Now.jpg"
         },
@@ -1034,7 +1104,7 @@
           "description": "The SteelSeries Arctis Nova Pro is feature-packed, with endless battery life, a comfortable fit, and ANC.",
           "link": "https://www.wired.com/story/steelseries-arctis-nova-pro-deal-326/",
           "publishedOn": "2026-03-26T17:17:27.000Z",
-          "wordCount": 25053,
+          "wordCount": 24983,
           "title": "This Premium Gaming Headset Is $80 Off on Amazon",
           "imageUrl": "https://media.wired.com/photos/69c56965f045e06547f51ff1/191:100/w_1280,c_limit/Amazon-Marks-Down-This-Premium-Gaming-Headset-by-$80.jpg"
         },
@@ -1044,7 +1114,7 @@
           "description": "The Telegram-based Xinbi Guarantee black market sells services that help prop up scam operations. British officials just hit the highly lucrative marketplace with sweeping sanctions.",
           "link": "https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/",
           "publishedOn": "2026-03-26T15:15:53.000Z",
-          "wordCount": 27613,
+          "wordCount": 27563,
           "title": "A $20 Billion Crypto Scam Market Faces a New Government Crackdown",
           "imageUrl": "https://media.wired.com/photos/69c51c34c5f79ec5083eed48/191:100/w_1280,c_limit/032626_Security-UK%20Just%20Sanctioned%20An%20$8.4%20Billion%20Chinese%20Crypto%20Blackmarket.jpg"
         },
@@ -1054,7 +1124,7 @@
           "description": "A six-year EV rollout ends with a thud.",
           "link": "https://www.wired.com/story/sony-afeela-was-doomed-to-fail/",
           "publishedOn": "2026-03-26T14:13:35.000Z",
-          "wordCount": 26476,
+          "wordCount": 26427,
           "title": "The Sony Afeela Was Doomed to Fail",
           "imageUrl": "https://media.wired.com/photos/69c41e428f5df464316bf6d9/191:100/w_1280,c_limit/Sony-Honda-Cancel-Afeela-Gear-2254252336.jpg"
         },
@@ -1064,7 +1134,7 @@
           "description": "US lawmakers are pressing Tulsi Gabbard to reveal whether using a VPN can strip Americans of their constitutional protections against warrantless surveillance.",
           "link": "https://www.wired.com/story/using-a-vpn-may-subject-you-to-nsa-spying/",
           "publishedOn": "2026-03-26T13:32:52.000Z",
-          "wordCount": 26796,
+          "wordCount": 26838,
           "title": "Using a VPN May Subject You to NSA Spying",
           "imageUrl": "https://media.wired.com/photos/69c4791716bb3ee95a674db0/191:100/w_1280,c_limit/security_VPN_GettyImages-2243737925.jpg"
         },
@@ -1084,79 +1154,9 @@
           "description": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
           "link": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
           "publishedOn": "2026-03-26T12:00:00.000Z",
-          "wordCount": 27001,
+          "wordCount": 26865,
           "title": "Senators Demand to Know How Much Energy Data Centers Use",
           "imageUrl": "https://media.wired.com/photos/69c421794ff31d9d83686f80/191:100/w_1280,c_limit/Elizabeth-Warren-Josh-Hawley-Demand-EIA-Start-Monitoring-How-Much-Energy-Data-Centers-Use-Science-2255930687.jpg"
-        },
-        {
-          "id": "69b86bcc6b808f7f94b9eeba",
-          "author": "Nena Farrell",
-          "description": "Eufy's latest robot vacuum proves you can still get a great vac-mop without dropping four figures.",
-          "link": "https://www.wired.com/review/eufy-omni-c28/",
-          "publishedOn": "2026-03-26T11:34:00.000Z",
-          "wordCount": 22106,
-          "title": "Eufy Omni C28 Review: Affordable and Full-Featured",
-          "imageUrl": "https://media.wired.com/photos/69c48c4dcd97f9165ec967ad/191:100/w_1280,c_limit/Review--The-Eufy-Omni-C28-Has-It-All,-and-for-a-Good-Price.jpg"
-        },
-        {
-          "id": "63243c17036b54662b510564",
-          "author": "Simon Hill",
-          "description": "Electronic waste, conflict minerals, and poor labor conditions are just a few issues blighting the tech industry. Here’s how to shop more sustainably.",
-          "link": "https://www.wired.com/story/how-to-buy-ethical-and-eco-friendly-electronics/",
-          "publishedOn": "2026-03-26T11:30:00.000Z",
-          "wordCount": 31261,
-          "title": "How to Buy Ethical and Eco-Friendly Electronics (2026)",
-          "imageUrl": "https://media.wired.com/photos/69c455aa59e26f1ef7536600/191:100/w_1280,c_limit/GettyImages-1188971161.jpg"
-        },
-        {
-          "id": "69c40d3cde2069a4aa101382",
-          "author": "Jeremy White",
-          "description": "Thanks to a novel way of testing precision using acoustics, the Constellation Observatory is the first watch with no seconds hand to achieve Master Chronometer status.",
-          "link": "https://www.wired.com/story/omega-constellation-observatory-watch-accuracy-is-calibrated-using-sound/",
-          "publishedOn": "2026-03-26T11:00:00.000Z",
-          "wordCount": 26618,
-          "title": "This Groundbreaking Omega Watch’s Accuracy Is Calibrated Using Sound",
-          "imageUrl": "https://media.wired.com/photos/69c41b2aa8ef1ae045a7c228/191:100/w_1280,c_limit/gear_omega_Top-Art-Suggestion-2.jpg"
-        },
-        {
-          "id": "69c189bc181307c45c3c7ec7",
-          "author": "Jason Parham",
-          "description": "AI companion platforms like OhChat and SinfulX are offering adult creators digital twins, who are always at their peak and stay monetizing.",
-          "link": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/",
-          "publishedOn": "2026-03-26T10:30:00.000Z",
-          "wordCount": 27975,
-          "title": "‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young",
-          "imageUrl": "https://media.wired.com/photos/69c34605b292103938c0401f/191:100/w_1280,c_limit/culture_ai_clone_porn_stars.jpg"
-        },
-        {
-          "id": "69aed3725de47be60ff59652",
-          "author": "Vittoria Elliott",
-          "description": "“There's no accountability,” one expert tells WIRED of ICE’s ability to lie to the public. \"The consequence of this is that it’s going to be a systemic harm across all law enforcement.”",
-          "link": "https://www.wired.com/story/why-ice-is-allowed-to-impersonate-law-enforcement/",
-          "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 29750,
-          "title": "Why ICE Is Allowed to Impersonate Law Enforcement",
-          "imageUrl": "https://media.wired.com/photos/69aedc057b4406365e6ab299/191:100/w_1280,c_limit/pol-ice-legal-lies-2257854449.jpg"
-        },
-        {
-          "id": "69b1f84698dd43374a26f87c",
-          "author": "Paresh Dave",
-          "description": "From drones to missiles to submarines, the $30.5 billion defense startup wants to transform how the tools of war are made. It’s not all going as planned.",
-          "link": "https://www.wired.com/story/andurils-real-war-is-with-itself/",
-          "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 39841,
-          "title": "Anduril Wants to Own the Future of War Tech. Mishaps, Delays, and Challenges Abound",
-          "imageUrl": "https://media.wired.com/photos/69c2bfbc5854d831d24bbc07/191:100/w_1280,c_limit/andurilFinal.jpg"
-        },
-        {
-          "id": "69baf4c9c28f59d9e9a290c9",
-          "author": "Julia Forbes",
-          "description": "With latex, coils, and a thoughtful build, the Saatva HD tackles a problem the industry often ignores.",
-          "link": "https://www.wired.com/review/saatva-hd-mattress/",
-          "publishedOn": "2026-03-26T09:04:00.000Z",
-          "wordCount": 23745,
-          "title": "Saatva HD Mattress Review: A Solution for Heavy-Bodied Sleepers",
-          "imageUrl": "https://media.wired.com/photos/69c491674ff31d9d83687435/191:100/w_1280,c_limit/Review--Saatva-HD-Mattress.jpg"
         }
       ]
     }
