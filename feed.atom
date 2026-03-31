@@ -1,10 +1,279 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-31T02:08:29.731Z</id>
+    <id>urn:2026-03-31T13:14:01.030Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T02:08:29.731Z</updated>
+    <updated>2026-03-31T13:14:01.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Speechify’s Windows app uses local models for transcription and dictation]]></title>
+        <id>https://techcrunch.com/?p=3107857</id>
+        <link href="https://techcrunch.com/2026/03/31/speechifys-windows-app-uses-local-models-for-transcription-and-dictation/"/>
+        <updated>2026-03-31T13:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Speechify just launched a native Windows app that employs locally stored models to enable dictation and transcription across apps.]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With its new app store, Ring bets on AI to go beyond home security]]></title>
+        <id>https://techcrunch.com/?p=3106543</id>
+        <link href="https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/"/>
+        <updated>2026-03-31T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Has Flooded All the Weather Apps]]></title>
+        <id>69bc6850b2a7b7deee0cf867</id>
+        <link href="https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/"/>
+        <updated>2026-03-31T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.]]></summary>
+        <author>
+            <name>Boone Ashworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is now letting users in the US change their Gmail address]]></title>
+        <id>https://techcrunch.com/?p=3107864</id>
+        <link href="https://techcrunch.com/2026/03/31/google-is-now-letting-users-in-the-us-change-their-gmail-address/"/>
+        <updated>2026-03-31T12:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Users will be able to change their username only once every 12 months. Plus, they won't be able to delete their new email address for that period of time.]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backup Files and Your Entire Digital Life (2026): Hard Drives, Cloud-Based Tools, and Tips]]></title>
+        <id>5f0f5970012dd1e0a3b492ab</id>
+        <link href="https://www.wired.com/story/how-to-back-up-your-digital-life/"/>
+        <updated>2026-03-31T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Backups are boring, but they’ll save your bacon. Here’s how to make sure your data lives on, even when your PC doesn’t.]]></summary>
+        <author>
+            <name>Scott Gilbertson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitesy Shelfy 2 Smart Fridge Purifier Review: Small Box, Big Promises]]></title>
+        <id>69bc514115c68719e6938b1a</id>
+        <link href="https://www.wired.com/review/vitesy-shelfy-2/"/>
+        <updated>2026-03-31T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The Shelfy 2 uses some interesting science to clean the air, but the results are a mixed bag.]]></summary>
+        <author>
+            <name>Kat Merck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This App Makes Even the Sketchiest PDF or Word Doc Safe to Open]]></title>
+        <id>69bdd91810a1c2a4d4780bae</id>
+        <link href="https://www.wired.com/story/dangerzone-app-for-safe-pdfs-word-docs/"/>
+        <updated>2026-03-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When somebody sends you a document as an attachment, don't just open it. Use the free tool Dangerzone to scrub it clean of any malevolent code. Here's how it works.]]></summary>
+        <author>
+            <name>Justin Pot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duolingo’s Luis von Ahn Wants to Delete the Blockchain]]></title>
+        <id>69c59806bb3666f42a8f64bd</id>
+        <link href="https://www.wired.com/story/the-big-interview-podcast-luis-von-ahn-duolingo/"/>
+        <updated>2026-03-31T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This has nothing to do with the crypto he lost the password for.]]></summary>
+        <author>
+            <name>Katie Drummond</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opposing ICE Might Save the Country. It Could Also Ruin Your Life]]></title>
+        <id>69a8d8590de8fc8dd1eec5b2</id>
+        <link href="https://www.wired.com/story/opposing-ice-might-save-the-country-could-also-ruin-your-life/"/>
+        <updated>2026-03-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For months, lone vibe coder Rafael Concepcion has obsessively built tools to counter the federal immigration crackdown—pivoting as he’s been outmatched. He’s also lost his job and become a target.]]></summary>
+        <author>
+            <name>Brendan I. Koerner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 135 | 派友热议养「小龙虾」、3M 隔音耳罩与百乐钢笔体验]]></title>
+        <id>https://sspai.com/post/108108</id>
+        <link href="https://sspai.com/post/108108"/>
+        <updated>2026-03-31T09:32:39.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容，将作者投稿的新玩意呈现给大家。上周社区 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)]]></title>
+        <id>69b4396a7f3e3000e5be1861</id>
+        <link href="https://www.wired.com/story/the-amazon-spring-sale-2026-2/"/>
+        <updated>2026-03-31T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[This sale ends tonight, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.]]></summary>
+        <author>
+            <name>Louryn Strampe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbnb is introducing a private car pick-up service]]></title>
+        <id>https://techcrunch.com/?p=3107460</id>
+        <link href="https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/"/>
+        <updated>2026-03-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Airbnb is partnering with transportation company Welcome Pickups to let users book a private car service during their trip.]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装了啥特别篇：编辑部近期 AI 用法拼盘]]></title>
+        <id>https://sspai.com/prime/story/zhuanglesha-260331</id>
+        <link href="https://sspai.com/prime/story/zhuanglesha-260331"/>
+        <updated>2026-03-31T08:57:38.000Z</updated>
+        <summary type="html"><![CDATA[按：我们之前制作过一期题为《少数派编辑部怎么用AI打工？》的装了啥特别篇，其中介绍了AI工具在编辑部日常工作中的实际应用。本期中，编辑部成员们将根据最近使用AI工具的经验和心得，继续介绍一些自己认为有 ...查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Silicon Valley congressional race is getting ugly]]></title>
+        <id>https://techcrunch.com/?p=3107858</id>
+        <link href="https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/"/>
+        <updated>2026-03-31T07:23:06.000Z</updated>
+        <summary type="html"><![CDATA[The primary isn’t until early June, but the CA-17 race between five-term incumbent Ro Khanna and tech founder Ethan Agarwal is already getting nasty. Agarwal entered the race in March, backed by a roster of prominent tech billionaires largely in response to Khanna’s public support for a proposed California ballot measure that would impose a […]]]></summary>
+        <author>
+            <name>Connie Loizos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 如何正确进行 vivo Log 的色彩空间转换]]></title>
+        <id>https://sspai.com/post/108101</id>
+        <link href="https://sspai.com/post/108101"/>
+        <updated>2026-03-31T07:03:08.000Z</updated>
+        <summary type="html"><![CDATA[随着vivoX300系列发布，专业视频模式和vivoLog再度成了摄影爱好者们关注的焦点。从X200系列开始，我也用vivo手机拍摄过不少长片和短片。在此过程中，我不可避免地要将vivoLog转至其它 ...查看全文]]></summary>
+        <author>
+            <name>张奕源Nick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.]]></title>
+        <id>https://techcrunch.com/?p=3107849</id>
+        <link href="https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/"/>
+        <updated>2026-03-31T05:30:20.000Z</updated>
+        <summary type="html"><![CDATA[The collapse of the brand, which was originally venture-backed and that went public in 2021,  has been well-documented.]]></summary>
+        <author>
+            <name>Connie Loizos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T-Mobile Business Promo Codes and Deals]]></title>
+        <id>6942d12a8d14fbb0ba136390</id>
+        <link href="https://www.wired.com/story/t-mobile-business-promo-code/"/>
+        <updated>2026-03-31T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Litter-Robot Promo Codes and Deals: Up to $150 Off]]></title>
+        <id>695ec28dde280791d32a0aee</id>
+        <link href="https://www.wired.com/story/litter-robot-promo-code/"/>
+        <updated>2026-03-31T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国为何放行俄罗斯油轮、停止对古巴的石油封锁？]]></title>
+        <id>https://cn.nytimes.com/world/20260331/russian-oil-tanker-cuba/</id>
+        <link href="https://cn.nytimes.com/world/20260331/russian-oil-tanker-cuba/?utm_source=RSS"/>
+        <updated>2026-03-31T04:53:52.000Z</updated>
+        <summary type="html"><![CDATA[燃油短缺已导致古巴的基础公共服务陷入严重瘫痪，这批即将运抵的原油也仅能满足该国几周的燃料需求。古巴能源危机的根源是什么？这批石油能改变现状吗？
+
+                    
+Planet Labs
+                    
+这是上周拍摄的一张卫星图像，显示了位于古巴西北部马坦萨斯湾入口处的港口和石油码头。]]></summary>
+        <author>
+            <name>EMMA BUBOLA,DAVID C. ADAMS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[击中伊朗体育馆的美国陆军新型武器是什么？]]></title>
+        <id>https://cn.nytimes.com/usa/20260331/us-missile-strike-iran-sports-hall-school/</id>
+        <link href="https://cn.nytimes.com/usa/20260331/us-missile-strike-iran-sports-hall-school/?utm_source=RSS"/>
+        <updated>2026-03-31T04:01:36.000Z</updated>
+        <summary type="html"><![CDATA[影像分析显示，用于此次袭击的是此前鲜为人知的“精确打击导弹”。这种导弹刚刚走出原型阶段，它将取代陆军ATACMS导弹，在五角大楼未来的作战规划中占据重要地位。
+
+                    
+Fars News Agency
+                    
+一段视频的截图显示，一枚导弹飞越伊朗南部城市拉默德上空（位于画面左上角），该导弹与PrSM特征相符。]]></summary>
+        <author>
+            <name>JOHN ISMAY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“手搓”疫苗救回患癌小狗让全网狂欢：AI到底立了多大功？]]></title>
+        <id>663eb5a4b627c7edb2109a05cc1d679e</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E6%89%8B%E6%90%93%E2%80%9D%E7%96%AB%E8%8B%97%E6%95%91%E5%9B%9E%E6%82%A3%E7%99%8C%E5%B0%8F%E7%8B%97%E8%AE%A9%E5%85%A8%E7%BD%91%E7%8B%82%E6%AC%A2%EF%BC%9AAI%E5%88%B0%E5%BA%95%E7%AB%8B%E4%BA%86%E5%A4%9A%E5%A4%A7%E5%8A%9F%EF%BC%9F"/>
+        <updated>2026-03-31T04:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了故宫、敦煌还能去哪打卡？我们给你列出了1001个！]]></title>
+        <id>0997783981a9da6290edcfc5ee75f9cb</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%99%A4%E4%BA%86%E6%95%85%E5%AE%AB%E3%80%81%E6%95%A6%E7%85%8C%E8%BF%98%E8%83%BD%E5%8E%BB%E5%93%AA%E6%89%93%E5%8D%A1%EF%BC%9F%E6%88%91%E4%BB%AC%E7%BB%99%E4%BD%A0%E5%88%97%E5%87%BA%E4%BA%861001%E4%B8%AA%EF%BC%81"/>
+        <updated>2026-03-31T04:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？]]></title>
+        <id>https://sspai.com/post/108027</id>
+        <link href="https://sspai.com/post/108027"/>
+        <updated>2026-03-31T03:31:02.000Z</updated>
+        <summary type="html"><![CDATA[如果只有 3 分钟紧急撤离，这两个逃生包能帮我活过 72 小时查看全文]]></summary>
+        <author>
+            <name>太空小孩</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艺术家高兟因讽刺毛泽东接受不公开庭审]]></title>
+        <id>https://cn.nytimes.com/china/20260331/china-artist-gao-trial/</id>
+        <link href="https://cn.nytimes.com/china/20260331/china-artist-gao-trial/?utm_source=RSS"/>
+        <updated>2026-03-31T02:40:21.000Z</updated>
+        <summary type="html"><![CDATA[高兟因创作带有挑衅性和戏谑意味的毛泽东雕塑被控“侵害英烈名誉”。高兟去年8月回国探亲期间被捕，已被羁押超过一年半，如被定罪，最高可判处三年有期徒刑。
+
+                    
+Shiho Fukada for The New York Times
+                    
+高兟（左）、弟弟高强与他们创作的作品《忏悔》合影，摄于2009年，]]></summary>
+        <author>
+            <name>郭莉莉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国官员称伊朗政府体系分裂，协调能力严重受限]]></title>
+        <id>https://cn.nytimes.com/world/20260331/iran-leaders-trump-war/</id>
+        <link href="https://cn.nytimes.com/world/20260331/iran-leaders-trump-war/?utm_source=RSS"/>
+        <updated>2026-03-31T02:12:58.000Z</updated>
+        <summary type="html"><![CDATA[自战争爆发以来，已有数十名伊朗高层官员及其副手丧生。美国官员透露，战争已导致伊朗政府体系出现分裂，其决策能力受到严重影响，也因此难以与美国特使展开谈判。
+
+                    
+Arash Khamooshi for The New York Times
+                    
+许多伊朗高级领导人及其副手已遇害，幸存者则难以进行沟通。]]></summary>
+        <author>
+            <name>JULIAN E. BARNES,ADAM GOLDMAN,RONEN BERGMAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“习特会”前，习近平邀请国民党主席郑丽文来访]]></title>
         <id>https://cn.nytimes.com/china/20260331/china-xi-taiwan-cheng/</id>
@@ -78,6 +347,21 @@ Lam Yik Fei for The New York Times
         <summary type="html"><![CDATA[Here's what we're looking for in your Startup Battlefield 200 application and how to make sure your application reflects it.]]></summary>
         <author>
             <name>Isabelle Johannessen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗战争导致全球氦气供应短缺，威胁芯片行业]]></title>
+        <id>https://cn.nytimes.com/business/20260331/helium-chips-iran-war/</id>
+        <link href="https://cn.nytimes.com/business/20260331/helium-chips-iran-war/?utm_source=RSS"/>
+        <updated>2026-03-30T18:52:02.000Z</updated>
+        <summary type="html"><![CDATA[伊朗上周袭击了卡塔尔最大的液化天然气设施，导致氦气生产线受损，切断了全球约三分之一的供应量。一旦失去氦气，全球头部芯片制造商将难以维持生产线运转。
+
+                    
+Lam Yik Fei for The New York Times
+                    
+液空公司向半导体行业供应氦气及其他气体。]]></summary>
+        <author>
+            <name>MEAGHAN TOBIN,XINYUN WU</name>
         </author>
     </entry>
     <entry>
@@ -208,16 +492,6 @@ Lam Yik Fei for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qodo raises $70M for code verification as AI coding scales]]></title>
-        <id>https://techcrunch.com/?p=3107381</id>
-        <link href="https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/"/>
-        <updated>2026-03-30T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.]]></summary>
-        <author>
-            <name>Kate Park</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5 Best Video Doorbell Cameras (2026): Smart, Battery, AI, Budget, and Subscription-Free]]></title>
         <id>6217a6803a14d44656b0c87e</id>
         <link href="https://www.wired.com/gallery/best-video-doorbells/"/>
@@ -235,16 +509,6 @@ Lam Yik Fei for The New York Times
         <summary type="html"><![CDATA[Whether you want to sleep through the party or rock out (safely) to your favorite band, these earplugs will help block out the noise.]]></summary>
         <author>
             <name>Louryn Strampe, Parker Hall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starcloud raises $170 million Series A to build data centers in space]]></title>
-        <id>https://techcrunch.com/?p=3107081</id>
-        <link href="https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/"/>
-        <updated>2026-03-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.]]></summary>
-        <author>
-            <name>Tim Fernholz</name>
         </author>
     </entry>
     <entry>
@@ -308,24 +572,6 @@ Lam Yik Fei for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一个农村青年的翻盘：成为最佳导演的他，拍透了基层女性的隐秘心事]]></title>
-        <id>8a60d4a46e34f3559c202ddfd279db8e</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%80%E4%B8%AA%E5%86%9C%E6%9D%91%E9%9D%92%E5%B9%B4%E7%9A%84%E7%BF%BB%E7%9B%98%EF%BC%9A%E6%88%90%E4%B8%BA%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%E7%9A%84%E4%BB%96%EF%BC%8C%E6%8B%8D%E9%80%8F%E4%BA%86%E5%9F%BA%E5%B1%82%E5%A5%B3%E6%80%A7%E7%9A%84%E9%9A%90%E7%A7%98%E5%BF%83%E4%BA%8B"/>
-        <updated>2026-03-30T04:17:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广东人自己的洗浴中心：公交车]]></title>
-        <id>0d5970b6fd566f6965aa7bd4cce60527</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%B9%BF%E4%B8%9C%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%B4%97%E6%B5%B4%E4%B8%AD%E5%BF%83%EF%BC%9A%E5%85%AC%E4%BA%A4%E8%BD%A6"/>
-        <updated>2026-03-30T04:17:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[从保鲜逻辑到外观设计，一份冰箱落地选购指南]]></title>
         <id>https://sspai.com/post/107704</id>
         <link href="https://sspai.com/post/107704"/>
@@ -333,16 +579,6 @@ Lam Yik Fei for The New York Times
         <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
         <author>
             <name>真叫浩南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why OpenAI really shut down Sora]]></title>
-        <id>https://techcrunch.com/?p=3107404</id>
-        <link href="https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/"/>
-        <updated>2026-03-30T03:09:38.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?]]></summary>
-        <author>
-            <name>Connie Loizos</name>
         </author>
     </entry>
     <entry>
@@ -407,36 +643,6 @@ Spotify 联合唱片公司向 Anna’s Archive 索赔三亿美元
 查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pixel 10a doesn’t have a camera bump, and it’s great]]></title>
-        <id>https://techcrunch.com/?p=3098757</id>
-        <link href="https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/"/>
-        <updated>2026-03-29T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube CEO says the best YouTubers will ‘never leave their home’]]></title>
-        <id>https://techcrunch.com/?p=3107396</id>
-        <link href="https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/"/>
-        <updated>2026-03-29T21:17:52.000Z</updated>
-        <summary type="html"><![CDATA[CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.]]></summary>
-        <author>
-            <name>Anthony Ha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit]]></title>
-        <id>https://techcrunch.com/?p=3107386</id>
-        <link href="https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/"/>
-        <updated>2026-03-29T19:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon’s bet on “Project Hail Mary” has paid off handsomely.]]></summary>
-        <author>
-            <name>Anthony Ha</name>
         </author>
     </entry>
     <entry>
@@ -505,16 +711,6 @@ Loren Elliott for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Noise-Canceling Earbuds: Bose, Sony, Apple, and More]]></title>
-        <id>69bd68306c4fd1c696b7481e</id>
-        <link href="https://www.wired.com/gallery/best-noise-canceling-earbuds/"/>
-        <updated>2026-03-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Everyone needs a good pair of ANC earbuds. These are the best of the bunch.]]></summary>
-        <author>
-            <name>Ryan Waniata</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Your Photos Are Probably Giving Away Your Location. Here’s How to Stop That]]></title>
         <id>69bddc79fd20cef798ac9b05</id>
         <link href="https://www.wired.com/story/how-to-stop-your-photos-giving-away-your-location/"/>
@@ -522,6 +718,16 @@ Loren Elliott for The New York Times
         <summary type="html"><![CDATA[All your snaps come with metadata containing more information than you might realize.]]></summary>
         <author>
             <name>David Nield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Noise-Canceling Earbuds: Bose, Sony, Apple, and More]]></title>
+        <id>69bd68306c4fd1c696b7481e</id>
+        <link href="https://www.wired.com/gallery/best-noise-canceling-earbuds/"/>
+        <updated>2026-03-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Everyone needs a good pair of ANC earbuds. These are the best of the bunch.]]></summary>
+        <author>
+            <name>Ryan Waniata</name>
         </author>
     </entry>
     <entry>
@@ -673,32 +879,6 @@ Loren Elliott for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[写在 Raycast 2.0 前夜：一份不再过时的使用指南]]></title>
-        <id>https://sspai.com/post/107980</id>
-        <link href="https://sspai.com/post/107980"/>
-        <updated>2026-03-28T03:03:10.000Z</updated>
-        <summary type="html"><![CDATA[我喜欢 Raycast，所以想为它写一份平易近人的入门指南，让大家都来用。查看全文]]></summary>
-        <author>
-            <name>bakamio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[付费栏目试读 | 词不达意想找表情？不妨试试 Raycast Emoji 选择器]]></title>
-        <id>https://sspai.com/post/107843</id>
-        <link href="https://sspai.com/post/107843"/>
-        <updated>2026-03-28T01:55:32.000Z</updated>
-        <summary type="html"><![CDATA[我们先来说说 macOS 自己的 Emoji 选择器。说实话它已经相当不错了。默认情况下，按快捷键 fn-E 或 ⌃Control-⌘Command-空格 就能唤起它，下方还能切换不同分类：
-
-不过，这里只能输入 Emoji。如果想查看更多字符，需要点击底部最右侧的图标，进入「字符检视器」。在这里，除了 Emoji 表情符号，还有标点符号、数学符号等更多字符。
-
-[......]
-查看全文
-本文为付费栏目文章，出自《59 分钟就上手 Raycast》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>bakamio</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Research Is Getting Harder to Separate From Geopolitics]]></title>
         <id>69c6a3ac94502e7091a2c21a</id>
         <link href="https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/"/>
@@ -829,13 +1009,13 @@ Loren Elliott for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 12 部作品]]></title>
-        <id>https://sspai.com/post/107948</id>
-        <link href="https://sspai.com/post/107948"/>
-        <updated>2026-03-27T10:30:18.000Z</updated>
-        <summary type="html"><![CDATA[📅本周新预告《穹庐下的魔女》正式预告3月25日，TV动画《穹庐下的魔女》发布了首支正式预告，将于7月开始播出，6月在安纳西国际动画电影节首映。本作改编自同名漫画，山田尚子担任总导演，AbelGongo ...查看全文]]></summary>
+        <title type="html"><![CDATA[How to Back Up Your iPhone to iCloud, MacOS, or Windows (2026)]]></title>
+        <id>59c93d28e7a725360459fd27</id>
+        <link href="https://www.wired.com/story/how-to-backup-your-iphone/"/>
+        <updated>2026-03-27T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Save your memories now, because if your iPhone gets stolen or lost, your photos and other precious files could be gone forever.]]></summary>
         <author>
-            <name>少数派编辑部</name>
+            <name>Simon Hill</name>
         </author>
     </entry>
     <entry>
@@ -846,16 +1026,6 @@ Loren Elliott for The New York Times
         <summary type="html"><![CDATA[Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.]]></summary>
         <author>
             <name>Reece Rogers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Back Up Your iPhone to iCloud, MacOS, or Windows (2026)]]></title>
-        <id>59c93d28e7a725360459fd27</id>
-        <link href="https://www.wired.com/story/how-to-backup-your-iphone/"/>
-        <updated>2026-03-27T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Save your memories now, because if your iPhone gets stolen or lost, your photos and other precious files could be gone forever.]]></summary>
-        <author>
-            <name>Simon Hill</name>
         </author>
     </entry>
     <entry>
@@ -886,56 +1056,6 @@ Loren Elliott for The New York Times
         <summary type="html"><![CDATA[The best espresso makers can turn your kitchen into a café and help you hone the art of the perfect shot.]]></summary>
         <author>
             <name>Matthew Korfhage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garmin InReach Mini 3 Plus Satellite Messenger Review: Robust With Lots of Upselling]]></title>
-        <id>69bd69be2344b85725866d01</id>
-        <link href="https://www.wired.com/review/garmin-inreach-mini-3-plus/"/>
-        <updated>2026-03-27T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Garmin’s newest satellite messenger offers helpful safety features, but the fees are only worth it if you’re regularly off the grid.]]></summary>
-        <author>
-            <name>Kieran Alger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共创 | 守护孩子的天马行空：《写给家长的幼儿美术启蒙指南》上线]]></title>
-        <id>https://sspai.com/post/107748</id>
-        <link href="https://sspai.com/post/107748"/>
-        <updated>2026-03-27T06:42:00.000Z</updated>
-        <summary type="html"><![CDATA[毕加索曾经在参观一个儿童画展时感叹道：我像他们这么大的时候，就能画得像拉斐尔一样好，但我花了一辈子才学会像孩子一样画画。这句感慨，意味着孩子的美术创作有着足以令现代艺术大师倾倒的魅力。这是因为，孩子未 ...查看全文]]></summary>
-        <author>
-            <name>谷丰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surfshark Promo Codes: 87% Off | March 2026]]></title>
-        <id>67462fb5b36fe19e4f620021</id>
-        <link href="https://www.wired.com/story/surfshark-coupon/"/>
-        <updated>2026-03-27T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.]]></summary>
-        <author>
-            <name>Scott Gilbertson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layla Sleep Coupon: Save Up to $600 in March 2026]]></title>
-        <id>69c56eb0f8dc7d17ee9704f1</id>
-        <link href="https://www.wired.com/story/layla-sleep-coupon/"/>
-        <updated>2026-03-27T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases during the Spring Sale.]]></summary>
-        <author>
-            <name>Julia Forbes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50% Off DoorDash Promo Code | March 2026]]></title>
-        <id>6740c6ad29e1604c90f59b4f</id>
-        <link href="https://www.wired.com/story/doordash-promo-code/"/>
-        <updated>2026-03-27T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and up to 50% off for existing customers.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
         </author>
     </entry>
     <entry>
@@ -1030,26 +1150,6 @@ Feature China/Future Publishing, via Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic Supply-Chain-Risk Designation Halted by Judge]]></title>
-        <id>69c56883f8dc7d17ee9704a9</id>
-        <link href="https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/"/>
-        <updated>2026-03-26T23:33:05.000Z</updated>
-        <summary type="html"><![CDATA[A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.]]></summary>
-        <author>
-            <name>Paresh Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Trump’s Plot to Grab Iran's Nuclear Fuel Would Actually Work]]></title>
-        <id>69c19f6e58b1ac727598cb61</id>
-        <link href="https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/"/>
-        <updated>2026-03-26T21:42:52.000Z</updated>
-        <summary type="html"><![CDATA[Experts say that an American ground operation targeting nuclear sites in Iran would be incredibly complicated, put troops’ lives at great risk—and might still fail.]]></summary>
-        <author>
-            <name>Caroline Haskins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[伊朗僵局再次引发对特朗普“即兴外交”的质疑]]></title>
         <id>https://cn.nytimes.com/usa/20260327/trump-iran-talks/</id>
         <link href="https://cn.nytimes.com/usa/20260327/trump-iran-talks/?utm_source=RSS"/>
@@ -1062,36 +1162,6 @@ Doug Mills/The New York Times
 随着战争持续，特朗普总统似乎正在四处寻找外交出路，同时又威胁要将冲突升级。]]></summary>
         <author>
             <name>MICHAEL CROWLEY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade]]></title>
-        <id>69c4407c4ea33b6be3d1778c</id>
-        <link href="https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/"/>
-        <updated>2026-03-26T18:16:28.000Z</updated>
-        <summary type="html"><![CDATA[This viral magnetic travel-toiletry system is rarely on sale, and this discount is legitimately good.]]></summary>
-        <author>
-            <name>Kat Merck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the Tech Reporters Using AI to Help Write and Edit Their Stories]]></title>
-        <id>69c16d1b4feccf956a497528</id>
-        <link href="https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/"/>
-        <updated>2026-03-26T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?]]></summary>
-        <author>
-            <name>Maxwell Zeff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which E-Readers I'd Recommend Buying in Amazon's Spring Sale]]></title>
-        <id>69c45c7c4ea33b6be3d178da</id>
-        <link href="https://www.wired.com/story/e-reader-deals-amazon-spring-sale/"/>
-        <updated>2026-03-26T17:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Amazon's Spring Sale has multiple of our favorite e-readers discounted, including one that's now under $100.]]></summary>
-        <author>
-            <name>Nena Farrell</name>
         </author>
     </entry>
     <entry>
@@ -1114,77 +1184,6 @@ George Douglas]]></summary>
         <updated>2026-03-26T07:41:00.000Z</updated>
         <author>
             <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok上最新的时髦养生法：多喝热水]]></title>
-        <id>https://cn.nytimes.com/health/20260326/health-benefits-hot-water-tiktok/</id>
-        <link href="https://cn.nytimes.com/health/20260326/health-benefits-hot-water-tiktok/?utm_source=RSS"/>
-        <updated>2026-03-26T04:46:05.000Z</updated>
-        <summary type="html"><![CDATA[随着东方医学和中国文化元素在西方社交媒体上走红，一些网红宣称早餐前喝热水有助于消化、缓解腹胀，甚至还能“排毒”。多喝热水有科学依据吗？医学专家为我们解读。
-
-                    
-Getty Images]]></summary>
-        <author>
-            <name>AMANDA SCHUPAK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能源短缺叠加美元飙升，亚洲经济面临“双重绞杀”]]></title>
-        <id>https://cn.nytimes.com/business/20260326/iran-war-dollar-rupee-won/</id>
-        <link href="https://cn.nytimes.com/business/20260326/iran-war-dollar-rupee-won/?utm_source=RSS"/>
-        <updated>2026-03-26T03:39:36.000Z</updated>
-        <summary type="html"><![CDATA[伊朗战争造成运往亚洲国家的大部分能源被切断，而由于投资者避险心态推动美元升值，很多亚洲国家货币的购买力更加疲软。这样的叠加效应使亚洲经济体陷入困境。
-
-                    
-Shammi Mehra/Agence France-Presse — Getty Images
-                    
-周一，印度艾哈迈达巴德，民众在一处加油站排队等待加油。]]></summary>
-        <author>
-            <name>ALEX TRAVELLI,CHOE SANG-HUN,黄瑞黎,JASON GUTIERREZ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“社交媒体成瘾”诉讼：Meta和YouTube被判有责]]></title>
-        <id>https://cn.nytimes.com/technology/20260326/social-media-addiction-trials/</id>
-        <link href="https://cn.nytimes.com/technology/20260326/social-media-addiction-trials/?utm_source=RSS"/>
-        <updated>2026-03-26T03:04:51.000Z</updated>
-        <summary type="html"><![CDATA[诉讼的核心论点是社交媒体的设计本身带有成瘾性，如同香烟或老虎机，能够造成人身伤害。这一具有里程碑意义的判决可能为针对各个社交媒体平台的大量索赔打开大门。
-
-                    
-David Gray/Agence France-Presse — Getty Images
-                    
-这些诉讼首次将矛头直指社交媒体公司，追究其制造有害产品的责任，使其面临新的法律问责。]]></summary>
-        <author>
-            <name>CECILIA KANG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗战事搅局对华博弈，美国战略重心再度偏移]]></title>
-        <id>https://cn.nytimes.com/usa/20260326/trump-china-mideast/</id>
-        <link href="https://cn.nytimes.com/usa/20260326/trump-china-mideast/?utm_source=RSS"/>
-        <updated>2026-03-26T01:18:14.000Z</updated>
-        <summary type="html"><![CDATA[连续三任美国总统在上任之初都誓言要全力应对中国挑战，但每一位总统最终都转向了世界其他地区的危机。特朗普对伊朗开战的决定与其国家安全战略互相冲突。
-
-                    
-Maxim Shemetov/Reuters
-                    
-去年在北京举行的一场阅兵式。三任美国总统上任时都曾誓言要将资源集中在应对中国带来的挑战上，但最终都转向了世界其他地区的危机。]]></summary>
-        <author>
-            <name>黄安伟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗战争给普京带来重大利好]]></title>
-        <id>https://cn.nytimes.com/opinion/20260326/russia-putin-iran-war/</id>
-        <link href="https://cn.nytimes.com/opinion/20260326/russia-putin-iran-war/?utm_source=RSS"/>
-        <updated>2026-03-26T00:08:20.000Z</updated>
-        <summary type="html"><![CDATA[今年年初，俄罗斯经济一度濒临崩溃。有迹象表明，普京已开始寻求就结束乌克兰战争展开谈判。但突然爆发的伊朗战争扼杀了这一可能性。
-
-                    
-Pool photo by Alexander Zemlianichenko]]></summary>
-        <author>
-            <name>MIKHAIL ZYGAR</name>
         </author>
     </entry>
     <entry>
