@@ -1,12 +1,315 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-02T13:08:42.100Z</id>
+    <id>urn:2026-04-03T02:06:41.927Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-02T13:08:42.100Z</updated>
+    <updated>2026-04-03T02:06:41.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Exclusive: Beehiiv expands into podcasting, taking aim at Patreon]]></title>
+        <title type="html"><![CDATA[派早报：Google 发布 Gemma 4 开源系列模型、智谱发布 GLM-5V-Turbo 多模态模型等]]></title>
+        <id>https://sspai.com/post/108209</id>
+        <link href="https://sspai.com/post/108209"/>
+        <updated>2026-04-03T00:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Google 将强制要求所有 Wear OS 手表应用支持 64 位，中国广电联合会演员委员会就 AI 换脸与声纹克隆侵权问题发布声明等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中美开启新一轮太空竞赛：谁能抢占登月先机？]]></title>
+        <id>https://cn.nytimes.com/world/20260403/chinas-aiming-for-the-moon-and-nasa-is-looking-over-its-shoulder/</id>
+        <link href="https://cn.nytimes.com/world/20260403/chinas-aiming-for-the-moon-and-nasa-is-looking-over-its-shoulder/?utm_source=RSS"/>
+        <updated>2026-04-03T00:18:41.000Z</updated>
+        <summary type="html"><![CDATA[NASA的阿尔忒弥斯2号任务本周启航，北京也在大力推进自己的太空计划。中国正以一种独特而强大的专注力推进着自己的登月愿景，其探月工程拥有多项独特优势。
+
+                    
+Tingshu Wang/Reuters
+                    
+中国“嫦娥六号”月球探测器的模型。]]></summary>
+        <author>
+            <name>SELAM GEBREKIDAN,JOY DONG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets]]></title>
+        <id>https://techcrunch.com/?p=3108999</id>
+        <link href="https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/"/>
+        <updated>2026-04-02T22:56:29.000Z</updated>
+        <summary type="html"><![CDATA[The e-commerce giant called the surcharge "temporary" but couldn't give a date for when the policy would be retired.]]></summary>
+        <author>
+            <name>Lucas Ropek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telehealth giant Hims & Hers says its customer support system was hacked]]></title>
+        <id>https://techcrunch.com/?p=3109020</id>
+        <link href="https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/"/>
+        <updated>2026-04-02T21:26:48.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop]]></title>
+        <id>69cac87ef016b774280490af</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/"/>
+        <updated>2026-04-02T21:04:22.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.]]></summary>
+        <author>
+            <name>Brian Barrett, Zoë Schiffer, Leah Feiger, Makena Kelly, Kate Knibbs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Google Pixel 10 Is $150 Off]]></title>
+        <id>69ce9a572b790324f16d5810</id>
+        <link href="https://www.wired.com/story/pixel-10-deal-3426/"/>
+        <updated>2026-04-02T20:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazon marks Google's flagship down to just $650 for 128 GB or $750 for 256 GB.]]></summary>
+        <author>
+            <name>Brad Bourque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech Companies Are Trying to Neuter Colorado’s Landmark Right-to-Repair Law]]></title>
+        <id>69cd455b48e77a2f8a71a84e</id>
+        <link href="https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/"/>
+        <updated>2026-04-02T20:36:27.000Z</updated>
+        <summary type="html"><![CDATA[A bill in Colorado is a glimpse into the future of how corporations are working to limit the freedom people have to make their own fixes and upgrades.]]></summary>
+        <author>
+            <name>Boone Ashworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artemis II is NASA’s last moon mission without Silicon Valley]]></title>
+        <id>https://techcrunch.com/?p=3108914</id>
+        <link href="https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/"/>
+        <updated>2026-04-02T20:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Next time around, the pressure will be on SpaceX and Blue Origin.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gateway Capital announces first close of $25M Fund II]]></title>
+        <id>https://techcrunch.com/?p=3107868</id>
+        <link href="https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/"/>
+        <updated>2026-04-02T19:45:19.000Z</updated>
+        <summary type="html"><![CDATA[Gateway Capital, the Milwaukee-based venture firm founded by Dana Guthrie, can now begin investment operations for its $25M Fund II.]]></summary>
+        <author>
+            <name>Dominic-Madori Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News]]></title>
+        <id>69cead03e3efe763828bbea4</id>
+        <link href="https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/"/>
+        <updated>2026-04-02T19:29:48.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.]]></summary>
+        <author>
+            <name>Maxwell Zeff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI acquires TBPN, the buzzy founder-led business talk show]]></title>
+        <id>https://techcrunch.com/?p=3108907</id>
+        <link href="https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/"/>
+        <updated>2026-04-02T19:21:00.000Z</updated>
+        <summary type="html"><![CDATA[TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web]]></title>
+        <id>https://techcrunch.com/?p=3108925</id>
+        <link href="https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/"/>
+        <updated>2026-04-02T19:18:51.000Z</updated>
+        <summary type="html"><![CDATA[Flipboard's social websites consolidate profiles and posts from Bluesky, Mastodon, Threads, YouTube, podcasts, blogs, and RSS feeds into a single, shared destination.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ElevenLabs releases a new AI-powered music-generation app]]></title>
+        <id>https://techcrunch.com/?p=3108397</id>
+        <link href="https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/"/>
+        <updated>2026-04-02T18:58:45.000Z</updated>
+        <summary type="html"><![CDATA[ElevenMusic lets users create and remix songs using text prompts. The new app suggests ElevenLabs wants to be more than just a voice model company.]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Art Can Go in This San Francisco Alley]]></title>
+        <id>69cea42771c299c71df96036</id>
+        <link href="https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/"/>
+        <updated>2026-04-02T18:27:45.000Z</updated>
+        <summary type="html"><![CDATA[A trio of tech pranksters have launched a website where you can submit artwork and vote on which pieces belong in the final design. Of course, AI will scan for dick pics.]]></summary>
+        <author>
+            <name>Boone Ashworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant]]></title>
+        <id>69cc083c6cab226b3ec29afe</id>
+        <link href="https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/"/>
+        <updated>2026-04-02T18:27:29.000Z</updated>
+        <summary type="html"><![CDATA[Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.]]></summary>
+        <author>
+            <name>Molly Taft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA astronauts prove that sending an email really is rocket science]]></title>
+        <id>https://techcrunch.com/?p=3108833</id>
+        <link href="https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/"/>
+        <updated>2026-04-02T18:19:39.000Z</updated>
+        <summary type="html"><![CDATA[NASA Artemis II commander Reid Wiseman faced the most earthly possible conflict while in outer space: his Outlook wasn't working.]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When a Nuclear Site Is Hit?]]></title>
+        <id>69ce780c156741c71fc382eb</id>
+        <link href="https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/"/>
+        <updated>2026-04-02T18:08:08.000Z</updated>
+        <summary type="html"><![CDATA[As strikes continue on Iran’s nuclear facilities, the real danger isn’t the explosion, but what happens if critical safety systems fail—and how that risk could spread across the Gulf.]]></summary>
+        <author>
+            <name>Jethu Abraham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex]]></title>
+        <id>69cacfb775c0a81462c59756</id>
+        <link href="https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/"/>
+        <updated>2026-04-02T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.]]></summary>
+        <author>
+            <name>Maxwell Zeff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft takes on AI rivals with three new foundational models]]></title>
+        <id>https://techcrunch.com/?p=3108825</id>
+        <link href="https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"/>
+        <updated>2026-04-02T16:48:16.000Z</updated>
+        <summary type="html"><![CDATA[MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.]]></summary>
+        <author>
+            <name>Rebecca Szkutak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web]]></title>
+        <id>https://techcrunch.com/?p=3108843</id>
+        <link href="https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/"/>
+        <updated>2026-04-02T16:29:35.000Z</updated>
+        <summary type="html"><![CDATA[An exposed Amazon-hosted server allowed anyone to access reams of customer data without needing a password.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google now lets you direct avatars through prompts in its Vids app]]></title>
+        <id>https://techcrunch.com/?p=3108782</id>
+        <link href="https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/"/>
+        <updated>2026-04-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is adding a way to customize and instruct avatars for video creation in the Vids app.]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Says That Claude Contains Its Own Kind of Emotions]]></title>
+        <id>69cd63e155a470c0d5985203</id>
+        <link href="https://www.wired.com/story/anthropic-claude-research-functional-emotions/"/>
+        <updated>2026-04-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at the company found representations inside of Claude that perform functions similar to human feelings.]]></summary>
+        <author>
+            <name>Will Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even Artemis II Astronauts Have Microsoft Outlook Problems]]></title>
+        <id>69ce6bb91ea0458a49126441</id>
+        <link href="https://www.wired.com/story/artemis-ii-microsoft-outlook-problems/"/>
+        <updated>2026-04-02T15:59:36.000Z</updated>
+        <summary type="html"><![CDATA[The mission commander’s email inbox failed during the journey to the moon. Have they tried turning the computer off and back on again?]]></summary>
+        <author>
+            <name>Jeremy White</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE says it bought Paragon’s spyware to use in drug trafficking cases]]></title>
+        <id>https://techcrunch.com/?p=3108819</id>
+        <link href="https://techcrunch.com/2026/04/02/ice-says-it-bought-paragons-spyware-to-use-in-drug-trafficking-cases/"/>
+        <updated>2026-04-02T15:39:51.000Z</updated>
+        <summary type="html"><![CDATA[The acting director of U.S. Immigration and Customs Enforcement told lawmakers that the use of Paragon spyware is necessary to counter terrorists’ “thriving exploitation of encrypted communications platforms.”]]></summary>
+        <author>
+            <name>Lorenzo Franceschi-Bicchierai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[United’s mobile app now shows TSA wait times at select airports]]></title>
+        <id>https://techcrunch.com/?p=3108804</id>
+        <link href="https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/"/>
+        <updated>2026-04-02T14:44:21.000Z</updated>
+        <summary type="html"><![CDATA[The TSA wait times feature is one of many new additions to the United app, including automatic rebooking assistance and real-time time weather radar maps.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla’s cheaper vehicles aren’t helping its declining sales]]></title>
+        <id>https://techcrunch.com/?p=3108793</id>
+        <link href="https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/"/>
+        <updated>2026-04-02T14:18:42.000Z</updated>
+        <summary type="html"><![CDATA[The company's deliveries in the first quarter were just 6% higher than last year, and Tesla now faces a third straight year of falling sales.]]></summary>
+        <author>
+            <name>Sean O'Kane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commonwealth Fusion Systems leans on magnets for near-term revenue]]></title>
+        <id>https://techcrunch.com/?p=3108629</id>
+        <link href="https://techcrunch.com/2026/04/02/commonwealth-fusion-systems-leans-on-magnets-for-near-term-revenue/"/>
+        <updated>2026-04-02T14:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Realta Fusion is buying magnets from Commonwealth Fusion Systems, providing a revenue stopgap.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diverse teams start with diverse VCs]]></title>
+        <id>https://techcrunch.com/?p=3108740</id>
+        <link href="https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/"/>
+        <updated>2026-04-02T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[It is the path of least resistance for a growth-stage company to hire from the familiar Silicon Valley pipelines but if a founder wants a diverse team, that value has to be put into practice from the very first hire.]]></summary>
+        <author>
+            <name>Maggie Nye, Isabelle Johannessen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[辞掉北京的工作，他把100多件伊朗国宝在战火中带来了中国]]></title>
+        <id>807e06f1b108533aa57e76cd58dacbfb</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%BE%9E%E6%8E%89%E5%8C%97%E4%BA%AC%E7%9A%84%E5%B7%A5%E4%BD%9C%EF%BC%8C%E4%BB%96%E6%8A%8A100%E5%A4%9A%E4%BB%B6%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E5%9C%A8%E6%88%98%E7%81%AB%E4%B8%AD%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%B8%AD%E5%9B%BD"/>
+        <updated>2026-04-02T13:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[资讯｜两夺世界冠军，张雪机车被“疯抢”？]]></title>
+        <id>a8975bd2e25fa83c53d8c0bf66a87135</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%B5%84%E8%AE%AF%EF%BD%9C%E4%B8%A4%E5%A4%BA%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%EF%BC%8C%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%A2%AB%E2%80%9C%E7%96%AF%E6%8A%A2%E2%80%9D%EF%BC%9F"/>
+        <updated>2026-04-02T13:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beehiiv expands into podcasting, taking aim at Patreon]]></title>
         <id>https://techcrunch.com/?p=3108531</id>
         <link href="https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/"/>
         <updated>2026-04-02T12:50:00.000Z</updated>
@@ -16,7 +319,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cash App launches ‘pay later’ feature for P2P pay transfers]]></title>
+        <title type="html"><![CDATA[Cash App launches ‘pay later’ feature for P2P transfers]]></title>
         <id>https://techcrunch.com/?p=3108514</id>
         <link href="https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/"/>
         <updated>2026-04-02T12:00:00.000Z</updated>
@@ -36,7 +339,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A New Implant Aims to Rewire Stroke Patients’ Brains]]></title>
+        <title type="html"><![CDATA[A New Implant Aims to Rewire the Brain to Help Stroke Patients]]></title>
         <id>69cd14662475eb40d2309adb</id>
         <link href="https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/"/>
         <updated>2026-04-02T11:30:00.000Z</updated>
@@ -56,16 +359,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gas Prices Are Soaring. So Is the Demand for Used EVs]]></title>
-        <id>69cbf29fd0d11c9bdd47be9d</id>
-        <link href="https://www.wired.com/story/one-solution-to-the-gas-price-spike-used-evs/"/>
-        <updated>2026-04-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dealerships say they’re getting busier as the Iran war and the shipping crisis at the Strait of Hormuz drag on.]]></summary>
-        <author>
-            <name>Aarian Marshall</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Took RFK Jr.’s Advice and Ate Nothing but High-Protein Foods for a Week]]></title>
         <id>69b19bea37631b06efa3acd7</id>
         <link href="https://www.wired.com/story/i-took-rfk-jrs-advice-and-ate-nothing-but-high-protein-foods-for-a-week/"/>
@@ -73,6 +366,16 @@
         <summary type="html"><![CDATA[From forcing down chewy, bacon-flavored Man Cereal to vomiting at the office, buying into the MAHA protein craze was a challenging endeavor.]]></summary>
         <author>
             <name>Miles Klee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gas Prices Are Soaring. So Is the Demand for Used EVs]]></title>
+        <id>69cbf29fd0d11c9bdd47be9d</id>
+        <link href="https://www.wired.com/story/one-solution-to-the-gas-price-spike-used-evs/"/>
+        <updated>2026-04-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dealerships say they’re getting busier as the Iran war and the shipping crisis at the Strait of Hormuz drag on.]]></summary>
+        <author>
+            <name>Aarian Marshall</name>
         </author>
     </entry>
     <entry>
@@ -439,46 +742,6 @@ Mark Peterson for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The reputation of troubled YC startup Delve has gotten even worse]]></title>
-        <id>https://techcrunch.com/?p=3108438</id>
-        <link href="https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/"/>
-        <updated>2026-04-01T21:23:47.000Z</updated>
-        <summary type="html"><![CDATA[Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.]]></summary>
-        <author>
-            <name>Julie Bort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘System failure’ paralyzes Baidu robotaxis in China]]></title>
-        <id>https://techcrunch.com/?p=3108558</id>
-        <link href="https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/"/>
-        <updated>2026-04-01T21:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Passengers in Baidu's robotaxis were trapped for up to two hours.]]></summary>
-        <author>
-            <name>Kirsten Korosec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)]]></title>
-        <id>https://techcrunch.com/?p=3108510</id>
-        <link href="https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/"/>
-        <updated>2026-04-01T20:46:17.000Z</updated>
-        <summary type="html"><![CDATA[Sonder profiles are completely unstructured, encouraging users to build something that looks like a mood board or a digital collage. Think MySpace rather than LinkedIn.]]></summary>
-        <author>
-            <name>Amanda Silberling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Startup funding shatters all records in Q1]]></title>
-        <id>https://techcrunch.com/?p=3108563</id>
-        <link href="https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/"/>
-        <updated>2026-04-01T20:25:28.000Z</updated>
-        <summary type="html"><![CDATA[The record quarterly fundraise largely fueled four mega-deals into  OpenAI, Anthropic, xAI, and Waymo. But it also indicates a generally hot market.]]></summary>
-        <author>
-            <name>Marina Temkin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Samsung’s Best OLED TV Is $300 Off]]></title>
         <id>69c445cbc1a34d3bd1126b78</id>
         <link href="https://www.wired.com/story/samsung-s95f-tv-deal-326/"/>
@@ -489,16 +752,6 @@ Mark Peterson for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks]]></title>
-        <id>https://techcrunch.com/?p=3108529</id>
-        <link href="https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/"/>
-        <updated>2026-04-01T19:02:18.000Z</updated>
-        <summary type="html"><![CDATA[The security update protects a raft of older iPhones and iPads from attacks linked to leaked hacking tools called DarkSword.]]></summary>
-        <author>
-            <name>Zack Whittaker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FDA Approves Eli Lilly’s GLP-1 Pill]]></title>
         <id>69cd4d6af243cbfc29e1f979</id>
         <link href="https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/"/>
@@ -506,16 +759,6 @@ Mark Peterson for The New York Times]]></summary>
         <summary type="html"><![CDATA[Eli Lilly’s once-daily Foundayo is the second obesity pill to receive FDA approval. It will compete with Novo Nordisk’s pill version of Wegovy.]]></summary>
         <author>
             <name>Emily Mullin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s natural gas binge could power South Dakota]]></title>
-        <id>https://techcrunch.com/?p=3108480</id>
-        <link href="https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/"/>
-        <updated>2026-04-01T18:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
         </author>
     </entry>
     <entry>
@@ -559,46 +802,6 @@ Mark Peterson for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cameo partners with TikTok to boost popularity]]></title>
-        <id>https://techcrunch.com/?p=3108460</id>
-        <link href="https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/"/>
-        <updated>2026-04-01T17:11:20.000Z</updated>
-        <summary type="html"><![CDATA[Cameo launched a new TikTok integration that allows U.S. creators to offer personalized videos through the app.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker]]></title>
-        <id>https://techcrunch.com/?p=3108432</id>
-        <link href="https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/"/>
-        <updated>2026-04-01T16:34:10.000Z</updated>
-        <summary type="html"><![CDATA[The Meta-owned company said it identified around 200 users who were tricked into installing a fake version of WhatsApp that was actually Italian-made spyware.]]></summary>
-        <author>
-            <name>Lorenzo Franceschi-Bicchierai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cognichip wants AI to design the chips that power AI, and just raised $60M to try]]></title>
-        <id>https://techcrunch.com/?p=3108199</id>
-        <link href="https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/"/>
-        <updated>2026-04-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.]]></summary>
-        <author>
-            <name>Tim Fernholz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX files confidentially for IPO in mega listing potentially valued at $1.75 trillion, report says]]></title>
-        <id>https://techcrunch.com/?p=3108312</id>
-        <link href="https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/"/>
-        <updated>2026-04-01T15:46:43.000Z</updated>
-        <summary type="html"><![CDATA[The company has also lined up an unusually large number of 21 banks to manage the mega IPO, internally codenamed “Project Apex."]]></summary>
-        <author>
-            <name>Tim Fernholz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The New Era of Militia Influencers]]></title>
         <id>69cbd2bf81d38665da14c7f4</id>
         <link href="https://www.wired.com/story/the-new-era-of-militia-influencers/"/>
@@ -609,16 +812,6 @@ Mark Peterson for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hasbro says it was hacked, and may take ‘several weeks’ to recover]]></title>
-        <id>https://techcrunch.com/?p=3108399</id>
-        <link href="https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/"/>
-        <updated>2026-04-01T14:50:32.000Z</updated>
-        <summary type="html"><![CDATA[The American toy-making giant noted that it was continuing to "implement measures to secure its business operations," suggesting that the hackers may still be in the company's systems.]]></summary>
-        <author>
-            <name>Zack Whittaker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best MacBooks (2026): Neo, Air, or Pro?]]></title>
         <id>5a78e59756f21920c2bf083b</id>
         <link href="https://www.wired.com/story/which-macbook-should-you-buy/"/>
@@ -626,54 +819,6 @@ Mark Peterson for The New York Times]]></summary>
         <summary type="html"><![CDATA[With the MacBook Neo in the mix, there have never been more options to choose from in Apple's MacBook lineup.]]></summary>
         <author>
             <name>Luke Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together]]></title>
-        <id>https://techcrunch.com/?p=3108326</id>
-        <link href="https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/"/>
-        <updated>2026-04-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.]]></summary>
-        <author>
-            <name>TechCrunch Events</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucid Motors recalls over 4,000 Gravity SUVs citing improperly welded seat belts]]></title>
-        <id>https://techcrunch.com/?p=3108383</id>
-        <link href="https://techcrunch.com/2026/04/01/lucid-motors-recalls-over-4000-gravity-suvs-citing-improperly-welded-seat-belts/"/>
-        <updated>2026-04-01T13:40:23.000Z</updated>
-        <summary type="html"><![CDATA[The company struggled with quality issues when Gravity production started last year, and the new recall shows it's not out of the woods yet.]]></summary>
-        <author>
-            <name>Sean O'Kane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近期最期待的华语电影，直面中年“致命女人”的禁忌之恋？]]></title>
-        <id>ab3cdd68694bff20fb89d8d85cfb254e</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%BF%91%E6%9C%9F%E6%9C%80%E6%9C%9F%E5%BE%85%E7%9A%84%E5%8D%8E%E8%AF%AD%E7%94%B5%E5%BD%B1%EF%BC%8C%E7%9B%B4%E9%9D%A2%E4%B8%AD%E5%B9%B4%E2%80%9C%E8%87%B4%E5%91%BD%E5%A5%B3%E4%BA%BA%E2%80%9D%E7%9A%84%E7%A6%81%E5%BF%8C%E4%B9%8B%E6%81%8B%EF%BC%9F"/>
-        <updated>2026-04-01T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纸刊征稿｜当年轻人不再去上班]]></title>
-        <id>38cfc57de8cee6d6d0ce932c5aaf4393</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%BA%B8%E5%88%8A%E5%BE%81%E7%A8%BF%EF%BD%9C%E5%BD%93%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E5%86%8D%E5%8E%BB%E4%B8%8A%E7%8F%AD"/>
-        <updated>2026-04-01T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing’s AI devices plan reportedly contains smart glasses and earbuds]]></title>
-        <id>https://techcrunch.com/?p=3108371</id>
-        <link href="https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/"/>
-        <updated>2026-04-01T12:33:24.000Z</updated>
-        <summary type="html"><![CDATA[The glasses will reportedly feature cameras, microphones, and speakers, and will connect to a smartphone and the cloud to process AI queries.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
         </author>
     </entry>
     <entry>
@@ -807,6 +952,15 @@ Mark Peterson for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[小语种天花板，强烈推荐]]></title>
+        <id>7d31463423133b8d19a9c841077b8249</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%B0%8F%E8%AF%AD%E7%A7%8D%E5%A4%A9%E8%8A%B1%E6%9D%BF%EF%BC%8C%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90"/>
+        <updated>2026-04-01T04:14:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[普京强化互联网管控，俄罗斯转向伊朗模式？]]></title>
         <id>https://cn.nytimes.com/world/20260401/russia-putin-telegram-internet/</id>
         <link href="https://cn.nytimes.com/world/20260401/russia-putin-telegram-internet/?utm_source=RSS"/>
@@ -837,46 +991,6 @@ Eric Lee for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project]]></title>
-        <id>https://techcrunch.com/?p=3108357</id>
-        <link href="https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"/>
-        <updated>2026-04-01T01:42:59.000Z</updated>
-        <summary type="html"><![CDATA[The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.]]></summary>
-        <author>
-            <name>Jagmeet Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robotaxi Outage in China Leaves Passengers Stranded on Highways]]></title>
-        <id>69cc39d010e283f49b42bad8</id>
-        <link href="https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/"/>
-        <updated>2026-04-01T01:24:55.000Z</updated>
-        <summary type="html"><![CDATA[A suspected system failure froze Baidu’s robotaxis across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes.]]></summary>
-        <author>
-            <name>Zeyi Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’]]></title>
-        <id>https://techcrunch.com/?p=3108119</id>
-        <link href="https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/"/>
-        <updated>2026-04-01T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving.]]></summary>
-        <author>
-            <name>Dominic-Madori Davis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool]]></title>
-        <id>69cad050263917a747a8110a</id>
-        <link href="https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/"/>
-        <updated>2026-04-01T00:49:08.000Z</updated>
-        <summary type="html"><![CDATA[As DarkSword spreads, Apple tells WIRED it will enable iOS 18-specific fixes for millions of iPhone owners who remain on that iOS version rather than force them to update to iOS 26.]]></summary>
-        <author>
-            <name>Andy Greenberg</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美国参议员敦促台湾增加军费开支，北京表示抗议]]></title>
         <id>https://cn.nytimes.com/asia-pacific/20260401/senators-taiwan-military/</id>
         <link href="https://cn.nytimes.com/asia-pacific/20260401/senators-taiwan-military/?utm_source=RSS"/>
@@ -892,26 +1006,6 @@ Ann Wang/Reuters
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等]]></title>
-        <id>https://sspai.com/post/108133</id>
-        <link href="https://sspai.com/post/108133"/>
-        <updated>2026-04-01T00:08:31.000Z</updated>
-        <summary type="html"><![CDATA[索尼将继续上调 PlayStation Plus 订阅价格，微软确认将为 Windows 11 开发纯原生系统应用等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran Threatens to Start Attacking Major US Tech Firms on April 1]]></title>
-        <id>69cbf2b17c3bcf5ad8dbe7db</id>
-        <link href="https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/"/>
-        <updated>2026-03-31T21:25:12.000Z</updated>
-        <summary type="html"><![CDATA[Tech giants like Apple, Google, and Microsoft are among those on a target list released by Iran’s Islamic Revolutionary Guard Corps.]]></summary>
-        <author>
-            <name>Dell Cameron, Louise Matsakis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特朗普为何积极推动美国“重返月球”]]></title>
         <id>https://cn.nytimes.com/usa/20260401/trump-artemis-ii-moon-mission/</id>
         <link href="https://cn.nytimes.com/usa/20260401/trump-artemis-ii-moon-mission/?utm_source=RSS"/>
@@ -924,76 +1018,6 @@ Doug Mills/The New York Times
 2020年5月，特朗普总统在首个任期内访问肯尼迪航天中心，观看SpaceX的火箭发射。]]></summary>
         <author>
             <name>PETER BAKER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Favorite Affordable Air Purifier Is Temporarily Even Cheaper]]></title>
-        <id>69cbffd8d7bb2fd25b2572e9</id>
-        <link href="https://www.wired.com/story/coway-airmega-mighty-deal-326/"/>
-        <updated>2026-03-31T18:02:31.000Z</updated>
-        <summary type="html"><![CDATA[Amazon has the Coway Airmega Mighty marked down to two-thirds its normal price.]]></summary>
-        <author>
-            <name>Brad Bourque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Now Lets You Change Your Gmail Address. Here’s How]]></title>
-        <id>69cbf38a12843750a7f2dbec</id>
-        <link href="https://www.wired.com/story/how-to-change-your-gmail-address/"/>
-        <updated>2026-03-31T17:51:29.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably had the same Gmail address for years. Now, it’s easy to make a name change without worrying about the transition.]]></summary>
-        <author>
-            <name>Reece Rogers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The US Military’s GPS Software Is an $8 Billion Mess]]></title>
-        <id>69cbf455955a0fbc37be3372</id>
-        <link href="https://www.wired.com/story/the-us-militarys-gps-software-is-an-8-billion-mess/"/>
-        <updated>2026-03-31T17:34:46.000Z</updated>
-        <summary type="html"><![CDATA[The GPS Next-Generation Operational Control System was due for completion in 2016. Ten years later, the software for controlling the military’s GPS satellites still doesn’t work.]]></summary>
-        <author>
-            <name>Stephen Clark, Ars Technica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woke Isn't Back]]></title>
-        <id>69c1694e74aa8f75af0484e9</id>
-        <link href="https://www.wired.com/story/the-promise-of-woke-2-is-fueling-a-leftist-fever-dream/"/>
-        <updated>2026-03-31T17:32:20.000Z</updated>
-        <summary type="html"><![CDATA[Progressives are dreaming about “Woke 2”—a new political order that rights the wrongs of the Trump administration. Does it have a shot?]]></summary>
-        <author>
-            <name>Miles Klee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Admits Its Robotaxis Are Sometimes Driven by Remote Humans]]></title>
-        <id>69cacd0382b5540cbf44371c</id>
-        <link href="https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/"/>
-        <updated>2026-03-31T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The electric-car maker says it happens rarely and at speeds below 10 mph. But the disclosure—in response to a US senator's questions—occasioned a call for more transparency.]]></summary>
-        <author>
-            <name>Aarian Marshall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Time to Drink Coffee for Productivity (and When Not To)]]></title>
-        <id>69c545960e09a927c36d2ad8</id>
-        <link href="https://www.wired.com/story/when-to-drink-coffee-optimization/"/>
-        <updated>2026-03-31T16:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Caffeine is the original biohack for energy, focus, and alertness. But are you doing it wrong?]]></summary>
-        <author>
-            <name>Matthew Korfhage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In a Big Reversal, Zohran Mamdani Tells NYC Agencies They Can Use TikTok]]></title>
-        <id>69ca83d30c1f3da4fec62249</id>
-        <link href="https://www.wired.com/story/in-a-big-reversal-zohran-mamdani-tells-nyc-agencies-to-use-tiktok/"/>
-        <updated>2026-03-31T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The city will allow agencies to return to TikTok, but with strict new device and security rules.]]></summary>
-        <author>
-            <name>Makena Kelly</name>
         </author>
     </entry>
     <entry>
@@ -1040,6 +1064,15 @@ Planet Labs
 这是上周拍摄的一张卫星图像，显示了位于古巴西北部马坦萨斯湾入口处的港口和石油码头。]]></summary>
         <author>
             <name>EMMA BUBOLA,DAVID C. ADAMS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当AI开始写小说：人类作家最后的体面，还剩多少？ | 经济学人文化]]></title>
+        <id>8b3162a1693cb55e9ffcb5641b6a351e</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%BD%93AI%E5%BC%80%E5%A7%8B%E5%86%99%E5%B0%8F%E8%AF%B4%EF%BC%9A%E4%BA%BA%E7%B1%BB%E4%BD%9C%E5%AE%B6%E6%9C%80%E5%90%8E%E7%9A%84%E4%BD%93%E9%9D%A2%EF%BC%8C%E8%BF%98%E5%89%A9%E5%A4%9A%E5%B0%91%EF%BC%9F%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E6%96%87%E5%8C%96"/>
+        <updated>2026-03-31T04:47:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
@@ -1133,21 +1166,6 @@ Tierney L. Cross/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国放行俄罗斯油轮，古巴获得能源“救命稻草”]]></title>
-        <id>https://cn.nytimes.com/world/20260330/cuba-russian-oil-tanlker/</id>
-        <link href="https://cn.nytimes.com/world/20260330/cuba-russian-oil-tanlker/?utm_source=RSS"/>
-        <updated>2026-03-29T17:40:12.000Z</updated>
-        <summary type="html"><![CDATA[这艘油轮预计于周一晚间抵港。特朗普政府对古巴实施了长达数月的实质性石油封锁，这艘油轮将为古巴输送关键的能源补给。这也可能改变美古两国间的紧张局势走向。
-
-                    
-Adalberto Roque/Agence France-Presse — Getty Images
-                    
-本月哈瓦那发生停电时的情景。]]></summary>
-        <author>
-            <name>JACK NICAS,ERIC SCHMITT</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[早起打卡营（0330-0426）]]></title>
         <id>e4a0514153d4b157648ef77fe22ba730</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%97%A9%E8%B5%B7%E6%89%93%E5%8D%A1%E8%90%A5%EF%BC%880330-0426%EF%BC%89"/>
@@ -1170,24 +1188,6 @@ Adalberto Roque/Agence France-Presse — Getty Images
         <id>e4a0514153d4b157648ef77fe22ba730</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%97%A9%E8%B5%B7%E6%89%93%E5%8D%A1%E8%90%A5%EF%BC%880330-0426%EF%BC%89"/>
         <updated>2026-03-27T03:26:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲最具声望的公共知识分子尤尔根·哈贝马斯 | 经济学人讣告 （强烈推荐）]]></title>
-        <id>e1326397c5bbb3117818a835116ef0f0</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%85%B7%E5%A3%B0%E6%9C%9B%E7%9A%84%E5%85%AC%E5%85%B1%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E5%B0%A4%E5%B0%94%E6%A0%B9%C2%B7%E5%93%88%E8%B4%9D%E9%A9%AC%E6%96%AF%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E8%AE%A3%E5%91%8A%20%EF%BC%88%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%EF%BC%89"/>
-        <updated>2026-03-27T03:26:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球年轻人掀起麻将热潮 | 经济学人文化]]></title>
-        <id>3e274b2d2e601f7466730648bf5990a9</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%85%A8%E7%90%83%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%80%E8%B5%B7%E9%BA%BB%E5%B0%86%E7%83%AD%E6%BD%AE%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E6%96%87%E5%8C%96"/>
-        <updated>2026-03-26T07:41:00.000Z</updated>
         <author>
             <name>一天一篇经济学人(双语)</name>
         </author>
