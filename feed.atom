@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-11T12:53:21.569Z</id>
+    <id>urn:2026-04-12T02:24:43.976Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T12:53:21.569Z</updated>
+    <updated>2026-04-12T02:24:43.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi wins temporary pause in Arizona criminal case]]></title>
+        <id>https://techcrunch.com/?p=3111689</id>
+        <link href="https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/"/>
+        <updated>2026-04-11T21:20:24.000Z</updated>
+        <summary type="html"><![CDATA[The Commodity Futures Trading Commission announced Friday that it has won a temporary restraining order preventing Arizona from pursuing its criminal case against Kalshi.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok]]></title>
+        <id>https://techcrunch.com/?p=3111686</id>
+        <link href="https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/"/>
+        <updated>2026-04-11T20:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Is this a smart way to build buzz, or just an odd attempt to recreate Quibi?]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home]]></title>
+        <id>https://techcrunch.com/?p=3111667</id>
+        <link href="https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/"/>
+        <updated>2026-04-11T17:18:22.000Z</updated>
+        <summary type="html"><![CDATA[The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips]]></title>
+        <id>https://techcrunch.com/?p=3111572</id>
+        <link href="https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/"/>
+        <updated>2026-04-11T14:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM.]]></summary>
+        <author>
+            <name>Julie Bort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[和资产上亿的“富二代”一起摆地摊，我看见“爽文男主”的另一面]]></title>
+        <id>3fe941a04130142ba3a80aa91ac6acb9</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%92%8C%E8%B5%84%E4%BA%A7%E4%B8%8A%E4%BA%BF%E7%9A%84%E2%80%9C%E5%AF%8C%E4%BA%8C%E4%BB%A3%E2%80%9D%E4%B8%80%E8%B5%B7%E6%91%86%E5%9C%B0%E6%91%8A%EF%BC%8C%E6%88%91%E7%9C%8B%E8%A7%81%E2%80%9C%E7%88%BD%E6%96%87%E7%94%B7%E4%B8%BB%E2%80%9D%E7%9A%84%E5%8F%A6%E4%B8%80%E9%9D%A2"/>
+        <updated>2026-04-11T13:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一夜之间全员“吗喽”“尤物”，打工人为何疯狂沉迷性格测试？]]></title>
+        <id>095852c2848063f67d05e2362d642bcd</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4%E5%85%A8%E5%91%98%E2%80%9C%E5%90%97%E5%96%BD%E2%80%9D%E2%80%9C%E5%B0%A4%E7%89%A9%E2%80%9D%EF%BC%8C%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%BA%E4%BD%95%E7%96%AF%E7%8B%82%E6%B2%89%E8%BF%B7%E6%80%A7%E6%A0%BC%E6%B5%8B%E8%AF%95%EF%BC%9F"/>
+        <updated>2026-04-11T13:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Crimson Desert’ Is a Cat Dad Simulator]]></title>
         <id>69d91907360ae71ab0cbb72b</id>
@@ -317,24 +375,6 @@
         <title type="html"><![CDATA[课本之外的鲁迅，居然这么有趣？]]></title>
         <id>cfdffee2833536899e7c9aaeec53b23a</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%AF%BE%E6%9C%AC%E4%B9%8B%E5%A4%96%E7%9A%84%E9%B2%81%E8%BF%85%EF%BC%8C%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E6%9C%89%E8%B6%A3%EF%BC%9F"/>
-        <updated>2026-04-10T13:01:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[300元一小时，40岁的我给独居老人当“外包女儿”]]></title>
-        <id>c63898da89d20cb20e5e44a360a32318</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+300%E5%85%83%E4%B8%80%E5%B0%8F%E6%97%B6%EF%BC%8C40%E5%B2%81%E7%9A%84%E6%88%91%E7%BB%99%E7%8B%AC%E5%B1%85%E8%80%81%E4%BA%BA%E5%BD%93%E2%80%9C%E5%A4%96%E5%8C%85%E5%A5%B3%E5%84%BF%E2%80%9D"/>
-        <updated>2026-04-10T13:01:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真实的古墓是什么样的？]]></title>
-        <id>7015fa8688eb2f04a1b7b0a6fa184c0b</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%8F%A4%E5%A2%93%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%EF%BC%9F"/>
         <updated>2026-04-10T13:01:00.000Z</updated>
         <author>
             <name>三联生活周刊</name>
@@ -706,46 +746,6 @@ Reuters
         <summary type="html"><![CDATA[In 2021, Anjuna Security was growing fast, hiring aggressively, and chasing a market that seemed limitless. By the end of that year, the venture-backed cybersecurity company had scaled to around 75 employees, building out sales, customer success, and support teams in anticipation of continued hypergrowth. Then 2022 hit.]]></summary>
         <author>
             <name>Maggie Nye, Isabelle Johannessen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs]]></title>
-        <id>https://techcrunch.com/?p=3110991</id>
-        <link href="https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/"/>
-        <updated>2026-04-09T21:01:36.000Z</updated>
-        <summary type="html"><![CDATA[All resources at its U.S. factory are aimed at the upcoming Atlas SUV.]]></summary>
-        <author>
-            <name>Kirsten Korosec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT]]></title>
-        <id>https://techcrunch.com/?p=3110924</id>
-        <link href="https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/"/>
-        <updated>2026-04-09T20:11:55.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.]]></summary>
-        <author>
-            <name>Lucas Ropek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing]]></title>
-        <id>https://techcrunch.com/?p=3111079</id>
-        <link href="https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/"/>
-        <updated>2026-04-09T20:04:12.000Z</updated>
-        <summary type="html"><![CDATA[The consumer protection agency says the company violated the FTC Act and its Rule on Unfair or Deceptive Fees by "deceptively" advertising ticket prices on its website without clearly disclosing upfront what the total cost would be, including all mandatory fees.]]></summary>
-        <author>
-            <name>Aisha Malik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After data breach, $10B-valued startup Mercor is having a month]]></title>
-        <id>https://techcrunch.com/?p=3110877</id>
-        <link href="https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/"/>
-        <updated>2026-04-09T19:33:54.000Z</updated>
-        <summary type="html"><![CDATA[After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.]]></summary>
-        <author>
-            <name>Julie Bort</name>
         </author>
     </entry>
     <entry>
