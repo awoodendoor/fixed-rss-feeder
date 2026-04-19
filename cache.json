@@ -12,6 +12,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/108768",
+          "author": "PlatyHsu",
+          "description": "在与AI对话的过程中，你一定见过这样不伦不类的输出：换言之，那些本该加粗的部分并没有加粗，周围却多了一堆星号。有一定技术背景的读者都知道，这些星号是Markdown中的强调标记。Markdown是一种 ...查看全文",
+          "link": "https://sspai.com/post/108768",
+          "publishedOn": "2026-04-19T06:10:43.000Z",
+          "wordCount": 497,
+          "title": "AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/87807",
           "author": "休伯利安",
           "description": "入门业余无线电，圆梦童年时的梦想。查看全文",
@@ -100,16 +110,6 @@
           "wordCount": 494,
           "title": "译文｜Tahoe 的图标令人难评",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108692",
-          "author": "少数派编辑部",
-          "description": "OpenAI 推出网络安全专用模型 GPT-5.4-Cyber、索尼宣布将调整 Bravia 电视的功能等。查看全文",
-          "link": "https://sspai.com/post/108692",
-          "publishedOn": "2026-04-16T00:42:56.000Z",
-          "wordCount": 347,
-          "title": "派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等",
-          "imageUrl": null
         }
       ]
     },
@@ -125,12 +125,32 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=3113304",
+          "author": "Tim De Chant",
+          "description": "Fusion startups and investors risk deepening fissures if some key disagreements aren't settled amicably.",
+          "link": "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/",
+          "publishedOn": "2026-04-19T12:51:10.000Z",
+          "wordCount": 3726,
+          "title": "Cracks are starting to form on fusion energy’s funding boom",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1092180978.jpg?resize=1200,850"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3113991",
+          "author": "Sean O'Kane",
+          "description": "It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market.",
+          "link": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
+          "publishedOn": "2026-04-19T11:45:38.000Z",
+          "wordCount": 3076,
+          "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-19-at-7.41.48-AM.png?resize=1200,795"
+        },
+        {
           "id": "https://techcrunch.com/?p=3113986",
           "author": "Anthony Ha",
-          "description": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas & Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front seat. The company now […]",
+          "description": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
           "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
           "publishedOn": "2026-04-18T21:37:15.000Z",
-          "wordCount": 2924,
+          "wordCount": 2927,
           "title": "Tesla brings its robotaxi service to Dallas and Houston",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801"
         },
@@ -303,26 +323,6 @@
           "wordCount": 3686,
           "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/nsa-surveillance-525618310.jpg?resize=1200,800"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3113625",
-          "author": "Aisha Malik",
-          "description": "Although you can already track hotel prices at the city level, the new update lets you do so for a specific hotel that you're interested in.",
-          "link": "https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/",
-          "publishedOn": "2026-04-17T14:00:00.000Z",
-          "wordCount": 3026,
-          "title": "Google’s AI Mode can now help you find products in stock nearby",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3113243",
-          "author": "Sarah Perez",
-          "description": "Bluesky has been experiencing ongoing service disruptions since just before 3 a.m. ET on April 15.",
-          "link": "https://techcrunch.com/2026/04/17/its-not-just-you-bluesky-is-sorta-down/",
-          "publishedOn": "2026-04-17T13:22:04.000Z",
-          "wordCount": 3256,
-          "title": "Bluesky confirms DDoS attack is cause of continued app outages",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024"
         }
       ]
     },
@@ -545,6 +545,36 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A",
       "articles": [
         {
+          "id": "be7b422bce06038dd56aed604b235a06",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%AE%B6%E9%95%BF%E4%BC%9A%E4%B8%8A%E6%83%B3%E8%AF%B4%E5%8F%88%E4%B8%8D%E6%95%A2%E8%AF%B4%E7%9A%84%E8%AF%9D%EF%BC%8C%E8%A2%AB%E8%BF%99%E4%BA%9B%E4%B8%80%E7%BA%BF%E6%95%99%E5%B8%88%E8%AF%B4%E9%80%8F%E4%BA%86",
+          "publishedOn": "2026-04-19T04:00:00.000Z",
+          "wordCount": 301,
+          "title": "家长会上想说又不敢说的话，被这些一线教师说透了",
+          "imageUrl": null
+        },
+        {
+          "id": "6929a8fb9f3dc189858022aba5eac16b",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%89%93%E8%B4%A5%E8%80%81%E9%92%B1%E9%A3%8E%EF%BC%8C%E6%9C%80%E6%87%82%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E6%97%B6%E9%AB%A6%E7%B2%BE%E5%8F%88%E6%8D%A7%E5%87%BA%E8%BF%99%E4%B8%AA%E2%80%9C%E7%A9%BF%E6%90%AD%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D%EF%BC%9F",
+          "publishedOn": "2026-04-19T04:00:00.000Z",
+          "wordCount": 265,
+          "title": "打败老钱风，最懂松弛感的时髦精又捧出这个“穿搭天花板”？",
+          "imageUrl": null
+        },
+        {
+          "id": "e0bbc352b75dc42bc2c4d900e76338eb",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%85%AD%E5%AE%89%E7%93%9C%E7%89%87%EF%BC%8C%E5%9C%A8%E7%81%AB%E7%AC%BC%E4%B8%8A%E8%B7%B3%E8%88%9E%E7%9A%84%E2%80%9C%E9%87%8E%E5%A3%AB%E2%80%9D",
+          "publishedOn": "2026-04-19T04:00:00.000Z",
+          "wordCount": 285,
+          "title": "六安瓜片，在火笼上跳舞的“野士”",
+          "imageUrl": null
+        },
+        {
           "id": "78efd0b949ac33528a2a84ae295bdc13",
           "author": null,
           "description": "",
@@ -562,36 +592,6 @@
           "publishedOn": "2026-04-18T13:00:00.000Z",
           "wordCount": 305,
           "title": "收视第一的内娱爆款综艺，凭“翻车”重回顶流？",
-          "imageUrl": null
-        },
-        {
-          "id": "f356d3a9a9dc0f597b505010c7d38b1f",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%EF%BC%8C%E4%BD%A0%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%BA%86%E9%98%85%E8%AF%BB%E7%9A%84%E6%84%8F%E4%B9%89%EF%BC%9F",
-          "publishedOn": "2026-04-18T13:00:00.000Z",
-          "wordCount": 303,
-          "title": "哪个瞬间，你突然理解了阅读的意义？",
-          "imageUrl": null
-        },
-        {
-          "id": "5ee5c77bbc123a35cbfaf98c81ffdfa4",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%AD%E5%9B%BD%E6%9C%891300%E4%B8%87%E4%BA%BA%EF%BC%8C%E5%9B%B0%E5%9C%A8%E5%8D%95%E4%BB%B73%E5%85%83%E7%9A%84%E5%B7%A5%E4%BD%9C%E9%87%8C",
-          "publishedOn": "2026-04-18T04:00:00.000Z",
-          "wordCount": 295,
-          "title": "中国有1300万人，困在单价3元的工作里",
-          "imageUrl": null
-        },
-        {
-          "id": "8bd0fb0016af4216cb32370d210d722e",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+35%E5%B2%81%E4%BB%8E%E8%80%81%E5%AE%B6%E6%9D%A5%E5%8C%97%E4%BA%AC%EF%BC%8C%E5%9C%9F%E6%9C%A8%E4%B8%93%E4%B8%9A%E7%9A%84%E6%88%91%E8%BD%AC%E8%A1%8C%E5%81%9A%E5%AE%9E%E4%B9%A0%E5%BE%8B%E5%B8%88",
-          "publishedOn": "2026-04-18T04:00:00.000Z",
-          "wordCount": 291,
-          "title": "35岁从老家来北京，土木专业的我转行做实习律师",
           "imageUrl": null
         }
       ]
@@ -659,12 +659,62 @@
       "siteUrl": "https://www.wired.com",
       "articles": [
         {
+          "id": "69de90f74512d597cf551a00",
+          "author": "Adrienne So",
+          "description": "Meta is unquestionably winning the face-wearable war. Can you trust the company? Maybe not. But these are some of the nicest glasses I've ever worn.",
+          "link": "https://www.wired.com/story/best-meta-glasses/",
+          "publishedOn": "2026-04-19T11:00:00.000Z",
+          "wordCount": 30595,
+          "title": "Best Meta Glasses (2026): Ray-Ban, Oakley, AR",
+          "imageUrl": "https://media.wired.com/photos/69e2e732b5f641682c659673/191:100/w_1280,c_limit/The-Best-Meta-Glasses-for-Looking-Hot-and-Invading-Everyone's-Privacy.jpg"
+        },
+        {
+          "id": "69de8c2b64e20fc5d9417b08",
+          "author": "Ryan Waniata",
+          "description": "Hisense’s midrange U7 TV gets some high-end upgrades, but the competition is only getting stiffer.",
+          "link": "https://www.wired.com/review/hisense-u7sg/",
+          "publishedOn": "2026-04-19T10:30:00.000Z",
+          "wordCount": 23262,
+          "title": "Hisense U7SG TV Review (2026): Better Design, Great Value",
+          "imageUrl": "https://media.wired.com/photos/69e2ea95baaff09c6d99fd7a/191:100/w_1280,c_limit/Review--Hisense-U7SG-TV-(2026).jpg"
+        },
+        {
+          "id": "69cbfc031dc22a5468c47322",
+          "author": "Kat Merck",
+          "description": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room.",
+          "link": "https://www.wired.com/story/the-best-fans-2026/",
+          "publishedOn": "2026-04-19T10:00:00.000Z",
+          "wordCount": 47925,
+          "title": "The 11 Best Fans to Buy Before It Gets Hot Again (2026)",
+          "imageUrl": "https://media.wired.com/photos/69e2e66fc95c45da36013963/191:100/w_1280,c_limit/The-Best-Fans-to-Buy-Before-It-Gets-Hot-Again.jpg"
+        },
+        {
+          "id": "69e22eb47ea9068b109b1c55",
+          "author": "Louryn Strampe",
+          "description": "Our top Apple Watch recommendation fluctuates in price. If you're in the market, now's a good time to buy.",
+          "link": "https://www.wired.com/story/apple-watch-series-11-deal-april-2026/",
+          "publishedOn": "2026-04-19T09:39:00.000Z",
+          "wordCount": 25402,
+          "title": "Our Favorite Apple Watch Has Never Been Less Expensive",
+          "imageUrl": "https://media.wired.com/photos/69e2defc1f0301c943c55ddb/191:100/w_1280,c_limit/The-Best-Apple-Watch-Is-Back-to-Its-Cheapest-Price.jpg"
+        },
+        {
+          "id": "680bd6a72ec82073c9b3d069",
+          "author": "Molly Higgins",
+          "description": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+          "link": "https://www.wired.com/gallery/best-pet-cameras/",
+          "publishedOn": "2026-04-19T09:03:00.000Z",
+          "wordCount": 34023,
+          "title": "The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot",
+          "imageUrl": "https://media.wired.com/photos/69e2d81939c62e0b45b3e304/191:100/w_1280,c_limit/The-Best-Pet-Cameras-of-2026.jpg"
+        },
+        {
           "id": "69d0124d930f0c6762bef1ba",
           "author": "Nena Farrell",
           "description": "These locks, lights, and other smart home upgrades let you add automation without messing up your home’s vibe.",
           "link": "https://www.wired.com/story/smart-home-curb-appeal/",
           "publishedOn": "2026-04-18T11:02:00.000Z",
-          "wordCount": 29299,
+          "wordCount": 29456,
           "title": "The Best Smart Home Accessories to Boost Your Curb Appeal (2026)",
           "imageUrl": "https://media.wired.com/photos/69e2927e26dabb307b73e8ca/191:100/w_1280,c_limit/Your-Outdoor-Smart-Home-Gear-Doesn't-Have-To-Be-Ugly.jpg"
         },
@@ -674,7 +724,7 @@
           "description": "Those clicks and pops aren't supposed to be there. Give your music a proper bath with this handy guide.",
           "link": "https://www.wired.com/story/how-to-clean-vinyl-records/",
           "publishedOn": "2026-04-18T11:00:00.000Z",
-          "wordCount": 28540,
+          "wordCount": 28524,
           "title": "How to Clean Your Vinyl Records (2026): Vacuum, Ultrasonic, Solution, Brush",
           "imageUrl": "https://media.wired.com/photos/67ca18d6dd326b3d912b0e49/191:100/w_1280,c_limit/Vinyl-record-cleaning-brush-GettyImages-1129795475-peuceta-(cropped).jpg"
         },
@@ -694,7 +744,7 @@
           "description": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
           "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
           "publishedOn": "2026-04-18T10:30:00.000Z",
-          "wordCount": 28126,
+          "wordCount": 28088,
           "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
           "imageUrl": "https://media.wired.com/photos/69e297a5b6d175715986c107/191:100/w_1280,c_limit/security_EU_Age_Getty_1.jpg"
         },
@@ -704,7 +754,7 @@
           "description": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
           "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
           "publishedOn": "2026-04-18T10:30:00.000Z",
-          "wordCount": 27059,
+          "wordCount": 26957,
           "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
           "imageUrl": "https://media.wired.com/photos/69e261f2c08b65b67742964b/191:100/w_1280,c_limit/IMG_0608%202.jpeg"
         },
@@ -714,7 +764,7 @@
           "description": "Don’t just load up an Amazon cart! Here are the better ways to find your favorite vinyl records online.",
           "link": "https://www.wired.com/story/where-to-shop-for-vinyl-records-online/",
           "publishedOn": "2026-04-18T10:30:00.000Z",
-          "wordCount": 27648,
+          "wordCount": 27632,
           "title": "Where to Shop for Vinyl Records Online (2026): Discogs, Bandcamp, Ebay",
           "imageUrl": "https://media.wired.com/photos/67d71775e784d4b8067ba635/191:100/w_1280,c_limit/Record-player-turntable-vinyl-headphones-GettyImages-2163788608-EyeEm-Mobile-GmbH-(cropped).jpg"
         },
@@ -724,7 +774,7 @@
           "description": "28 Years Later: The Bone Temple, Crime 101, and Deathstalker are among the films deserving of your eyeballs this month",
           "link": "https://www.wired.com/story/the-best-movies-to-stream-right-now/",
           "publishedOn": "2026-04-18T09:30:00.000Z",
-          "wordCount": 29139,
+          "wordCount": 29109,
           "title": "The Best Movies to Stream This Month (April 2026)",
           "imageUrl": "https://media.wired.com/photos/69e15d364605cb6e7cbd6490/191:100/w_1280,c_limit/Movie-Guide-Culture-rev-1-WPN-FP-0069_High_Res_JPEG.jpg"
         },
@@ -734,7 +784,7 @@
           "description": "Take a group of runners circling a track at unique, constant paces. Answering the question of how many will always end up running alone, no matter their speed, has vexed mathematicians for decades.",
           "link": "https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/",
           "publishedOn": "2026-04-18T09:00:00.000Z",
-          "wordCount": 28993,
+          "wordCount": 28963,
           "title": "The ‘Lonely Runner’ Problem Only Appears Simple",
           "imageUrl": "https://media.wired.com/photos/69e2786904c989eedf38ac47/191:100/w_1280,c_limit/Lonely%20Runner%20cr-Mark%20Belan-Default.jpg"
         },
@@ -744,7 +794,7 @@
           "description": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
           "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
           "publishedOn": "2026-04-17T19:56:42.000Z",
-          "wordCount": 26588,
+          "wordCount": 25777,
           "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
           "imageUrl": "https://media.wired.com/photos/69e28bd5c90ceaca5deef659/191:100/w_1280,c_limit/Kevin-Weil-Leaving-OpenAI-Business-2212179127.jpg"
         },
@@ -754,7 +804,7 @@
           "description": "Honestly, what’s hotter than a real person?",
           "link": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
           "publishedOn": "2026-04-17T17:14:51.000Z",
-          "wordCount": 26981,
+          "wordCount": 26927,
           "title": "Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder",
           "imageUrl": "https://media.wired.com/photos/69e24d762c03fd43832a42f8/191:100/w_1280,c_limit/GettyImages-2214140680.jpg"
         },
@@ -764,7 +814,7 @@
           "description": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
           "link": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
           "publishedOn": "2026-04-17T15:46:06.000Z",
-          "wordCount": 28481,
+          "wordCount": 28415,
           "title": "AI Drafting My Stories? Over My Dead Body",
           "imageUrl": "https://media.wired.com/photos/69e1650c3768d90cb0bbf6c2/191:100/w_1280,c_limit/Backchannel-Issue-With-AI-Doing-the-Writing-Busines-491874561.jpg"
         },
@@ -774,7 +824,7 @@
           "description": "A post-midnight revolt in the House sank the White House's efforts to extend Section 702—a spy program the FBI has used to look into members of Congress, protesters, and political donors.",
           "link": "https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/",
           "publishedOn": "2026-04-17T14:07:02.000Z",
-          "wordCount": 27318,
+          "wordCount": 27259,
           "title": "Republican Mutiny Sinks Trump's Push to Extend Warrantless Surveillance",
           "imageUrl": "https://media.wired.com/photos/69e2353a04c989eedf38a6d1/191:100/w_1280,c_limit/GettyImages-2270864437.jpg"
         },
@@ -784,7 +834,7 @@
           "description": "Conspiracy theories about the Butler, Pennsylvania, shooting have ramped up in recent weeks as once steadfast Trump supporters turn on the president.",
           "link": "https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged/",
           "publishedOn": "2026-04-17T13:19:40.000Z",
-          "wordCount": 27389,
+          "wordCount": 27335,
           "title": "MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged",
           "imageUrl": "https://media.wired.com/photos/69e17bf83768d90cb0bbfa58/191:100/w_1280,c_limit/pol_trump_4GettyImages-2182147962.jpg"
         },
@@ -804,7 +854,7 @@
           "description": "These are our favorite portable speakers of all shapes and sizes, from clip-ons to a massive boom box.",
           "link": "https://www.wired.com/gallery/best-bluetooth-speakers/",
           "publishedOn": "2026-04-17T12:00:00.000Z",
-          "wordCount": 31012,
+          "wordCount": 30252,
           "title": "Best Bluetooth Speakers (2026): JBL, Sonos, Bose, and More",
           "imageUrl": "https://media.wired.com/photos/69e11dc60f92acc744d0d72e/191:100/w_1280,c_limit/The-Best-Bluetooth-Speakers.jpg"
         },
@@ -814,7 +864,7 @@
           "description": "MagSafe accessories make your phone feel uniquely yours. These are our favorites, including Android-friendly Qi2 picks.",
           "link": "https://www.wired.com/gallery/best-magsafe-accessories/",
           "publishedOn": "2026-04-17T11:33:00.000Z",
-          "wordCount": 34418,
+          "wordCount": 34426,
           "title": "The Best MagSafe Accessories (for Android, Too!): Chargers, Wallets, and More",
           "imageUrl": "https://media.wired.com/photos/686466f75387ebe0264fb50c/191:100/w_1280,c_limit/The%20Best%20MagSafe%20Accessories%20for%20Your%20New%20iPhone.png"
         },
@@ -824,7 +874,7 @@
           "description": "Weirdly, spaceships have no direct way to gauge their own speed. Luckily, we can use some physics tricks to figure it out.",
           "link": "https://www.wired.com/story/how-can-astronauts-tell-how-fast-theyre-going/",
           "publishedOn": "2026-04-17T11:00:00.000Z",
-          "wordCount": 30564,
+          "wordCount": 30505,
           "title": "How Can Astronauts Tell How Fast They’re Going?",
           "imageUrl": "https://media.wired.com/photos/69e17277511f2181a178ed2e/191:100/w_1280,c_limit/How-do-Astronauts-Know-How-Fast-They-are-Going-Science-2129771118.jpg"
         },
@@ -844,9 +894,19 @@
           "description": "From a celibate porn star to an asexual ex-Mormon, the internet is full of people who are abstaining from sex—and it’s not just incels.",
           "link": "https://www.wired.com/story/the-influencers-normalizing-not-having-sex/",
           "publishedOn": "2026-04-17T10:30:00.000Z",
-          "wordCount": 29283,
+          "wordCount": 29224,
           "title": "The Influencers Normalizing Not Having Sex",
           "imageUrl": "https://media.wired.com/photos/69e15fa6a619499b9c4fcb89/191:100/w_1280,c_limit/SB_Celibacy_TA-1.jpg"
+        },
+        {
+          "id": "6984e651ab93ee3c8d89a801",
+          "author": "Noah Shachtman, Robert Silverman",
+          "description": "Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.",
+          "link": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
+          "publishedOn": "2026-04-17T10:00:00.000Z",
+          "wordCount": 49455,
+          "title": "The Shocking Secrets of Madison Square Garden’s Surveillance Machine",
+          "imageUrl": "https://media.wired.com/photos/69e148af160fbe8b7ae66a69/191:100/w_1280,c_limit/WIRED-MSG-COVER-FINAL-THUMBNAIL.jpg"
         },
         {
           "id": "69d7db4d96999a360a410f56",
@@ -859,22 +919,12 @@
           "imageUrl": "https://media.wired.com/photos/69e1521770bba893fe0aed50/191:100/w_1280,c_limit/Nothing%20Phone%20(4a)%20Pro%20SOURCE%20Julian%20Chokkattu(3).jpg"
         },
         {
-          "id": "6984e651ab93ee3c8d89a801",
-          "author": "Noah Shachtman, Robert Silverman",
-          "description": "Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.",
-          "link": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 49509,
-          "title": "The Shocking Secrets of Madison Square Garden’s Surveillance Machine",
-          "imageUrl": "https://media.wired.com/photos/69e148af160fbe8b7ae66a69/191:100/w_1280,c_limit/WIRED-MSG-COVER-FINAL-THUMBNAIL.jpg"
-        },
-        {
           "id": "69dfff6a100f73b2d7f78ecb",
           "author": "Aarian Marshall",
           "description": "Marine insurers and oil traders want to know what’s going on in one of the world’s most critical waterways. As the volume of disappearing ships in the area increases, analysts are getting creative.",
           "link": "https://www.wired.com/story/spoofed-tankers-strait-of-hormuz/",
           "publishedOn": "2026-04-17T09:30:00.000Z",
-          "wordCount": 26792,
+          "wordCount": 26776,
           "title": "Spoofed Tankers Are Flooding the Strait of Hormuz. These Analysts Are Tracking Them",
           "imageUrl": "https://media.wired.com/photos/69e0e57f3af2e04b54b6cc82/191:100/w_1280,c_limit/GettyImages-2269814669.jpg"
         },
@@ -884,7 +934,7 @@
           "description": "Tokyo is succeeding where the rest of the world has failed, reducing its reliance on Beijing for crucial rare earth elements—thanks to an enormous underwater deposit discovered on a remote island.",
           "link": "https://www.wired.com/story/under-the-pacific-japan-seeks-independence-from-china-on-rare-earths/",
           "publishedOn": "2026-04-17T08:30:00.000Z",
-          "wordCount": 27415,
+          "wordCount": 27361,
           "title": "6,000 Meters Under the Pacific, Japan Seeks Independence From China on Rare Earths",
           "imageUrl": "https://media.wired.com/photos/69dfa5c37e53dbff73e9fdb2/191:100/w_1280,c_limit/2189340644"
         },
@@ -894,7 +944,7 @@
           "description": "Check out our deals for Nike this month, including 15% off select purchases.",
           "link": "https://www.wired.com/story/nike-promo-code/",
           "publishedOn": "2026-04-17T05:00:00.000Z",
-          "wordCount": 26514,
+          "wordCount": 26522,
           "title": "Nike Promo Codes and Deals: 30% Off",
           "imageUrl": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/191:100/w_1280,c_limit/WIRED-Coupons-12.jpg"
         },
@@ -904,7 +954,7 @@
           "description": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
           "link": "https://www.wired.com/story/foreo-promo-code/",
           "publishedOn": "2026-04-17T05:00:00.000Z",
-          "wordCount": 25659,
+          "wordCount": 25609,
           "title": "Foreo Discount Codes and Deals: Up to 50% Off",
           "imageUrl": "https://media.wired.com/photos/67b63b972c751893c256c1e6/191:100/w_1280,c_limit/WIRED-Coupons-R2_16.png"
         },
@@ -914,7 +964,7 @@
           "description": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
           "link": "https://www.wired.com/story/hr-block-coupon/",
           "publishedOn": "2026-04-17T05:00:00.000Z",
-          "wordCount": 25708,
+          "wordCount": 25694,
           "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
           "imageUrl": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg"
         },
@@ -924,7 +974,7 @@
           "description": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
           "link": "https://www.wired.com/story/blue-apron-coupon/",
           "publishedOn": "2026-04-17T05:00:00.000Z",
-          "wordCount": 25796,
+          "wordCount": 25786,
           "title": "50% Off Blue Apron Promo Codes | April 2026",
           "imageUrl": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/191:100/w_1280,c_limit/WIRED-Coupons-3.jpg"
         },
@@ -944,7 +994,7 @@
           "description": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
           "link": "https://www.wired.com/story/squarespace-promo-code/",
           "publishedOn": "2026-04-17T05:00:00.000Z",
-          "wordCount": 27767,
+          "wordCount": 27763,
           "title": "20% Squarespace Promo Codes | April 2026",
           "imageUrl": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/191:100/w_1280,c_limit/WIRED-Coupons-13.jpg"
         },
@@ -964,7 +1014,7 @@
           "description": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
           "link": "https://www.wired.com/story/legalzoom-promo-code/",
           "publishedOn": "2026-04-17T05:00:00.000Z",
-          "wordCount": 26956,
+          "wordCount": 26964,
           "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
           "imageUrl": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/191:100/w_1280,c_limit/WIRED-Coupons-R2_11.png"
         },
@@ -974,7 +1024,7 @@
           "description": "A model of the cyclic universe suggests that dark matter could be a population of black holes predating the Big Bang.",
           "link": "https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/",
           "publishedOn": "2026-04-16T19:50:02.000Z",
-          "wordCount": 25746,
+          "wordCount": 25687,
           "title": "Dark Matter May Be Made of Black Holes From Another Universe",
           "imageUrl": "https://media.wired.com/photos/69e12b860d58c6570f78e85b/191:100/w_1280,c_limit/GettyImages-458015353.jpg"
         },
@@ -984,7 +1034,7 @@
           "description": "Available for free to any company that wants to use it, the “completely anonymous” app puts the pressure on porn sites and social media platforms to start blocking access by minors.",
           "link": "https://www.wired.com/story/europes-online-age-verification-app-is-here/",
           "publishedOn": "2026-04-16T18:54:20.000Z",
-          "wordCount": 26263,
+          "wordCount": 26204,
           "title": "Europe’s Online Age Verification App Is Here",
           "imageUrl": "https://media.wired.com/photos/69e11b880fc350c244991bd5/191:100/w_1280,c_limit/2270912664"
         },
@@ -994,7 +1044,7 @@
           "description": "Chinese fantasy novels reimagine the past with modern tech and ideology. A new book argues they also help reinforce authoritarian politics.",
           "link": "https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling/",
           "publishedOn": "2026-04-16T18:17:18.000Z",
-          "wordCount": 28087,
+          "wordCount": 28028,
           "title": "The Online Fiction Boom Reimagining China’s History",
           "imageUrl": "https://media.wired.com/photos/69e00f87b4a75597c048548b/191:100/w_1280,c_limit/Made-In-China-Sci-Fi-Sells-Business.jpg"
         },
@@ -1004,7 +1054,7 @@
           "description": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
           "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
           "publishedOn": "2026-04-16T18:00:00.000Z",
-          "wordCount": 27935,
+          "wordCount": 27887,
           "title": "Musk v. Altman Is a Battle for OpenAI’s Soul",
           "imageUrl": "https://media.wired.com/photos/69e012ba1dd3a88684d3127b/191:100/w_1280,c_limit/Model-Behavior-Musk-v-Altman.jpg"
         },
@@ -1014,7 +1064,7 @@
           "description": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
           "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
           "publishedOn": "2026-04-16T17:30:00.000Z",
-          "wordCount": 26210,
+          "wordCount": 26156,
           "title": "The UK Launches Its $675 Million Sovereign AI Fund",
           "imageUrl": "https://media.wired.com/photos/69dff76f67d3fd19de3c134e/191:100/w_1280,c_limit/Business_UKLaunchesSovereignAIFund_03.jpg"
         },
@@ -1024,7 +1074,7 @@
           "description": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
           "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
           "publishedOn": "2026-04-16T17:00:00.000Z",
-          "wordCount": 26607,
+          "wordCount": 26591,
           "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
           "imageUrl": "https://media.wired.com/photos/69e0dd9494c73a543425c2c6/191:100/w_1280,c_limit/GettyImages-2261781731.jpg"
         },
@@ -1034,7 +1084,7 @@
           "description": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
           "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
           "publishedOn": "2026-04-16T13:49:35.000Z",
-          "wordCount": 25141,
+          "wordCount": 25093,
           "title": "Anthropic Plots Major London Expansion",
           "imageUrl": "https://media.wired.com/photos/69e0da3dae2b670940bc0783/191:100/w_1280,c_limit/GettyImages-2261514586.jpg"
         },
@@ -1044,7 +1094,7 @@
           "description": "Democrats are demanding answers about Palantir and other surveillance firms powering Trump’s hard-line immigration enforcement agenda.",
           "link": "https://www.wired.com/story/congress-turns-up-pressure-on-dhs-over-palantirs-role-in-immigration-crackdown/",
           "publishedOn": "2026-04-16T13:00:00.000Z",
-          "wordCount": 25826,
+          "wordCount": 25744,
           "title": "Congress Turns Up Pressure on DHS Over Palantir’s Role in Immigration Crackdown",
           "imageUrl": "https://media.wired.com/photos/69e019069ad6824ca991b45f/191:100/w_1280,c_limit/Congress-Turns-Up-Pressure-on-DHS-Business-2224981152.jpg"
         },
@@ -1054,7 +1104,7 @@
           "description": "Keep your phone firmly in hand and add some personality with these comfortable, durable, and nifty smartphone grips.",
           "link": "https://www.wired.com/gallery/best-magsafe-grips/",
           "publishedOn": "2026-04-16T12:30:00.000Z",
-          "wordCount": 29586,
+          "wordCount": 29594,
           "title": "The 10 Best MagSafe Phone Grips for Your Butter Fingers (2026)",
           "imageUrl": "https://media.wired.com/photos/68e03c9d1e02f28f7673efb6/191:100/w_1280,c_limit/The%20Best%20MagSafe%20Phone%20Grips.png"
         },
@@ -1064,7 +1114,7 @@
           "description": "Smart plugs can add controls to any outlet, but they aren’t perfect for everything. Here’s our guide to using one and which ones to buy.",
           "link": "https://www.wired.com/story/do-you-need-a-smart-plug/",
           "publishedOn": "2026-04-16T12:00:00.000Z",
-          "wordCount": 30101,
+          "wordCount": 30085,
           "title": "Smart Plug Guide (2026): When You Should and Shouldn’t Use One",
           "imageUrl": "https://media.wired.com/photos/69dfd7a373d445666ce4010c/191:100/w_1280,c_limit/Should-You-Buy-a-Smart-Plug-.jpg"
         },
@@ -1084,9 +1134,19 @@
           "description": "From charging adapters to external monitors, I’ve gathered the absolute best peripherals for your MacBook.",
           "link": "https://www.wired.com/gallery/best-macbook-accessories/",
           "publishedOn": "2026-04-16T11:30:00.000Z",
-          "wordCount": 30025,
+          "wordCount": 30033,
           "title": "Best MacBook Accessories (2026): Chargers, Covers, Keyboards, and More",
           "imageUrl": "https://media.wired.com/photos/69dfe9cd2c7399975cf20428/191:100/w_1280,c_limit/macbook-accessories-source-luke-larsen.jpg"
+        },
+        {
+          "id": "69de5a8b4103e67248d68a34",
+          "author": "Emily Mullin",
+          "description": "California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.",
+          "link": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/",
+          "publishedOn": "2026-04-16T11:00:00.000Z",
+          "wordCount": 26826,
+          "title": "This Beanie Is Designed to Read Your Thoughts",
+          "imageUrl": "https://media.wired.com/photos/69df9cc95ba8ba60af0b1ac8/191:100/w_1280,c_limit/Sabi-3.jpeg"
         },
         {
           "id": "69dfba0fd80ed7494ae6ee71",
@@ -1097,66 +1157,6 @@
           "wordCount": 23121,
           "title": "Heybike Comfort Ranger 3.0 Pro Electric Bike Review: Tough Little Cargo Ebike",
           "imageUrl": "https://media.wired.com/photos/69e03b0c153c8fd2371c5098/191:100/w_1280,c_limit/Review--Heybike-Comfort-Ranger-3.0-Pro.jpg"
-        },
-        {
-          "id": "69de5a8b4103e67248d68a34",
-          "author": "Emily Mullin",
-          "description": "California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.",
-          "link": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/",
-          "publishedOn": "2026-04-16T11:00:00.000Z",
-          "wordCount": 26885,
-          "title": "This Beanie Is Designed to Read Your Thoughts",
-          "imageUrl": "https://media.wired.com/photos/69df9cc95ba8ba60af0b1ac8/191:100/w_1280,c_limit/Sabi-3.jpeg"
-        },
-        {
-          "id": "69d699a50a7f77858c4b274a",
-          "author": "Nena Farrell",
-          "description": "I let Shark’s and Dyson’s new AI-powered robot vac-mops loose in my home. One was a clear winner.",
-          "link": "https://www.wired.com/story/dyson-shark-robot-vacuum-comparison/",
-          "publishedOn": "2026-04-16T10:34:00.000Z",
-          "wordCount": 30318,
-          "title": "Robot Vacuum Throwdown: Shark Versus Dyson (2026)",
-          "imageUrl": "https://media.wired.com/photos/69dffb8e11e22e0dbb14f348/191:100/w_1280,c_limit/Why-Shark%E2%80%99s-AI-Powered-Robot-Vacuum-Beats-a-Dyson.jpg"
-        },
-        {
-          "id": "69d95f4d2ad7fe7e6161926a",
-          "author": "Matthew Korfhage",
-          "description": "After testing 14 meals from Tempo, a spin-off subscription service from Home Chef, a colleague and I were surprised by how much we liked them. But lord, there's lots of chicken",
-          "link": "https://www.wired.com/review/tempo-prepared-meal-delivery-subscription/",
-          "publishedOn": "2026-04-16T10:33:00.000Z",
-          "wordCount": 23637,
-          "title": "Tempo Prepared Meal Subscription Review (2026): Surprisingly Tasty",
-          "imageUrl": "https://media.wired.com/photos/69df0979d84b8fa4911ff283/191:100/w_1280,c_limit/Review--Tempo-Prepared-Meals.jpg"
-        },
-        {
-          "id": "69dfb6673380b4dafad85b47",
-          "author": "Jeremy White",
-          "description": "This luxury Swiss watch brand has gone where no one has gone before. Unfortunately, the price is out of this world too.",
-          "link": "https://www.wired.com/story/the-star-trek-communicator-is-now-a-high-end-wristwatch/",
-          "publishedOn": "2026-04-16T10:30:00.000Z",
-          "wordCount": 26226,
-          "title": "The Star Trek Communicator Is Now a High-End Wristwatch",
-          "imageUrl": "https://media.wired.com/photos/69dfc0c83380b4dafad85cb5/191:100/w_1280,c_limit/DSC_7425-EDITED-COMPRESSED.jpg"
-        },
-        {
-          "id": "69d6a61ab0ec88724cc78700",
-          "author": "Vittoria Elliott",
-          "description": "WIRED tracked down some of the most prominent figures of last year’s DOGE invasion. Here's where they are now—in government and beyond.",
-          "link": "https://www.wired.com/story/where-the-doge-operatives-are-now/",
-          "publishedOn": "2026-04-16T10:30:00.000Z",
-          "wordCount": 31879,
-          "title": "Where the DOGE Operatives Are Now",
-          "imageUrl": "https://media.wired.com/photos/69dffe96100f73b2d7f78ec6/191:100/w_1280,c_limit/pol_doge_getty_TA.jpg"
-        },
-        {
-          "id": "69274a0b3333b7352a19ebe5",
-          "author": "Ashwin Rodrigues",
-          "description": "South Asians are a powerful, visible minority in the Trump administration. They’re also facing a racist backlash, fueled in part by the white nationalist Groyper movement.",
-          "link": "https://www.wired.com/story/maga-indians-went-all-in-on-trump/",
-          "publishedOn": "2026-04-16T10:00:00.000Z",
-          "wordCount": 29262,
-          "title": "MAGA Indians Went All In on Trump. Many Right-Wingers Can’t Stand Them",
-          "imageUrl": "https://media.wired.com/photos/69444e5a0c8858677eba18b1/191:100/w_1280,c_limit/MAGA-Indians-Culture.jpg"
         }
       ]
     }
