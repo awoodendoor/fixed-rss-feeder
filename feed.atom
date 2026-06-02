@@ -1,77 +1,946 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-02T03:42:25.876Z</id>
+    <id>urn:2026-06-02T16:19:08.391Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-02T03:42:25.876Z</updated>
+    <updated>2026-06-02T16:19:08.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[美英两名士兵在伊拉克空军基地训练中身亡]]></title>
-        <id>https://www.zaobao.com/news/world/story20260602-9140497</id>
-        <link href="https://www.zaobao.com/news/world/story20260602-9140497"/>
-        <updated>2026-06-02T02:30:20.000Z</updated>
-        <summary type="html"><![CDATA[一名美军士兵和一名英军士兵星期天（5月31日）在伊拉克北部埃尔比勒空军基地的一次训练中身亡。
-综合美国媒体和新华社报道，美国陆军星期一（6月1日）在社媒发布声明说，美军士兵的身份将在通知其家人24小时后公布。
-英国国防部在社交媒体发表声明说，英军士兵家属已获悉相关情况，并请求在公布更多细节前基于“一段缓冲期”。]]></summary>
+        <title type="html"><![CDATA[OpenAI launches new Codex tools for white-collar work]]></title>
+        <id>https://techcrunch.com/?p=3128585</id>
+        <link href="https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool’s uses in the workplace. Together with the new tools, the company released an internal report on how Codex is being used for knowledge work, finding its uses go […]]]></summary>
+        <author>
+            <name>Russell Brandom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partiful Is Putting Ticket Payments on Its Platform]]></title>
+        <id>6a1d8f30a35d0483132d26a3</id>
+        <link href="https://www.wired.com/story/partiful-is-putting-ticket-payments-on-its-platform/"/>
+        <updated>2026-06-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the social event planner’s first major move toward monetization, Partiful is getting ticketing directly in the app.]]></summary>
+        <author>
+            <name>Boone Ashworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands]]></title>
+        <id>https://techcrunch.com/?p=3128594</id>
+        <link href="https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/"/>
+        <updated>2026-06-02T15:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Board, the startup building what it calls "together tech" designed to bring people into the same room, has closed a Series A led by Union Square Ventures.]]></summary>
+        <author>
+            <name>Connie Loizos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普任命无经验盟友主导美国情报]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9145250</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9145250"/>
+        <updated>2026-06-02T15:44:22.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普星期二（6月2日）任命了一名毫无国家安全经验的盟友担任美国情报部门负责人，并表示他也将保留现有的联邦住房和抵押贷款政策监管职务。
+法新社报道，美国联邦住房金融局局长比尔·普尔特（Bill Pulte）被任命为代理国家情报总监，接替加巴德。普尔特同时也是房利美和房地美两大抵押贷款巨头的负责人。
+加巴德本人于5月下旬辞职，结束任期。在任期内，她因特朗普对伊朗的战争政策而与他意见相左。
+特朗普在真相社交平台上发帖称：“威廉在管理美国最敏感的事务，即市场安全和稳健方面拥有丰富的经验。”他还说，普尔特将继续履行其与住房相关的职责。
+现年38岁的普尔特是特朗普的忠实盟友，他以公开攻击特朗普的政治对手而闻名，一些美国媒体甚至称他为总统的“攻击犬”。
+普尔特指控特朗普的政治对手，包括民主党参议员希夫和纽约州总检察长詹姆斯，在抵押贷款申请中伪造文件。
+他还积极参与了针对美联储理事库克的抵押贷款欺诈案，特朗普曾试图以此为由解雇库克。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普调整部分金属进口关税 农业与工业设备税率下调]]></title>
-        <id>https://www.zaobao.com/news/world/story20260602-9140410</id>
-        <link href="https://www.zaobao.com/news/world/story20260602-9140410"/>
-        <updated>2026-06-02T02:12:12.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普星期一签署公告，调整部分铜、铝及钢铁相关进口产品关税，以鼓励制造业投资并重建美国工业基础。
-路透社报道，白宫星期一（6月1日）声明说，新措施将部分农业设备进口关税从25%下调至15%。
-与此同时，推土机、叉车等移动式工业设备，若从与美国签有贸易协议并享有关税优惠待遇的国家进口，也将适用15%的关税税率。
-根据新规定，若外国企业进口的资本设备中，按重量计算至少85%的钢铁或铝材为“美国熔炼与浇铸”，可享有10%的较低关税税率。
-白宫指出，这些调整措施将持续至2027年12月31日，目的是刺激短期投资，协助重建美国工业基础与制造能力。]]></summary>
+        <title type="html"><![CDATA[Password manager Dashlane says hackers stole some customers’ password vaults]]></title>
+        <id>https://techcrunch.com/?p=3128627</id>
+        <link href="https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/"/>
+        <updated>2026-06-02T15:40:11.000Z</updated>
+        <summary type="html"><![CDATA[The password manager giant said hackers were able to 'brute-force' its two-factor system, allowing them to access customer accounts and download their password vaults.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联合国：美伊战争致航运混乱 儿童救援面临严峻挑战]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9144947</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9144947"/>
+        <updated>2026-06-02T15:38:55.000Z</updated>
+        <summary type="html"><![CDATA[联合国儿童基金会星期二（6月2日）警告称，与中东危机相关的全球运输成本飙升和供应链中断，正威胁着向儿童运送救命援助物资。
+路透社报道，伊朗战争爆发近100天后，海湾地区主要航道周边安全局势加剧，导致燃油价格和保险费上涨，而其他港口的拥堵也加剧了运输中断，阻碍了援助物资的运送。
+联合国儿童基金会表示，由于海运延误，他们越来越依赖空运。仅在第一季度，基金会就几乎耗尽了物流合作伙伴捐赠的包机服务年度捐款。
+在长达四到六周的延误中，基金会不得不将物资空运至黎巴嫩和加沙。基金会全球运输和物流主管米厄斯告诉记者，这种情况前所未有。
+由于蒙巴萨和达累斯萨拉姆的港口仍然拥堵，基金会也只能依靠空运来应对刚果民主共和国的埃博拉疫情。
+基金会估计，部分物资的交付时间目前已延误长达六个月。米厄斯说，绕道好望角的运输路线将使交付时间延长两到四周。
+基金会表示，今年第一季度在马里的运输预算激增36%。从肯尼亚制造商向索马里、南苏丹和刚果民主共和国运输食品纸盒的成本增加30%。
+基金会还报告称，为尼日利亚的脊髓灰质炎疫苗接种运动，额外支付20万美元用于重新安排注射器的运输路线，运输成本增加56%。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[丹麦看守首相表示已组成新政府]]></title>
-        <id>https://www.zaobao.com/news/world/story20260602-9140293</id>
-        <link href="https://www.zaobao.com/news/world/story20260602-9140293"/>
-        <updated>2026-06-02T01:52:04.000Z</updated>
-        <summary type="html"><![CDATA[丹麦看守首相弗雷泽里克森星期一宣布，她领导的社会民主党与其他三党已成功组成新政府，结束3月大选后持续至今的政治僵局。
-综合法新社和新华社报道，弗雷泽里克森星期一（6月1日）在觐见丹麦国王腓特烈十世后，告诉媒体说：“经过长时间谈判，政府终于得以成立。”
-这将是48岁的弗雷泽里克森第三次出任首相。今年1月，曾公开反对美国总统特朗普有关接管丹麦自治领地格陵兰的言论，受到国际关注。
-此次组阁过程历时69天，组阁谈判“漫长而艰难”，新政府将由社会民主党、社会主义人民党、社会自由党（Radikale Venstre）和温和党（Moderates）组成，四党将于星期二（2日）公布政府施政纲领。
-丹麦3月24日举行议会选举。社会民主党继续保持议会第一大党地位，但支持率明显下滑，其领导的中左联盟“红营”未能获得过半数席位。
-此后，丹麦各政党围绕组建新政府展开多轮谈判。]]></summary>
+        <title type="html"><![CDATA[Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget]]></title>
+        <id>6a1bcbc1ab5c174f5802284b</id>
+        <link href="https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/"/>
+        <updated>2026-06-02T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.]]></summary>
+        <author>
+            <name>Julian Chokkattu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning your purse into a cyberdeck is the most fun way to resist big tech]]></title>
+        <id>https://techcrunch.com/?p=3128472</id>
+        <link href="https://techcrunch.com/2026/06/02/turning-your-purse-into-a-cyberdeck-is-the-most-fun-way-to-resist-big-tech/"/>
+        <updated>2026-06-02T15:24:40.000Z</updated>
+        <summary type="html"><![CDATA[The women building these over-the-top, bedazzled cyberdecks aren’t in it for the glitter alone. This trend is reaching its peak at a time when people feel powerless against big tech.]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[强烈热带风暴“蔷薇”吹击日本多地 周三直击东京首都圈]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9144783</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9144783"/>
+        <updated>2026-06-02T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[从台风减弱为强烈热带风暴的“蔷薇”，星期一吹袭冲绳后，星期二（6月2日）继续向东北移动，给日本九州、四国、近畿、东海等地区带来大范围豪雨。宫崎县也因强降雨，首次发布防灾新条例下增设的四级河流泛滥危急警报，有约50万人被紧急疏散。
+日本气象局也对东京首都圈发出预警，预估蔷薇星期三（3日）将冲击东京、千叶、茨城等地区，一些地区可能出现河流泛滥。
+据日本电视台报道，蔷薇风势之大足以将人吹倒。根据冲绳县发布的统计，截至2日，宇流麻市、那霸市等地共有16人受轻伤，包括被强风吹倒的人员。
+此外，已确认有15起房屋受损事件，例如屋顶损坏和窗户破碎。还有32起树木倒塌事件和1起路灯倒塌事件。冲绳那霸市中心的商业街遭到破坏，店家的遮阳篷被掀翻。
+
+宫崎市雨量达新高  逾50万人紧急疏散避难
+
+在宫崎市，雨量创下新高，12小时雨量达308.5毫米，是至今6月份最高纪录。雨势导致当地洪水泛滥，短时间内冲上危险水位。当局紧急对河川周围居民发出疏散令，直至夜晚仍有超过50万人在外避难。据九州电力公司称，这次台风导致宫崎市内有约100户停电。
+在宫崎市折嶋塚一处海滨住宿也陷入停电状态。一名游客说：“雨势在下午骤然加大，雨水横着倾盆而下。强风不时发出轰鸣声。周围的海浪汹涌。”
+由于东京、千叶、茨城等地区预计周三会受蔷薇吹袭，一些地区可能出现河流泛滥，东京老人居多的町田市，已设置31个避难中心，呼吁有孤老的3万9910户做好避难准备。
+日本政府指出，东京的公共交通可能从周三早上开始就因热带风暴受阻，呼吁市民避开在暴雨和大风时段出门。
+日本铁路公司JR东日本宣布，连接首都圈的各地特急列车从周三首班车起停运。航空方面，东京羽田和成田机场的起落班机将受影响。
+日本航空公司宣布，将停飞超过300个航班，预计将影响近4万名乘客。全日空的航班也决定取消国内和国际共280趟以上的航班，预计影响4万多人。
+日本教育部说，截至周二中午，包括宫崎县和冲绳县在内的五个县共有27所学校的屋顶被掀翻。当局紧急下令14个县的1000多所公立学校停课或缩短上课时间。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刚果（金）伊波拉疫情确诊病例增至343起]]></title>
-        <id>https://www.zaobao.com/news/world/story20260602-9140187</id>
-        <link href="https://www.zaobao.com/news/world/story20260602-9140187"/>
-        <updated>2026-06-02T01:29:50.000Z</updated>
-        <summary type="html"><![CDATA[刚果（金）伊波拉病毒疫情的确诊病例增至343起。
-综合新华社和路透社报道，刚果（金）卫生部长坎巴说，截至星期一（6月1日），当地伊波拉确诊病例为343起，其中48人死亡。
-坎巴表示，政府代表团赴东部伊图里省首府布尼亚考察后，应对行动现已更加精准。
-刚果（金）政府发言人穆亚亚说，目前除人道主义航班外已关闭的布尼亚机场，预计将于本周重新开放。“机场重开将有助于为疫情应对工作提供支持。”
-另外，巴西当局星期一说，两名疑似感染伊波拉病毒的患者，检测结果均为阴性。]]></summary>
+        <title type="html"><![CDATA[How Europe’s AI strategy diverges from Silicon Valley’s]]></title>
+        <id>https://techcrunch.com/?p=3127261</id>
+        <link href="https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/"/>
+        <updated>2026-06-02T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[The global AI race is often framed as a battle between the United States and China. But at VivaTech, Europe is expected to make the case for an entirely different model.]]></summary>
+        <author>
+            <name>TechCrunch Events</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta tests ‘Series’ for episodic Reels on Instagram and Facebook]]></title>
+        <id>https://techcrunch.com/?p=3128201</id>
+        <link href="https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/"/>
+        <updated>2026-06-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta told TechCrunch that it's considering ways to monetize the new feature, but didn't share specifics on what that could look like.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X caters to creators with new ‘React with Video’ feature]]></title>
+        <id>https://techcrunch.com/?p=3128580</id>
+        <link href="https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/"/>
+        <updated>2026-06-02T14:46:28.000Z</updated>
+        <summary type="html"><![CDATA[X will now let you 'react with video' to posts.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries]]></title>
+        <id>https://techcrunch.com/?p=3128586</id>
+        <link href="https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"/>
+        <updated>2026-06-02T14:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s MacBook Neo is winning over a new generation of buyers]]></title>
+        <id>https://techcrunch.com/?p=3128582</id>
+        <link href="https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/"/>
+        <updated>2026-06-02T14:39:29.000Z</updated>
+        <summary type="html"><![CDATA[The MacBook Neo shipped 1.1 million units in its first weeks on sale, IDC estimates, as Apple pushes deeper into the mainstream laptop market.]]></summary>
+        <author>
+            <name>Jagmeet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息：伊朗重新审视美国提出的停火协议]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9144726</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9144726"/>
+        <updated>2026-06-02T14:02:22.000Z</updated>
+        <summary type="html"><![CDATA[据伊朗迈赫尔通讯社星期二（6月2日）报道，伊朗正在重新审视美国提出的停火协议。
+路透社报道，迈赫尔通讯社引述消息人士的话称，伊朗尚未对临时协议的最终草案作出回应，并采取“强硬”态度，因为伊朗认为美国历来不遵守协议，且双方长期存在不信任。
+特朗普星期一（1日）说，与伊朗的谈判仍在继续，下周将达成一项延长停火并重新开放霍尔木兹海峡的协议。
+自3月中旬以来，特朗普多次表示他即将签署和平协议。自4月初以来，停火协议基本维持，但过去一周伊朗和美国多次发生交火。
+
+伊朗力推临时协议
+
+据伊朗方面消息，伊朗正力推达成一项有限的临时协议，以期在缓解日益加剧的经济压力的同时，避免在核计划问题上做出重大让步。
+在协议中，德黑兰寻求结束包括黎巴嫩在内的所有战线的敌对行动，获得数十亿美元的石油收入，豁免原油出口限制，解除美国对其港口的封锁，并继续对霍尔木兹海峡施加影响。
+特朗普面临重新开放霍尔木兹海峡并抑制美国燃油价格的压力，同时又不愿对伊朗做出让步。
+伊朗革命卫队星期二说，过去24小时内有24艘船只通过了霍尔木兹海峡。
+伊朗星期一威胁称，如果以色列恢复对贝鲁特的袭击，伊朗将把封锁范围扩大到红海入口的另一个咽喉要道——曼德海峡。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[乌克兰基辅据称遭导弹袭击 当局促民众避难]]></title>
-        <id>https://www.zaobao.com/news/world/story20260602-9139994</id>
-        <link href="https://www.zaobao.com/news/world/story20260602-9139994"/>
-        <updated>2026-06-02T00:12:16.000Z</updated>
-        <summary type="html"><![CDATA[身处乌克兰首都基辅的官员和媒体称，基辅星期二遭到导弹袭击，现场传出多次爆炸声，当局敦促居民躲进防空壕。
-基辅市长克利奇科警告说：“市内发生爆炸。防空部队正在行动！请留在避难所！”
-法新社报道，基辅军事行政长官特卡琴科称，敌军“正在使用弹道导弹进行袭击”。
-乌克兰总统泽连斯基星期一（6月1日）说，关于俄罗斯可能对乌克兰发动大规模袭击的警告仍然有效，并敦促居民特别注意防空警报。
-据路透社引述目击者报道，星期二（2日）凌晨，基辅市当局发布防空警报并要求居民寻找避难所后，基辅出现了一股巨大的烟柱。]]></summary>
+        <title type="html"><![CDATA[Amazon Prime Day 2026 takes place June 23-26]]></title>
+        <id>https://techcrunch.com/?p=3128569</id>
+        <link href="https://techcrunch.com/2026/06/02/amazon-prime-day-2026-takes-place-june-23-26/"/>
+        <updated>2026-06-02T13:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Groceries and household essentials will be a main focus of this year's deals event.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普称以黎同意互不攻击 美伊谈判正快速推进]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9144347</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9144347"/>
+        <updated>2026-06-02T13:47:39.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿/德黑兰综合电）美国总统特朗普周一说，以色列与黎巴嫩真主党已同意停止互相攻击，美国与伊朗的谈判正在快速推进，并有望在未来一周内，就延长停火与重开霍尔木兹海峡达成协议。伊朗则称还未回应美方。 
+特朗普周一（6月1日）接受美国广播公司（ABC）访问时说，与伊朗的谈判进展顺利，但他还在争取落实几个关键的细节条款。针对何时能最终敲定并签署这份谅解备忘录，他说：“我认为，这会在接下来一周内发生。”
+特朗普还说：“今天出现一点小插曲，但我很快就扭转局面。”他指的是以色列持续扩大对黎巴嫩的军事行动，引起伊朗不满。
+特朗普透露，他已分别与真主党和以色列总理内坦亚胡通话，促使双方同意停止交火。
+美国媒体Axios引述知情者报道，特朗普与内坦亚胡通话时，用粗话大骂他危及伊朗和平谈判。据悉，特朗普说：“你（粗话）疯了。要不是我，你早就进监狱了。”
+不过，特朗普在社交媒体上发文形容，此次通话富有成效，以色列同意不派兵前往贝鲁特，在途中的部队也已撤回。
+
+伊媒：还在评估最终文本 尚未回应美方
+
+伊朗媒体较早时报道，由于不满以色列持续袭击黎巴嫩，德黑兰已暂停谈判进程。但美国有线电视新闻网（CNN）过后引述地区消息人士报道，谈判已“重回正轨”。 
+伊朗迈赫尔通讯社周二（2日）说，伊朗还在评估美伊谅解备忘录的最终文本，尚未向美方作出回应。
+黎巴嫩驻华盛顿大使馆周一发声明证实，以色列和真主党已达成一项局部停火协议，以色列将停止袭击真主党控制的贝鲁特南部郊区，换取真主党停止对以色列的攻击。
+声明说，这项协议不会结束黎巴嫩全境冲突，但当局将努力把停火范围扩大至整个黎巴嫩。以黎周二与周三在华盛顿就停火问题举行第四轮会谈。
+以色列与真主党未公开表明接受这项停火协议。以军周二继续袭击黎南部地区，真主党也向以北部地区开火。
+内坦亚胡说，他在周一通话中告诉特朗普，如果真主党继续袭击以色列，以军将袭击贝鲁特的真主党目标。他也表明，以军将继续按计划在黎南部采取行动。
+
+伊军誓不投降  仍为应战做好准备
+
+与此同时，伊朗军方强调，已为战事可能恢复做好准备。
+伊朗伊斯兰革命卫队发言人穆赫比周二称，伊朗的军事与作战能力在停火期间有所提升。他警告：“如果敌人重启军事行动，作战方式、战场地形，甚至使用的武器类型都会不同，而伊斯兰革命卫队已为所有可能情况做好充分准备。”
+伊朗武装部队哈塔姆安比亚中央总部副司令阿萨迪同一天说，战事恢复是迟早的事。他说：“美国要求我们彻底投降，而伊朗民族永远不会投降。不投降，战争就不可避免。”
+另外，革命卫队周一晚说，向一艘与美国和以色列有关联、悬挂巴拿马国旗的货船发射巡航导弹，以报复美军在阿曼湾袭击伊朗货船联星号（Lian Star）。
+上周五（5月29日），美军以联星号违反美国海上封锁为由，向这艘悬挂冈比亚国旗的货船机舱发射导弹，阻止它驶向伊朗港口。]]></summary>
         <author>
             <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue Origin plans to launch New Glenn again this year after explosion]]></title>
+        <id>https://techcrunch.com/?p=3128559</id>
+        <link href="https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/"/>
+        <updated>2026-06-02T13:25:59.000Z</updated>
+        <summary type="html"><![CDATA[CEO Dave Limp said damage to the company's launchpad in Florida was not as bad as expected. But Blue Origin still hasn't shared the cause of last week's explosion.]]></summary>
+        <author>
+            <name>Sean O'Kane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列继续对黎巴嫩南部发动打击]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9144691</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9144691"/>
+        <updated>2026-06-02T13:04:30.000Z</updated>
+        <summary type="html"><![CDATA[以色列星期二（6月2日）继续对黎巴嫩南部发动空袭，加大对真主党的打击。此前一天，美国总统特朗普要求以色列总理内坦亚胡不要攻击贝鲁特，避免战争进一步升级。
+路透社报道，黎巴嫩政府说，在特朗普的干预下，以色列将停止对真主党控制的贝鲁特南部郊区发动威胁性的空袭，真主党也将停止对以色列的袭击。
+但这未能安抚许多黎巴嫩民众，也未能阻止战争。内坦亚胡誓言，战争将继续下去。以色列无人机星期二在贝鲁特上空发出轰鸣声，令居民们感到不安。
+在南部，以色列的空袭和炮击波及了一系列城镇，以军命令纳巴蒂耶市的居民在空袭前撤离。
+真主党星期二并未宣布新的军事行动，但以军说，他们拦截了两枚从黎巴嫩射入以色列境内的炮弹。
+以色列国防部长卡茨在其办公室发布的声明中警告称，如果以色列北部社区遭到袭击，以军将打击贝鲁特南部郊区。
+“这项保护我们社区的政策的考验很简单，未来几天就会明朗：要么停止对以色列社区的袭击，要么如果袭击继续，我们打击贝鲁特的达希耶。”
+黎巴嫩政府说，将于星期三（3日）在华盛顿与以色列官员举行会谈，寻求扩大停火，尽管真主党对此表示反对。
+黎巴嫩当局称，自3月2日以来，超过3400人在以色列的空袭中丧生。以色列方面称，自3月以来，已有26名以色列士兵和四名平民在真主党的袭击中丧生。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄方斥乌克兰“恐怖主义行为” 称战争进入新范式]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9144622</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9144622"/>
+        <updated>2026-06-02T12:59:04.000Z</updated>
+        <summary type="html"><![CDATA[克里姆林宫星期二（6月2日）说，由于基辅军方对平民实施“非人道恐怖行为”，乌克兰战争已进入“全新阶段”。
+路透社报道，克里姆林宫发言人佩斯科夫在被问及俄罗斯夜间对乌克兰城市发动大规模空袭时发表了上述言论。这次空袭造成至少17人死亡、100人受伤。
+莫斯科方面说，为报复乌克兰上个月对卢甘斯克一所学生宿舍发动了造成21人死亡的无人机袭击，俄方正加大对乌克兰军事目标的打击。乌克兰否认袭击宿舍，并称其目标是一个无人机指挥中心。
+佩斯科夫说：“如果基辅政权蓄意对平民、对儿童实施如此非人道的……恐怖行为，那么这完全是另一种局面。”
+他说，俄罗斯正在系统性地打击基辅和其他城市的乌克兰军事目标，乌克兰和平进程也因此陷入停滞。但他补充说，俄罗斯仍与美国保持联系。华盛顿一直试图斡旋基辅和莫斯科达成协议。
+佩斯科夫重申了克宫的立场，即如果乌克兰同意从俄方声称拥有主权的四个乌克兰地区撤军，战争就可以立即结束。
+他说：“我们仍然对和平谈判持开放态度。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯对乌克兰发动大规模袭击]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9144514</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9144514"/>
+        <updated>2026-06-02T12:45:52.000Z</updated>
+        <summary type="html"><![CDATA[（基辅综合电）俄罗斯周二（6月2日）清晨对乌克兰首都基辅以及第聂伯罗（Dnipro）和哈尔科夫（Kharkiv）等主要城市发动空袭，造成至少16人死亡和百多人受伤。
+乌克兰总统泽连斯基此前已一再警告，莫斯科可能发动大规模攻势。在袭击发生后，泽连斯基周二呼吁美国赶快提供爱国者导弹，也呼吁欧洲早日建立自己的空防系统。
+基辅市长克利琴科周二说，首都有至少11人死亡和超过58人受伤，包括孩童。他也说，一栋24层楼建筑物疑被导弹击中坍塌，有些居民被困在废墟中。目击者说，数千人跑到地铁站内躲避。
+第聂伯罗州州长汉扎在通讯应用Telegram说，俄军的导弹与无人机攻击，在当地造成五人死亡和37人受伤；哈尔科夫有10人受伤。
+俄罗斯国防部周二说，俄军对乌克兰的大规模夜间空袭，是针对乌克兰袭击俄境内目标做出反击，并称袭击了一系列乌克兰军事目标。
+它指出，俄方使用高超音速导弹和无人机袭击基辅、扎波罗热和哈尔科夫等七个乌克兰地区。
+乌克兰外长瑟比加周二说，俄罗斯的袭击表明，俄总统普京除了恐怖手段之外，对这场战争已经没有其他办法了。
+此外，泽连斯基周一晚在视频演讲中说，乌军现在有能力打击乌克兰境内被占领区域的俄罗斯后勤，这些被占领区也出现燃料短缺的问题。他称，占领军在乌克兰南部和东部几乎没有安全道路可走。
+泽连斯基也说，在今年1月至5月，乌军共打击了俄国境内15座炼油厂。
+俄罗斯一直攻击乌克兰的电力供应和基础设施，乌克兰今年也加大了对俄石油设施的袭击力度，双方都否认以平民为攻击目标。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZeroDrift raises $10M to protect AI models from themselves]]></title>
+        <id>https://techcrunch.com/?p=3128146</id>
+        <link href="https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/"/>
+        <updated>2026-06-02T12:32:59.000Z</updated>
+        <summary type="html"><![CDATA[A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.]]></summary>
+        <author>
+            <name>Russell Brandom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket engine startup Impulse raises $500 million to hire people, not AI]]></title>
+        <id>https://techcrunch.com/?p=3128443</id>
+        <link href="https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/"/>
+        <updated>2026-06-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Best Alexa Speakers (2026): Echo Dot Max, Echo Dot, Echo Show 11]]></title>
+        <id>5df1238e4a6a5900092a0c89</id>
+        <link href="https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/"/>
+        <updated>2026-06-02T11:34:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve rounded up the best smart speakers that let you talk to Alexa, from the popular Echo Dot to the newest Echo Studio.]]></summary>
+        <author>
+            <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Shop Like a Pro During Amazon Prime Day (2026)]]></title>
+        <id>62bdec10de25ce412a782668</id>
+        <link href="https://www.wired.com/story/amazon-prime-day-2026-tips-to-find-best-deals/"/>
+        <updated>2026-06-02T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Find the real deals on Amazon Prime Day this June.]]></summary>
+        <author>
+            <name>Louryn Strampe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pacific Fusion’s latest prototype packs 440 gigawatts into an 80-nanosecond burst]]></title>
+        <id>https://techcrunch.com/?p=3128349</id>
+        <link href="https://techcrunch.com/2026/06/02/pacific-fusions-latest-prototype-packs-440-gigawatts-into-an-80-nanosecond-burst/"/>
+        <updated>2026-06-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pacific Fusion's sub-scale prototype delivered enormous amounts of power in a flash, setting the company up for its demonstration power plant.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Viral YouTube Show About an Unhinged AI Is Hitting Theaters. It’s a Big Test for Hollywood]]></title>
+        <id>6a107bd43ca231a2d2a60b53</id>
+        <link href="https://www.wired.com/story/amazing-digital-circus-shake-up-the-box-office/"/>
+        <updated>2026-06-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Amazing Digital Circus finale will hit more than 4,000 theaters around the world Thursday. Two weeks later it’ll be on YouTube, bucking Hollywood trends and testing the power of online fandom.]]></summary>
+        <author>
+            <name>Angela Watercutter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰联手初创企业 打造无人化防线]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9142541</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9142541"/>
+        <updated>2026-06-02T10:51:24.000Z</updated>
+        <summary type="html"><![CDATA[随着俄乌战争持续，乌克兰正依靠无人艇、遥控车辆和固定翼无人机等新技术来增强前线作战能力。同时，一个由初创企业、投资机构和防务加速器组成的创新生态系统也在成形，为乌军源源不断提供成本较低、部署迅速的新型装备。
+路透社报道，在上周末于基辅举行的一场防务产品展示会上，八家初创企业向乌克兰军方展示最新研发的无人化作战系统。其中，丹麦海事情报与安全公司BlueShadow正与乌克兰合作开发海上无人艇控制系统，希望通过自主无人艇组成海上防线，阻止俄军无人机穿越黑海袭击港口城市敖德萨。
+公司创始人、前美国潜艇指挥官马赫（Charles Maher）透露，系统全面部署后将包括四个中队共48艘自主舰艇，在距离海岸约10至12公里的海域巡逻。首个配备导弹和拦截无人机的中队预计于2027年初投入运作。
+这些初创企业大多获得防务加速器Defence Builder支持。这一机构为企业提供1万美元启动资金及为期四个月的加速计划，协助吸引投资，并安排与乌军接触，以获取前线使用反馈。
+Defence Builder首席执行长林德维格（Line Rindvig）说：“商业归商业，但我们也在服务一个更大的目标，那就是确保赢得这场战争所需的解决方案获得足够资金支持。”
+机构同时也是“乌克兰国防工业理事会投资者俱乐部”成员。俱乐部估计，公开披露的乌克兰防务投资已从2023年的110万美元增至去年的1亿500万美元（约2亿新元）。
+为加快采购流程，乌克兰前线部队如今可直接通过Brave1 Market线上平台或被称为“武器版亚马逊”的DOT-Chain系统采购装备。平台汇集约200家厂商提供的800种产品，部队使用后还可留下评价。
+林德维格指出，遥控陆上车辆是当前重点发展方向之一。随着大量无人机活跃于前线区域，士兵直接执行运输和补给任务变得越来越危险。
+爱沙尼亚初创企业Telearmy自2023年以来，已在前线卡车和装甲车安装远程控制系统，使车辆可在数百公里外操控。公司创始人兰索（Enn Laansoo）说：“你已经不能再把士兵直接送到前线，我们的技术让士兵不必亲自在现场承担风险。”
+此外，乌克兰初创企业Wingtech研发出可重复使用的固定翼轰炸无人机“Haba”，航程可达300公里，并具备较强抗干扰能力。目前Haba已在战场部署超过一年。为满足军方需求，一家乌克兰防务制造商已向Wingtech提供资金支持，协助扩大生产规模。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊波拉疫情现缓和迹象 科学家寻找通用疗法]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9143324</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9143324"/>
+        <updated>2026-06-02T10:32:50.000Z</updated>
+        <summary type="html"><![CDATA[（金沙萨综合电）伊波拉疫情出现初步放缓迹象后，刚果（金）政府重新开放东部重灾区伊图里省首府的主要机场。 
+刚果（金）交通部星期一（6月1日）在发声明说，布尼亚机场已恢复运营。根据防疫安排，乘客在出发和抵达时须接受体温检测。
+据星期一发布的疫情通报，刚果（金）东部23个卫生区已累计报告321起确诊病例，其中48人死亡。当局目前只对已识别接触者中的43%进行主动监测，远低于95%的目标比例；另有47份实验室样本仍在等待分析。
+刚果（金）东部疫情持续扩大，也让科学家重新关注长期缺乏专门疫苗和疗法的本迪布焦型（Bundibugyo）伊波拉病毒。
+乌干达病毒研究所团队正研究2007年班迪布焦疫情幸存者的血液样本，希望从他们体内长期保留的免疫反应中，筛选出能够同时识别多种伊波拉病毒甚至马尔堡病毒的广谱抗体，为开发新一代通用疗法和疫苗提供线索。
+不过，科学家距离真正的“通用疗法”仍有一段距离。
+美国陆军传染病医学研究所专家戴伊指出，目前还没有找到一种同时对伊波拉和马尔堡病毒都有效的抗体。若最终无法做到这一点，未来或须采用“抗体鸡尾酒”的做法，用不同的抗体分别对付不同的病毒。
+戴伊说：“一款药只对一种病原体有效的研发模式并不具备可持续性，我们真正需要的是尽可能用一种疗法覆盖多种病原体。”
+拉霍亚免疫学研究所所长萨菲尔打了个比方，科学家要找的不是病毒表面最显眼、但各不相同的特征，而是它们共同拥有、且维持病毒运作所必需的关键结构；若能锁定这一共同弱点，就有望阻断感染。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coway Airmega Pedestal Fan P50 Review: Anti-App]]></title>
+        <id>6a177234d534f8a088f4256c</id>
+        <link href="https://www.wired.com/review/coway-airmega-pedestal-fan-p50/"/>
+        <updated>2026-06-02T10:31:00.000Z</updated>
+        <summary type="html"><![CDATA[The air purifier giant’s P50 pedestal fan is whisper-quiet and surprisingly versatile, even if its built-in voice assistant feels stuck in beta.]]></summary>
+        <author>
+            <name>Kat Merck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McLaren CEO Zak Brown Still Gets FOMO About Racing Cars]]></title>
+        <id>6a199950c8d186a50ef1b476</id>
+        <link href="https://www.wired.com/story/the-big-interview-podcast-mclaren-ceo-zak-brown/"/>
+        <updated>2026-06-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Zak Brown spent a decade racing before joining the business side of Formula One. He talks to WIRED about rebuilding a legendary brand, obsessive fans, and the pull of the driver’s seat.]]></summary>
+        <author>
+            <name>Katie Drummond</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息指美国拟扩大欧洲核武部署]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9142917</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9142917"/>
+        <updated>2026-06-02T10:28:02.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦综合电）英国媒体报道，美国正在讨论是否要在欧洲更多北约成员国部署核武器，这么做是要向盟友保证，即使常规军事支持减少，美国也不会削弱安全承诺。 
+据英国《金融时报》周二（6月2日）报道，了解相关讨论的三名消息人士透露，美国官员已释放出信号，愿意在现有六个部署可搭载核武轰炸机的国家之外，扩大部署范围。
+报道说，潜在方案包括允许更多国家部署美国的双功能战机（dual-capable aircraft），这类战机可以执行核打击任务。
+两名消息人士说，美方对讨论扩大部署范围展现开放态度，就是要表明，即使北约盟友被要求承担更多常规防务责任，美国仍将维持核保护伞承诺。
+消息人士透露，北约东边成员国包括波兰和一些波罗的海国家，有兴趣部署美国的双功能战机。
+这些国家中，尤其是波兰官员已公开表示希望在波兰境内部署核武器。波兰前总统杜达曾呼吁美国将双功能战机计划扩展到波兰境内。
+消息人士表示，俄罗斯侵略乌克兰和俄罗斯普京总统多次提及俄国核能力，使一些盟国对部署双功能战机表现出兴趣。
+不过，一名消息人士表示，扩大美国核武部署范围的计划应该不会在短期内实现。
+针对有关报道，白宫、五角大楼和北约都没有对媒体的询问置评。
+目前，参与北约的核武器共享计划的盟国有比利时、德国、意大利、荷兰、土耳其和英国。这些国家获准部署美国的双功能战机和前沿部署（forward-deployed）的核武器。这些核武器由美国保护，只有华盛顿授权才可使用。
+特朗普政府近期取消向欧洲部署重要武器系统并宣布撤军的计划，要将更多军事资源转到亚洲和其他地区，让一些北约盟国感到震惊。他们担心这将导致欧洲大陆的防御体系出现缺口，削弱欧洲威慑或击退任何攻击的能力。虽然欧洲盟国已承诺大幅增加国防开支，但核保护伞仍被视为不可替代。　　
+五角大楼政策主管科尔比曾公开表示，即使欧洲盟友在常规部队方面发挥主导作用，美国仍将继续以核武器保护北约成员国。
+美国总统特朗普和他的许多助手一直批评欧洲盟友在军事上投入不足，依赖美国进行常规防御。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李在明政府迎首考：韩国地方选举影响深远]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9143175</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9143175"/>
+        <updated>2026-06-02T10:18:10.000Z</updated>
+        <summary type="html"><![CDATA[韩国星期三（6月3日）将举行第九届地方选举及14席国会议员补选。其中，被称为“迷你国会选举”的国会议员补选备受关注，多地选情胶着，朝野围绕国会后半期主导权展开最后角力。
+作为李在明政府上台后的首场全国性选举，此次投票不仅将重塑地方政治版图，也将对未来国会力量消长及韩国政局走向产生重要影响。
+选举初期，凭借执政优势和李在明近60%的高支持率，共同民主党一度被普遍看好。然而，随着投票日临近，最大反对党国民力量党逐步缩小差距，多地选情演变为激烈拉锯战。
+韩国选举委员会数据显示，5月29日至30日举行的提前投票率达到23.51%，创下2014年实施提前投票制度以来地方选举最高纪录，也反映出选民对本次选举的高度关注。
+本届地方选举最大焦点是首尔市长选举。作为韩国人口最多、政治影响力最大的地区，首尔历来被视为全国政治风向标，其结果往往被解读为民意走向的重要指标。
+对于共同民主党而言，若获李在明总统力挺的候选人郑愿伍成功夺回首尔，不仅将进一步巩固新政府的执政基础，也将被视为首都圈选民对李在明施政路线的再次背书。反之，若未能拿下首尔，则可能引发外界对执政党动员能力及李在明政治影响力的讨论。
+若现任市长吴世勋成功连任，将创下第五次当选首尔市长的纪录。在李在明政府支持率维持高位的背景下仍能守住首都圈这一核心阵地，无疑将进一步提升其在保守阵营中的政治分量，并为未来挑战总统大选积累重要政治资本。
+有“得忠清者得天下”之称的忠清南北道地区同样备受瞩目。由于地方色彩相对较弱、摇摆选民比例较高，忠清地区长期被视为观察全国选情的重要风向标。当地选民人数首次突破480万人，其政治影响力进一步提升。
+传统保守票仓釜山同样是决定胜负的重要战场。国民力量党候选人朴亨埈将迎战辞去国会议员职务参选的共同民主党候选人田载秀。对于国民力量党而言，守住釜山意味着稳固岭南基本盘；而共同民主党则希望借此突破长期以来在庆尚道地区的弱势局面。
+与此同时，保守阵营能否实现“票仓集结”成为最后阶段的重要看点。前总统李明博和朴槿惠近期密集为国民力量党候选人站台，试图凝聚保守选票。
+分析指出，首尔、忠清和釜山三大战场的结果，将直接左右此次地方选举整体胜负，而部分传统票仓是否出现意外变数，也可能成为改写韩国地方政治版图的关键因素。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid Scams and Bad Gadgets on Amazon (2026)]]></title>
+        <id>5caf6498b8bbff0baab0ced3</id>
+        <link href="https://www.wired.com/story/how-shop-safe-amazon/"/>
+        <updated>2026-06-02T10:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon is a murky mess of ads, unknown sellers, misleading sales, and specious information. Stay safe while shopping on Prime Day and beyond with these tips and tricks.]]></summary>
+        <author>
+            <name>Louryn Strampe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Manhattan Institute Helped Kill DEI. Now It’s Coming for Protests]]></title>
+        <id>6a18ad02d16ea709f0bacb77</id>
+        <link href="https://www.wired.com/story/the-manhattan-institute-helped-kill-dei-now-its-coming-for-protests/"/>
+        <updated>2026-06-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The right-wing think tank is actively pushing “civil terrorism”—increasing penalties for minor crimes committed while people engage in constitutionally protected free speech.]]></summary>
+        <author>
+            <name>Ali Winston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息：欧盟拟放宽财政限制 允许成员国推出能源补助措施]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9143341</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9143341"/>
+        <updated>2026-06-02T09:55:19.000Z</updated>
+        <summary type="html"><![CDATA[知情人士透露，欧盟委员会正准备放宽财政限制，让成员国可推出能源相关的暂时性支出，舒缓中东冲突造成的能源价格高涨压力。
+《金融时报》星期二（6月2日）引述欧盟官员报道，布鲁塞尔正在探讨计划，让成员国可将相当于国内生产总值（GDP）0.3%的开支用于能源相关措施，这部分开支不算在欧盟规定的3%财政赤字顶限内。
+拟议中的计划一旦落实将可让各成员国政府为家庭和商家推出紧急能源补助时不会受限于欧盟的赤字顶限条规，免于被欧盟罚款的风险。
+豁免措施一旦落实，也将是欧盟不到两年内第二度调整它的财政框架。去年，布鲁塞尔启动了一个“脱身条款”，允许成员国每年可将相当于GDP1.5%的开支用于国防，最多可达四年，而不须担心会触犯欧盟的财政条规，作为欧洲各国重建军备的整体措施之一。
+欧盟官员透露，最新计划的0.3%能源缓冲将属于1.5%国防开支豁免比率的一部分。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[校园里的“区别对待”，正在塑造怎样的男孩和女孩？]]></title>
+        <id>ca033c04d804eb0b937ac582a2bc0645</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%A0%A1%E5%9B%AD%E9%87%8C%E7%9A%84%E2%80%9C%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85%E2%80%9D%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%A1%91%E9%80%A0%E6%80%8E%E6%A0%B7%E7%9A%84%E7%94%B7%E5%AD%A9%E5%92%8C%E5%A5%B3%E5%AD%A9%EF%BC%9F"/>
+        <updated>2026-06-02T09:34:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么你每天看新闻，却越来越看不懂世界？]]></title>
+        <id>51a691dba39de6df64125b288fcf0fee</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%9C%8B%E6%96%B0%E9%97%BB%EF%BC%8C%E5%8D%B4%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B8%96%E7%95%8C%EF%BC%9F"/>
+        <updated>2026-06-02T09:34:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trump Administration Is at War With Itself Over AI Regulation]]></title>
+        <id>6a19bfe851be12dbb0f7b4da</id>
+        <link href="https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/"/>
+        <updated>2026-06-02T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together.]]></summary>
+        <author>
+            <name>Hugo Lowell, Maxwell Zeff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Edit, Merge, and Split PDFs With Free Online Tools]]></title>
+        <id>6a177522b0bb257b4419e997</id>
+        <link href="https://www.wired.com/story/how-to-edit-merge-and-split-pdfs-with-free-online-tools/"/>
+        <updated>2026-06-02T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[You don’t need expensive software for basic PDF tasks. In fact, all you need is a handful of free web-based apps.]]></summary>
+        <author>
+            <name>David Nield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专家警告：即便停战 原油供应年底前难完全恢复]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9142378</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9142378"/>
+        <updated>2026-06-02T09:21:59.000Z</updated>
+        <summary type="html"><![CDATA[（维也纳／东京综合电）石油业专家评估，即使霍尔木兹海峡迅速重开，海峡关闭造成的供应阻断影响仍将持续至今年底。
+石油业顾问和分析师星期一（6月1日）出席石油输出国组织及盟友（OPEC+）在维也纳总部召开的技术会议。两名出席者向彭博社透露，专家们在会上警告，石油生产还需多个月才能回到美伊冲突爆发前的水平。
+这个评估与阿布扎比国家石油公司（Adnoc）的看法一致，Adnoc首席执行长贾比尔（Sultan Al Jaber）称，即使美伊冲突立即结束，中东的原油产出直到明年都不会完全恢复。
+OPEC+星期二（2日）召开经济委员会会议，技术专家向各产油国部长分析市场情况，部长会议将于星期天（7日）召开。
+消息人士告诉路透社，OPEC+部长到时预计将同意进一步上调7月的目标产量，即便美伊冲突至今已导致几个成员国的产量无法达到之前几个月所协议的产量增幅。
+来临的会议若再度达成增产协议，意味着即便在霍尔木兹海峡关闭和阿拉伯联合酋长国在5月突然宣布退出的情况下，OPEC+仍维持着“一切如常运作”的态度。
+OPEC+的七个核心成员，也就是沙特阿拉伯、俄罗斯、伊拉克、科威特、阿尔及利亚、哈萨克斯坦和阿曼，此前在4月至6月份共将日产量增加近60万桶。不过实际上，它们的整体石油生产已因波斯湾产油国的出口被切断而崩盘。根据OPEC数据，相对于2月份战争爆发前的4277万桶，4月份的总日产量已减至3319万桶。
+消息指，OPEC+预计会将7月份的日产量提高约18万8000桶，与6月份一样，都是考虑了另一核心成员阿联酋退出后，从原本的20万6000桶相应调减。
+
+高市再呼吁伊朗让所有船只通行
+
+日本首相高市早苗星期一与伊朗总统佩泽希齐扬第三次通电话，再度呼吁让“所有船只，包括属于日本和其他亚洲国家，都可尽快获准自由与安全地在霍尔木兹海峡通行”。
+高市早苗过后向媒体透露，她表达了希望伊朗可继续展现最大的灵活性，尽快与美国达成协议。
+佩泽希齐扬过后一度在社媒X贴文说，伊朗将确保日本船只可“更容易及没有问题”地通过海峡，并说主要的问题源自美国限制了伊朗的船只和贸易。不过这则贴文从周二上午即消失，并不清楚是否被删除。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the Accidental Editor in Chief of Muslim Media]]></title>
+        <id>6a1dc122049af8e9dc8f74f5</id>
+        <link href="https://www.wired.com/story/meet-the-accidental-editor-in-chief-of-muslim-media/"/>
+        <updated>2026-06-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ameer Al-Khatahtbeh was just trying to find an outlet for Muslim news. Now he has more than 12 million followers.]]></summary>
+        <author>
+            <name>Carla Sertin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能源危机推高油价 全球电动车销量普遍增长]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9142497</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9142497"/>
+        <updated>2026-06-02T08:41:06.000Z</updated>
+        <summary type="html"><![CDATA[（东京讯）由于中东战争推高燃油价格，消费者转向使用成本较低的汽车，全球电动车销量在多地明显上升。
+标普全球汽车数据显示，在150个国家中，有37个国家在3月或4月创下电动车单月销量新高，其中28国在3月刷新纪录，九个国家在4月再创新高。3至4月期间，91%国家销量高于去年同期，为近两年首次出现如此广泛增长。
+韩国、东南亚和欧盟市场增长明显，韩国销量同比激增140%，东南亚增长40%，电动车在当地市场占比升至16%。欧盟市场也回升40%。日本销量增长50%，但市场份额仍仅2%。
+中国与美国则分别下降8%和20%。在两大市场拖累下，全球电动车销量仅增8%，但除中美之外地区增长达50%。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：新口服药将晚期胰腺癌患者存活时间延长近一倍]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9142204</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9142204"/>
+        <updated>2026-06-02T08:36:58.000Z</updated>
+        <summary type="html"><![CDATA[一项最新临床研究显示，一种名为daraxonrasib的实验性口服药物，可将部分晚期转移性胰腺癌患者的存活时间从约7个月延长至13个月，为长期缺乏有效治疗手段的胰腺癌患者带来新希望。
+美国有线电视新闻网（CNN）报道，研究结果星期天（5月31日）发表在《新英格兰医学杂志》，并在美国临床肿瘤学会（ASCO）芝加哥年会上公布。
+这项临床试验共招募了500名癌症已发生转移、且原有治疗已无效的患者，随机分成两组：一组改用daraxonrasib，一组继续化疗。结果显示，服用新药的患者中位生存期为13.2个月，而化疗组只有6.7个月。
+参与研究的加州大学洛杉矶分校（UCLA）医生温伯格（Zev Wainberg）指出，这是首款在这类患者身上显示出明显优于化疗的药物。
+亚利桑那大学癌症中心医生施罗夫（Rachna Shroff）说，她从事胰腺癌治疗16年来，首次看到研究结果时甚至落泪。她指出，不少患者能够持续接受治疗，并从中获得持久且有意义的益处，疼痛减轻，生活质量也有所改善。
+达纳—法伯癌症研究所医生沃尔平（Brian Wolpin）认为，这种药物有望成为既往接受治疗后仍出现转移性胰腺癌患者的新标准疗法。研究团队也将进一步探索在疾病更早阶段使用该药的可能性。
+胰腺癌是死亡率最高的癌症之一，很大原因在于早期症状不明显，往往扩散后才被发现。美国癌症协会估计，今年美国将有约6万7000人确诊胰腺癌，超过5万2000人死于这一疾病，五年生存率仅13%。
+研究人员指出，超过九成胰腺癌与KRAS（Kirsten Rat Sarcoma Viral Oncogene）等基因突变有关。这些突变就像卡死的汽车油门，不断驱动癌细胞生长。由于相关蛋白表面结构特殊，过去几十年来药物一直难以有效“抓住”它们。新药daraxonrasib则像“分子胶”一样黏附在这些突变蛋白上，切断癌细胞持续生长的信号。
+KRAS是一种调控细胞生长的基因。正常情况下，它负责向细胞发出生长信号；但发生突变后，会持续驱动癌细胞增殖，因此被视为胰腺癌最重要的致癌因素之一。
+美国食品药品管理局（FDA）已计划加快审评程序，并允许符合条件的患者通过“扩大使用”计划提前获得药物。专家认为，这项成果也为正在开发中的多种同类药物带来更多信心。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：远程办公比AI更影响年轻人就业]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9141030</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9141030"/>
+        <updated>2026-06-02T08:20:27.000Z</updated>
+        <summary type="html"><![CDATA[（纽约彭博社）美国一项研究显示，相比人工智能（AI）快速普及，远程办公的兴起更能解释近年年轻大学毕业生失业率上升的现象。 
+纽约联邦储备银行经济学家伊曼纽尔（Natalia Emanuel）等研究人员星期一（6月1日）发表的研究指出，29岁以下拥有大学学历劳动者失业率较疫情前上升的幅度中，约64%与居家办公趋势有关。 
+研究团队比较不同年龄层在“可远程工作”与“不可远程工作”岗位中的就业情况。在软件工程等可远程职位，年轻人与其他年龄层失业差距明显扩大；机械工程等难以远程办公职位则已回到疫情前水平。
+研究人员认为，企业如今对年轻员工担任远程职位更趋谨慎。因为居家办公模式会增加培训与职业发展的难度，进而削弱企业聘用职场新人的意愿。
+研究还指出，生成式人工智能及其他变化未来可能更深刻影响年轻人的就业模式。不过，从目前数据来看，远程办公扩张已成为年轻大学毕业生就业困境的重要推手。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟拟限制关键政府招标 降低对美科技巨头依赖]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9142360</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9142360"/>
+        <updated>2026-06-02T08:15:17.000Z</updated>
+        <summary type="html"><![CDATA[（布鲁塞尔/阿姆斯特丹路透电）欧盟计划在高度关键的政府招标项目中，针对云计算服务提出严格标准，受影响的可能包括银行、能源和医疗等敏感领域。此举或把美国科技巨头亚马逊、微软和谷歌排除在外，并可能引起华盛顿不满。
+路透社引述相关文件报道，这是欧盟委员会主管技术主权与安全的副主席维尔库宁（Henna Virkkunen）周三（6月3日）将公布的《云计算与人工智能发展法案》的部分内容。这项法案是旨在降低对美国科技的依赖、扶持欧盟企业的配套措施之一。
+文件显示，政府招标项目将制定“非价格类”的强制评标标准，要求项目优先选用在欧盟本土研发的软硬件。其他选择云服务提供商的标准包括数据保护水平、第三国对提供商数据和服务的控制，以及它们各自的市场对云服务的开放程度。
+欧盟委员会也提议充当中央采购机构，为欧盟成员国和机构采购数据中心服务、云计算服务、软件和人工智能（AI）系统。
+目前，亚马逊、微软和谷歌在全球云服务市场共占超过60%的份额。
+欧盟推动在敏感领域新增主权规则，旨在缓解欧盟对美国科技巨头的主导地位，以及美国云法案（Cloud Act）等外国法规的担忧。云法案规定，美国服务提供商必须允许美国执法机构访问数据，即使这些数据存储在国外。
+欧盟委员会拒绝就新法案细节置评，仅强调这对加强欧洲自身的技术能力，以及欧盟竞争力和安全至关重要。
+报道指出，这项法案还须获得欧盟27个成员国与欧洲议会支持，并预料将招致美国强烈反对。此前，华盛顿已对欧盟收紧约束大型科技企业的法律，确保它们监管自家平台上的非法和有害内容提出批评。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肯尼亚反对美设伊波拉隔离设施 示威酿两死]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9142258</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9142258"/>
+        <updated>2026-06-02T07:44:09.000Z</updated>
+        <summary type="html"><![CDATA[肯尼亚中部星期一爆发反对美国设立伊波拉隔离设施的示威，造成两人死亡。 
+当地示威组织者与安全消息人士向路透社证实事件，但死因暂未明确，警方尚未置评。
+争议源于肯尼亚政府上周批准美国请求，在中部莱基皮亚（Laikipia）军事空军基地设立一座隔离设施，供可能接触伊波拉病毒的美国公民使用。
+基地附近城镇纳纽基（Nanyuki）居民及地方领袖星期一（6月1日）举行抗议，担心设施可能增加社区暴露于伊波拉病毒的风险，并质疑为何肯尼亚须为美国人设立隔离中心。此前已有民众提起诉讼要求叫停计划。
+肯尼亚总统鲁托星期一首次公开回应争议，强调这防疫设施与肯尼亚境内已设立的其他设施类似，并敦促肯尼亚民众不要怀疑政府的预防能力。
+他说，拉伊基皮亚空军基地的设施与全国其他医疗隔离设施无异，肯尼亚早已与美国在爱之病、伊波拉及冠病防控领域合作多年。
+鲁托透露，这项计划是在美国总统特朗普请求下批准，设施未来将服务于肯尼亚人以及包括美国人在内的外国合作伙伴。
+他称，肯尼亚已在全国23个郡准备了隔离、监测和治疗设施，目前边境每日筛查约3000人，境内尚未发现伊波拉病例。
+不过，肯尼亚法院上周已因公共卫生风险争议，下令暂时中止计划，鲁托讲话时未提及有关裁决。
+与此同时，刚果（金）与乌干达正应对罕见本迪布焦型（Bundibugyo）伊波拉疫情，累计已造成48人死亡，并被世界卫生组织列为“国际关注的突发公共卫生事件”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本麻疹病例激增 今年累计确诊511例]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9142235</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9142235"/>
+        <updated>2026-06-02T07:44:06.000Z</updated>
+        <summary type="html"><![CDATA[日本公布的数据显示，今年以来日本累计报告麻疹病例达511例，是去年同时期的近四倍。
+新华社报道，日本国立健康危机管理研究机构星期二（6月2日）发布的数据显示，2026年5月18日至24日，日本全国医疗机构共报告麻疹病例11例。今年以来累计报告511例；其中东京都占近一半，为253例。过去10年中，日本报告麻疹病例最多的年份为2019年，达744例。
+日本国立健康危机管理研究机构称，麻疹传染力极强，没有免疫的人如果暴露于病毒，超过90%会发病，病情严重者会出现肺炎、脑炎等症状。世界卫生组织2015年认定日本已消灭麻疹，即至少有三年未发现本土的麻疹病毒毒株。但2023年以来，全球范围麻疹病例报告数持续增加，病毒为海外来源的风险不断升高。接种两剂疫苗是预防感染麻疹和发展成重症的最有效方法。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer]]></title>
+        <id>https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer</id>
+        <link href="https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer"/>
+        <updated>2026-06-02T07:39:47.000Z</updated>
+        <summary type="html"><![CDATA[AppTamer是St.ClairSoftware开发多年的一款菜单栏工具。它常驻后台、实时监控所有运行中的进程，主打以可视化的方式管控应用后台资源占用。通过AppTamer，用户既可以设定进程的CP ...查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>路中南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澳洲民间发起独立审查 要求重新检视AUKUS协议]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9141153</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9141153"/>
+        <updated>2026-06-02T07:37:55.000Z</updated>
+        <summary type="html"><![CDATA[澳大利亚史上最昂贵的国防采购计划正面临一场罕见的民间审查。
+英国广播公司（BBC）报道称，澳洲前环境部长加勒特（Peter Garrett）将主持一项由民间众筹资助的独立审查，针对总额达3680亿澳元（约3369亿新元）的澳英美三边安全伙伴关系（AUKUS）核动力潜艇交易展开检视。
+这项澳洲史上最大规模防务项目涉及向美国购买三艘二手弗吉尼亚级核动力攻击潜艇，以替换澳洲老化的潜艇舰队。
+加勒特说，AUKUS是澳洲史上最昂贵的防务交易，但公众和国会“质疑、辩论与决定”的机会却被剥夺，对这项协议进行独立审查“早就该进行了”。审查将举行公开听证会，并计划在10月发布报告。
+审查委员会还包括澳洲前国防军总司令巴里（Chris Barrie）、西澳前州长劳伦斯（Carmen Lawrence），以及莱斯特（Karen Lester）。
+这项审查将评估澳洲引进核动力攻击潜艇是否会提高国家安全，是否会影响澳洲在区域和平与安全中的地位，并探讨澳洲是否能获得已支付费用对应的潜艇、核废料将如何储存，以及协议是否削弱国家主权。审查也将关注AUKUS对澳中关系的影响。
+AUKUS协议最早于2021年9月公布。协议本身并未点名针对中国，但外界普遍认为，它是在中国在印太地区影响力不断上升，以及南中国海等争议海域紧张局势加剧的背景下达成的。中国当时批评这一协议“极端不负责任”。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冠病疫情初期七国约5.5万癌症病例漏诊]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9141872</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9141872"/>
+        <updated>2026-06-02T07:14:56.000Z</updated>
+        <summary type="html"><![CDATA[一项最新研究发现，在冠病疫情暴发初期的九个月内，七个高收入国家约有5万5000起癌症病例未被诊断，反映封锁措施及医疗系统受干扰，对常规医疗服务造成显著冲击。
+彭博社报道，这项星期一（6月1日）刊登于医学期刊《柳叶刀·肿瘤学》的研究指出，2020年4月到12月期间，澳大利亚、加拿大、丹麦、爱尔兰、新西兰、挪威和英国的癌症确诊人数，较疫情前趋势低约16%。研究涵盖约260万名患者数据。
+其中，前列腺癌诊断降幅最大，比预期少24%；女性乳癌与黑色素瘤则分别减少18%。相比之下，肺癌和卵巢癌受影响较小。
+研究也发现，各国情况存在明显差异，挪威与新西兰诊断下降幅度较小、恢复速度也较快；英国与爱尔兰则受冲击较严重，显示医疗系统韧性，以及筛查与诊断服务能否持续运作，是关键因素。
+研究团队指出，癌症筛查项目暂停、基层医疗服务减少，以及民众担心感染冠病而避免求医，可能导致漏诊增加。
+虽然2020年未见明显晚期癌症激增，但长期后果仍不确定。
+另一项美国研究估计，在2020至2021年间，疫情对美国癌症治疗造成的影响，可能额外造成约1万7390人在确诊后一年内死亡。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈]]></title>
+        <id>https://sspai.com/post/110550</id>
+        <link href="https://sspai.com/post/110550"/>
+        <updated>2026-06-02T06:57:26.000Z</updated>
+        <summary type="html"><![CDATA[HDR 为静态图像的观看体验打开了一种新的可能。查看全文]]></summary>
+        <author>
+            <name>Microhoo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刷到崩溃：研究指交友软件让人陷入“倦怠循环”]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9141257</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9141257"/>
+        <updated>2026-06-02T06:42:47.000Z</updated>
+        <summary type="html"><![CDATA[下载、配对、聊天、删除，再重新下载——越来越多交友软件用户陷入一种被称为“交友软件倦怠”（dating app burnout）的循环。
+研究显示，这类用户出现焦虑、抑郁和孤独感的比例普遍高于非使用者，促使心理学家和业界重新检视交友软件对心理健康的影响。
+美国有线电视新闻网（CNN）报道，美国亚利桑那州立大学“关系与科技实验室”主任沙拉比（Liesel Sharabi）近期发表的一项整合分析（meta-analysis），汇总了17年来约2万6000名参与者的数据。
+研究发现，交友软件用户普遍报告较差的心理健康状况，包括抑郁、焦虑、情绪调节困难、孤独感和心理压力。
+沙拉比指出，“交友软件倦怠”和心理学上所说的“职业倦怠”很像，典型特征包括：情绪被耗干、变得愤世嫉俗（或把别人当成“一个个账号”而不是活生生的人），以及越来越强的无力感。
+很多用户在不停刷屏、配对、聊天之后，会感到身心疲惫，对软件上的人提不起兴趣，慢慢还会觉得：“不管我怎么努力，反正也不会有结果。”
+29岁的国际事务顾问费尔南达说，她原本以为重新下载交友软件后，会有不一样的体验，但很快又陷入频繁刷手机、同时维持多段对话的压力之中。她坦言，用了软件之后，自己反而比过去两年单身时更感到孤独。
+沙拉比认为，交友软件一方面扩大了人们接触潜在伴侣的范围，另一方面也大大增加了心理负担。大量个人档案源源不断涌现，很容易让人陷入“看档案—聊几句—约会不顺—回到起点”的循环。
+她指出，交友软件公司的商业模式主要依赖订阅和付费功能，一旦用户找到对象、删掉软件，平台就失去收入，这种结构性矛盾也在无形中推高了用户的使用强度与挫败感。
+2024年，交友软件Tinder与Hinge母公司Match Group曾在美国遭遇集体诉讼，原告指控其刻意将应用设计得具有成瘾性，并通过强迫性使用获利。Match Group否认相关指控，该案随后被转交仲裁处理。
+对于如何避免陷入这种“倦怠循环”，沙拉比建议，别把交友软件当成认识新人的唯一渠道，可以通过朋友介绍、参加兴趣社团等方式拓展社交圈；同时要为自己设定使用时限，避免无意识地长时间刷屏。她也鼓励用户多和朋友聊聊自己的线上约会经历，一旦发现自己长期感到挫败、悲观或自我怀疑，就应该考虑暂时停用这些应用。
+面对“刷屏疲劳”，交友软件行业也开始寻求转型。有迹象显示，一部分年轻人正更偏好在线下寻找伴侣。Bumble已宣布放弃传统“刷屏式”配对模式，Hinge和Tinder则尝试引入更多人工智能配对功能，并增加线下活动，希望借此改善用户体验。
+至于这些改革能否真正扭转行业困境、减轻用户的心理负担，目前仍有待观察。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近九成美公校实施“一人一机” 学者：影响学习成效]]></title>
+        <id>https://www.zaobao.com/news/world/story20260602-9140749</id>
+        <link href="https://www.zaobao.com/news/world/story20260602-9140749"/>
+        <updated>2026-06-02T05:59:46.000Z</updated>
+        <summary type="html"><![CDATA[越来越多美国学校向学生配发平板电脑和笔记本电脑，但学者警告，过度依赖电子设备教学未必能提升学习效果，可能反而影响学生的专注力、身体健康和课堂参与度。
+美国有线电视新闻网（CNN）报道，据美国国家教育统计中心2025年的调查，全美88%的公立学校已实行“一人一机”政策。
+美国费尔利·狄金森大学传播学教授阿莱莫（Kara Alaimo）指出，许多学校近年虽然开始限制学生在校使用私人手机，但学生往往转而使用学校发放的电子设备，因此禁用手机未必能减少屏幕使用时间。
+
+用电脑越多 学业表现越差
+
+阿莱莫指出，越来越多研究显示，课堂上频繁使用电脑未必有助于学习。她引用神经科学家霍瓦斯（Jared Cooney Horvath）的研究指出，多项国际标准化测试发现，使用电脑频率较高的学生，整体学业表现往往较差。
+她举例，一名家长反映，女儿就读的中学社会学课程一整年几乎都通过电子设备完成课堂练习，老师很少进行面对面授课。
+阿莱莫说，多项研究显示，学生阅读纸本材料时的理解能力通常优于阅读电子屏幕内容；以手写方式记录笔记，也往往比直接打字更有助于理解和吸收知识。
+
+数码设计恐影响专注力培养
+
+除了学习效果，电子屏幕对儿童身心健康的影响也引发关注。
+研究显示，长时间使用电子设备会增加儿童近视风险，而长时间坐在屏幕前也减少了身体活动时间。阿莱莫认为，课堂活动应更多调动学生感官，并鼓励他们参与实际互动和身体活动。
+她尤其担心，许多数码产品采用奖励机制、快速切换画面等设计，持续吸引学生注意力。这类设计或削弱学生培养专注力和持续投入学习的能力，而阅读、研究、思考和学习往往需要较长时间投入，却缺乏即时反馈。
+她强调，电子屏幕无法取代人与人之间的真实互动，而这类社交能力对学生未来职场发展和长期福祉同样重要。
+
+网络风险无处不在
+
+专门代理网络暴力受害者案件的华盛顿律师利伯曼（Lindsay Lieberman）则从安全角度提出警告。
+利伯曼指出，学生即使使用学校配发的设备，仍有可能接触到网络掠食者、有害内容、网络诈骗或其他线上风险。“孩子在技术上总会比成年人更快一步。无论设置多少安全限制，他们总能找到绕过的方法。”
+根据美国《儿童网络隐私保护法》（Children’s Online Privacy Protection Act），家长有权了解哪些网站正在收集孩子的数据，并可选择退出相关平台。但利伯曼说，在华盛顿特区，目前并没有明确的退出机制，也缺乏相应的替代课程安排。
+随着相关争议升温，美国部分地区已开始检讨校园屏幕使用政策。洛杉矶今年4月通过决议，限制学校使用电子屏幕的时间。华盛顿特区及其他地区的一些家长和教师也开始组织起来，要求学校重新评估课堂中的电子设备使用情况。
+阿莱莫认为，在学校政策出现改变之前，家长可先从家庭环境着手，适度减少孩子的屏幕使用时间，并鼓励他们在完成作业和学习时尽量减少对电子设备的依赖。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layla Sleep Coupon: Save Up to $600 in June 2026]]></title>
+        <id>69c56eb0f8dc7d17ee9704f1</id>
+        <link href="https://www.wired.com/story/layla-sleep-coupon/"/>
+        <updated>2026-06-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases during the Spring Sale.]]></summary>
+        <author>
+            <name>Julia Forbes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20% Off Sephora Promo Code | June 2026]]></title>
+        <id>6733e8b213c3c97440c1a112</id>
+        <link href="https://www.wired.com/story/sephora-promo-code/"/>
+        <updated>2026-06-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earn more points on skincare purchases when you use our Sephora coupon.]]></summary>
+        <author>
+            <name>Louryn Strampe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ulta Promo Codes: Up to 50% Off in June 2026]]></title>
+        <id>69c14a90c8c019cf2b9a5309</id>
+        <link href="https://www.wired.com/story/ulta-coupon/"/>
+        <updated>2026-06-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.]]></summary>
+        <author>
+            <name>Boutayna Chokrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chewy Promo Codes: $20 Off June 2026]]></title>
+        <id>674f80033ffc1b7f03c85b6b</id>
+        <link href="https://www.wired.com/story/chewy-promo-code/"/>
+        <updated>2026-06-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more June 2026 discounts.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Office Depot Coupons: Save With Promo Codes in June 2026]]></title>
+        <id>6a1d974498d38dd18285ad2e</id>
+        <link href="https://www.wired.com/story/office-depot-promo-codes/"/>
+        <updated>2026-06-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skullcandy Discount Code: 30% Off | June 2026]]></title>
+        <id>695ff3f3f68acf71d298da25</id>
+        <link href="https://www.wired.com/story/skullcandy-discount-code/"/>
+        <updated>2026-06-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.]]></summary>
+        <author>
+            <name>Parker Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vivid Seats Promo Codes and Deals: Get 10% Off]]></title>
+        <id>69b444fe7d7e005837a78105</id>
+        <link href="https://www.wired.com/story/vivid-seats-promo-code/"/>
+        <updated>2026-06-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this June.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whoop Promo Codes May 2026: 20% Off | June 2026]]></title>
+        <id>6a1d98888b89a355f957b29a</id>
+        <link href="https://www.wired.com/story/whoop-promo-code/"/>
+        <updated>2026-06-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.]]></summary>
+        <author>
+            <name>Boutayna Chokrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本人口五年间减少逾300万，发生了什么？]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20260602/japan-census-population-decline/</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20260602/japan-census-population-decline/?utm_source=RSS"/>
+        <updated>2026-06-02T04:57:46.000Z</updated>
+        <summary type="html"><![CDATA[人口危机已波及日本几乎所有地区，受冲击最严重的包括东北部的秋田和青森。此外，随着人口老龄化、年轻人前往东京等大城市寻找工作机会，日本农村正在逐渐空心化。
+
+                    
+                    
+日本人口流失正在加速：每五年人口变化情况。数据来源：日本统计局]]></summary>
+        <author>
+            <name>赫海威,PABLO ROBLES,KIUKO NOTOYA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百万粉丝博主虚假摆拍：流量围猎下，同情心如何成为一门生意？]]></title>
+        <id>9d37b5576cde1139c30aa5ff0367f641</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%8D%9A%E4%B8%BB%E8%99%9A%E5%81%87%E6%91%86%E6%8B%8D%EF%BC%9A%E6%B5%81%E9%87%8F%E5%9B%B4%E7%8C%8E%E4%B8%8B%EF%BC%8C%E5%90%8C%E6%83%85%E5%BF%83%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E9%97%A8%E7%94%9F%E6%84%8F%EF%BC%9F"/>
+        <updated>2026-06-02T04:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[95后成了第一代“不如父母聪明”的年轻人？]]></title>
+        <id>903a3493a7c82effe45dfb198e49907a</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+95%E5%90%8E%E6%88%90%E4%BA%86%E7%AC%AC%E4%B8%80%E4%BB%A3%E2%80%9C%E4%B8%8D%E5%A6%82%E7%88%B6%E6%AF%8D%E8%81%AA%E6%98%8E%E2%80%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9F"/>
+        <updated>2026-06-02T04:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告称中国军方多年来一直寻求获得英伟达芯片]]></title>
+        <id>https://cn.nytimes.com/business/20260602/china-military-nvidia-chips/</id>
+        <link href="https://cn.nytimes.com/business/20260602/china-military-nvidia-chips/?utm_source=RSS"/>
+        <updated>2026-06-02T03:09:01.000Z</updated>
+        <summary type="html"><![CDATA[一份基于对中国记录的分析显示，即便在美国限制对华出售半导体之后，中国军方仍在加大力度获取英伟达的人工智能芯片。报告揭示了北京如何应对并试图绕过美国的技术限制。
+
+                    
+Maxim Shemetov/Reuters
+                    
+软件平台Wirescreen的信息显示，中国军方并未因美国的限制而放缓步伐，反而加大了获取人工智能芯片的力度。]]></summary>
+        <author>
+            <name>ANA SWANSON,TRIPP MICKLE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国尝试利用人工智能预测异见倾向]]></title>
+        <id>https://cn.nytimes.com/china/20260602/china-ai-predicting-dissent/</id>
+        <link href="https://cn.nytimes.com/china/20260602/china-ai-predicting-dissent/?utm_source=RSS"/>
+        <updated>2026-06-02T03:05:39.000Z</updated>
+        <summary type="html"><![CDATA[研究人员表示，一家中国公司正在开发使用AI审查位置数据和互联网使用情况的产品，以预测哪些人可能成为异见人士。这有可能为威权政府提供一个强大工具。
+
+                    
+Lam Yik Fei for The New York Times
+                    
+北京的天际线。一家中国公司正在研发利用人工智能分析位置数据和网络使用情况的产品，以预测哪些人可能会发表批评政府的言论或有所行动。]]></summary>
+        <author>
+            <name>JULIAN E. BARNES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从插件到 AI 辅助：Obsidian 如何成为我的主力工具]]></title>
+        <id>https://sspai.com/post/109850</id>
+        <link href="https://sspai.com/post/109850"/>
+        <updated>2026-06-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我觉得二十一世纪的知识管理工作者，不使用 Obsidian 真的是错过一个亿，真正怎么样还得上手体验了才知道。当我自己慢慢花时间沉浸式使用的时候，明显感觉现在的 Obsidian 真的好用了一倍不止。查看全文]]></summary>
+        <author>
+            <name>Lars漫步</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盘点：特朗普执政以来美国参与的军事行动]]></title>
+        <id>https://cn.nytimes.com/usa/20260602/trumps-military-wars/</id>
+        <link href="https://cn.nytimes.com/usa/20260602/trumps-military-wars/?utm_source=RSS"/>
+        <updated>2026-06-02T02:13:46.000Z</updated>
+        <summary type="html"><![CDATA[特朗普在第一任期内曾承诺不卷入任何长期的军事纠葛，但自他重返白宫以来，美国已参与了全球十几项军事行动，其中包括伊朗战争，以及导致委内瑞拉总统被捕的突袭行动。
+
+                    
+Tierney L. Cross/The New York Times
+                    
+美国军人在特拉华州多佛空军基地转移两名在叙利亚阵亡的艾奥瓦州国民警卫队员的遗体。]]></summary>
+        <author>
+            <name>HELENE COOPER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拒绝被恐惧支配：“李老师”的非暴力抗争]]></title>
+        <id>https://cn.nytimes.com/china/20260602/teacher-li-transnational-repression/</id>
+        <link href="https://cn.nytimes.com/china/20260602/teacher-li-transnational-repression/?utm_source=RSS"/>
+        <updated>2026-06-02T01:18:58.000Z</updated>
+        <summary type="html"><![CDATA[“李老师”的X账号是最具影响力的中文未经审查新闻和异见来源之一。面对持续不断的骚扰、恐吓，甚至死亡威胁，他决定“直面深渊”，不让自己的生活被恐惧所支配。
+
+                    
+Li Ying]]></summary>
+        <author>
+            <name>袁莉</name>
         </author>
     </entry>
     <entry>
@@ -85,24 +954,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普政府拟撤销18亿美元法律基金]]></title>
-        <id>https://www.zaobao.com/news/world/story20260602-9139959</id>
-        <link href="https://www.zaobao.com/news/world/story20260602-9139959"/>
-        <updated>2026-06-01T23:49:24.000Z</updated>
-        <summary type="html"><![CDATA[知情人士透露，美国特朗普政府计划撤销一项近18亿美元（约23亿新元）的“反武器化基金”。这项基金原拟用于补偿那些声称遭政府“武器化执法”对待的受害者，但遭共和、民主两党批评是为特朗普政治盟友设立的“小金库”。
-这项基金源于特朗普与美国国税局（IRS）就2019年税务资料泄露事件达成的和解协议。特朗普早前起诉国税局，指其税务资料遭泄露给《纽约时报》。
-美国司法部上个月说，作为设立“反武器化基金”的一部分，特朗普将撤回针对国税局的诉讼。司法部原称，基金将赔偿遭政治动机调查或法律行动影响的人士，即特朗普及其盟友所谓遭政府“武器化”打压的受害者。
-彭博社引述知情人士的报道中，并未透露其他更多细节，包括有关决定是否将影响特朗普与税务局的和解协议。
-不过，这项安排引发强烈争议。批评者指出，基金可能让特朗普盟友受惠，甚至包括部分参与2021年1月6日冲击国会山事件的人。多名共和党参议员也反对为此拨款，并威胁阻挠移民执法相关法案。
-美国参议院多数党领袖图恩（John Thune）说，若政府主动取消基金，“将是最理想结果”。
-这项基金目前面临多宗诉讼，包括参与应对国会骚乱的警员提起的诉讼。
-弗吉尼亚州一名联邦法官上周已暂时禁止政府推进基金运作；司法部则回应说，虽“强烈反对”这一决定，但会遵守法院的裁决。
-提告该基金的组织之一“民主前进”（Democracy Forward）主席佩里曼则发布声明说，即使政府终止计划，也不会立即撤诉，直到确认有关安排不会重启为止。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to make the Startup Battlefield Top 20 — and what every company gets regardless]]></title>
         <id>https://techcrunch.com/?p=3110945</id>
         <link href="https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/"/>
@@ -110,35 +961,6 @@
         <summary type="html"><![CDATA[Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage.]]></summary>
         <author>
             <name>Isabelle Johannessen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意大利南部海域发生6.2级地震]]></title>
-        <id>https://www.zaobao.com/news/world/story20260602-9139898</id>
-        <link href="https://www.zaobao.com/news/world/story20260602-9139898"/>
-        <updated>2026-06-01T23:17:24.000Z</updated>
-        <summary type="html"><![CDATA[意大利南部附近海域发生6.2级地震。
-新华社引述美国地质调查局地震信息网消息报道，格林尼治时间星期一（6月1日）晚上22时12分（新加坡时间周二早上6时12分），意大利南部斯卡尔切利附近海域发生6.2级地震，震中位于北纬39.35度、东经15.82度，震源深度247.1公里。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普称以色列与真主党同意停火]]></title>
-        <id>https://www.zaobao.com/news/world/story20260602-9139886</id>
-        <link href="https://www.zaobao.com/news/world/story20260602-9139886"/>
-        <updated>2026-06-01T23:12:33.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普星期一称，以色列与黎巴嫩真主党已同意停火，并指与伊朗的谈判正在“快速推进”。
-法新社报道，特朗普星期一（6月1日）称，他已与以色列总理内坦亚胡通话，并通过未具名的代表与真主党进行了一次“非常好的通话”。
-特朗普在社媒发文说，内坦亚胡同意取消对贝鲁特的军事突袭，真主党则承诺“停止所有射击”，双方互不攻击。
-不过，以色列方面随后似乎对停火说法有所保留。
-内坦亚胡办公室发表声明称，他已向特朗普表明，若真主党继续袭击以色列城镇和民众，以军将打击贝鲁特境内的“恐怖主义目标”。
-特朗普随后再次发文，坚持称内坦亚胡已命令原定前往贝鲁特的部队折返，并重申以色列与真主党已同意“停止开火”，还称：“让我们看看这能持续多久——希望是永远！”
-与此同时，美国媒体Axios报道称，特朗普曾私下称内坦亚胡“疯了”，并指责他危机了与伊朗的和平谈判。此前，伊朗官媒报道称，德黑兰因不满以色列扩大对真主党的攻势，已暂停与调解方对话。
-特朗普则说，与伊朗的谈判仍在迅速推进。据美国广播公司（ABC）在X平台发布的一条消息称，特朗普周一说，他认为“未来一周内”将与伊朗达成协议，以延长停火并重新开放霍尔木兹海峡。
-但特朗普稍早接受美国媒体访问时又称，若谈判破裂“他并不在乎”，还形容谈判“开始变得无聊”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -192,46 +1014,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access]]></title>
-        <id>https://techcrunch.com/?p=3128295</id>
-        <link href="https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/"/>
-        <updated>2026-06-01T18:34:32.000Z</updated>
-        <summary type="html"><![CDATA[Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts.]]></summary>
-        <author>
-            <name>Lorenzo Franceschi-Bicchierai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Water access is now a risk factor in SpaceX’s IPO]]></title>
-        <id>https://techcrunch.com/?p=3128202</id>
-        <link href="https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/"/>
-        <updated>2026-06-01T18:19:53.000Z</updated>
-        <summary type="html"><![CDATA[The company says it needs "significant" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.]]></summary>
-        <author>
-            <name>Sean O'Kane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new app, The Mall, is building a universal feed for online shopping]]></title>
-        <id>https://techcrunch.com/?p=3128156</id>
-        <link href="https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/"/>
-        <updated>2026-06-01T17:50:18.000Z</updated>
-        <summary type="html"><![CDATA[The Mall lets shoppers build a personalized feed of brands, track sales and drops, and discover products across thousands of retailers.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers]]></title>
-        <id>https://techcrunch.com/?p=3128228</id>
-        <link href="https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/"/>
-        <updated>2026-06-01T17:22:46.000Z</updated>
-        <summary type="html"><![CDATA[Hackers stole usernames, hashed passwords, and other data from a service that allowed players to cheat in Grand Theft Auto V.]]></summary>
-        <author>
-            <name>Lorenzo Franceschi-Bicchierai</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anthropic Confidentially Files for What Could Be the Largest IPO Ever]]></title>
         <id>6a1dae57ff8b553336104df0</id>
         <link href="https://www.wired.com/story/anthropic-files-s1-ipo-sec/"/>
@@ -242,151 +1024,16 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zigging when most are zagging, ex-Meta CTO raises $250M climate fund]]></title>
-        <id>https://techcrunch.com/?p=3128139</id>
-        <link href="https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/"/>
-        <updated>2026-06-01T16:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Mike Schroepfer's Gigascale Capital has raised a large fund to back founders building climate-friendly solutions for the world's energy and material shortages.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic files to go public]]></title>
-        <id>https://techcrunch.com/?p=3128178</id>
-        <link href="https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"/>
-        <updated>2026-06-01T16:36:55.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.]]></summary>
-        <author>
-            <name>Kirsten Korosec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX says it may issue ‘significant’ equity in ‘future transactions’]]></title>
-        <id>https://techcrunch.com/?p=3128136</id>
-        <link href="https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/"/>
-        <updated>2026-06-01T16:09:56.000Z</updated>
-        <summary type="html"><![CDATA[The company added a warning to prospective investors that a major dilution could be in the cards after it goes public.]]></summary>
-        <author>
-            <name>Sean O'Kane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This AI weather startup is out-forecasting government agencies]]></title>
-        <id>https://techcrunch.com/?p=3128074</id>
-        <link href="https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/"/>
-        <updated>2026-06-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.]]></summary>
-        <author>
-            <name>Tim Fernholz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本舆论：小泉香会驳斥中国是“大胆创新”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9139197</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9139197"/>
-        <updated>2026-06-01T15:21:24.000Z</updated>
-        <summary type="html"><![CDATA[日本国防部长小泉进次郎在刚落幕的第23届亚洲安全峰会（香格里拉对话）上对中国指日本走向“新军国主义”的正面驳斥，在日本国内获得高度评价。日本舆论认为，他既大胆驳斥了中国的主张，却又释放继续对话意愿，这是日本对华防卫外交策略上的一种“平衡”姿态。 
-日本《朝日新闻》指出，此次在新加坡举行的香格里拉对话（简称“香会”），美中冲突明显降级。不过，日本却有效地阐明了自己是在高度透明的前提下发展国防能力，并且积极发出愿意与区域国家加强军事装备合作的信息。
-有专家形容，小泉是首次参与香会，却是香会20多年历史上首位全程用英语发言的日本防长，包括发言和提问环节，却还能明确强调日本防卫外交的实效，有效阐明自身立场，堪称“开创了防卫外交典范”。
-针对外界对日本军国主义复辟的疑虑，小泉星期天（5月31日）在香会上不点名驳斥：“一个拥有大量核武器和战略轰炸机的国家，竟然给既无核武器也无战略轰炸机的日本贴上‘新军国主义’标签，你们不觉得很奇怪吗？” 
-他接着强调：“此时此刻，我们需要的不是在背后散布毫无根据的言论，而是坦诚直接地沟通。”同时，又向未能出席的中国防长问候喊话：“我对这次错过会面机会感到失望”，并表达了双方对话的愿望。
-一名不愿具名的日本军官对时事通讯社透露，小泉在中国问题上其实做足了功课，直至最后一刻仍在斟酌有关措辞。促成他小心翼翼的背景原因有两个，一是不愿重蹈日首相高市早苗“台湾有事，日本有事”言论的覆辙，避免关系进一步恶化。其次，日本意识到特朗普访华后美中关系正在逐渐改善。
-这名军官说，小泉无法无视中国对日本的批评，但是在未找到改善日中关系的方法之际，他选择谨慎。当中国与会者在提问时要日本就二战道歉，小泉并未直接回应，只强调“日本对话的大门永远敞开”。
-香会闭幕当天，小泉在新加坡回答日本媒体提问时也强调：“日本防卫当局将继续利用海上和空中联络机制等各种日中沟通渠道，抓住一切机会，与中方进行深入交流。”
+        <title type="html"><![CDATA[喝牛奶真的能让骨骼更强壮吗？]]></title>
+        <id>https://cn.nytimes.com/health/20260602/calcium-bone-health/</id>
+        <link href="https://cn.nytimes.com/health/20260602/calcium-bone-health/?utm_source=RSS"/>
+        <updated>2026-06-01T17:13:04.000Z</updated>
+        <summary type="html"><![CDATA[喝牛奶有利于骨骼健康这种说法基于短期研究，且由乳制品行业推动。专家指出，不要指望单靠牛奶就能消除骨折风险。锻炼和更广泛的饮食习惯可能对骨骼健康影响更大。
 
-小泉欲借助香会平台拓展军事产业销售渠道
-
-今年4月，日本政府修订了《防卫装备转让三原则》，解除了对杀伤性防卫装备出口的禁令。报道指出，小泉出席香会，也意在借助这个平台拓展日本军事产业的销售渠道，并建立在紧急情况下相互提供装备援助的合作关系。
-《日经新闻》报道，小泉与菲律宾防长特奥多罗达成日本海上自卫队阿武隈级驱逐舰出口菲律宾的协议，并在2027年之前出售一架TC-90运输机。
-小泉指出：“我已向特奥多罗部长确认，我们将继续讨论出售其他装备的可能性，包括菲律宾感兴趣的地对舰导弹。” 
-据报道，小泉也成功为三菱重工拉线，要将三菱改进型“最上”级驱逐舰向新西兰出口，也正与印度尼西亚磋商出口日本海上自卫队二手潜艇。
-对于军备输出，小泉说：“我们欢迎战略原则与价值观跟我们完全一致的国家，在体制和作战层面上进一步加强合作。这是对日美同盟力量有力的支援。”]]></summary>
+                    
+Joyce Lee for The New York Times]]></summary>
         <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms]]></title>
-        <id>https://techcrunch.com/?p=3128117</id>
-        <link href="https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"/>
-        <updated>2026-06-01T14:49:10.000Z</updated>
-        <summary type="html"><![CDATA[Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolut rolls out services to thousands of users in India ahead of broader launch]]></title>
-        <id>https://techcrunch.com/?p=3128118</id>
-        <link href="https://techcrunch.com/2026/06/01/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launch/"/>
-        <updated>2026-06-01T14:46:08.000Z</updated>
-        <summary type="html"><![CDATA[The British fintech has built a waitlist of about 450,000 users in India as it prepares for a broader launch.]]></summary>
-        <author>
-            <name>Jagmeet Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡乐比黑白包装虾条亮相东京超市]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9139298</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9139298"/>
-        <updated>2026-06-01T14:33:05.000Z</updated>
-        <summary type="html"><![CDATA[中东冲突导致的航运中断持续波及全球市场，日本薯片品牌卡乐比（Calbee）则因印刷油墨短缺，不得不把标志性的鲜艳包装改成单调的黑白色。
-共同社报道，黑白色包装的卡乐比虾条星期一（6月1日）开始在东京都内的超市上架。
-卡乐比公司5月中旬宣布，从5月底开始，旗下薯片、虾条、早餐麦片等14款产品包装将仅使用黑白两色。公司说，这是由于中东紧张局势升级，导致某些原材料供应不稳定。
-据日本媒体报道，近期石脑油（naphtha）短缺，影响了卡乐比的印刷油墨采购。石脑油是一种石油副产品，广泛应用于多个行业，是印刷油墨和塑料的原料。
-周一在东京都内的大超市里，袋子上印有“石油原料节约包装”字样的虾条上架，与彩色包装的零食并排摆放。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗恫言彻底封锁霍尔木兹海峡]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9139222</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9139222"/>
-        <updated>2026-06-01T13:59:56.000Z</updated>
-        <summary type="html"><![CDATA[伊朗媒体周一报道称，伊朗和“抵抗阵线”计划彻底封锁霍尔木兹海峡，并在曼德海峡（Bab al-Mandeb）等其他“战线”开启行动。
-伊朗媒体星期一（6月1日）还报道称，鉴于以色列在黎巴嫩的持续军事行动，伊朗谈判团队已暂停通过中间人同美国对话。 
-报道称，在伊朗要求以色列“立即停止”在加沙和黎巴嫩的军事行动得到满足之前，“不会进行任何对话”。
-以色列宣布扩大对黎巴嫩真主党的军事打击范围，从以黎南地区为主要目标，扩大至涵盖黎巴嫩首都贝鲁特。
-以色列总理内坦亚胡与国防部长卡茨周一发表联合声明，下令以色列国防军对贝鲁特南部郊区达希耶（Dahiyeh）发动空袭。
-伊朗外长阿拉格齐周一在社媒发文说，任何一条战线上的停火遭到破坏，等同于所有战线上的停火遭到破坏。
-受中东紧张局势影响，周一油价上涨超过每桶3美元。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泽连斯基指俄绑架数万乌儿童进行洗脑对抗本国人]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9138932</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9138932"/>
-        <updated>2026-06-01T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）乌克兰总统泽连斯基在哥伦比亚广播公司（CBS）星期天（5月31日）播出的专访中说，乌克兰政府已经掌握证据，证明俄罗斯正在绑架乌克兰儿童，并训练他们在战场上对抗同胞。 
-这是泽连斯基首次公开做出这一指控，指俄罗斯把乌克兰儿童带往营地进行再教育或俄罗斯化。如果泽连斯基的指控属实，这可能构成战争罪。
-泽连斯基说：“他们（俄罗斯）教唆这些孩子仇恨自己的祖国，仇恨本国人民。你能想象吗，这些乌克兰年轻人，这些小伙子，竟然在战场上杀害乌克兰人。”不过，他没有透露掌握了怎样的证据。
-泽连斯基在访谈中说，俄罗斯长期以来把儿童当作战斗人员对待，并提出以这些儿童交换在战场上被俘的士兵。“把我们的战士、战俘带回家很重要，但我们不可能用孩子去交换”。
-泽连斯基表示，乌克兰记录了至少两万名乌克兰儿童被绑架的事件，并希望获得国际社会帮助，以追踪这些儿童的下落。他怀疑实际遭绑架的儿童人数更多。
-针对结束战争，泽连斯基表示，他希望在冬季来临前，继续推进与俄方的和平谈判。他指出，从去年12月起，俄罗斯开始在战场上失去主动权。
-他认为，俄政府正面临来自社会内部的压力，并再次呼吁对俄罗斯实施更严厉制裁。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印缅同意加强双边贸易 采用卢比缅元结算机制]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9139024</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9139024"/>
-        <updated>2026-06-01T13:03:52.000Z</updated>
-        <summary type="html"><![CDATA[印度和缅甸周一发表联合声明，宣布两国已同意加强双边贸易，包括采用卢比-缅元结算机制。
-印度外交部秘书米斯里（Vikram Misri）星期一（6月1日）早些时候说，印缅双边贸易额略高于20亿美元（约26亿新元）。
-缅甸总统敏昂莱5月30日抵达邻国印度，进行为期五天的访问，这是他自就任文职领导人以来首次出访，会谈重点围绕安全和贸易议题。
-敏昂莱周一会见了印度总理莫迪。印度外交部发言人贾斯瓦尔说，莫迪告诉敏昂莱，“印度仍然是缅甸值得信赖的邻国、可靠的伙伴，以及危机时刻坚定的第一响应者。”
-莫迪还“重申了印度支持缅甸和平与对话的意愿”。
-米斯里在两国领导人会晤后告诉记者，双方讨论了边境安全以及与印度东北部各邦接壤的缅甸内战的影响。“缅甸的稳定与和平显然是印度的重大利益所在。”
-但他同时强调，解决缅甸冲突的任何方案都必须来自缅甸人民自身。
-米斯里还说，两国领导人同意加快建设印缅泰三边公路，但他没有给出具体的完工时间表。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
+            <name>SIMAR BAJAJ</name>
         </author>
     </entry>
     <entry>
@@ -406,119 +1053,6 @@
         <updated>2026-06-01T13:00:00.000Z</updated>
         <author>
             <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幸福，从来不用声势浩大]]></title>
-        <id>cc8f46ab3062f3a55ee25f686b477b9e</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%B9%B8%E7%A6%8F%EF%BC%8C%E4%BB%8E%E6%9D%A5%E4%B8%8D%E7%94%A8%E5%A3%B0%E5%8A%BF%E6%B5%A9%E5%A4%A7"/>
-        <updated>2026-06-01T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高市促伊朗总统在与美停火协议中展现“最大灵活性”]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9138924</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9138924"/>
-        <updated>2026-06-01T12:29:56.000Z</updated>
-        <summary type="html"><![CDATA[日本首相高市早苗周一说，她在与伊朗总统佩泽希齐扬通话时指出，伊朗应展现“最大灵活性”，抓住与美国达成停火协议的机会。
-高市星期一（6月1日）通话结束后对记者说，她还强烈要求伊朗尽快重新开放霍尔木兹海峡，以确保来自亚洲及其他国家船只的自由安全航行。
-高市没有详细说明佩泽希齐扬的回应，但表示，两国领导人承诺将继续保持密切沟通。
-
-伊朗称过去24小时有15艘船通过霍尔木兹海峡
-
-伊朗军方周一发布消息称，过去24小时共有15艘船只在伊朗协调和安全保障下通过霍尔木兹海峡，其中包括四艘油轮。
-伊朗军方强调，上述船只均在获得许可后，在革命卫队海军协调及安全保障下完成通行。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strava declares war on scrapers ahead of IPO]]></title>
-        <id>https://techcrunch.com/?p=3128046</id>
-        <link href="https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/"/>
-        <updated>2026-06-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To stop scraping, the company is increasing security around its website and will now only allow authenticated users to view certain data. Earlier, users were able to see details like public profiles and fitness club listings without logging in. The company is putting all that data behind authentication to protect it from unauthorized AI scraping.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美伊再次互相袭击 协议草案悬而未决]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9137952</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9137952"/>
-        <updated>2026-06-01T11:56:54.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿/德黑兰综合电）美国和伊朗在谈判修订谅解备忘录草案以期结束战争之际，美军再对伊朗实施“防御打击”，伊朗随之对中东美军基地展开报复袭击。伊朗外交部指责美国违反停火协议，称德黑兰的反击是“合法的自卫行为”。 
-美军中央司令部星期天（5月31日）发声明说，美军周末对伊朗戈鲁克（Goruk）和格什姆岛（Qeshm Island）的雷达与无人机指挥控制设施实施了自卫打击，以回应伊朗的侵略行动。
-声明说，伊朗此前击落了一架在国际水域上空执行任务的美军MQ-1无人机。美国过后迅速出动战斗机，摧毁了伊朗防空系统、一处地面控制站，以及对在地区水域航行的船只构成明确威胁的两架无人机。
-伊朗伊斯兰革命卫队周一（6月1日）宣布，打击并摧毁了发动此次袭击的美军空军基地。
-伊朗没有说明基地位置，但科威特外交部过后谴责伊朗袭击科威特领土，称这个举动让缓解地区紧张局势的努力付诸东流。 
-彭博社引述知情者报道，伊朗袭击的是科威特的阿里·萨利姆（Ali Al Salem）空军基地。据报道，科威特防空系统拦截了来袭导弹，但导弹碎片击中基地，造成数名美国人轻伤，两架MQ-9死神（Reaper）攻击无人机严重受损。 
-伊朗外交部发言人巴加埃则指责美国一再违反停火协议，并誓言，伊朗将采取必要措施捍卫国家安全。
-巴加埃说，美伊缺乏互信、华盛顿立场矛盾，加上以色列对黎巴嫩的袭击行动持续不断，阻碍了结束战争的外交进程。他强调，停止对黎巴嫩的袭击，仍是与美国达成协议的必要条件。
-
-草案内容是否纳入核问题  美伊各说各话
-
-他还说，目前美伊并未将伊朗核计划的细节纳入谈判，现阶段谈判重点是结束战争。
-此前一天，特朗普在社交媒体上发文，驳斥有关美伊协议草案不包括核问题的报道。他写道：“协议非常清楚地写明，伊朗不会拥有核武器。协议还用极其详尽的篇幅，讨论核问题的各个方面。”
-特朗普在另一则贴文中称，伊朗确实想要达成协议，而这将是一项对美国与盟友都有利的协议。
-美国媒体此前报道，特朗普已把协议草案的修改意见交给伊朗审议，据悉他主要希望在核问题和霍尔木兹海峡重开两大议题上获得保证。
-伊朗塔斯尼姆通讯社说，双方仍在持续提出修订建议，但所有修订建议最终可能被全盘否决，进而导致谈判破裂。
-伊朗首席谈判代表、议长卡利巴夫星期天说，除非伊朗权利获得充分保障，否则德黑兰不会达成任何协议。伊朗外交部长阿拉格齐则说，美伊仍在交换信息，当前有关谈判进展的讨论都属猜测。
-
-面对中期选举压力  特朗普或会接受“不完美”协议
-
-法国总统马克龙星期天同沙特阿拉伯、阿曼、阿联酋和埃及领导人通电话，强调美伊须尽快达成协议。
-他说，当务之急的是确保延长停火，同时根据国际法无条件重开霍尔木兹海峡，之后再就其他议题谈判，以达成有力且全面的协议。
-不过，特朗普的前国家安全顾问博尔顿认为，由于选民对能源价格上涨不满，特朗普可能会接受一项不完美的协议，以缓解共和党人应对11月中期选举的压力。
-博尔顿告诉彭博电视：“这是一项关乎美国加油站汽油价格的协议……但不一定能以让美国真正满意的方式结束战争。”他警告，如果允许伊朗现政权继续存在，伊朗将能重建军事与核能力。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调查：澳洲人认为舒适退休需超过100万澳元]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9138581</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9138581"/>
-        <updated>2026-06-01T11:48:30.000Z</updated>
-        <summary type="html"><![CDATA[（堪培拉彭博电）最新调查显示，澳大利亚人如今认为，他们需要超过100万澳元（91万7000新元），才能在退休后过上舒适的生活。这一数字较一年前增加了18万3000澳元，反映出通货膨胀与生活费高涨，加剧了人们对停止工作后钱不够用的担忧。
-这项由澳洲养老金和财富管理公司Colonial First State（简称CFS）进行的年度调查也发现，澳洲人的理想退休年龄是62岁，但他们预计得工作至66岁。
-澳洲养老金体系虽全球处于领先地位，规模达4.5万亿澳元，但有越来越多数据表明，人们对退休后的财务状况感到焦虑。
-在美伊战争爆发前，澳洲就饱受高通胀困扰。今年4月份，澳洲截尾均值通胀（trimmed mean inflation）为3.4%，高于澳洲储备银行设定的2%至3%目标区间。
-未来10年，预计将有约250万名澳洲人退休。据澳洲退休基金协会（ASFA）估算，一名单身人士需要63万澳元才能在67岁时舒适地退休，一对夫妇则需要73万澳元。
-这项调查也发现，女性更容易经历与退休相关的压力。约62%的女性受访者担心没有足够资金安享退休生活，比率高于男性的48%。
-受性别工资差距、为照顾孩子而暂时离开职场，以及为平衡家庭责任而从事兼职或临时工作等因素影响，女性退休时的平均养老金比男性少。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五伊波拉患者康复出院 为更多患者能被治愈带来希望]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9138175</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9138175"/>
-        <updated>2026-06-01T11:46:20.000Z</updated>
-        <summary type="html"><![CDATA[（金沙萨综合电）四名感染了伊波拉病毒的刚果（金）医护人员康复出院，让该国在本轮疫情中的痊愈总人数达到五人，也为更多患者能够被治愈带来希望。 
-据路透社报道，世界卫生组织星期天（5月31日）宣布，刚果（金）四名感染了罕见的本迪布焦型（Bundibugyo）伊波拉病毒的医护人员已经康复，于当天从伊图里省布尼亚的医院出院。
-加上5月27日，一名确诊的实验室工作人员在两次病毒检测阴性后出院，目前刚果（金）已有五名确诊者成功被治愈。
-世卫组织指出，随着疫情应对措施逐步加强，让患者可以更早确诊并接受治疗，预计会有更多的患者能够康复出院。
-
-              
-深入伊图里省疫区了解情况的世卫组织总干事谭德塞（左一），星期天也与几名康复的患者见面，合影留念。（路透社）
-            
-截至星期天，刚果（金）和邻国乌干达共报告了近300起确诊病例，其中43人死亡，另有上千起疑似病例等待检查。
-非洲疾控中心主任卡塞亚警告，疫情防控必须跟上疫情传播的速度，并强调这次疫情是对非洲疾控中心和非洲联盟的严肃考验。 
-美国疫苗制造商莫德纳（Moderna）星期一（6月1日）也宣布，已与流行病防范创新联盟（CEPI）达成合作，开发一款有望针对本迪布焦型伊波拉病毒的疫苗。
-
-巴西疑似伊波拉患者增至两人
-
-南美洲国家巴西的疑似伊波拉病例增加至两起。虽然两人分别确诊脑膜炎和疟疾，但卫生部门仍不能完全排除伊波拉的可能性，还需继续进行检测和隔离治疗。
-据法新社报道，近期曾前往非洲的37岁刚果（金）男子，于星期天被诊断患有重症脑膜炎，也在接受更多伊波拉病毒筛查。
-另一名男子5月22日从乌干达抵达里约热内卢后，出现咳嗽、发冷、腹泻等病毒感染症状，随即被隔离。巴西卫生部门星期天说，男子的疟疾检测呈阳性，伊波拉病毒检测结果则呈阴性，但仍须被隔离，直到调查结束。
-在意大利，一名出现部分病毒感染症状的男子5月30日从刚果（金）飞回卡利亚里（Cagliari）后，当地也启动了针对伊波拉疑似病例的程序。
-不过，意大利卫生部门星期一说，该男子病毒检测呈阴性，意大利的伊波拉疫情风险依然很低。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -542,73 +1076,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[孩子有样学样 瑞典吁家长放下手机陪子女]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9138445</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9138445"/>
-        <updated>2026-06-01T10:42:35.000Z</updated>
-        <summary type="html"><![CDATA[瑞典政府周一呼吁家长在陪伴孩子时放下手机。
-瑞典公共卫生局星期一（6月1日）发声明说，研究表明，父母使用电子屏幕会对他们与孩子的互动产生负面影响。此外，经常使用电子屏幕的父母，他们的子女也更容易养成类似习惯。
-自2024年以来，瑞典公共卫生局一直建议家长“反思”他们在孩子身边使用智能手机的行为，但在新的建议中，当局提出了更为具体的建议。
-当局在周一发表的声明中建议：“和孩子在一起时，请把手机收起来。只有在必要时，或者和孩子一起使用时才用手机。”
-当局还建议家长们为孩子在卧室或餐桌等地点设立“无屏幕区”。
-瑞典公共卫生局的精神科医生弗里林斯多夫指出：“孩子不仅受成人言语的影响，也受成人行为的影响。因此，日常生活中的一些小改变，无论对当下的互动，还是对孩子长期的习惯养成，都可能产生深远的影响。”
-近年来，瑞典一直致力于减少儿童使用手机的时间。今年1月，政府宣布将禁止九年级及以下（即15至16岁）的学生在学校使用智能手机。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专家：社媒禁令无法真正保护儿童安全]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9136572</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9136572"/>
-        <updated>2026-06-01T10:39:41.000Z</updated>
-        <summary type="html"><![CDATA[英国政府正研究是否为社交媒体设定法定最低使用年龄，甚至限制16岁以下未成年人使用相关平台。专家警告，目前缺乏足够证据证明全面禁令能够提升儿童网络安全，反而可能将年轻人推向监管较少、风险更高的网络空间。
-英国广播公司（BBC）报道称，英国政府今年3月启动“在网络世界中成长”（Growing up in the online world）公众咨询，探讨是否为社媒等网络平台设定法定最低使用年龄，同时研究限制自动播放（autoplay）、无限滚动（infinite scrolling）等功能，以及加强年龄验证措施。
-这项检讨是英国进一步完善《网络安全法》（Online Safety Act）工作的一部分。咨询结束前共收到超过8万1000份回应。英国首相斯塔默本周指出，政府将在完成分析后迅速采取行动，并强调相关措施必须带来重大改变。
-不过，苏格兰儿童与青少年事务专员基利安（Nicola Killean）在提交给政府的回应中指出，目前有关社媒禁令的证据仍然有限，相关研究结果也不一致。她认为，一刀切的限制措施未必能解决问题，反而可能把责任从平台转移到儿童身上。
-她说：“禁令几乎无助于解决根本问题，例如具有剥削性的算法，以及推动有害内容传播和提高用户参与度的商业模式。”
-基利安承认，社媒可能让儿童接触有害内容、遭遇网络霸凌、受到操纵、被陌生人接触或利用，也可能导致过度使用等问题。她说，社媒同时在许多年轻人的生活中扮演重要角色，为他们提供沟通、自我表达、获取资讯、参与公共讨论，以及与社群和支持网络保持联系的平台。
-她特别提醒，全面禁令对某些群体的影响可能更大，包括居住在偏远地区的儿童、拥有海外亲属的家庭、残障儿童，以及依赖线上社群寻求身份认同与支持的年轻人。
-基利安呼吁，政府应把重点放在加强平台问责和改善产品设计上，而非单纯限制用户年龄。她建议当局加强监管平台的有害功能，并确保相关规则能够根据儿童年龄和成熟程度作出区分，同时让年轻人直接参与未来政策制定过程。
-英国政府回应称，当局认同基利安保障儿童网络安全的目标，并感谢她推动相关改革。当局称，目前已有超过10万人参与咨询，涵盖年龄限制及平台安全设计等议题，当局已获得新的法律权力，并将在今年夏季公布下一步计划。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列宣布扩大黎巴嫩境内军事行动 直逼首都贝鲁特]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9137963</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9137963"/>
-        <updated>2026-06-01T10:36:51.000Z</updated>
-        <summary type="html"><![CDATA[（耶路撒冷／贝鲁特综合电）以色列宣布扩大对黎巴嫩真主党的军事打击范围，从以黎南地区为主要目标，扩大至涵盖黎巴嫩首都贝鲁特。 
-以色列总理内坦亚胡与国防部长卡茨周一（6月1日）发表联合声明，下令以色列国防军对贝鲁特南部郊区达希耶（Dahiyeh）发动空袭。
-前一天，以色列媒体报道，以色列政府正寻求美国支持扩大对真主党的打击范围，包括空袭黎巴嫩首都贝鲁特。报道提到，以色列正考虑转变策略，从之前以色列控制黎南地区为主，转变为在更大范围对黎巴嫩实施空袭。以军近日向以色列领导层提交了多套作战方案，当中涉及攻击贝鲁特的军事行动。
-
-攻下博福特城堡乃以黎之战重大转折
-
-内坦亚胡星期天说，以军占领黎巴嫩战略要地博福特城堡（Beaufort Castle），是打击真主党行动的重大转折，并扬言要乘胜追击，向黎巴嫩境内推进。 
-内坦亚胡发视频声明说：“现在我下达指示，巩固和扩大我方在真主党控制区内的势力范围。攻占博福特是个转折点，也是我方战略上的重大转变。”
-卡茨则强调，博福特城堡已纳入黎南部新安全区，以军会持续入驻。
-黎巴嫩卫生部说，以色列星期天袭击黎南代尔扎赫拉尼，造成八人死亡，包括三名妇女。当局提供的数据也显示，以色列袭击自3月初以来造成至少3412人丧命，一万多人受伤。
-真主党称，他们袭击博福特城堡附近的以色列军队，以及以色列北部城镇什洛米（Shlomi）和纳哈里亚（Nahariya）的以军阵地和基础设施。
-
-鲁比奥居中斡旋若失败  传美国允以色列出手
-
-以色列媒体周一引述美国高官的话报道，美国国务卿鲁比奥过去两天分别与黎巴嫩总统奥恩和内坦亚胡通电话，努力推进新的停火倡议；并称如果倡议失败，美国将允许以色列对真主党目标采取行动。
-鲁比奥建议真主党先停火，以色列则停止让贝鲁特局势升级。美方官员说，黎巴嫩内部对此意见分歧，奥恩愿意推动这项提议，但与真主党关系密切的议长贝里则坚持要以色列先停火。
-黎巴嫩媒体报道，贝里星期天说，真主党致力于立即实施全面停火，呼吁各国向以色列施压，促以军停止攻击黎巴嫩。贝里认为任何缓和冲突的努力都须附带真正保证，才足以迫使以色列彻底停止袭击。
-以黎的军事代表团上周五在华盛顿举行了安全会谈，本周将举行更多由美国斡旋的谈判。
-
-就以军扩大对黎攻击范围  联合国安理会周一召开紧急会议
-
-另外，联合国安理会应法国要求，星期一就以军扩大在黎巴嫩行动召开紧急会议。法国总统马克龙星期天在社交媒体平台X上发文指出，黎南局势升级毫无正当理由，呼吁各方彻底结束战斗。
-马克龙承诺，法国会继续支持黎巴嫩政府为恢复国家主权和领土完整所做的努力。
-真主党3月2日向以色列发射火箭炮，以报复美国和以色列刺杀伊朗最高领袖哈梅内伊，黎巴嫩自此卷入这场战争。以色列和真主党后来在4月17日停火，但双方在停火期间仍互相攻击，互责对方违反停火协议。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra]]></title>
         <id>6a19f1ccab5c174f580213ff</id>
         <link href="https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/"/>
@@ -626,55 +1093,6 @@
         <summary type="html"><![CDATA[In this excerpt from WIRED Book Club pick The Yahoo Boys, journalist Carlos Barragán traces one scammer’s journey from flop to fortune.]]></summary>
         <author>
             <name>Carlos Barragán</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[风靡饮品届的“营养卷王”，是中产智商税吗？]]></title>
-        <id>a6e5cecff2e4512e77610b198aed18de</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%A3%8E%E9%9D%A1%E9%A5%AE%E5%93%81%E5%B1%8A%E7%9A%84%E2%80%9C%E8%90%A5%E5%85%BB%E5%8D%B7%E7%8E%8B%E2%80%9D%EF%BC%8C%E6%98%AF%E4%B8%AD%E4%BA%A7%E6%99%BA%E5%95%86%E7%A8%8E%E5%90%97%EF%BC%9F"/>
-        <updated>2026-06-01T10:13:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[燃油费是机票两倍，坐不起飞机的打工人急眼了]]></title>
-        <id>2ce0e3a4cb69b730c101580e400c5cec</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%87%83%E6%B2%B9%E8%B4%B9%E6%98%AF%E6%9C%BA%E7%A5%A8%E4%B8%A4%E5%80%8D%EF%BC%8C%E5%9D%90%E4%B8%8D%E8%B5%B7%E9%A3%9E%E6%9C%BA%E7%9A%84%E6%89%93%E5%B7%A5%E4%BA%BA%E6%80%A5%E7%9C%BC%E4%BA%86"/>
-        <updated>2026-06-01T10:13:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球劳工保障恶化 美法评级亮警讯]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9138093</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9138093"/>
-        <updated>2026-06-01T10:07:46.000Z</updated>
-        <summary type="html"><![CDATA[全球最大工会组织国际工会联合会（ITUC）发布最新年度报告指出，全球劳工权利受压情况持续加剧，连法国和美国等被视为制度稳定的国家，也出现劳工保障倒退现象。
-法新社报道，ITUC星期天（5月31日）发布的2026年《全球工人权利指数》显示，在接受调查的151个国家中，72%的国家未能让工人获得司法救济；约半数国家曾在2025年逮捕或拘留工人。
-ITUC秘书长特里安格尔（Luc Triangle）发声明说：“工人权利危机已不再局限于边缘地区，而是进入民主国家的核心。”他指出，各国政府未能保护劳动者，在许多情况下甚至主动削弱他们的权利，最终形成对民主制度的“协同攻击”。
-
-法国评级下降 美国列入观察名单
-
-报告显示，工人的罢工权在87%的国家受到侵犯，这一比例与过去两年持平；同时，80%的国家对集体谈判权作出限制。
-在国家评级方面，美国因存在“系统性权利侵害”，被列入ITUC观察名单，并被评为4级；法国则从原本的2级下调至3级，尽管当地长期拥有强大的工会传统。
-报告指出，自2014年该指数设立以来，欧洲和美洲地区今年录得最差的平均评分。同时，企业利用数码监控技术监视和威吓员工的情况也日益普遍。
-今年，阿根廷和巴拿马首次被列入“全球十大工人权利最差国家”名单，其余国家包括白罗斯、厄瓜多尔、埃及、史瓦帝尼、缅甸、尼日利亚、突尼斯和土耳其。
-报告还批评，当前出现一场由“亿万富豪推动”、并获得部分极右翼和威权领导人支持的“政变”，目的是通过削弱劳工权利来实现利润最大化。报告并指出，越来越少国家在制定新劳动法前征询工会组织意见。
-国际工会联合会自2014年以来，每年依据国际劳工组织（ILO）公约和数十项相关标准，对全球151个国家和地区的劳工权利状况进行评估和评级。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unastella, a South Korean rocket startup that launched from home, raises $24M]]></title>
-        <id>https://techcrunch.com/?p=3127734</id>
-        <link href="https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/"/>
-        <updated>2026-06-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Seoul-based rocket startup is developing its own launch vehicles and engines.]]></summary>
-        <author>
-            <name>Kate Park</name>
         </author>
     </entry>
     <entry>
@@ -698,23 +1116,6 @@ ITUC秘书长特里安格尔（Luc Triangle）发声明说：“工人权利危�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[伊朗外交部：黎巴嫩停火仍是与美达成协议先决条件]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9138106</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9138106"/>
-        <updated>2026-06-01T09:54:02.000Z</updated>
-        <summary type="html"><![CDATA[伊朗外交部周一说，黎巴嫩停火仍然是与美国达成终战协议的关键条件。
-伊朗外交部发言人巴加埃星期一（6月1日）在例行记者会上说：“我们坚持认为，黎巴嫩停火是任何旨在结束战争的协议的必要条件。”
-以色列总理内坦亚胡星期天说，以军占领黎巴嫩战略要地博福特城堡（Beaufort Castle）是打击真主党行动的重大转折，并誓言将进一步向黎巴嫩境内推进。
-内坦亚胡周一还说，鉴于真主党屡次违反停火协议，已下令以军对贝鲁特南部郊区达希耶（Dahiyeh）发动空袭。
-巴加埃周一强调，伊朗“将采取一切措施支持黎巴嫩及其抵抗犹太复国主义政权非法侵略的斗争”。他也指责美国违反停火协议，誓言伊朗将采取一切必要措施捍卫国家安全。
-巴加埃指称，美伊谈判在高度猜疑和不信任的氛围中进行，通过中间人的信息传递也在同样的不信任氛围中进行。
-他指责美国不断改变立场，提出新的或相互矛盾的要求，并通过媒体释放相互矛盾的信息，谈判进程在这种情况下自然会被拖延。
-巴加埃还说，现阶段并未就核问题相关事项的细节进行任何谈判，现阶段谈判重点在于结束战争。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Websites Can Now Spy on You Through Your Hard Drive]]></title>
         <id>6a18add548dbb041b0784aa4</id>
         <link href="https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/"/>
@@ -722,41 +1123,6 @@ ITUC秘书长特里安格尔（Luc Triangle）发声明说：“工人权利危�
         <summary type="html"><![CDATA[Thanks to the newly detailed FROST technique, telltale SSD activity can be measured in the browser using simple JavaScript.]]></summary>
         <author>
             <name>Dan Goodin, Ars Technica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳洲极右翼政党支持率超越工党 创民调新高]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9137408</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9137408"/>
-        <updated>2026-06-01T08:33:35.000Z</updated>
-        <summary type="html"><![CDATA[澳大利亚政府近期推出的预算案引发争议之际，极右翼民粹主义政党“一国党”（One Nation）支持率显著上升，并首次在全国民调中超越执政工党。
-路透社报道，最新民调显示，一国党在选民对中左翼政府近期预算措施不满的背景下，初选支持率升至31%，成为全国支持率最高的政党。
-民调机构Redbridge Group与Accent Research于5月25日至28日进行的调查显示，“一国党”的初选支持率较一个月前上升四个百分点至31%；执政工党下跌三个百分点至28%；保守派在野联盟则下跌两个百分点至20%。
-这项民调是在澳洲政府5月12日公布预算案后进行。预算案提出数十年来最大幅度的房地产税制改革，旨在应对代际不平等问题。民调结果显示，相关措施未能争取选民支持，并且在“X世代”和“婴儿潮一代”中尤其不受欢迎。
-此外，预算案在工党试图惠及的年轻选民中也反应不佳。调查显示，仅26%的千禧一代和13%的Z世代选民认为，这份预算案将对他们有利。
-一国党由汉森（Pauline Hanson）领导，自1997年成立以来，长期在澳国会处于边缘地位。近期，该党借助选民对生活费高涨、经济不确定性和移民问题的焦虑，支持率明显回升。
-不过，在澳洲的排序复选制下，若按“两党优先制”计算，工党仍以51%对49%领先一国党。此次民调访问1005名选民，误差幅度为3.4个百分点。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究：睡眠差或提高年轻人患癌风险]]></title>
-        <id>https://www.zaobao.com/news/world/story20260601-9130569</id>
-        <link href="https://www.zaobao.com/news/world/story20260601-9130569"/>
-        <updated>2026-06-01T08:24:14.000Z</updated>
-        <summary type="html"><![CDATA[（休斯敦讯）美国研究发现，睡眠质量差可能是导致全球50岁以下人群患癌率上升的原因之一。
-过去30年，年轻人患上癌症的病例增加了近80%。全球早发性癌症病例从1990年的182万起上升到2019年的326万起，而40多岁、30多岁及更年轻人群的癌症死亡率上升了27%。
-《卫报》报道，在芝加哥举行的美国临床肿瘤学会年会上提交的两项研究显示，年轻人不规律的睡眠模式可能是造成这种情况的一个因素。
-由得克萨斯州休斯敦的MD安德森癌症中心牵头开展的两项研究，分析了美国1800多万名18至50岁成年人的健康数据。
-研究员发现，睡眠习惯不佳的人更容易患上早发性肠癌、乳腺癌、子宫癌或卵巢癌。在某些情况下，被诊断为失眠的50岁以下人群，在五年内患癌的概率是一般人的三倍。
-研究员说：“这些发现显示，睡眠紊乱可能是早发性癌症风险分层中一个具临床意义且潜在可改变的风险因素，值得进一步研究。”
-查明年轻人癌症发病率上升的原因已成为全球卫生领域的优先事项。《英国医学杂志·肿瘤学》发表的一项研究显示，每年有超过100万50岁以下者死于癌症。
-英国布里斯托一家睡眠专科诊所主管加利指出，有关研究只是发现睡眠与癌症有关联，并非证明睡眠紊乱会导致年轻人患癌的因果关系。
-他说，这种关联可能有多种解释，如睡眠不足可能带来生理变化，或是较难保持健康生活方式，例如饮酒增多、肥胖率更高、运动量减少、吸烟增多等，而这些因素也会增加患癌风险。
-英国癌症研究中心健康信息经理温特则说：“这些研究探讨了50岁以下人群失眠与某些癌症之间是否存在关联，但在得出结论之前须进行更多研究，特别是长期跟踪研究。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -770,12 +1136,18 @@ ITUC秘书长特里安格尔（Luc Triangle）发声明说：“工人权利危�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全民追捧的的文旅新顶流，催生了当下最火的“搞钱”赛道？]]></title>
-        <id>d2bb0ce08e42aefa456e169b66076215</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%85%A8%E6%B0%91%E8%BF%BD%E6%8D%A7%E7%9A%84%E7%9A%84%E6%96%87%E6%97%85%E6%96%B0%E9%A1%B6%E6%B5%81%EF%BC%8C%E5%82%AC%E7%94%9F%E4%BA%86%E5%BD%93%E4%B8%8B%E6%9C%80%E7%81%AB%E7%9A%84%E2%80%9C%E6%90%9E%E9%92%B1%E2%80%9D%E8%B5%9B%E9%81%93%EF%BC%9F"/>
-        <updated>2026-06-01T04:20:00.000Z</updated>
+        <title type="html"><![CDATA[徐春莺“渗透”案：台湾政治与国安漩涡中的“陆配”]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20260601/taiwan-china-mainland-spouses-infiltration/</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20260601/taiwan-china-mainland-spouses-infiltration/?utm_source=RSS"/>
+        <updated>2026-06-01T03:07:04.000Z</updated>
+        <summary type="html"><![CDATA[徐春莺曾是组织“陆配”争取权益的知名人物。如今她被指控被中共招募、秘密渗透并影响台湾。该案折射了一个核心问题：台湾如何在不针对中国移民的情况下保护其民主？
+
+                    
+Lam Yik Fei for The New York Times
+                    
+台北附近的一个村庄。台湾官员表示，他们正面临中国对该岛政治、媒体和互联网渗透日益加剧的局面。]]></summary>
         <author>
-            <name>三联生活周刊</name>
+            <name>储百亮,AMY CHANG CHIEN</name>
         </author>
     </entry>
     <entry>
@@ -786,6 +1158,51 @@ ITUC秘书长特里安格尔（Luc Triangle）发声明说：“工人权利危�
         <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
         <author>
             <name>Cloud001</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国药物研发崛起，业内人士担心对美国生物技术构成威胁]]></title>
+        <id>https://cn.nytimes.com/business/20260601/china-lung-cancer-drugs-asco/</id>
+        <link href="https://cn.nytimes.com/business/20260601/china-lung-cancer-drugs-asco/?utm_source=RSS"/>
+        <updated>2026-06-01T02:57:29.000Z</updated>
+        <summary type="html"><![CDATA[几年内，中国生物技术产业已转型为一个迅速发明和测试前沿药物的巨无霸。一些业界人士担心，药物创新向中国转移会给美国患者和生物技术从业者带来风险。
+
+                    
+Zach Boyden-Holmes/ASCO
+                    
+去年在芝加哥举行的美国临床肿瘤学会年会。今年，大会备受追捧的领衔报告之一将关于一项仅在中国开展的临床试验。]]></summary>
+        <author>
+            <name>REBECCA ROBBINS,GINA KOLATA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苏林批评世界充斥强权竞争，越南在美中之间寻找出路]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20260601/vietnam-to-lam-shangri-la-dialogue/</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20260601/vietnam-to-lam-shangri-la-dialogue/?utm_source=RSS"/>
+        <updated>2026-06-01T01:42:05.000Z</updated>
+        <summary type="html"><![CDATA[苏林在香格里拉对话上发表演讲，批评世界充斥着“强权即公理”的无序竞争。他未直接批评美国或中国，但承认一系列威胁正使越南及整个地区的繁荣之路愈加艰难。
+
+                    
+Edgar Su/Reuters
+                    
+周五，越南领导人苏林在新加坡举行的亚洲年度安全会议上发表主旨演讲。苏林措辞谨慎，未直接批评美国或中国，但承认一系列威胁正使越南及整个地区的繁荣之路愈加艰难。]]></summary>
+        <author>
+            <name>DAMIEN CAVE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国驱逐一名《纽约时报》记者，美国吊销新华社记者签证]]></title>
+        <id>https://cn.nytimes.com/world/20260531/china-expels-times-reporter/</id>
+        <link href="https://cn.nytimes.com/world/20260531/china-expels-times-reporter/?utm_source=RSS"/>
+        <updated>2026-06-01T00:54:13.000Z</updated>
+        <summary type="html"><![CDATA[时报驻华记者王月眉被中国驱逐后，特朗普政府吊销了一名新华社记者的签证作为回应。这场针锋相对的外交报复行动对新闻自由及美中关系均有深远影响。
+
+                    
+Kenny Holston/The New York Times
+                    
+特朗普总统本月访华期间，两国国旗在天安门广场飘扬。]]></summary>
+        <author>
+            <name>MICHAEL CROWLEY</name>
         </author>
     </entry>
     <entry>
@@ -819,23 +1236,48 @@ vivo 发布 vivo S60 系列
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Erin Brockovich takes aim at data center secrecy]]></title>
-        <id>https://techcrunch.com/?p=3128084</id>
-        <link href="https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/"/>
-        <updated>2026-05-31T21:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Environmental activist Erin Brockovich has a new mission.]]></summary>
+        <title type="html"><![CDATA[台湾谴责中国驱逐《纽约时报》记者]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20260601/taiwan-china-new-york-times-expulsion/</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20260601/taiwan-china-new-york-times-expulsion/?utm_source=RSS"/>
+        <updated>2026-05-31T19:33:22.000Z</updated>
+        <summary type="html"><![CDATA[台湾总统发言人批评中国“假借无端理由”惩罚记者，并表示这证明北京是“麻烦制造者”。北京方面称，驱逐记者是对赖清德以视频形式出席时报DealBook峰会的回应。
+
+                    
+Chiang Ying-Ying/Associated Press
+                    
+上个月，赖清德在台北。]]></summary>
         <author>
-            <name>Anthony Ha</name>
+            <name>DAVID PIERSON</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This weekend’s two biggest movies were both directed by YouTubers]]></title>
-        <id>https://techcrunch.com/?p=3128033</id>
-        <link href="https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/"/>
-        <updated>2026-05-31T18:34:58.000Z</updated>
-        <summary type="html"><![CDATA[The YouTube-to-prestige-horror pipeline is looking very strong.]]></summary>
+        <title type="html"><![CDATA[日本收紧经营管理签证，外籍餐饮业主陷入困境]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20260601/japan-immigration-curry-shops/</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20260601/japan-immigration-curry-shops/?utm_source=RSS"/>
+        <updated>2026-05-31T17:52:21.000Z</updated>
+        <summary type="html"><![CDATA[高市早苗去年上台时承诺将更严格地监管移民。如今其政府正对持“经营管理签证”居住在日本的约4.7万名外国人进行严格审查。这一变化让许多外籍餐厅经营者陷入困境。
+
+                    
+Noriko Hayashi for The New York Times
+                    
+马亨德拉·达尔马普里亚在他位于日本下野的斯里兰卡餐厅里。]]></summary>
         <author>
-            <name>Anthony Ha</name>
+            <name>赫海威,KIUKO NOTOYA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际干预行动皆陷僵局，特朗普撞上“现实之墙”]]></title>
+        <id>https://cn.nytimes.com/usa/20260601/trump-iran-stalemate-ukraine-gaza/</id>
+        <link href="https://cn.nytimes.com/usa/20260601/trump-iran-stalemate-ukraine-gaza/?utm_source=RSS"/>
+        <updated>2026-05-31T17:06:49.000Z</updated>
+        <summary type="html"><![CDATA[从乌克兰、加沙到伊朗，特朗普早期宣称的轻松胜利已被残酷的现实所取代，他已进入其总统任期的僵局阶段。一些专家认为，这源于对美国实力的根本性误判。
+
+                    
+Doug Mills/The New York Times
+                    
+特朗普总统的一位高级助手最近表示，从空中摧毁核设施是美国最擅长的事；掌控伊朗、俄罗斯、乌克兰等国的政治走向则是美国最不擅长的事。]]></summary>
+        <author>
+            <name>DAVID E. SANGER</name>
         </author>
     </entry>
     <entry>
@@ -1078,184 +1520,76 @@ vivo 发布 vivo S60 系列
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsung Movingstyle Essential Review: A Screen on Wheels]]></title>
-        <id>69f4ddfe66cdcc9a7151d143</id>
-        <link href="https://www.wired.com/review/samsung-movingstyle-32-m7/"/>
-        <updated>2026-05-29T15:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Made for those who hate having a TV in the home, Samsung’s Movingstyle monitor-on-wheels brings the entertainment when you need it and hides away in a closet when you don’t.]]></summary>
+        <title type="html"><![CDATA[欧洲与中国贸易战风险升高，原因何在？]]></title>
+        <id>https://cn.nytimes.com/business/20260529/europe-china-trade-war-electric-cars/</id>
+        <link href="https://cn.nytimes.com/business/20260529/europe-china-trade-war-electric-cars/?utm_source=RSS"/>
+        <updated>2026-05-29T04:32:16.000Z</updated>
+        <summary type="html"><![CDATA[随着北京采取更具攻击性的贸易政策、从中国进口的商品激增，欧洲正在讨论如何减少对中国的依赖。中国在制造业的主导地位不断增强，欧洲认为自身产业面临生存威胁。
+
+                    
+Agence France-Presse — Getty Images
+                    
+5月，在中国东部城市杭州的港口等待出口的中国产电动汽车。]]></summary>
         <author>
-            <name>Luke Larsen</name>
+            <name>JEANNA SMIALEK,艾莎</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Vatican’s Man Inside Anthropic]]></title>
-        <id>6a187b821d940d641cd34f91</id>
-        <link href="https://www.wired.com/story/the-vaticans-man-inside-anthropic/"/>
-        <updated>2026-05-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.]]></summary>
+        <title type="html"><![CDATA[美国财政部拟将特朗普肖像印在新版250美元纸币上]]></title>
+        <id>https://cn.nytimes.com/usa/20260529/treasury-trump-250-bill/</id>
+        <link href="https://cn.nytimes.com/usa/20260529/treasury-trump-250-bill/?utm_source=RSS"/>
+        <updated>2026-05-29T04:00:06.000Z</updated>
+        <summary type="html"><![CDATA[此举将意味着美国货币的重大改革，因为现行规定仅允许货币上使用已故人物的肖像。特朗普还推动铸造一枚印有他头像的1美元硬币，并已下令将他的签名加在美元纸币上。
+
+                    
+Kent Nishimura/Agence France-Presse — Getty Images
+                    
+美国财长贝森特表示，他支持将特朗普总统的肖像印在新版250美元纸币上的想法。]]></summary>
         <author>
-            <name>Steven Levy</name>
+            <name>ALAN RAPPEPORT</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blue Origin Rocket Explodes in Fiery Setback]]></title>
-        <id>6a198bcf1d940d641cd36602</id>
-        <link href="https://www.wired.com/story/blue-origin-rocket-explodes-in-major-setback/"/>
-        <updated>2026-05-29T13:22:27.000Z</updated>
-        <summary type="html"><![CDATA[The detonation of the New Glenn rocket resulted in a huge fireball in Florida and may have long-term implications for the company's ambitions.]]></summary>
+        <title type="html"><![CDATA[美国与伊朗海上对峙：一场“看谁先眨眼认输”的僵局]]></title>
+        <id>https://cn.nytimes.com/world/20260529/iran-us-blockade-strait-hormuz/</id>
+        <link href="https://cn.nytimes.com/world/20260529/iran-us-blockade-strait-hormuz/?utm_source=RSS"/>
+        <updated>2026-05-29T02:39:33.000Z</updated>
+        <summary type="html"><![CDATA[特朗普想通过封锁逼迫伊朗迅速重开霍尔木兹海峡，军事专家表示，这一期待并不现实。海上对峙表面看来平静，代价与风险却潜藏其中，对双方来说均是如此。
+
+                    
+Reuters
+                    
+周一，停泊在霍尔木兹海峡的船只。控制这条水道是伊朗用来制衡美国的手段之一。]]></summary>
         <author>
-            <name>Marta Musso</name>
+            <name>NICHOLAS KULISH,JOHN ISMAY</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[15 Best Wireless Chargers, All Tested and Reviewed (2026)]]></title>
-        <id>5fd1ea6cefa5f68151a599d7</id>
-        <link href="https://www.wired.com/gallery/best-wireless-chargers/"/>
-        <updated>2026-05-29T12:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.]]></summary>
+        <title type="html"><![CDATA[美国物价正以三年来最快速度上涨]]></title>
+        <id>https://cn.nytimes.com/usa/20260529/inflation-pce-gauge/</id>
+        <link href="https://cn.nytimes.com/usa/20260529/inflation-pce-gauge/?utm_source=RSS"/>
+        <updated>2026-05-29T01:48:20.000Z</updated>
+        <summary type="html"><![CDATA[美国个人消费支出指数和消费者价格指数均达到2023年5月以来的最快增速。美联储官员表示，若通胀问题无法在近期缓解，将不排除进一步加息的可能。
+
+                    
+Vincent Alban/The New York Times]]></summary>
         <author>
-            <name>Simon Hill</name>
+            <name>COLBY SMITH</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This MacBook Privacy Screen Totally Changed How I Work in Public]]></title>
-        <id>69fbad043837c793d7c001a6</id>
-        <link href="https://www.wired.com/story/targus-privacy-screen-travel/"/>
-        <updated>2026-05-29T11:01:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm one of those people who enjoys working on planes and in public spaces in general. But the issue of privacy was always a hurdle.]]></summary>
+        <title type="html"><![CDATA[猪肉价格暴跌，中国经济的“不祥之兆”？]]></title>
+        <id>https://cn.nytimes.com/business/20260528/china-pork-prices-economy/</id>
+        <link href="https://cn.nytimes.com/business/20260528/china-pork-prices-economy/?utm_source=RSS"/>
+        <updated>2026-05-29T00:31:40.000Z</updated>
+        <summary type="html"><![CDATA[养猪业成为中国经济放缓的又一个牺牲品。由于消费支出疲软和生猪供应过剩，猪肉价格上个月跌至16年新低。北京已经采取措施进行干预，包括收储“战略猪肉储备”等。
+
+                    
+Go Nakamura/Reuters
+                    
+中国台州的一家养猪场。“许多养殖户已经撑不下去了，”在大连养猪的孙浩宇说。]]></summary>
         <author>
-            <name>Luke Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HP Omnibook 3 Review: Redefining the Budget Laptop]]></title>
-        <id>69fa2d78f7875739c887d320</id>
-        <link href="https://www.wired.com/review/hp-omnibook-3/"/>
-        <updated>2026-05-29T10:32:00.000Z</updated>
-        <summary type="html"><![CDATA[To get to $600, Apple and HP made different compromises. If you demand more power and performance, the HP Omnibook 3 delivers.]]></summary>
-        <author>
-            <name>Luke Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physical Media Is Making a Comeback. The Next Console Generation Might Kill It]]></title>
-        <id>6a16d6de9dc3360967610aab</id>
-        <link href="https://www.wired.com/story/physical-media-is-having-a-comeback-the-next-console-generation-may-kill-it/"/>
-        <updated>2026-05-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Consoles with disc drives are the easiest way to enjoy all kinds of physical media, but that could end with the next-gen PlayStation 6 and Microsoft's Project Helix.]]></summary>
-        <author>
-            <name>Matt Kamen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
-        <id>https://sspai.com/post/110446</id>
-        <link href="https://sspai.com/post/110446"/>
-        <updated>2026-05-29T10:12:15.000Z</updated>
-        <summary type="html"><![CDATA[📅本周新预告《玩具总动员5》终极预告5月26日，皮克斯动画电影《玩具总动员5》发布了终极预告，将于6月19日内地上映。安德鲁·斯坦顿、麦肯纳·哈里斯执导，胡迪、巴斯光年、翠丝等老朋友们回归，无所不能的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoRuck GR1 Review: Great For Travel, Rucking, the Gym, and More]]></title>
-        <id>6a15b519c231501f9b8b72e4</id>
-        <link href="https://www.wired.com/story/the-goruck-gr1-is-a-rucking-great-pack/"/>
-        <updated>2026-05-29T10:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Built like a tank, the endlessly capable GoRuck GR1 is as close to a do-it-all bag as you can get.]]></summary>
-        <author>
-            <name>Scott Gilbertson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamers Like Clavicular Are Humiliating OnlyFans Girls For Clout]]></title>
-        <id>6a0e05ed2f98a17a653711ee</id>
-        <link href="https://www.wired.com/story/streamers-like-clavicular-are-humiliating-onlyfans-girls-for-clout/"/>
-        <updated>2026-05-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sex workers appear on the livestreams of famous manosphere influencers to boost their followings—but often end up being degraded.]]></summary>
-        <author>
-            <name>Ej Dickson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Espresso Accessories for Home Baristas (2026)]]></title>
-        <id>6a15ac96d10067f5f7e8f1d1</id>
-        <link href="https://www.wired.com/story/best-espresso-accessories-for-home-baristas/"/>
-        <updated>2026-05-29T09:36:00.000Z</updated>
-        <summary type="html"><![CDATA[A longtime pro barista’s favorite tools for dialing in the perfect shot at home.]]></summary>
-        <author>
-            <name>Pete Cottell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[住久了没意思（三）：打造能好好放松的卧室]]></title>
-        <id>https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom</id>
-        <link href="https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom"/>
-        <updated>2026-05-29T09:20:56.000Z</updated>
-        <summary type="html"><![CDATA[前文回顾：租房常见问题与我的改造原则从有光的地方开始动手对大部分人来说，卧室可能是在家里待得最长时间的区域。除了每天睡觉，周末可能也会花很多时间赖在卧室；如果家里比较小，卧室还可能承担休闲和娱乐的功能 ...查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>程天冲</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Await：五分钟，把点子变成 iPhone 小组件]]></title>
-        <id>https://sspai.com/post/110106</id>
-        <link href="https://sspai.com/post/110106"/>
-        <updated>2026-05-29T07:00:28.000Z</updated>
-        <summary type="html"><![CDATA[我希望 Await 最后留下的，是一种更轻的创作入口：不必很大，但足够好看和好玩，也足够贴近自己每天使用手机的方式。查看全文]]></summary>
-        <author>
-            <name>maundytime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirDoctor Coupon Codes: 40% Off | June 2026]]></title>
-        <id>6761d4c2885b16467fda30c9</id>
-        <link href="https://www.wired.com/story/airdoctor-coupon-code/"/>
-        <updated>2026-05-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for May 2026.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Quest Promo Codes and Coupons for June 2026]]></title>
-        <id>690d12ea0bcd6d7c5eccd47d</id>
-        <link href="https://www.wired.com/story/meta-quest-promo-code/"/>
-        <updated>2026-05-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.]]></summary>
-        <author>
-            <name>Brad Bourque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Target Promo Code: $50 Off | June 2026]]></title>
-        <id>671aae969d2d2bafd3d3cba6</id>
-        <link href="https://www.wired.com/story/target-promo-code/"/>
-        <updated>2026-05-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eBay Coupons: 20% Off in June 2026]]></title>
-        <id>672d41fcd6406683ec9bfd2e</id>
-        <link href="https://www.wired.com/story/ebay-coupon-code/"/>
-        <updated>2026-05-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bartesian Discount Codes: 35% Off]]></title>
-        <id>69d676a75ed03f09403e5ea0</id>
-        <link href="https://www.wired.com/story/bartesian-discount-code/"/>
-        <updated>2026-05-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.]]></summary>
-        <author>
-            <name>Matthew Korfhage</name>
+            <name>CATIE EDMONDSON</name>
         </author>
     </entry>
     <entry>
@@ -1268,53 +1602,32 @@ vivo 发布 vivo S60 系列
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook]]></title>
-        <id>6a186d637fc85f5fdc2a1740</id>
-        <link href="https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/"/>
-        <updated>2026-05-28T23:49:53.000Z</updated>
-        <summary type="html"><![CDATA[Claims about low testosterone and false accusations of veganism might play well to the online far right, but will they win an election?]]></summary>
+        <title type="html"><![CDATA[Anthropic估值超OpenAI，成全球最“贵”AI初创公司]]></title>
+        <id>https://cn.nytimes.com/business/20260529/anthropic-tops-openai-valuation/</id>
+        <link href="https://cn.nytimes.com/business/20260529/anthropic-tops-openai-valuation/?utm_source=RSS"/>
+        <updated>2026-05-28T17:46:57.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic通过新一轮融资筹集了650亿美元，估值达到9000亿美元，超过了OpenAI此前7300亿美元的估值。两家公司正在争夺人工智能领域的主导地位。
+
+                    
+Jason Henry for The New York Times
+                    
+Anthropic的最新模型Claude Opus 4.8特别擅长氛围编码，即人工智能根据口语化英语提示词编写代码的过程。]]></summary>
         <author>
-            <name>Miles Klee</name>
+            <name>MIKE ISAAC,CADE METZ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The $6 Billion Chinese Startup Trying to Build Hands for Every Robot]]></title>
-        <id>6a15e4834e296e9f434f9ea1</id>
-        <link href="https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/"/>
-        <updated>2026-05-28T19:14:31.000Z</updated>
-        <summary type="html"><![CDATA[LinkerBot makes dexterous robotic hands for as little as $600. It wants to become the standard for humanoids and automated factories—and eventually replace human labor altogether.]]></summary>
+        <title type="html"><![CDATA[沿66号公路，驶过一个世纪]]></title>
+        <id>https://cn.nytimes.com/culture/20260529/route-66-100-years-cars/</id>
+        <link href="https://cn.nytimes.com/culture/20260529/route-66-100-years-cars/?utm_source=RSS"/>
+        <updated>2026-05-28T17:20:24.000Z</updated>
+        <summary type="html"><![CDATA[这条交织于无数小说、歌曲与电影中的“母亲之路”与美国战后的繁荣岁月并行发展，至今仍是一座丰碑。驾驶各个时期的代表车辆沿66号公路旅行是一场引人入胜的时空之旅。
+
+                    
+                    
+约翰·克拉夫奇克的1966款奥兹莫比尔。在战后经济繁荣时期，无数像他这辆奥兹莫比尔一样的汽车纷纷向西进发。]]></summary>
         <author>
-            <name>Zeyi Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook]]></title>
-        <id>6a1756d039ea496e39ed9d57</id>
-        <link href="https://www.wired.com/story/meta-copies-snapchats-homework-again/"/>
-        <updated>2026-05-28T19:09:17.000Z</updated>
-        <summary type="html"><![CDATA[Meta’s upcoming Instagram Plus and Facebook Plus subscriptions are the latest example of the company seeing what works elsewhere and mimicking it.]]></summary>
-        <author>
-            <name>Reece Rogers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are]]></title>
-        <id>6a18452379653310a624160e</id>
-        <link href="https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/"/>
-        <updated>2026-05-28T16:59:33.000Z</updated>
-        <summary type="html"><![CDATA[The US military has long known that cheap fixes could stop location data from exposing its troops. It adopted almost none—and now says adversaries are using the data to target soldiers during a war.]]></summary>
-        <author>
-            <name>Dell Cameron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi]]></title>
-        <id>6a172a76b07fddcf94d8f1ea</id>
-        <link href="https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/"/>
-        <updated>2026-05-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.]]></summary>
-        <author>
-            <name>Aarian Marshall</name>
+            <name>JAMIE LINCOLN KITMAN</name>
         </author>
     </entry>
     <entry>
