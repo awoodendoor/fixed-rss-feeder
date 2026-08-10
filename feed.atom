@@ -1,10 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-09T12:42:53.166Z</id>
+    <id>urn:2026-08-10T01:27:06.098Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-09T12:42:53.166Z</updated>
+    <updated>2026-08-10T01:27:06.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[中国出口继续“狂飙”，月度贸易顺差再超千亿美元]]></title>
+        <id>https://cn.nytimes.com/business/20260810/china-trade-exports/</id>
+        <link href="https://cn.nytimes.com/business/20260810/china-trade-exports/?utm_source=RSS"/>
+        <updated>2026-08-10T00:08:15.000Z</updated>
+        <summary type="html"><![CDATA[官方数据显示，7月中国贸易顺差达1125亿美元。这已是中国连续第三个月贸易顺差超过千亿美元。出口的强劲表现在一定程度上掩盖了国内经济的持续疲软。
+
+                    
+Qilai Shen for The New York Times
+                    
+7月，中国宁海一家工厂的生产车间。]]></summary>
+        <author>
+            <name>DAISUKE WAKABAYASHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：央视曝光酒店评级标识消费陷阱]]></title>
+        <id>https://sspai.com/post/113268</id>
+        <link href="https://sspai.com/post/113268"/>
+        <updated>2026-08-09T23:08:03.000Z</updated>
+        <summary type="html"><![CDATA[央视曝光酒店评级标识消费陷阱
+《时代》网站展示仅 AI 可见广告
+Edge 浏览器将禁用 Manifest V2 扩展
+油价上涨致美国混动车需求激增
+廉价手机壳存在毒性隐患
+美国调查中国 AI 企业使用海外英伟达芯片
+看看就行的小道消息
+少数派的近期动态
+你可能错过的好文章
+查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry]]></title>
+        <id>https://techcrunch.com/?p=3151435</id>
+        <link href="https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"/>
+        <updated>2026-08-09T20:35:17.000Z</updated>
+        <summary type="html"><![CDATA[The AI-focused hedge fund is still making some big bets.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic is turning Claude Code’s auto mode on by default]]></title>
+        <id>https://techcrunch.com/?p=3151431</id>
+        <link href="https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"/>
+        <updated>2026-08-09T19:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Programming with Claude Code will soon require even less human oversight.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire]]></title>
+        <id>https://techcrunch.com/?p=3151220</id>
+        <link href="https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/"/>
+        <updated>2026-08-09T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.]]></summary>
+        <author>
+            <name>Kirsten Korosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy]]></title>
+        <id>https://techcrunch.com/?p=3151401</id>
+        <link href="https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"/>
+        <updated>2026-08-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On the latest episode of Equity, we spoke to Jill Lepore about "government by machines" and why Elon Musk is a bad science fiction reader.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI safety test is becoming a safety risk]]></title>
+        <id>https://techcrunch.com/?p=3151324</id>
+        <link href="https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"/>
+        <updated>2026-08-09T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This ‘adversarial’ pattern can prevent surveillance cameras from detecting you]]></title>
+        <id>https://techcrunch.com/?p=3151149</id>
+        <link href="https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/"/>
+        <updated>2026-08-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每天二十分钟，在手机上读完一篇《经济学人》]]></title>
+        <id>388c0afe04c174a5bc02a11ab113abfd</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%AF%8F%E5%A4%A9%E4%BA%8C%E5%8D%81%E5%88%86%E9%92%9F%EF%BC%8C%E5%9C%A8%E6%89%8B%E6%9C%BA%E4%B8%8A%E8%AF%BB%E5%AE%8C%E4%B8%80%E7%AF%87%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B"/>
+        <updated>2026-08-09T13:23:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This former notorious red-light district is now one of the world’s top AI hubs]]></title>
+        <id>https://techcrunch.com/?p=3149757</id>
+        <link href="https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/"/>
+        <updated>2026-08-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.]]></summary>
+        <author>
+            <name>Dominic-Madori Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年最值得一看的冷门佳作，治愈了多少独自硬扛的成年人？]]></title>
+        <id>ac42221e7b48429c3c8d1231cc88b426</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%80%BC%E5%BE%97%E4%B8%80%E7%9C%8B%E7%9A%84%E5%86%B7%E9%97%A8%E4%BD%B3%E4%BD%9C%EF%BC%8C%E6%B2%BB%E6%84%88%E4%BA%86%E5%A4%9A%E5%B0%91%E7%8B%AC%E8%87%AA%E7%A1%AC%E6%89%9B%E7%9A%84%E6%88%90%E5%B9%B4%E4%BA%BA%EF%BC%9F"/>
+        <updated>2026-08-09T13:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中产家庭养出的小孩，为什么经常“社会化”能力差？]]></title>
+        <id>205b1fcec0570c26fd0ed77aaf9ae8ec</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%AD%E4%BA%A7%E5%AE%B6%E5%BA%AD%E5%85%BB%E5%87%BA%E7%9A%84%E5%B0%8F%E5%AD%A9%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E5%B8%B8%E2%80%9C%E7%A4%BE%E4%BC%9A%E5%8C%96%E2%80%9D%E8%83%BD%E5%8A%9B%E5%B7%AE%EF%BC%9F"/>
+        <updated>2026-08-09T13:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Complicated Case of Passing On Your Digital Estate]]></title>
         <id>6a750eed93f4dec54ac6c07f</id>
@@ -179,24 +310,6 @@
         <updated>2026-08-08T13:53:00.000Z</updated>
         <author>
             <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打工人，苦“NPD领导”久矣]]></title>
-        <id>79ea46edea2752eed81181ad2fe02b32</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%89%93%E5%B7%A5%E4%BA%BA%EF%BC%8C%E8%8B%A6%E2%80%9CNPD%E9%A2%86%E5%AF%BC%E2%80%9D%E4%B9%85%E7%9F%A3"/>
-        <updated>2026-08-08T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["预制娃"刷屏，孩子成长真的只能靠抢跑吗？]]></title>
-        <id>d6aef01f5739af6dd03d31387fd59b30</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%22%E9%A2%84%E5%88%B6%E5%A8%83%22%E5%88%B7%E5%B1%8F%EF%BC%8C%E5%AD%A9%E5%AD%90%E6%88%90%E9%95%BF%E7%9C%9F%E7%9A%84%E5%8F%AA%E8%83%BD%E9%9D%A0%E6%8A%A2%E8%B7%91%E5%90%97%EF%BC%9F"/>
-        <updated>2026-08-08T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -440,36 +553,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/?p=3150942</id>
-        <link href="https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/"/>
-        <updated>2026-08-07T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.]]></summary>
-        <author>
-            <name>TechCrunch Events</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say]]></title>
-        <id>https://techcrunch.com/?p=3151136</id>
-        <link href="https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/"/>
-        <updated>2026-08-07T14:28:31.000Z</updated>
-        <summary type="html"><![CDATA[In the Kimi test, the sandbox designed to contain the experiment was not properly configured.]]></summary>
-        <author>
-            <name>Lorenzo Franceschi-Bicchierai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb says AI is helping it ship features faster as it tests a new search function]]></title>
-        <id>https://techcrunch.com/?p=3151106</id>
-        <link href="https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"/>
-        <updated>2026-08-07T14:22:49.000Z</updated>
-        <summary type="html"><![CDATA[Airbnb will debut a new AI-powered search experience with a toggle.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scientists Used AI to Create 16 New Viruses]]></title>
         <id>6a75dcabddaef387fe994fff</id>
         <link href="https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/"/>
@@ -480,16 +563,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels]]></title>
-        <id>https://techcrunch.com/?p=3151112</id>
-        <link href="https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/"/>
-        <updated>2026-08-07T14:07:31.000Z</updated>
-        <summary type="html"><![CDATA[The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026)]]></title>
         <id>6a74aec9551a7f9933fd3b1a</id>
         <link href="https://www.wired.com/story/fan-deals-august-2026/"/>
@@ -497,26 +570,6 @@
         <summary type="html"><![CDATA[We’re still in the dog days of summer—keep your cool with deals on the best fans we’ve tested for on the go and at home.]]></summary>
         <author>
             <name>Louryn Strampe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know]]></title>
-        <id>https://techcrunch.com/?p=3151020</id>
-        <link href="https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
-        <updated>2026-08-07T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.]]></summary>
-        <author>
-            <name>TechCrunch Events</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Mexico court orders Meta to pay additional $567M in child safety case]]></title>
-        <id>https://techcrunch.com/?p=3151093</id>
-        <link href="https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"/>
-        <updated>2026-08-07T11:40:37.000Z</updated>
-        <summary type="html"><![CDATA[Meta's total fine has racked up to $942 million in this case.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
         </author>
     </entry>
     <entry>
@@ -738,16 +791,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HP Coupon Codes and Deals August 2026]]></title>
-        <id>68225b9544db1beca22d595d</id>
-        <link href="https://www.wired.com/story/hp-coupon-code/"/>
-        <updated>2026-08-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.]]></summary>
-        <author>
-            <name>Luke Larsen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dyson Promo Codes: 25% Off in August 2026]]></title>
         <id>66f197b41b1d2e8dde4bb52f</id>
         <link href="https://www.wired.com/story/dyson-cordless-vacuum-promo-code/"/>
@@ -755,6 +798,16 @@
         <summary type="html"><![CDATA[Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.]]></summary>
         <author>
             <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HP Coupon Codes and Deals August 2026]]></title>
+        <id>68225b9544db1beca22d595d</id>
+        <link href="https://www.wired.com/story/hp-coupon-code/"/>
+        <updated>2026-08-07T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.]]></summary>
+        <author>
+            <name>Luke Larsen</name>
         </author>
     </entry>
     <entry>
@@ -841,16 +894,6 @@ Pierre Crom/Getty Images
         <summary type="html"><![CDATA[Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400]]></title>
-        <id>https://techcrunch.com/?p=3151017</id>
-        <link href="https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"/>
-        <updated>2026-08-06T22:43:53.000Z</updated>
-        <summary type="html"><![CDATA[Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.]]></summary>
-        <author>
-            <name>Lucas Ropek</name>
         </author>
     </entry>
     <entry>
@@ -1031,16 +1074,6 @@ Vincent Alban for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：华为发布尊界 MPV 及多款新品等]]></title>
-        <id>https://sspai.com/post/113110</id>
-        <link href="https://sspai.com/post/113110"/>
-        <updated>2026-08-06T00:42:08.000Z</updated>
-        <summary type="html"><![CDATA[英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美国最有权势的人们只吃牛肉和发酵食品，你也应该这样吗？]]></title>
         <id>https://cn.nytimes.com/health/20260806/trump-rfk-steak-kimchi-diet/</id>
         <link href="https://cn.nytimes.com/health/20260806/trump-rfk-steak-kimchi-diet/?utm_source=RSS"/>
@@ -1051,15 +1084,6 @@ Vincent Alban for The New York Times]]></summary>
 Sarah Anne Ward for The New York Times]]></summary>
         <author>
             <name>WILLY STALEY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度年轻人挤爆考场， 等来的工作却越来越少 | 经济学人亚洲（考研、CATTI考试必看)]]></title>
-        <id>eb24ea69cc66dfe542ef11293baa3ac3</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%8D%B0%E5%BA%A6%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8C%A4%E7%88%86%E8%80%83%E5%9C%BA%EF%BC%8C%20%E7%AD%89%E6%9D%A5%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8D%B4%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E4%BA%9A%E6%B4%B2%EF%BC%88%E8%80%83%E7%A0%94%E3%80%81CATTI%E8%80%83%E8%AF%95%E5%BF%85%E7%9C%8B%29"/>
-        <updated>2026-08-05T07:45:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
@@ -1162,19 +1186,6 @@ Pool photo by Aaron Favila
 上个月，新西兰外交部长温斯顿·彼得斯在菲律宾出席东盟会议。]]></summary>
         <author>
             <name>VICTORIA KIM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于性健康，男性应该了解的五件事]]></title>
-        <id>https://cn.nytimes.com/health/20260804/mens-sexual-urologists-advice/</id>
-        <link href="https://cn.nytimes.com/health/20260804/mens-sexual-urologists-advice/?utm_source=RSS"/>
-        <updated>2026-08-03T17:45:45.000Z</updated>
-        <summary type="html"><![CDATA[男性性健康问题很常见，而且许多疾病是可以预防或治疗的。但专家表示，男性往往羞于向朋友、家人甚至医生提及这些问题。许多男性求助于互联网，却只找到了错误信息。
-
-                    
-Claire Merchlinsky/The New York Times; Photographs by Getty]]></summary>
-        <author>
-            <name>DAVID ROBSON</name>
         </author>
     </entry>
     <entry>
