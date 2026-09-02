@@ -1,10 +1,336 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-02T02:47:50.285Z</id>
+    <id>urn:2026-09-02T15:56:16.653Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T02:47:50.285Z</updated>
+    <updated>2026-09-02T15:56:16.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other]]></title>
+        <id>6a7dd5ceadfa954d38d64589</id>
+        <link href="https://www.wired.com/story/bot-vs-bot-job-interview-ai/"/>
+        <updated>2026-09-02T15:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.]]></summary>
+        <author>
+            <name>Kate Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HiddenLayer nabs $100M as enterprises rush to secure their AI deployments]]></title>
+        <id>https://techcrunch.com/?p=3160035</id>
+        <link href="https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"/>
+        <updated>2026-09-02T15:01:23.000Z</updated>
+        <summary type="html"><![CDATA[HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.]]></summary>
+        <author>
+            <name>Ram Iyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA: Amazon’s shopping AI can now tell you if that message is a scam]]></title>
+        <id>https://techcrunch.com/?p=3160055</id>
+        <link href="https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"/>
+        <updated>2026-09-02T14:56:34.000Z</updated>
+        <summary type="html"><![CDATA[Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe acquires Indian market intelligence startup Rilo]]></title>
+        <id>https://techcrunch.com/?p=3159700</id>
+        <link href="https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/"/>
+        <updated>2026-09-02T14:03:57.000Z</updated>
+        <summary type="html"><![CDATA[This is Adobe's second acquisition out of India after Rephrase.ai in 2023]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Norway considers ban on camera-enabled wearable ‘pervert glasses’]]></title>
+        <id>https://techcrunch.com/?p=3160036</id>
+        <link href="https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/"/>
+        <updated>2026-09-02T13:11:47.000Z</updated>
+        <summary type="html"><![CDATA[The Nordic country says wearable camera headsets need to be regulated given their privacy risks.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe is making its tools available in Slack]]></title>
+        <id>https://techcrunch.com/?p=3160017</id>
+        <link href="https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/"/>
+        <updated>2026-09-02T13:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Users will be able to access Express, Premiere, and Acrobat in Slack]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber is laying off 10% of staff, or 3,300 people]]></title>
+        <id>https://techcrunch.com/?p=3160019</id>
+        <link href="https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/"/>
+        <updated>2026-09-02T12:14:35.000Z</updated>
+        <summary type="html"><![CDATA[Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions.]]></summary>
+        <author>
+            <name>Ram Iyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting]]></title>
+        <id>https://techcrunch.com/?p=3159950</id>
+        <link href="https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"/>
+        <updated>2026-09-02T12:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cybercab Is Almost Here. Now Comes the Hard Part]]></title>
+        <id>6a9730338bdceb4c2324fd5a</id>
+        <link href="https://www.wired.com/story/here-comes-the-tesla-cybercab/"/>
+        <updated>2026-09-02T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The electric-auto maker will officially debut its steering-wheel-free robotaxi on Thursday. But building the vehicle is the easy part.]]></summary>
+        <author>
+            <name>Aarian Marshall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Sony Headphone Deals: WH-1000XM5 and More (2026)]]></title>
+        <id>6a96f2b58af37847285a81e9</id>
+        <link href="https://www.wired.com/story/sony-headphone-deals-september-2026/"/>
+        <updated>2026-09-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our favorite Sony headphones are on sale, with discounts of up to 50 percent on top models.]]></summary>
+        <author>
+            <name>Boutayna Chokrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?]]></title>
+        <id>6a8cb79d3e6cf87b84dc7a7d</id>
+        <link href="https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/"/>
+        <updated>2026-09-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet the AI police who can make or break careers—in publishing and beyond.]]></summary>
+        <author>
+            <name>Lexi Pandell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？]]></title>
+        <id>https://sspai.com/post/114084</id>
+        <link href="https://sspai.com/post/114084"/>
+        <updated>2026-09-02T09:40:56.000Z</updated>
+        <summary type="html"><![CDATA[上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...查看全文]]></summary>
+        <author>
+            <name>Vanilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 42 Best Deals From the REI Labor Day Sale]]></title>
+        <id>6a8da8f2cd351e91fe8b3c3e</id>
+        <link href="https://www.wired.com/story/rei-labor-day-sale-2026/"/>
+        <updated>2026-09-02T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Labor Day already? Say it ain’t so. You can still chase summer a while longer with these great deals on outdoor gear at the REI Labor Day Sale.]]></summary>
+        <author>
+            <name>Scott Gilbertson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Prop 65 Crash Course: What You Need to Know (2026)]]></title>
+        <id>6a91afd3bd170b83aeb20ba4</id>
+        <link href="https://www.wired.com/story/why-does-everything-have-a-prop-65-warning/"/>
+        <updated>2026-09-02T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[If you see a Prop 65 warning, don’t fret. Here’s what you need to know.]]></summary>
+        <author>
+            <name>Boutayna Chokrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间]]></title>
+        <id>https://sspai.com/post/80562</id>
+        <link href="https://sspai.com/post/80562"/>
+        <updated>2026-09-02T07:22:27.000Z</updated>
+        <summary type="html"><![CDATA[Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35 天，35 天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。查看全文]]></summary>
+        <author>
+            <name>Levinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoka Coupon Codes: 30% Off in September 2026]]></title>
+        <id>6722c63c3ca38074693e3e27</id>
+        <link href="https://www.wired.com/story/hoka-coupon-code/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for September 2026.]]></summary>
+        <author>
+            <name>Boutayna Chokrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Booking.com Promo Codes: 20% Off | September 2026]]></title>
+        <id>671fef9f5c6935ccd7cbc918</id>
+        <link href="https://www.wired.com/story/booking-com-promo-code/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Priceline Promo Codes & Coupons: 10% Off September 2026]]></title>
+        <id>67351d14cdecd8b41abb50e3</id>
+        <link href="https://www.wired.com/story/priceline-promo-code/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NordVPN Coupons: 75% Off, Plus 3 Months Free in September 2026]]></title>
+        <id>67100c9a82459143cee93f27</id>
+        <link href="https://www.wired.com/story/nordvpn-coupon/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.]]></summary>
+        <author>
+            <name>Scott Gilbertson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B&H Photo Promo Codes and Deals This September 2026]]></title>
+        <id>67367a3b42e45bb4956a0b38</id>
+        <link href="https://www.wired.com/story/bh-photo-coupon/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.]]></summary>
+        <author>
+            <name>Scott Gilbertson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Columbia Promo Codes: 15% Off | September 2026]]></title>
+        <id>69f4cdc2c54e28406496ce9b</id>
+        <link href="https://www.wired.com/story/columbia-promo-code/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.]]></summary>
+        <author>
+            <name>Boutayna Chokrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30% Off Canon Promo Codes | September 2026]]></title>
+        <id>67252234563a280b6ad5ef8d</id>
+        <link href="https://www.wired.com/story/canon-promo-code/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this September 2026.]]></summary>
+        <author>
+            <name>Scott Gilbertson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whoop Promo Codes: 20% Off This September 2026]]></title>
+        <id>6a1d98888b89a355f957b29a</id>
+        <link href="https://www.wired.com/story/whoop-promo-code/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.]]></summary>
+        <author>
+            <name>Boutayna Chokrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eBay Coupons: 20% Off in September 2026]]></title>
+        <id>672d41fcd6406683ec9bfd2e</id>
+        <link href="https://www.wired.com/story/ebay-coupon-code/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verizon Promo Codes: $200 Verizon Gift Cards | September 2026]]></title>
+        <id>673baed7f6930ddfb4e8d266</id>
+        <link href="https://www.wired.com/story/verizon-promo-code/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Altra Running Promo Codes: 10% Off September 2026]]></title>
+        <id>69693e8d82b675266953a07f</id>
+        <link href="https://www.wired.com/story/altra-promo-code/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.]]></summary>
+        <author>
+            <name>Boutayna Chokrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uplift Promo Codes: $300 Off]]></title>
+        <id>69dd14dc718b510536f28dad</id>
+        <link href="https://www.wired.com/story/uplift-desk-coupon-code/"/>
+        <updated>2026-09-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories during the Spring Setup Sale.]]></summary>
+        <author>
+            <name>Nicole Kinning</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特纳斯正式接棒库克，苹果新CEO面临平衡考验]]></title>
+        <id>https://cn.nytimes.com/technology/20260902/apple-tim-cook-john-ternus/</id>
+        <link href="https://cn.nytimes.com/technology/20260902/apple-tim-cook-john-ternus/?utm_source=RSS"/>
+        <updated>2026-09-02T04:57:06.000Z</updated>
+        <summary type="html"><![CDATA[约翰·特纳斯将带领苹果面对重大的技术和管理变革，既要展现出库克时代标志性的财务可预测性和纪律性，又要证明苹果依然能够创造出令消费者心驰神往的新产品。
+
+                    
+Brendan McDermid/Reuters
+                    
+周二就任苹果公司首席执行官的约翰·特纳斯（右）与担任该职位长达15年的蒂姆·库克，摄于7月在爱达荷州举行的太阳谷会议上。]]></summary>
+        <author>
+            <name>KALLEY HUANG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“不敢喝水、每天工作十余小时”：被透支的麻醉医生们]]></title>
+        <id>0a94c28f47df7509a9ceb8094458a320</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E4%B8%8D%E6%95%A2%E5%96%9D%E6%B0%B4%E3%80%81%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%8D%81%E4%BD%99%E5%B0%8F%E6%97%B6%E2%80%9D%EF%BC%9A%E8%A2%AB%E9%80%8F%E6%94%AF%E7%9A%84%E9%BA%BB%E9%86%89%E5%8C%BB%E7%94%9F%E4%BB%AC"/>
+        <updated>2026-09-02T04:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citywalk、慢人节走红，年轻人为什么不想赶进度了？]]></title>
+        <id>b84cb13c17356cb5f9f1b747ecdd8b74</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+Citywalk%E3%80%81%E6%85%A2%E4%BA%BA%E8%8A%82%E8%B5%B0%E7%BA%A2%EF%BC%8C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%83%B3%E8%B5%B6%E8%BF%9B%E5%BA%A6%E4%BA%86%EF%BC%9F"/>
+        <updated>2026-09-02T04:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当普京把铁锤挥向文学]]></title>
+        <id>https://cn.nytimes.com/opinion/20260902/russia-putin-writers-literature/</id>
+        <link href="https://cn.nytimes.com/opinion/20260902/russia-putin-writers-literature/?utm_source=RSS"/>
+        <updated>2026-09-02T03:00:25.000Z</updated>
+        <summary type="html"><![CDATA[即使在普京执政的前20年，俄罗斯的文学创作也仍然享有几乎完全的自由。但如今，当局重新定义了何为“作家”，也没有人知道界限在哪里。
+
+                    
+Martha Verschaffel]]></summary>
+        <author>
+            <name>NATASHA KISELEVA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响]]></title>
+        <id>https://sspai.com/post/113581</id>
+        <link href="https://sspai.com/post/113581"/>
+        <updated>2026-09-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...查看全文]]></summary>
+        <author>
+            <name>听歌的水獭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国严格控制西藏洪灾灾情叙事]]></title>
         <id>https://cn.nytimes.com/china/20260902/china-tibet-floods-nepal-censorship/</id>
@@ -36,16 +362,21 @@ Allison Joyce/Agence France-Presse — Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上合组织峰会与G20折射中美全球秩序博弈]]></title>
-        <id>https://cn.nytimes.com/asia-pacific/20260902/g20-meeting-china-trump-bishkek/</id>
-        <link href="https://cn.nytimes.com/asia-pacific/20260902/g20-meeting-china-trump-bishkek/?utm_source=RSS"/>
-        <updated>2026-09-02T01:16:07.000Z</updated>
-        <summary type="html"><![CDATA[中国利用上合组织峰会将自己定位为稳定的源泉，倡导用“有序多极世界”取代目前由美国主导的秩序；G20财长会则呈现分裂，美国正损害同盟和经济关系。
-
-                    
-Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]></summary>
+        <title type="html"><![CDATA[美国历史上服刑最长的囚犯弗兰克·史密斯    | 经济学人讣告（双语译文）]]></title>
+        <id>2b93093652d89c8e92a4f1e59cbba2fa</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BE%8E%E5%9B%BD%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%8D%E5%88%91%E6%9C%80%E9%95%BF%E7%9A%84%E5%9B%9A%E7%8A%AF%E5%BC%97%E5%85%B0%E5%85%8B%C2%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20%20%20%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E8%AE%A3%E5%91%8A%EF%BC%88%E5%8F%8C%E8%AF%AD%E8%AF%91%E6%96%87%EF%BC%89"/>
+        <updated>2026-09-02T01:31:00.000Z</updated>
         <author>
-            <name>DAVID PIERSON</name>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第三期经济学人精读打卡营]]></title>
+        <id>7b4b955bbe57f046d766cf9886f38fc6</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%AC%AC%E4%B8%89%E6%9C%9F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%B2%BE%E8%AF%BB%E6%89%93%E5%8D%A1%E8%90%A5"/>
+        <updated>2026-09-02T01:31:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
@@ -199,6 +530,36 @@ Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]><
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[黄之锋就“勾结外国势力”认罪，最高可判终身监禁]]></title>
+        <id>https://cn.nytimes.com/china/20260902/hong-kong-joshua-wong-activist-guilty/</id>
+        <link href="https://cn.nytimes.com/china/20260902/hong-kong-joshua-wong-activist-guilty/?utm_source=RSS"/>
+        <updated>2026-09-01T18:59:33.000Z</updated>
+        <summary type="html"><![CDATA[黄之锋被指控与其他倡议者串谋游说美国国会议员，要求对香港和中国实施制裁。他此前已经因参与2020年香港民主派组织的一场非正式初选被判处近五年监禁。
+
+                    
+Alastair Pike/Agence France-Presse — Getty Images
+                    
+2019年黄之锋在华盛顿。他游说西方政治人物向香港施压的努力成为他最新的国家安全案件的中心。]]></summary>
+        <author>
+            <name>DAVID PIERSON</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福山和被误解的“历史的终结”]]></title>
+        <id>https://cn.nytimes.com/culture/20260902/francis-fukuyama-in-the-realm-of-the-last-man-end-of-history/</id>
+        <link href="https://cn.nytimes.com/culture/20260902/francis-fukuyama-in-the-realm-of-the-last-man-end-of-history/?utm_source=RSS"/>
+        <updated>2026-09-01T18:26:06.000Z</updated>
+        <summary type="html"><![CDATA[福山对后冷战世界格局的著名见解曾被广泛误解。在新回忆录中，他努力让人们理解他的本意。他认为，当前自由民主的困境并非对他早期著作的否定，反而是一种印证。
+
+                    
+Cayce Clifford for The New York Times
+                    
+福山并不认为自由民主当前的困境是对他早期著作的驳斥，反倒认为这恰恰印证了他的观点。]]></summary>
+        <author>
+            <name>JENNIFER SZALAI</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Who is John Ternus, the new Apple CEO?]]></title>
         <id>https://techcrunch.com/?p=3114475</id>
         <link href="https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/"/>
@@ -206,6 +567,19 @@ Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]><
         <summary type="html"><![CDATA[Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.]]></summary>
         <author>
             <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上合组织峰会与G20折射中美全球秩序博弈]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20260902/g20-meeting-china-trump-bishkek/</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20260902/g20-meeting-china-trump-bishkek/?utm_source=RSS"/>
+        <updated>2026-09-01T17:44:08.000Z</updated>
+        <summary type="html"><![CDATA[中国利用上合组织峰会将自己定位为稳定的源泉，倡导用“有序多极世界”取代目前由美国主导的秩序；G20财长会则呈现分裂，美国正损害同盟和经济关系。
+
+                    
+Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]></summary>
+        <author>
+            <name>DAVID PIERSON</name>
         </author>
     </entry>
     <entry>
@@ -226,76 +600,6 @@ Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]><
         <summary type="html"><![CDATA[OpenAI said that the integration provides read-only access to health records for clinicians.]]></summary>
         <author>
             <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo goes on offense ahead of Tesla’s Cybercab launch]]></title>
-        <id>https://techcrunch.com/?p=3157658</id>
-        <link href="https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/"/>
-        <updated>2026-09-01T16:49:12.000Z</updated>
-        <summary type="html"><![CDATA[Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.]]></summary>
-        <author>
-            <name>Sean O'Kane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequoia-incubated Empirik launches with $21M to predict outages before they happen]]></title>
-        <id>https://techcrunch.com/?p=3159706</id>
-        <link href="https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"/>
-        <updated>2026-09-01T16:31:04.000Z</updated>
-        <summary type="html"><![CDATA[The startup wants to do for IT infrastructure what Cursor did for software engineering.]]></summary>
-        <author>
-            <name>Marina Temkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoPro to be acquired for $285M, will remain a public company]]></title>
-        <id>https://techcrunch.com/?p=3159626</id>
-        <link href="https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/"/>
-        <updated>2026-09-01T15:57:23.000Z</updated>
-        <summary type="html"><![CDATA[GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.]]></summary>
-        <author>
-            <name>Sean O'Kane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Alexa can now alert you when something new might tempt you to shop]]></title>
-        <id>https://techcrunch.com/?p=3159627</id>
-        <link href="https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/"/>
-        <updated>2026-09-01T15:51:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIR raises $50M to help companies vet the skills and add-ons AI agents use]]></title>
-        <id>https://techcrunch.com/?p=3159543</id>
-        <link href="https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"/>
-        <updated>2026-09-01T15:45:51.000Z</updated>
-        <summary type="html"><![CDATA[AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.]]></summary>
-        <author>
-            <name>Ram Iyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 outage drags on, but things are improving]]></title>
-        <id>https://techcrunch.com/?p=3159615</id>
-        <link href="https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/"/>
-        <updated>2026-09-01T15:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fambot introduces an ‘AI chief of staff’ for families]]></title>
-        <id>https://techcrunch.com/?p=3159557</id>
-        <link href="https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"/>
-        <updated>2026-09-01T15:10:58.000Z</updated>
-        <summary type="html"><![CDATA[Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
         </author>
     </entry>
     <entry>
@@ -415,15 +719,6 @@ Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《奥德赛》里的“命运”让你着迷？原著里藏着一条更隐蔽的暗线]]></title>
-        <id>b6721f26ffedc9372a419c905b7c55cd</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B%E9%87%8C%E7%9A%84%E2%80%9C%E5%91%BD%E8%BF%90%E2%80%9D%E8%AE%A9%E4%BD%A0%E7%9D%80%E8%BF%B7%EF%BC%9F%E5%8E%9F%E8%91%97%E9%87%8C%E8%97%8F%E7%9D%80%E4%B8%80%E6%9D%A1%E6%9B%B4%E9%9A%90%E8%94%BD%E7%9A%84%E6%9A%97%E7%BA%BF"/>
-        <updated>2026-09-01T09:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会]]></title>
         <id>https://sspai.com/post/114071</id>
         <link href="https://sspai.com/post/114071"/>
@@ -441,26 +736,6 @@ Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]><
         <summary type="html"><![CDATA[不管你是大学新生想要购置数码产品，还是即将踏入职场的毕业生租房想要添置小家电，在处于身份和环境转换的新阶段里，都可以试着把钱用在刀刃上、选择性价比更高的产品和销售渠道。查看全文]]></summary>
         <author>
             <name>大大大K</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chewy Promo Codes: $20 Off September 2026]]></title>
-        <id>674f80033ffc1b7f03c85b6b</id>
-        <link href="https://www.wired.com/story/chewy-promo-code/"/>
-        <updated>2026-09-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more September 2026 discounts.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG Promo Codes and Coupons for September 2026]]></title>
-        <id>67d879bf81a4d165ab8f1213</id>
-        <link href="https://www.wired.com/story/lg-promo-code/"/>
-        <updated>2026-09-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.]]></summary>
-        <author>
-            <name>Harry Rabinowitz</name>
         </author>
     </entry>
     <entry>
@@ -494,11 +769,11 @@ Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wayfair Coupons: Up to 80% Off September 2026]]></title>
-        <id>67463b86d8f07d6a30d2b661</id>
-        <link href="https://www.wired.com/story/wayfair-promo-code/"/>
+        <title type="html"><![CDATA[Paramount+ Coupon Codes and Deals for September 2026]]></title>
+        <id>68a74f4bac61cbbb255166f7</id>
+        <link href="https://www.wired.com/story/paramount-plus-coupon-code/"/>
         <updated>2026-09-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.]]></summary>
+        <summary type="html"><![CDATA[Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.]]></summary>
         <author>
             <name>Molly Higgins</name>
         </author>
@@ -514,16 +789,6 @@ Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paramount+ Coupon Codes and Deals for September 2026]]></title>
-        <id>68a74f4bac61cbbb255166f7</id>
-        <link href="https://www.wired.com/story/paramount-plus-coupon-code/"/>
-        <updated>2026-09-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dell Coupon Codes: 20% Off for September 2026]]></title>
         <id>67119320efb17e0b0a750c63</id>
         <link href="https://www.wired.com/story/dell-coupon-code/"/>
@@ -534,13 +799,33 @@ Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AT&T Promo Codes: $50 Off This September 2026]]></title>
-        <id>67bccc2de807ab74e8f0139a</id>
-        <link href="https://www.wired.com/story/att-promo-code/"/>
+        <title type="html"><![CDATA[Wayfair Coupons: Up to 80% Off September 2026]]></title>
+        <id>67463b86d8f07d6a30d2b661</id>
+        <link href="https://www.wired.com/story/wayfair-promo-code/"/>
         <updated>2026-09-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.]]></summary>
+        <summary type="html"><![CDATA[Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.]]></summary>
         <author>
-            <name>Kat Merck</name>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chewy Promo Codes: $20 Off September 2026]]></title>
+        <id>674f80033ffc1b7f03c85b6b</id>
+        <link href="https://www.wired.com/story/chewy-promo-code/"/>
+        <updated>2026-09-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more September 2026 discounts.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG Promo Codes and Coupons for September 2026]]></title>
+        <id>67d879bf81a4d165ab8f1213</id>
+        <link href="https://www.wired.com/story/lg-promo-code/"/>
+        <updated>2026-09-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.]]></summary>
+        <author>
+            <name>Harry Rabinowitz</name>
         </author>
     </entry>
     <entry>
@@ -574,13 +859,13 @@ Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20% Off Samsung Promo Code | September 2026]]></title>
-        <id>6682a4c73029f65bb234b2d6</id>
-        <link href="https://www.wired.com/story/samsung-promo-codes/"/>
+        <title type="html"><![CDATA[AT&T Promo Codes: $50 Off This September 2026]]></title>
+        <id>67bccc2de807ab74e8f0139a</id>
+        <link href="https://www.wired.com/story/att-promo-code/"/>
         <updated>2026-09-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.]]></summary>
+        <summary type="html"><![CDATA[Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.]]></summary>
         <author>
-            <name>Molly Higgins</name>
+            <name>Kat Merck</name>
         </author>
     </entry>
     <entry>
@@ -591,6 +876,16 @@ Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters]]><
         <summary type="html"><![CDATA[Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.]]></summary>
         <author>
             <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20% Off Samsung Promo Code | September 2026]]></title>
+        <id>6682a4c73029f65bb234b2d6</id>
+        <link href="https://www.wired.com/story/samsung-promo-codes/"/>
+        <updated>2026-09-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
         </author>
     </entry>
     <entry>
@@ -606,15 +901,6 @@ Atul Loke for The New York Times
 周日，尼泊尔德维加特地区，由于喜马拉雅地区冰川崩塌引发洪水，河水水位上涨。]]></summary>
         <author>
             <name>BINOD GHIMIRE,MUJIB MASHAL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数十万元的“家长觉醒营”，正在瞄准想挽救家庭的中年女性]]></title>
-        <id>4514927a345c278df9f74d847fc5ff67</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%95%B0%E5%8D%81%E4%B8%87%E5%85%83%E7%9A%84%E2%80%9C%E5%AE%B6%E9%95%BF%E8%A7%89%E9%86%92%E8%90%A5%E2%80%9D%EF%BC%8C%E6%AD%A3%E5%9C%A8%E7%9E%84%E5%87%86%E6%83%B3%E6%8C%BD%E6%95%91%E5%AE%B6%E5%BA%AD%E7%9A%84%E4%B8%AD%E5%B9%B4%E5%A5%B3%E6%80%A7"/>
-        <updated>2026-09-01T04:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -814,76 +1100,6 @@ John Ricky/Anadolu, via Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Know Who Really Hates AI? Insurance Claims Adjusters]]></title>
-        <id>6a832bd4364359700ebc52b3</id>
-        <link href="https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/"/>
-        <updated>2026-08-31T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”]]></summary>
-        <author>
-            <name>Kate Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/114041</id>
-        <link href="https://sspai.com/post/114041"/>
-        <updated>2026-08-31T10:05:00.000Z</updated>
-        <summary type="html"><![CDATA[>下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 9 Best MagSafe Phone Grips for Your Butter Fingers (2026)]]></title>
-        <id>67e431d2c92dedbbb76ae8e0</id>
-        <link href="https://www.wired.com/gallery/best-magsafe-grips/"/>
-        <updated>2026-08-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Keep your phone firmly in hand and add some personality with these comfortable, durable, and nifty smartphone grips.]]></summary>
-        <author>
-            <name>Louryn Strampe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATM Flaws Reveal Key Weaknesses in the Software Supply Chain]]></title>
-        <id>6a70b148583f52507636358e</id>
-        <link href="https://www.wired.com/story/atm-flaws-reveal-key-weaknesses-in-the-software-supply-chain/"/>
-        <updated>2026-08-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A security researcher discovered nine vulnerabilities impacting ATM encryption and authentication software. But the problems extend far beyond your local cash machine.]]></summary>
-        <author>
-            <name>Lily Hay Newman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方]]></title>
-        <id>https://sspai.com/prime/story/home-made-beverages-4</id>
-        <link href="https://sspai.com/prime/story/home-made-beverages-4"/>
-        <updated>2026-08-31T09:09:27.000Z</updated>
-        <summary type="html"><![CDATA[往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）：常用固体物料推荐从这篇开始正式进入配方介绍及制作阶段，这里会有很多配料之前没提到过，会单独讲一下。尽力帮助大家在家也能做出好喝的夏日 ...查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>老林还年少</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球最著名的书店，为什么禁止拍照？ | 经济学人文化]]></title>
-        <id>e4d31eca68f5ddfbea33ad887dd809d4</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%85%A8%E7%90%83%E6%9C%80%E8%91%97%E5%90%8D%E7%9A%84%E4%B9%A6%E5%BA%97%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A6%81%E6%AD%A2%E6%8B%8D%E7%85%A7%EF%BC%9F%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E6%96%87%E5%8C%96"/>
-        <updated>2026-08-31T09:04:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能]]></title>
-        <id>https://sspai.com/post/114027</id>
-        <link href="https://sspai.com/post/114027"/>
-        <updated>2026-08-31T06:57:03.000Z</updated>
-        <summary type="html"><![CDATA[查看全文]]></summary>
-        <author>
-            <name>Microhoo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[为什么美国总是难以退出战争]]></title>
         <id>https://cn.nytimes.com/usa/20260831/us-wars-iran-afghanistan/</id>
         <link href="https://cn.nytimes.com/usa/20260831/us-wars-iran-afghanistan/?utm_source=RSS"/>
@@ -929,15 +1145,6 @@ Lam Yik/Bloomberg
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第三期经济学人精读打卡营（早鸟票最后1天）]]></title>
-        <id>7465c3c04f568f4f997759665de7a67a</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%AC%AC%E4%B8%89%E6%9C%9F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%B2%BE%E8%AF%BB%E6%89%93%E5%8D%A1%E8%90%A5%EF%BC%88%E6%97%A9%E9%B8%9F%E7%A5%A8%E6%9C%80%E5%90%8E1%E5%A4%A9%EF%BC%89"/>
-        <updated>2026-08-31T01:58:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[尼泊尔不断融化的冰川有多危险？]]></title>
         <id>https://cn.nytimes.com/science/20260831/climate-forward-nepal-disaster/</id>
         <link href="https://cn.nytimes.com/science/20260831/climate-forward-nepal-disaster/?utm_source=RSS"/>
@@ -968,21 +1175,6 @@ Atul Loke for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国慰问邻国但引导叙事，强调灾害始于尼泊尔]]></title>
-        <id>https://cn.nytimes.com/china/20260831/china-nepal-floods-xi-jinping/</id>
-        <link href="https://cn.nytimes.com/china/20260831/china-nepal-floods-xi-jinping/?utm_source=RSS"/>
-        <updated>2026-08-31T00:32:44.000Z</updated>
-        <summary type="html"><![CDATA[习近平向尼泊尔总统致慰问电，并承诺中方将支持尼泊尔的救援工作。同时北京也通过发布“基本的灾害链”等引导叙事，驳斥关于中国未及时预警等批评言论为“假新闻”。
-
-                    
-Atul Loke for The New York Times
-                    
-尼泊尔北部，裹挟着泥沙与碎石的博特科西河，摄于上周四。]]></summary>
-        <author>
-            <name>郭莉莉</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我研究成功人士，他们都有一个共同的习惯]]></title>
         <id>https://cn.nytimes.com/opinion/20260831/successful-people-help/</id>
         <link href="https://cn.nytimes.com/opinion/20260831/successful-people-help/?utm_source=RSS"/>
@@ -993,201 +1185,6 @@ Atul Loke for The New York Times
 Nyo Jinyong Lian]]></summary>
         <author>
             <name>ANGELA DUCKWORTH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario]]></title>
-        <id>6a94514445866f3284262379</id>
-        <link href="https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/"/>
-        <updated>2026-08-30T16:16:24.000Z</updated>
-        <summary type="html"><![CDATA[After Donald Trump’s executive order demanding the name change, Google is the first major online map provider to flip the switch.]]></summary>
-        <author>
-            <name>Paresh Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Mesh Wi-Fi Systems (2026): I Tested Them All]]></title>
-        <id>615b126d272def4b666617ae</id>
-        <link href="https://www.wired.com/story/best-mesh-wifi-routers/"/>
-        <updated>2026-08-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Forget about patchy internet connections and dead spots in the house. These WIRED-tested, multi-room mesh Wi-Fi systems will keep your whole house online.]]></summary>
-        <author>
-            <name>Simon Hill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the Hottest New Wearables Want to Be Ignored]]></title>
-        <id>6a8dc20a07538691fe0533d6</id>
-        <link href="https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/"/>
-        <updated>2026-08-30T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.]]></summary>
-        <author>
-            <name>Andrew Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Label Makers (2026): Brother, Niimbot, Dymo]]></title>
-        <id>6a8ef159a84e455f12fd9294</id>
-        <link href="https://www.wired.com/gallery/the-best-label-makers-for-an-organized-home/"/>
-        <updated>2026-08-30T10:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Experience the oddly satisfying joy of labeling bins, drawers, and more with the best Bluetooth and traditional label makers.]]></summary>
-        <author>
-            <name>Alexis Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Escape Group Chat Hell]]></title>
-        <id>6a91b7ffb4df428778ffed47</id>
-        <link href="https://www.wired.com/story/how-to-escape-from-group-chat-hell/"/>
-        <updated>2026-08-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Young adults are in more group chats than ever—sometimes more than 20 at a time. Here’s how to tame the chat madness.]]></summary>
-        <author>
-            <name>Reece Rogers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Create the Littlest Big Bang to Study the Universe's Origins]]></title>
-        <id>6a91cdac3a017c65cc370966</id>
-        <link href="https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/"/>
-        <updated>2026-08-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The discovery redefines how large atoms need to be to produce the extreme state of matter found in the early universe.]]></summary>
-        <author>
-            <name>Jorge Garay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soundcore Liberty 5 Pro Review: Master of Phone Calls]]></title>
-        <id>6a85f5b3b2945bfc5375634c</id>
-        <link href="https://www.wired.com/review/soundcore-liberty-5-pro/"/>
-        <updated>2026-08-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Outstanding call quality and an excellent price point put these earbuds way ahead of pricier competition.]]></summary>
-        <author>
-            <name>Harry Rabinowitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap]]></title>
-        <id>6a8f2d32377f7d54e320aa59</id>
-        <link href="https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/"/>
-        <updated>2026-08-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Astronomers will test equipment that, if it’s successful, will one day be crucial for discovering Earthlike planets.]]></summary>
-        <author>
-            <name>Meghan Bartels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn]]></title>
-        <id>6a91a28c803370e4d9cbd822</id>
-        <link href="https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/"/>
-        <updated>2026-08-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.]]></summary>
-        <author>
-            <name>Maddy Varner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run a Chatbot on Your Own Computer]]></title>
-        <id>6a8f5fcd81a7b3cc4250388b</id>
-        <link href="https://www.wired.com/story/how-to-run-your-own-local-llm/"/>
-        <updated>2026-08-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.]]></summary>
-        <author>
-            <name>David Nield</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psilocybin Might Make Your Brain Live in the Moment]]></title>
-        <id>6a919be1803370e4d9cbd800</id>
-        <link href="https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/"/>
-        <updated>2026-08-29T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us.]]></summary>
-        <author>
-            <name>Jorge Garay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorola Coupon Code for September 2026]]></title>
-        <id>6a91b2ddf6dd9530a8f6b0e2</id>
-        <link href="https://www.wired.com/story/motorola-coupon-code/"/>
-        <updated>2026-08-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.]]></summary>
-        <author>
-            <name>Les Shu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands]]></title>
-        <id>6a92024e685a213ba7a8ed35</id>
-        <link href="https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/"/>
-        <updated>2026-08-28T22:29:13.000Z</updated>
-        <summary type="html"><![CDATA[The unexpected interruption came hours before the president wrote a congratulatory post on Truth Social about the company’s most recent earnings report.]]></summary>
-        <author>
-            <name>Lauren Goode, Paresh Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milo Yiannopoulos Detained by ICE in Louisiana]]></title>
-        <id>6a91cc502a64c49295ab50f7</id>
-        <link href="https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/"/>
-        <updated>2026-08-28T19:44:11.000Z</updated>
-        <summary type="html"><![CDATA[The longtime far-right operator and troll, a UK citizen, is being held in ICE custody pending his removal from the United States.]]></summary>
-        <author>
-            <name>Miles Klee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Teams Has Become a Haven for Scammers in China]]></title>
-        <id>6a90607f1baac5299c0c472c</id>
-        <link href="https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/"/>
-        <updated>2026-08-28T18:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.]]></summary>
-        <author>
-            <name>Zeyi Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中情局局长为何秘密访问莫斯科]]></title>
-        <id>https://cn.nytimes.com/usa/20260828/cia-director-russia-ukraine/</id>
-        <link href="https://cn.nytimes.com/usa/20260828/cia-director-russia-ukraine/?utm_source=RSS"/>
-        <updated>2026-08-28T03:55:58.000Z</updated>
-        <summary type="html"><![CDATA[拉特克利夫与俄方分享了他对俄罗斯战争现状的悲观评估，并敦促对方在军事和经济状况进一步恶化前达成协议。美国情报界人士一直质疑普京对战争走向是否有清醒认识。
-
-                    
-Kenny Holston/The New York Times
-                    
-中央情报局局长约翰·拉特克利夫本周秘密访问莫斯科，向俄罗斯联邦安全局局长亚历山大·博尔特尼科夫转达紧急信息。]]></summary>
-        <author>
-            <name>ADAM ENTOUS,JULIAN E. BARNES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比尔·盖茨：科技行业刻意淡化人工智能风险]]></title>
-        <id>https://cn.nytimes.com/technology/20260828/bill-gates-ai-risks/</id>
-        <link href="https://cn.nytimes.com/technology/20260828/bill-gates-ai-risks/?utm_source=RSS"/>
-        <updated>2026-08-27T18:15:38.000Z</updated>
-        <summary type="html"><![CDATA[盖茨强烈警告称，人工智能对就业和人类生命构成了严重威胁，紧急应对这些风险应该成为“全球头等大事”。科技行业刻意淡化这些威胁，因为牵涉到巨大的利益。
-
-                    
-Chona Kasinger for The New York Times
-                    
-比尔·盖茨是最新一位警示人工智能风险的科技界巨擘。]]></summary>
-        <author>
-            <name>KAREN WEISE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“波点女王”草间弥生逝世：拓展艺术疆界的波普先锋]]></title>
-        <id>https://cn.nytimes.com/obits/20260828/yayoi-kusama-dead/</id>
-        <link href="https://cn.nytimes.com/obits/20260828/yayoi-kusama-dead/?utm_source=RSS"/>
-        <updated>2026-08-27T17:34:51.000Z</updated>
-        <summary type="html"><![CDATA[1960年代，草间弥生以布满波点的绘画、阳具主题的雕塑和公共行为艺术在纽约和欧洲引发轰动，成为波普艺术和极简主义先驱。她于8月14日在东京去世，享年97岁。
-
-                    
-Philip Game/Alamy
-                    
-草间弥生的作品常被视为带有强烈的情色意味，但她想要达到的效果恰恰相反。她说，“通过不断复制那些令我恐惧的事物的形态，我得以压制这种恐惧。”]]></summary>
-        <author>
-            <name>HOLLAND COTTER</name>
         </author>
     </entry>
 </feed>
