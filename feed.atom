@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-05T14:33:14.150Z</id>
+    <id>urn:2026-09-06T02:51:45.663Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T14:33:14.150Z</updated>
+    <updated>2026-09-06T02:51:45.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft]]></title>
+        <id>https://techcrunch.com/?p=3161049</id>
+        <link href="https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"/>
+        <updated>2026-09-05T22:49:55.000Z</updated>
+        <summary type="html"><![CDATA[Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hikers rescued after using Google Gemini for planning]]></title>
+        <id>https://techcrunch.com/?p=3161045</id>
+        <link href="https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"/>
+        <updated>2026-09-05T19:35:24.000Z</updated>
+        <summary type="html"><![CDATA[The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure]]></title>
+        <id>https://techcrunch.com/?p=3161042</id>
+        <link href="https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"/>
+        <updated>2026-09-05T18:05:27.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clucky’s new alarm app wakes you up with a crowing rooster]]></title>
+        <id>https://techcrunch.com/?p=3157241</id>
+        <link href="https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/"/>
+        <updated>2026-09-05T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oura is going public, but these smart ring companies are coming for its crown]]></title>
+        <id>https://techcrunch.com/?p=3160959</id>
+        <link href="https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/"/>
+        <updated>2026-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[倒计时2天 | 看懂《奥德赛》，需要补足什么知识？]]></title>
+        <id>568f291029da51517208d5776d065ae6</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%80%92%E8%AE%A1%E6%97%B62%E5%A4%A9%20%7C%20%E7%9C%8B%E6%87%82%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B%EF%BC%8C%E9%9C%80%E8%A6%81%E8%A1%A5%E8%B6%B3%E4%BB%80%E4%B9%88%E7%9F%A5%E8%AF%86%EF%BC%9F"/>
+        <updated>2026-09-05T13:16:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今夏最出圈的喜剧节目，中专生夺冠成了众望所归？]]></title>
+        <id>e7f2ef0007a419b228887dce879810ac</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%8A%E5%A4%8F%E6%9C%80%E5%87%BA%E5%9C%88%E7%9A%84%E5%96%9C%E5%89%A7%E8%8A%82%E7%9B%AE%EF%BC%8C%E4%B8%AD%E4%B8%93%E7%94%9F%E5%A4%BA%E5%86%A0%E6%88%90%E4%BA%86%E4%BC%97%E6%9C%9B%E6%89%80%E5%BD%92%EF%BC%9F"/>
+        <updated>2026-09-05T13:16:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[听说你也渴望一种“手搓感”生活？]]></title>
+        <id>3d080395437223b9908f928a22c16ba5</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%90%AC%E8%AF%B4%E4%BD%A0%E4%B9%9F%E6%B8%B4%E6%9C%9B%E4%B8%80%E7%A7%8D%E2%80%9C%E6%89%8B%E6%90%93%E6%84%9F%E2%80%9D%E7%94%9F%E6%B4%BB%EF%BC%9F"/>
+        <updated>2026-09-05T13:16:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Best Alexa Speakers I’ve Tested (2026)]]></title>
         <id>5df1238e4a6a5900092a0c89</id>
@@ -73,6 +150,15 @@
         <summary type="html"><![CDATA[它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。查看全文]]></summary>
         <author>
             <name>写小黑文的Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第三期经济学人精读打卡营（最后两天）]]></title>
+        <id>e040b9107d05624b7350d69ca247990e</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%AC%AC%E4%B8%89%E6%9C%9F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%B2%BE%E8%AF%BB%E6%89%93%E5%8D%A1%E8%90%A5%EF%BC%88%E6%9C%80%E5%90%8E%E4%B8%A4%E5%A4%A9%EF%BC%89"/>
+        <updated>2026-09-05T07:59:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
@@ -254,24 +340,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“魔岩三杰”之一何勇去世：当麒麟飞上了天]]></title>
-        <id>c8a74e1aa3e1dbde5db060def90c0e10</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E2%80%9C%E9%AD%94%E5%B2%A9%E4%B8%89%E6%9D%B0%E2%80%9D%E4%B9%8B%E4%B8%80%E4%BD%95%E5%8B%87%E5%8E%BB%E4%B8%96%EF%BC%9A%E5%BD%93%E9%BA%92%E9%BA%9F%E9%A3%9E%E4%B8%8A%E4%BA%86%E5%A4%A9"/>
-        <updated>2026-09-04T13:12:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长期不吃蔬菜，最先坏掉的是哪里？]]></title>
-        <id>1d3b5ec06212a1f417509ab6076d1643</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%90%83%E8%94%AC%E8%8F%9C%EF%BC%8C%E6%9C%80%E5%85%88%E5%9D%8F%E6%8E%89%E7%9A%84%E6%98%AF%E5%93%AA%E9%87%8C%EF%BC%9F"/>
-        <updated>2026-09-04T13:12:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Feds launch investigation into Tesla’s Cybercab deployment]]></title>
         <id>https://techcrunch.com/?p=3160851</id>
         <link href="https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/"/>
@@ -391,15 +459,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[老辈子艺人勇闯国外，这档穷游综艺把人笑疯了]]></title>
-        <id>dd68001467ca391670e091ef5462ce3a</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%80%81%E8%BE%88%E5%AD%90%E8%89%BA%E4%BA%BA%E5%8B%87%E9%97%AF%E5%9B%BD%E5%A4%96%EF%BC%8C%E8%BF%99%E6%A1%A3%E7%A9%B7%E6%B8%B8%E7%BB%BC%E8%89%BA%E6%8A%8A%E4%BA%BA%E7%AC%91%E7%96%AF%E4%BA%86"/>
-        <updated>2026-09-04T09:14:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Silicon Valley Is Having a ‘Hot Girl Renaissance’]]></title>
         <id>6a9735781a29cad3901a209a</id>
         <link href="https://www.wired.com/story/silicon-valley-is-having-a-hot-girl-renaissance/"/>
@@ -510,16 +569,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bartesian Discount Codes: 35% Off]]></title>
-        <id>69d676a75ed03f09403e5ea0</id>
-        <link href="https://www.wired.com/story/bartesian-discount-code/"/>
-        <updated>2026-09-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.]]></summary>
-        <author>
-            <name>Matthew Korfhage</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[30% Off Tempur-Pedic Promo Codes | September 2026]]></title>
         <id>6859959712304f4d67bd7fd3</id>
         <link href="https://www.wired.com/story/tempur-pedic-promo-code/"/>
@@ -527,6 +576,16 @@
         <summary type="html"><![CDATA[Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.]]></summary>
         <author>
             <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bartesian Discount Codes: 35% Off]]></title>
+        <id>69d676a75ed03f09403e5ea0</id>
+        <link href="https://www.wired.com/story/bartesian-discount-code/"/>
+        <updated>2026-09-04T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.]]></summary>
+        <author>
+            <name>Matthew Korfhage</name>
         </author>
     </entry>
     <entry>
@@ -690,16 +749,6 @@ Woohae Cho for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oura files to go public]]></title>
-        <id>https://techcrunch.com/?p=3160717</id>
-        <link href="https://techcrunch.com/2026/09/03/oura-files-to-go-public/"/>
-        <updated>2026-09-03T22:35:41.000Z</updated>
-        <summary type="html"><![CDATA[The ring maker says that its business has shown significant revenue growth over the past year.]]></summary>
-        <author>
-            <name>Lucas Ropek</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient]]></title>
         <id>6a9890692f048bd98be061da</id>
         <link href="https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/"/>
@@ -707,16 +756,6 @@ Woohae Cho for The New York Times
         <summary type="html"><![CDATA[Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.]]></summary>
         <author>
             <name>Emily Mullin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla is asking people if they want to buy and run Cybercab fleets]]></title>
-        <id>https://techcrunch.com/?p=3160662</id>
-        <link href="https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/"/>
-        <updated>2026-09-03T22:18:30.000Z</updated>
-        <summary type="html"><![CDATA[The company published a form on its website Thursday soliciting info from people who are interested in "Cybercab fleet vehicle purchasing."]]></summary>
-        <author>
-            <name>Kirsten Korosec</name>
         </author>
     </entry>
     <entry>
@@ -737,36 +776,6 @@ Woohae Cho for The New York Times
         <summary type="html"><![CDATA[This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents]]></summary>
         <author>
             <name>Brian Barrett, Zoë Schiffer, Leah Feiger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Startup ARR is less secure than ever, new research shows]]></title>
-        <id>https://techcrunch.com/?p=3160602</id>
-        <link href="https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/"/>
-        <updated>2026-09-03T20:59:23.000Z</updated>
-        <summary type="html"><![CDATA[The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.]]></summary>
-        <author>
-            <name>Julie Bort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cybercab is Tesla’s ‘fork in the road’ moment]]></title>
-        <id>https://techcrunch.com/?p=3160634</id>
-        <link href="https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"/>
-        <updated>2026-09-03T19:42:48.000Z</updated>
-        <summary type="html"><![CDATA[The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.]]></summary>
-        <author>
-            <name>Sean O'Kane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation]]></title>
-        <id>https://techcrunch.com/?p=3160633</id>
-        <link href="https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"/>
-        <updated>2026-09-03T19:36:29.000Z</updated>
-        <summary type="html"><![CDATA[The high-profile startup's annual revenue run rate stands at over $100 million.]]></summary>
-        <author>
-            <name>Marina Temkin</name>
         </author>
     </entry>
     <entry>
@@ -1044,15 +1053,6 @@ Pool photo by Khaled Desouki
         <summary type="html"><![CDATA[World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[警惕全面贸易战的爆发 | 经济学人社论(双语译文）]]></title>
-        <id>c99fb1c4b7164de6a390f5caf613cb59</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E8%AD%A6%E6%83%95%E5%85%A8%E9%9D%A2%E8%B4%B8%E6%98%93%E6%88%98%E7%9A%84%E7%88%86%E5%8F%91%C2%A0%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%A4%BE%E8%AE%BA%28%E5%8F%8C%E8%AF%AD%E8%AF%91%E6%96%87%EF%BC%89"/>
-        <updated>2026-09-03T00:17:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
