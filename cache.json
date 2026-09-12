@@ -19,7 +19,7 @@
           "publishedOn": "2026-09-11T10:02:49.000Z",
           "wordCount": 460,
           "title": "本周看什么 | 最近值得一看的 7 部作品",
-          "imageUrl": "https://rssfile.sspai.com/2026/9/11/article/ab7b098f-1e29-d2a5-a35f-304fcef090ee.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+          "imageUrl": "https://rssfile.sspai.com/2026/9/11/article/ab7b098f-1e29-d2a5-a35f-304fcef090ee.png?imageMogr2/auto-orient/ignore-error/1"
         },
         {
           "id": "https://sspai.com/post/114449",
@@ -29,7 +29,7 @@
           "publishedOn": "2026-09-11T08:30:00.000Z",
           "wordCount": 965,
           "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-          "imageUrl": "https://rssfile.sspai.com/9/11/2026/article/eacc9ccf-194a-fda3-5e45-9143a685a502.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1"
+          "imageUrl": "https://rssfile.sspai.com/9/11/2026/article/eacc9ccf-194a-fda3-5e45-9143a685a502.jpeg?imageMogr2/auto-orient/ignore-error/1"
         },
         {
           "id": "https://sspai.com/post/113605",
@@ -39,7 +39,7 @@
           "publishedOn": "2026-09-11T06:50:20.000Z",
           "wordCount": 436,
           "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
-          "imageUrl": "https://rssfile.sspai.com/2026/09/08/32b4a1bec5790bca25cab0246fed7088.jpg?imageMogr2/auto-orient/ignore-error/1"
+          "imageUrl": "https://rssfile.sspai.com/2026/09/08/32b4a1bec5790bca25cab0246fed7088.jpg?imageMogr2/auto-orient/format/webp/ignore-error/1"
         },
         {
           "id": "https://sspai.com/post/114414",
@@ -57,7 +57,7 @@
           "description": "商务部回应美国 AI 蒸馏指控\n谷歌声称为了合规将「降级」欧盟搜索服务\nApple 智能将有用量限制\nOpenAI 将与三星合作开发芯片\n小岛秀夫新游戏被索尼取消，转由微软发行\nDeepSeek V4.1 发布\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
           "link": "https://sspai.com/post/114439",
           "publishedOn": "2026-09-10T22:58:54.000Z",
-          "wordCount": 495,
+          "wordCount": 496,
           "title": "派早报：商务部回应美国 AI 蒸馏指控",
           "imageUrl": "https://rssfile.sspai.com/9/11/2026/article/de4bcb4c-3b24-6419-114e-5825e70d9878.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
         },
@@ -99,7 +99,7 @@
           "publishedOn": "2026-09-09T21:21:18.000Z",
           "wordCount": 895,
           "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-          "imageUrl": "https://rssfile.sspai.com/9/10/2026/article/d3137427-2960-2a82-3fa3-3321c58b67ea.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1"
+          "imageUrl": "https://rssfile.sspai.com/9/10/2026/article/d3137427-2960-2a82-3fa3-3321c58b67ea.jpeg?imageMogr2/auto-orient/ignore-error/1"
         },
         {
           "id": "https://sspai.com/post/114366",
@@ -125,13 +125,113 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=3163323",
+          "author": "Marina Temkin",
+          "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+          "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "publishedOn": "2026-09-11T22:58:17.000Z",
+          "wordCount": 3385,
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3163211",
+          "author": "Connie Loizos",
+          "description": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
+          "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+          "publishedOn": "2026-09-11T21:19:05.000Z",
+          "wordCount": 3837,
+          "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?resize=1200,896"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3163179",
+          "author": "Julie Bort",
+          "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+          "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "publishedOn": "2026-09-11T20:59:47.000Z",
+          "wordCount": 3439,
+          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3163181",
+          "author": "Tim Fernholz",
+          "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+          "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+          "publishedOn": "2026-09-11T20:57:36.000Z",
+          "wordCount": 3504,
+          "title": "OpenAI’s feud with mathematicians is only escalating",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3162257",
+          "author": "TechCrunch Events",
+          "description": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+          "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+          "publishedOn": "2026-09-11T20:33:18.000Z",
+          "wordCount": 3197,
+          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3163158",
+          "author": "TechCrunch Events",
+          "description": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+          "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+          "publishedOn": "2026-09-11T20:30:17.000Z",
+          "wordCount": 3305,
+          "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/12/Disrupt-2024-Investor-Reception.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3163189",
+          "author": "Russell Brandom",
+          "description": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+          "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "publishedOn": "2026-09-11T19:35:54.000Z",
+          "wordCount": 3270,
+          "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3163043",
+          "author": "Ivan Mehta",
+          "description": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
+          "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+          "publishedOn": "2026-09-11T19:00:00.000Z",
+          "wordCount": 3549,
+          "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3163117",
+          "author": "TechCrunch Events",
+          "description": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
+          "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+          "publishedOn": "2026-09-11T18:58:01.000Z",
+          "wordCount": 4211,
+          "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Regional-Final-R2B-2026-2.png?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3163102",
+          "author": "Kirsten Korosec",
+          "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+          "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+          "publishedOn": "2026-09-11T16:46:25.000Z",
+          "wordCount": 3409,
+          "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024"
+        },
+        {
           "id": "https://techcrunch.com/?p=3163072",
           "author": "Sarah Perez",
           "description": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
           "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
           "publishedOn": "2026-09-11T15:19:00.000Z",
-          "wordCount": 3592,
-          "title": "Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster",
+          "wordCount": 3697,
+          "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800"
         },
         {
@@ -150,7 +250,7 @@
           "description": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
           "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
           "publishedOn": "2026-09-10T22:30:00.000Z",
-          "wordCount": 3848,
+          "wordCount": 3886,
           "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800"
         },
@@ -160,7 +260,7 @@
           "description": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
           "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
           "publishedOn": "2026-09-10T21:51:59.000Z",
-          "wordCount": 3669,
+          "wordCount": 3647,
           "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781"
         },
@@ -170,7 +270,7 @@
           "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
           "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
           "publishedOn": "2026-09-10T21:35:00.000Z",
-          "wordCount": 3417,
+          "wordCount": 3440,
           "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675"
         },
@@ -200,7 +300,7 @@
           "description": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
           "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
           "publishedOn": "2026-09-10T20:48:00.000Z",
-          "wordCount": 3794,
+          "wordCount": 3833,
           "title": "Furo’s founders left Silicon Valley — and it’s paying off",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/furo-cofounders.jpg?resize=1200,900"
         },
@@ -210,7 +310,7 @@
           "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
           "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
           "publishedOn": "2026-09-10T19:50:04.000Z",
-          "wordCount": 3759,
+          "wordCount": 3787,
           "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
         },
@@ -220,109 +320,9 @@
           "description": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
           "link": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
           "publishedOn": "2026-09-10T18:38:00.000Z",
-          "wordCount": 3388,
+          "wordCount": 3394,
           "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Proxima-Manufacturing-7.jpg?resize=1200,800"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3162784",
-          "author": "Sarah Perez",
-          "description": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
-          "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-          "publishedOn": "2026-09-10T18:10:36.000Z",
-          "wordCount": 3478,
-          "title": "Amazon makes it easier to buy what you see on Prime Video",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/3.-X-Ray-Shop-Tab.png?resize=1200,675"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3162739",
-          "author": "Tim Fernholz",
-          "description": "Come inside the mind of a bot trying to convince the internet it's human.",
-          "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-          "publishedOn": "2026-09-10T17:54:44.000Z",
-          "wordCount": 3969,
-          "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1356934365-e1695303681636.jpg?resize=1200,676"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3162605",
-          "author": "Jagmeet Singh",
-          "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-          "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-          "publishedOn": "2026-09-10T17:45:00.000Z",
-          "wordCount": 3770,
-          "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3162710",
-          "author": "Lauren Forristal",
-          "description": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
-          "link": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
-          "publishedOn": "2026-09-10T16:31:25.000Z",
-          "wordCount": 3314,
-          "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Instagram-tagged-posts.png?resize=1200,675"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3162536",
-          "author": "Ivan Mehta",
-          "description": "Google's new feature will transfer your passkeys as well.",
-          "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
-          "publishedOn": "2026-09-10T16:00:00.000Z",
-          "wordCount": 3230,
-          "title": "Google is making it easier to switch between password managers on Android",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Hero-Image.jpeg?resize=1200,675"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3162676",
-          "author": "Sean O'Kane",
-          "description": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-          "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-          "publishedOn": "2026-09-10T15:07:27.000Z",
-          "wordCount": 3407,
-          "title": "The Boring Company raises $3B in round led by UAE",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1311710604.jpg?resize=1200,770"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3162667",
-          "author": "Russell Brandom",
-          "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-          "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-          "publishedOn": "2026-09-10T14:53:50.000Z",
-          "wordCount": 3582,
-          "title": "AI agents are flooding public services with new requests",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3162593",
-          "author": "Ram Iyer",
-          "description": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
-          "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-          "publishedOn": "2026-09-10T14:34:09.000Z",
-          "wordCount": 3495,
-          "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Miro_Header-2400x1260-copy-1536x806-1.png?resize=1200,630"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3162108",
-          "author": "Tim Fernholz",
-          "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-          "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-          "publishedOn": "2026-09-10T14:17:37.000Z",
-          "wordCount": 3936,
-          "title": "Maven Robotics wants to steal your robot deployment deal",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3162581",
-          "author": "Jagmeet Singh",
-          "description": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
-          "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
-          "publishedOn": "2026-09-10T13:34:01.000Z",
-          "wordCount": 3635,
-          "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800"
         }
       ]
     },
@@ -343,7 +343,7 @@
           "description": "阿富汗战争始于9·11袭击仅数周后，持续近20年，最终在2021年8月15日的混乱中结束。时报记者全程报道了这场战争，并在战争结束后继续记录阿富汗人民的生活。\n\n                    \nJim Huylebroek for The New York Times",
           "link": "https://cn.nytimes.com/world/20260911/afghanistan-war-photojournalism/?utm_source=RSS",
           "publishedOn": "2026-09-11T04:46:19.000Z",
-          "wordCount": 552,
+          "wordCount": 551,
           "title": "美国在阿富汗的“永久战争”：25年影像全记录",
           "imageUrl": "https://static01.nyt.com/images/2026/08/25/multimedia/00int-afghanistan-25years-photos-promo-fkcm/00int-afghanistan-25years-photos-promo-fkcm-articleLarge.jpg"
         },
@@ -353,7 +353,7 @@
           "description": "目前人工智能的风险仍是假设性的担忧。这项技术远非人类面临的唯一生存风险，但它尚未得到充分理解，也不在人类自认为能控制的范围之内，因而引发恐惧。\n\n                    \nAndrew Harnik/Associated Press\n                    \n从大流行病到致命小行星，再到生态崩溃，人类面临诸多灭顶之灾。人工智能超智能不过是最近一个引发人们无限想象的话题。",
           "link": "https://cn.nytimes.com/technology/20260911/ai-humanity-risk/?utm_source=RSS",
           "publishedOn": "2026-09-11T03:54:25.000Z",
-          "wordCount": 240,
+          "wordCount": 239,
           "title": "人工智能末日论：人类为何会如此担忧？",
           "imageUrl": "https://static01.nyt.com/images/2026/09/10/science/10SCI-AI-RISK-EXPLAINER/10SCI-AI-RISK-EXPLAINER-articleLarge.jpg"
         },
@@ -363,7 +363,7 @@
           "description": "据中国官方媒体报道，起火的是一艘正在造船厂内接受维修的外籍货船，船名为“海洋旋律”号。火灾发生时船上共有42人。大火在几小时后被扑灭，起因尚不清楚。\n\n                    \nLi Aoqiu/Xinhua, via Associated Press\n                    \n周四，一艘货轮在中国青岛靠港时起火，消防车停靠在该货轮附近，图片由中国官方媒体发布。",
           "link": "https://cn.nytimes.com/china/20260911/china-cargo-ship-fire-qingdao/?utm_source=RSS",
           "publishedOn": "2026-09-11T02:21:30.000Z",
-          "wordCount": 229,
+          "wordCount": 228,
           "title": "青岛造船厂内外籍货船起火，25人遇难",
           "imageUrl": "https://static01.nyt.com/images/2026/09/10/multimedia/10xp-china-fire-ship-ghfl/10xp-china-fire-ship-ghfl-articleLarge.jpg"
         },
@@ -373,7 +373,7 @@
           "description": "Anthropic发布报告描述了其AI模型被滥用的情况。该公司表示，今年以来已多次阻止科学家利用其AI模型开展研究的企图，这些研究可能有助于开发生物武器。\n\n                    \nMarissa Leshnov for The New York Times\n                    \nAnthropic周四发布的报告列举了过去八个月其AI模型——包括聊天机器人Claude——遭到的一系列滥用情况。",
           "link": "https://cn.nytimes.com/technology/20260911/anthropic-ai-biological-weapons/?utm_source=RSS",
           "publishedOn": "2026-09-11T02:16:30.000Z",
-          "wordCount": 226,
+          "wordCount": 225,
           "title": "利用AI开发生物武器？Anthropic称阻止多起相关企图",
           "imageUrl": "https://static01.nyt.com/images/2026/09/10/multimedia/Dc-anthropic-zgkh/Dc-anthropic-zgkh-articleLarge.jpg"
         },
@@ -383,7 +383,7 @@
           "description": "法院裁定支联会三名领导人“煽动颠覆”罪名成立，邹幸彤获刑七年三个月，李卓人被判囚七年，何俊仁刑期为五年两个月。香港曾是中国唯一可以公开纪念六四遇难者的地方。\n\n                    \nPhilip Fong/AFP — Getty Images; Lam Yik/Reuters; Isaac Lawrence/AFP — Getty Images\n                    \n左起：李卓人，摄于2019年；邹幸彤，摄于2021年；何俊仁，摄于2019年。",
           "link": "https://cn.nytimes.com/china/20260911/hong-kong-tiananman-vigil-prison-sentence/?utm_source=RSS",
           "publishedOn": "2026-09-10T21:30:46.000Z",
-          "wordCount": 239,
+          "wordCount": 238,
           "title": "香港天安门事件守夜活动组织者被判入狱",
           "imageUrl": "https://static01.nyt.com/images/2026/09/11/world/11int-hongkong-vigil-grid/11int-hongkong-vigil-grid-articleLarge-v2.png"
         },
@@ -393,7 +393,7 @@
           "description": "美国当今现实的太多方面直接源于9·11，但它的影响并不像人们过去所认为的那样独一无二。它更像是美国社会分裂史的一个中间章节，而非惊天动地的开场。\n\n                    \nIllustration by Chantal Jahchan",
           "link": "https://cn.nytimes.com/usa/20260911/did-9-11-really-change-everything/?utm_source=RSS",
           "publishedOn": "2026-09-10T21:11:43.000Z",
-          "wordCount": 257,
+          "wordCount": 256,
           "title": "9·11事件真的改变了一切吗？",
           "imageUrl": "https://static01.nyt.com/images/2026/09/10/magazine/10mag-ideas-911-promo/10mag-ideas-911-promo-articleLarge.jpg"
         },
@@ -403,7 +403,7 @@
           "description": "万斯收到了一些关于这场战争的令人警醒的评估，这些评估与他本人、特朗普总统和其他高级政府官员公开的说法并不一致。消息人士称万斯对整体战略和获胜机会深感焦虑。\n\n                    \nShelby Tauber for The New York Times\n                    \n副总统JD·万斯周三在达拉斯。",
           "link": "https://cn.nytimes.com/usa/20260911/vance-iran-war-trump-munitions/?utm_source=RSS",
           "publishedOn": "2026-09-10T17:29:03.000Z",
-          "wordCount": 260,
+          "wordCount": 259,
           "title": "副总统万斯向军方官员寻求伊朗战争真实评估",
           "imageUrl": "https://static01.nyt.com/images/2026/09/10/multimedia/10dc-vance-commanders-new-ltpk/10dc-vance-commanders-new-ltpk-videoLarge.jpg"
         },
@@ -413,7 +413,7 @@
           "description": "借助人工智能，特朗普展示了一个建立在自我意识表达之上的世界。在这个世界里，他是一个巨人、一个硬汉、一个征服者。批评人士称，这些帖子也是他精神状态的晴雨表。\n\n                    \nAl Drago for The New York Times\n                    \n7月4日美国国庆日活动期间，特朗普在使用手机。发布数十条关于自己和对手的表情包及AI生成图像已成为他第二个任期的标志性特征。",
           "link": "https://cn.nytimes.com/usa/20260910/trump-social-media-ai-reality/?utm_source=RSS",
           "publishedOn": "2026-09-10T04:56:10.000Z",
-          "wordCount": 250,
+          "wordCount": 249,
           "title": "10小时60条社交媒体动态：特朗普的“现实”世界",
           "imageUrl": "https://static01.nyt.com/images/2026/09/09/multimedia/09dc-memo-PROMO/09dc-memo-top-khpw-articleLarge.jpg"
         },
@@ -423,7 +423,7 @@
           "description": "一名Anthropic员工表示他相信人工智能消灭人类的风险在未来十年内超过10%。他们的警告与近几个月来其他专家的担忧不谋而合，要求放慢开发速度的呼声也越来越高。\n\n                    \nLucas Foglia for The New York Times\n                    \nAnthropic旧金山办公室外的抗议活动。",
           "link": "https://cn.nytimes.com/technology/20260910/anthropic-researchers-raise-alarm/?utm_source=RSS",
           "publishedOn": "2026-09-10T02:37:14.000Z",
-          "wordCount": 229,
+          "wordCount": 228,
           "title": "AI可能消灭人类？Anthropic研究人员警告行业发展过速",
           "imageUrl": "https://static01.nyt.com/images/2026/09/09/multimedia/09biz-anthropic-1-qcft/09biz-anthropic-1-qcft-articleLarge.jpg"
         },
@@ -433,7 +433,7 @@
           "description": "检方指控华为窃取思科等六家美国公司的商业机密，并隐瞒该公司在伊朗的业务往来。八年前，孟晚舟在加拿大被捕使此案被公之于众。华为否认有任何不当行为。\n\n                    \nNicoco Chan/Reuters\n                    \n2018年，时任华为首席财务官孟晚舟。当时她在加拿大被捕，被指控窃取美国公司的商业机密。",
           "link": "https://cn.nytimes.com/usa/20260910/federal-trial-against-huawei-is-underway/?utm_source=RSS",
           "publishedOn": "2026-09-10T02:23:06.000Z",
-          "wordCount": 221,
+          "wordCount": 220,
           "title": "孟晚舟事件八年后，华为案在纽约开审",
           "imageUrl": "https://static01.nyt.com/images/2026/09/09/nyregion/09met-huawei-trial/09met-huawei-trial-articleLarge.jpg"
         },
@@ -443,7 +443,7 @@
           "description": "苹果新任CEO特纳斯表示，这款手机是自初代iPhone以来最具变革性的产品，“将重新定义折叠屏手机的使用体验”。苹果还发布了传统款iPhone和新一代智能手表等产品。\n\n                    \nJason Henry for The New York Times\n                    \n周三，苹果首席执行官约翰·特纳斯介绍了折叠屏iPhone Duo。",
           "link": "https://cn.nytimes.com/technology/20260910/apple-iphone-duo-foldable-phone/?utm_source=RSS",
           "publishedOn": "2026-09-10T01:42:16.000Z",
-          "wordCount": 291,
+          "wordCount": 290,
           "title": "苹果推出首款折叠屏手机iPhone Duo",
           "imageUrl": "https://static01.nyt.com/images/2026/09/09/business/09biz-apple-event-phone-2-03/09biz-apple-event-phone-2-03-articleLarge.jpg"
         },
@@ -453,7 +453,7 @@
           "description": "新加坡长期以来一直是全球政治人物薪酬最高的国家。该国总理黄循财本周宣布部长级官员涨薪，其本人的年薪将提高64%，达到360万新加坡元，约合人民币1910万元。\n\n                    \nLisa Marie David/Reuters\n                    \n5月，新加坡总理黄循财抵达菲律宾，出席东盟峰会。",
           "link": "https://cn.nytimes.com/asia-pacific/20260910/singapore-minister-salary/?utm_source=RSS",
           "publishedOn": "2026-09-10T01:25:56.000Z",
-          "wordCount": 221,
+          "wordCount": 220,
           "title": "新加坡总理涨薪64%，年收入超1900万人民币",
           "imageUrl": "https://static01.nyt.com/images/2026/09/09/multimedia/09int-singapore-salaries-zgtq/09int-singapore-salaries-zgtq-articleLarge.jpg"
         },
@@ -463,7 +463,7 @@
           "description": "25年前的那天，曼哈顿遭受重创，造成了可怕而无法弥补的代价。如今，归零地周围的社区正焕发生机，生命的力量远比恐袭和死亡更强大。\n\n                    \nAdam Gray/Getty Images",
           "link": "https://cn.nytimes.com/opinion/20260910/911-twin-towers-life-death/?utm_source=RSS",
           "publishedOn": "2026-09-10T00:30:01.000Z",
-          "wordCount": 223,
+          "wordCount": 222,
           "title": "9·11恐袭25年后，纽约的“归零”与重生",
           "imageUrl": "https://static01.nyt.com/images/2026/09/09/multimedia/08stephens-pmhg/08stephens-pmhg-articleLarge.jpg"
         },
@@ -473,7 +473,7 @@
           "description": "特朗普远非首位与加拿大发生争执的美国总统，贸易争端曾在20世纪的大部分时间里动摇两国关系。但特朗普对加拿大的敌意带有一种远超出经济范畴的民族主义色彩。\n\n                    \nAssociated Press\n                    \n1961年5月17日，约翰·肯尼迪总统在渥太华向加拿大议会联席会议发表讲话。",
           "link": "https://cn.nytimes.com/usa/20260910/trump-canada-tariffs/?utm_source=RSS",
           "publishedOn": "2026-09-09T18:17:50.000Z",
-          "wordCount": 225,
+          "wordCount": 224,
           "title": "特朗普引发“新仇”，但美国加拿大早有“旧怨”",
           "imageUrl": "https://static01.nyt.com/images/2026/09/09/multimedia/09dc-diplo-canada-fhbc/09dc-diplo-canada-fhbc-articleLarge.jpg"
         },
@@ -483,7 +483,7 @@
           "description": "一个研究团队利用先进模型快速构建了一个无需用户点击即可入侵微信的蠕虫，微信官方证实了该漏洞的存在并表示已修复。此事引发了对AI将为恶意黑客提供巨大优势的担忧。\n\n                    \nDado Ruvic/Reuters\n                    \n安全公司Calif的研究人员最近仅用一周多时间就构建了一个黑客工具，能够在微信上横行肆虐。",
           "link": "https://cn.nytimes.com/technology/20260909/calif-ai-worm-wechat-hack/?utm_source=RSS",
           "publishedOn": "2026-09-09T04:57:44.000Z",
-          "wordCount": 224,
+          "wordCount": 223,
           "title": "零点击微信蠕虫：人工智能将令黑客攻击更危险？",
           "imageUrl": "https://static01.nyt.com/images/2026/09/03/multimedia/03dc-cyber-tqwl/03dc-cyber-tqwl-articleLarge.jpg"
         },
@@ -493,7 +493,7 @@
           "description": "发生在中尼边境的洪灾已过去两周，中国官方尚未发布失踪人员名单。在信息匮乏的情况下，一些失踪者家属开始在网上发布贴文，宣泄失去亲人的悲痛与不安，并寻求帮助。\n\n                    \nPool photo by Tingshu Wang\n                    \n周日，在西藏吉隆口岸，救援人员陪同外国记者参加一场由政府组织的参观活动。中国官员表示，他们发布的信息透明及时。",
           "link": "https://cn.nytimes.com/china/20260909/china-nepal-border-flood-tibet-victims-messages/?utm_source=RSS",
           "publishedOn": "2026-09-09T04:02:23.000Z",
-          "wordCount": 243,
+          "wordCount": 242,
           "title": "官方信息匮乏，西藏洪灾失踪者家属在悲痛中寻找答案",
           "imageUrl": "https://static01.nyt.com/images/2026/09/07/multimedia/00int-tibet-flood-voices-03-fpml/00int-tibet-flood-voices-03-fpml-articleLarge.jpg"
         },
@@ -503,7 +503,7 @@
           "description": "印尼是仅次于中国的世界第二大塑料污染国。研究显示，印尼人均每月摄入15克塑料微粒，空气中微塑料浓度也位居世界前列。研究人员还在人类大脑和母乳中发现了塑料碎片。\n\n                    \n                    \n消防员努力控制坦格朗贾蒂瓦林因垃圾场大火时，燃烧的垃圾升起烟雾。",
           "link": "https://cn.nytimes.com/asia-pacific/20260908/indonesia-jakarta-landfill-fire-microplastics/?utm_source=RSS",
           "publishedOn": "2026-09-09T03:38:49.000Z",
-          "wordCount": 233,
+          "wordCount": 232,
           "title": "印度尼西亚的微塑料危机",
           "imageUrl": "https://static01.nyt.com/images/2026/09/08/multimedia/c08indonesia-microplastics-a-02/c08indonesia-microplastics-a-02-articleLarge.jpg"
         },
@@ -513,7 +513,7 @@
           "description": "中国正在推广首个使用北方海路的定期货运服务，通过北极捷径从亚洲驶向欧洲。分析认为，这条航线危险且昂贵，难以成为常规航线，但其背后有着北京的地缘政治考量。\n\n                    \nAgence France-Presse — Getty Images\n                    \n8月，中国“迪拜塔号”货轮停靠在宁波。本周，它将穿越北冰洋北上，完成前往英国的航程。",
           "link": "https://cn.nytimes.com/world/20260909/china-arctic-shipping-trade-route/?utm_source=RSS",
           "publishedOn": "2026-09-09T02:57:34.000Z",
-          "wordCount": 245,
+          "wordCount": 244,
           "title": "中国货船探索北极捷径：商业策略还是地缘政治考量？",
           "imageUrl": "https://static01.nyt.com/images/2026/09/08/multimedia/08INT-ARCTIC-CHINA-cfbq/08INT-ARCTIC-CHINA-cfbq-articleLarge.jpg"
         },
@@ -523,7 +523,7 @@
           "description": "这是迄今为止最引人注目的信号，表明人工智能正在从根本上改变高等数学领域，该领域长期以来被视为人类成就的巅峰。有知名数学家公开警告AI可能削弱人类对数学的理解。\n\n                    \nPhilippe Plailly/Science Source\n                    \n纳维-斯托克斯存在性与光滑性问题与一组流体力学方程相关，长期以来一直被视为数学领域中尚未解决的重大难题之一。",
           "link": "https://cn.nytimes.com/technology/20260909/openai-proof-millennium-problem/?utm_source=RSS",
           "publishedOn": "2026-09-08T23:43:53.000Z",
-          "wordCount": 230,
+          "wordCount": 229,
           "title": "OpenAI宣布已解出一道“千禧年大奖难题”",
           "imageUrl": "https://static01.nyt.com/images/2026/09/08/science/08SCI-AI-MATH-PROOF-01/08SCI-AI-MATH-PROOF-01-articleLarge.jpg"
         },
@@ -533,7 +533,7 @@
           "description": "在这一国际学生评估项目中，美国15岁学生的阅读成绩接近25年来的最低水平，数学成绩也显著下滑。中国学生在测试中表现出色，但测试样本集中于发达地区引发质疑。\n\n                    \nGeorge Etheredge for The New York Times\n                    \n专家表示，世界各地学生分数的下降与科技在儿童生活中日益增长的影响有关。",
           "link": "https://cn.nytimes.com/usa/20260909/us-reading-test-scores-pisa/?utm_source=RSS",
           "publishedOn": "2026-09-08T17:32:08.000Z",
-          "wordCount": 226,
+          "wordCount": 225,
           "title": "PISA测试：美国学生成绩大幅下滑，亚洲国家领先",
           "imageUrl": "https://static01.nyt.com/images/2026/09/08/multimedia/08nat-pisa-mjcg/08nat-pisa-mjcg-videoLarge.jpg"
         }
@@ -544,6 +544,26 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/lifeweek",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "1068bac07d081028cbae05efdf3a2852",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%BF%91%E6%9C%9F%E6%9C%80%E6%95%A2%E6%8B%8D%E7%9A%84%E7%8E%8B%E7%82%B8%E9%BB%91%E9%A9%AC%EF%BC%9A%E5%BD%93%E5%A4%B1%E5%8E%BB%E6%BF%80%E6%83%85%E7%9A%84%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E9%87%8D%E8%B0%88%E6%80%A7%E4%B8%8E%E7%88%B1",
+          "publishedOn": "2026-09-11T13:00:00.000Z",
+          "wordCount": 289,
+          "title": "近期最敢拍的王炸黑马：当失去激情的中年夫妻重谈性与爱",
+          "imageUrl": null
+        },
+        {
+          "id": "2df8a28a4f14f73ee4f8604fc5fba59e",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%BF%99%E4%B8%89%E6%9C%AC%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E5%A5%B3%E6%80%A7%E7%BB%8F%E5%85%B8%EF%BC%8C%E7%9C%9F%E7%9A%84%E5%90%8E%E6%82%94%E6%B2%A1%E6%9C%89%E6%97%A9%E7%82%B9%E8%AF%BB",
+          "publishedOn": "2026-09-11T13:00:00.000Z",
+          "wordCount": 303,
+          "title": "这三本被低估的女性经典，真的后悔没有早点读",
+          "imageUrl": null
+        },
         {
           "id": "1e7db2e41502ddff7aa5fcad78f37af5",
           "author": null,
@@ -573,26 +593,6 @@
           "wordCount": 310,
           "title": "在只收“差生”的学校当老师：这十年，我看见了另一种“成才”",
           "imageUrl": null
-        },
-        {
-          "id": "5a311f742958a45a101d3b0d2f48f3b6",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BD%95%E8%A6%81%E9%80%89%E5%8D%81%E4%B8%80%E5%90%8E%E9%94%99%E5%B3%B0%E6%97%85%E8%A1%8C%EF%BC%9F%E5%90%AC%E4%B8%89%E8%81%94%E6%99%8B%E4%B8%AD%E5%8D%97%E5%9B%A2%E7%9A%84%E2%80%9C%E6%8E%A2%E7%BA%BF%E5%91%98%E2%80%9D%E5%94%A0%E5%94%A0",
-          "publishedOn": "2026-09-10T13:00:00.000Z",
-          "wordCount": 263,
-          "title": "为何要选十一后错峰旅行？听三联晋中南团的“探线员”唠唠",
-          "imageUrl": null
-        },
-        {
-          "id": "e2d00a6e09f775fe48ab8a931cd91ebb",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%8F%88%E6%8B%89%E4%B8%8D%E5%87%BA%EF%BC%8C%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%9B%B0%E5%9C%A8%E8%BA%AB%E4%BD%93%E5%86%85%E8%80%97%E9%87%8C",
-          "publishedOn": "2026-09-10T09:01:00.000Z",
-          "wordCount": 296,
-          "title": "睡不着又拉不出，当代年轻人困在身体内耗里",
-          "imageUrl": null
         }
       ]
     },
@@ -602,12 +602,22 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29",
       "articles": [
         {
+          "id": "6a28fb443e319ddf282631b00f27d383",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%80%E5%B9%B4%E6%97%B6%E9%97%B4%EF%BC%8C%E6%85%A2%E6%85%A2%E8%AF%BB%E6%87%82%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B",
+          "publishedOn": "2026-09-11T11:07:00.000Z",
+          "wordCount": 316,
+          "title": "给自己一年时间，慢慢读懂《经济学人》",
+          "imageUrl": null
+        },
+        {
           "id": "249c3124a610a105612076f42a9fd8e8",
           "author": null,
           "description": "",
           "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E4%B8%80%E7%A2%97%E7%BA%A2%E8%8F%9C%E6%B1%A4%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%90%E4%BA%86%E6%88%98%E4%BA%89%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86%EF%BC%9F%20%7C%20Foreign%20Affairs",
           "publishedOn": "2026-09-11T03:50:00.000Z",
-          "wordCount": 364,
+          "wordCount": 349,
           "title": "一碗红菜汤，为什么成了战争的一部分？ | Foreign Affairs",
           "imageUrl": null
         },
@@ -617,7 +627,7 @@
           "description": "",
           "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E4%BB%80%E4%B9%88%E9%80%A0%E5%B0%B1%E4%BA%86%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%EF%BC%9F%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E8%B4%A2%E7%BB%8F%28%E5%8F%8C%E8%AF%AD%E8%AF%91%E6%96%87%EF%BC%89",
           "publishedOn": "2026-09-11T00:39:00.000Z",
-          "wordCount": 336,
+          "wordCount": 344,
           "title": "什么造就了伟大的投资者？ | 经济学人财经(双语译文）",
           "imageUrl": null
         },
@@ -637,18 +647,8 @@
           "description": "",
           "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%EF%BC%8C%E6%89%BE%E5%AF%B9%E8%B1%A1%E4%B9%9F%E8%A6%81%E6%89%BE%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%EF%BC%9F%20%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA",
           "publishedOn": "2026-09-10T03:55:00.000Z",
-          "wordCount": 345,
+          "wordCount": 339,
           "title": "为什么有些独生子女，找对象也要找独生子女？  | 经济学人",
-          "imageUrl": null
-        },
-        {
-          "id": "4fc0fc6c3669cb3b30a8c025e25241a7",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E4%B8%96%E7%95%8C%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%B3%E6%B2%B9%E4%BA%A4%E6%98%93%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%A4%BE%E8%AE%BA%28%E5%8F%8C%E8%AF%AD%E8%AF%91%E6%96%87%EF%BC%89",
-          "publishedOn": "2026-09-10T00:04:00.000Z",
-          "wordCount": 300,
-          "title": "世界历史上最大的石油交易 | 经济学人社论(双语译文）",
           "imageUrl": null
         }
       ]
@@ -659,12 +659,52 @@
       "siteUrl": "https://www.wired.com",
       "articles": [
         {
+          "id": "6994fce99d85208c5f768223",
+          "author": "Jennifer M. Wood",
+          "description": "South Park, Slow Horses, Neon Genesis Evangelion, and a Lego-fied Mandalorian are just a few of the things you should be watching right now.",
+          "link": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+          "publishedOn": "2026-09-11T19:36:43.000Z",
+          "wordCount": 28939,
+          "title": "The 9 Best TV Shows to Stream This Month (September 2026)",
+          "imageUrl": "https://media.wired.com/photos/6aa43cf5acc1ba98aeac1316/191:100/w_1280,c_limit/Show-Watch-Guide-Culture-LegoMandalorian_01.jpg"
+        },
+        {
+          "id": "6aa41351ad39288c906c2bdc",
+          "author": "Kate Knibbs",
+          "description": "The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war—and even more potential insider trading at Google, documents obtained by WIRED show.",
+          "link": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
+          "publishedOn": "2026-09-11T19:21:34.000Z",
+          "wordCount": 27409,
+          "title": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
+          "imageUrl": "https://media.wired.com/photos/6aa423dcb30233b4abc2d13c/191:100/w_1280,c_limit/Business_US%20Government%20Looked%20Into%20Insider%20Trading%20Allegations%20Over%20Biden%20Pardons%20on%20Polymarket_v1.jpg"
+        },
+        {
+          "id": "6aa40fffad39288c906c2baf",
+          "author": "Dhruv Mehrotra",
+          "description": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+          "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+          "publishedOn": "2026-09-11T18:59:25.000Z",
+          "wordCount": 27498,
+          "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+          "imageUrl": "https://media.wired.com/photos/6aa4120d92d2b4de236f2240/191:100/w_1280,c_limit/GettyImages-2289768151.jpg"
+        },
+        {
+          "id": "696a9f4eb35feb809a8fe080",
+          "author": "Molly Higgins",
+          "description": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
+          "link": "https://www.wired.com/story/petlibro-discount-code/",
+          "publishedOn": "2026-09-11T16:19:49.000Z",
+          "wordCount": 29403,
+          "title": "Petlibro Offers: 30% Off in September 2026",
+          "imageUrl": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/191:100/w_1280,c_limit/WIRED-Coupons-R2_3.png"
+        },
+        {
           "id": "6aa2ebafac09546d4c4d2127",
           "author": "Lauren Goode",
           "description": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
           "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
           "publishedOn": "2026-09-11T15:00:00.000Z",
-          "wordCount": 28678,
+          "wordCount": 29246,
           "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
           "imageUrl": "https://media.wired.com/photos/6aa2e16e1ef586476d0a1793/191:100/w_1280,c_limit/Backchannel-Timnit-Gebru-Business.jpg"
         },
@@ -674,7 +714,7 @@
           "description": "Braden Sinclair is one of just 50 people in the world who can have unlimited pasta at the chain for life. Now, fans are deciding what he should eat next.",
           "link": "https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/",
           "publishedOn": "2026-09-11T11:00:00.000Z",
-          "wordCount": 28487,
+          "wordCount": 28869,
           "title": "This Man Has a Cult Internet Following Over His Olive Garden Lifetime Pasta Pass",
           "imageUrl": "https://media.wired.com/photos/6aa1b0826e35b597d5b3992c/191:100/w_1280,c_limit/OLIVEGARDEN_BRADENSINCLAIR_BONNIEDURHAM-9368.jpg"
         },
@@ -684,7 +724,7 @@
           "description": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
           "link": "https://www.wired.com/gallery/best-travel-adapters/",
           "publishedOn": "2026-09-11T11:00:00.000Z",
-          "wordCount": 33313,
+          "wordCount": 33367,
           "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
           "imageUrl": "https://media.wired.com/photos/69f5039cd2f33f723151e0ca/191:100/w_1280,c_limit/The-Best-Travel-Adapters.jpg"
         },
@@ -694,7 +734,7 @@
           "description": "The agricultural machine manufacturer has a subscription service that lets owners repair their own equipment. Why is barely anybody using it?",
           "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
           "publishedOn": "2026-09-11T10:45:00.000Z",
-          "wordCount": 30092,
+          "wordCount": 30284,
           "title": "I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It",
           "imageUrl": "https://media.wired.com/photos/6aa34b1b31130b4af58e1d2b/191:100/w_1280,c_limit/John-Deere-5ML-Tractor.jpg"
         },
@@ -704,7 +744,7 @@
           "description": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
           "link": "https://www.wired.com/gallery/best-mushroom-coffee/",
           "publishedOn": "2026-09-11T10:33:00.000Z",
-          "wordCount": 41247,
+          "wordCount": 41349,
           "title": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
           "imageUrl": "https://media.wired.com/photos/68422670b6a5ae04b97cb39e/191:100/w_1280,c_limit/Best%20Mushroom%20Coffee%20(update)_.png"
         },
@@ -714,7 +754,7 @@
           "description": "The US government has been sharing more information about UFOs. That's fueling excitement over the possibility of the president announcing that humans are not alone.",
           "link": "https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/",
           "publishedOn": "2026-09-11T10:30:00.000Z",
-          "wordCount": 28960,
+          "wordCount": 29375,
           "title": "The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch",
           "imageUrl": "https://media.wired.com/photos/6aa085cf50048b9f2b3259a5/191:100/w_1280,c_limit/Trump-Alien-Disclosure-Speech.jpg"
         },
@@ -724,7 +764,7 @@
           "description": "Crackpot theories were once the stuff of shortwave radio, but September 11 unleashed the Age of Alex Jones.",
           "link": "https://www.wired.com/story/conspiracy-how-9-11-broke-americas-brain/",
           "publishedOn": "2026-09-11T10:00:00.000Z",
-          "wordCount": 31830,
+          "wordCount": 32015,
           "title": "How 9/11 Made Everyone a Conspiracy Theorist",
           "imageUrl": "https://media.wired.com/photos/6aa3274315a68f9c2571c796/191:100/w_1280,c_limit/TheBigStory_Garrett%20Graff%209-11%20Truth%20Anniversary%20Essay_v2.2.jpg"
         },
@@ -734,7 +774,7 @@
           "description": "The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
           "link": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
           "publishedOn": "2026-09-11T09:15:00.000Z",
-          "wordCount": 25742,
+          "wordCount": 25875,
           "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
           "imageUrl": "https://media.wired.com/photos/6aa1c319e3b72ced9abda322/191:100/w_1280,c_limit/drones%20M%C3%A9xico%20EE%20UU%20operativo%202244404487.jpg"
         },
@@ -744,7 +784,7 @@
           "description": "Samsung is resting on its laurels with the midrange S26 FE, with an unwelcome price bump and only a new processor to show for it.",
           "link": "https://www.wired.com/review/samsung-galaxy-s26-fe/",
           "publishedOn": "2026-09-11T09:00:00.000Z",
-          "wordCount": 25047,
+          "wordCount": 25104,
           "title": "Samsung Galaxy S26 FE Review: Same as Before, but for More Money",
           "imageUrl": "https://media.wired.com/photos/6aa35a8b5d0d801ae42441bf/191:100/w_1280,c_limit/Samsung%20Galaxy%20S26%20FE%202%20SOURCE%20Simon%20Hill.jpg"
         },
@@ -754,39 +794,9 @@
           "description": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
           "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
           "publishedOn": "2026-09-11T09:00:00.000Z",
-          "wordCount": 27916,
+          "wordCount": 28064,
           "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
           "imageUrl": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/191:100/w_1280,c_limit/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg"
-        },
-        {
-          "id": "674f80033ffc1b7f03c85b6b",
-          "author": "Molly Higgins",
-          "description": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more September 2026 discounts.",
-          "link": "https://www.wired.com/story/chewy-promo-code/",
-          "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 31607,
-          "title": "Chewy Promo Codes: $20 Off September 2026",
-          "imageUrl": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg"
-        },
-        {
-          "id": "682755a99198909d2f7f6652",
-          "author": "Matthew Korfhage",
-          "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this September.",
-          "link": "https://www.wired.com/story/home-depot-promo-code/",
-          "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 31543,
-          "title": "Home Depot Promo Codes: 30% Off in September 2026",
-          "imageUrl": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/191:100/w_1280,c_limit/WIRED-Coupons-R2_13.png"
-        },
-        {
-          "id": "69dd137ca1e49505ef8b581e",
-          "author": "Luke Larsen",
-          "description": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
-          "link": "https://www.wired.com/story/corsair-coupon/",
-          "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 28846,
-          "title": "Corsair Discount Code: Up to 50% Off for September 2026",
-          "imageUrl": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/191:100/w_1280,c_limit/WIRED-Coupons-R2_15.png"
         },
         {
           "id": "68a8989bf03cdf200a3ff545",
@@ -794,9 +804,39 @@
           "description": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
           "link": "https://www.wired.com/story/lenovo-coupon-code/",
           "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 29101,
+          "wordCount": 29185,
           "title": "Lenovo Coupon Codes: 15% Off in September 2026",
           "imageUrl": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/191:100/w_1280,c_limit/WIRED-Coupons-R2_8.png"
+        },
+        {
+          "id": "69c14a90c8c019cf2b9a5309",
+          "author": "Boutayna Chokrane",
+          "description": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+          "link": "https://www.wired.com/story/ulta-coupon/",
+          "publishedOn": "2026-09-11T05:00:00.000Z",
+          "wordCount": 28630,
+          "title": "Ulta Promo Codes: Up to 20% Off in September 2026",
+          "imageUrl": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/191:100/w_1280,c_limit/WIRED-Coupons-R2_3.png"
+        },
+        {
+          "id": "682755a99198909d2f7f6652",
+          "author": "Matthew Korfhage",
+          "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this September.",
+          "link": "https://www.wired.com/story/home-depot-promo-code/",
+          "publishedOn": "2026-09-11T05:00:00.000Z",
+          "wordCount": 31385,
+          "title": "Home Depot Promo Codes: 30% Off in September 2026",
+          "imageUrl": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/191:100/w_1280,c_limit/WIRED-Coupons-R2_13.png"
+        },
+        {
+          "id": "674f80033ffc1b7f03c85b6b",
+          "author": "Molly Higgins",
+          "description": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more September 2026 discounts.",
+          "link": "https://www.wired.com/story/chewy-promo-code/",
+          "publishedOn": "2026-09-11T05:00:00.000Z",
+          "wordCount": 31600,
+          "title": "Chewy Promo Codes: $20 Off September 2026",
+          "imageUrl": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg"
         },
         {
           "id": "6740c6ad29e1604c90f59b4f",
@@ -804,7 +844,7 @@
           "description": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
           "link": "https://www.wired.com/story/doordash-promo-code/",
           "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 28085,
+          "wordCount": 28080,
           "title": "50% Off DoorDash Promo Code | September 2026",
           "imageUrl": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/191:100/w_1280,c_limit/WIRED-Coupons-10.jpg"
         },
@@ -814,7 +854,7 @@
           "description": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this September 2026.",
           "link": "https://www.wired.com/story/canon-promo-code/",
           "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 29402,
+          "wordCount": 29338,
           "title": "30% Off Canon Promo Codes | September 2026",
           "imageUrl": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/191:100/w_1280,c_limit/WIRED-Coupons-3.jpg"
         },
@@ -824,7 +864,7 @@
           "description": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
           "link": "https://www.wired.com/story/surfshark-coupon/",
           "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 27798,
+          "wordCount": 28083,
           "title": "Surfshark Promo Codes: 87% Off | September 2026",
           "imageUrl": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/191:100/w_1280,c_limit/WIRED-Coupons-17.jpg"
         },
@@ -834,19 +874,19 @@
           "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
           "link": "https://www.wired.com/story/lg-promo-code/",
           "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 29001,
+          "wordCount": 29062,
           "title": "LG Promo Codes and Coupons for September 2026",
           "imageUrl": "https://media.wired.com/photos/67b63b985a505b018b67ed90/191:100/w_1280,c_limit/WIRED-Coupons-R2_17.png"
         },
         {
-          "id": "69c14a90c8c019cf2b9a5309",
-          "author": "Boutayna Chokrane",
-          "description": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-          "link": "https://www.wired.com/story/ulta-coupon/",
+          "id": "69dd137ca1e49505ef8b581e",
+          "author": "Luke Larsen",
+          "description": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
+          "link": "https://www.wired.com/story/corsair-coupon/",
           "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 28638,
-          "title": "Ulta Promo Codes: Up to 20% Off in September 2026",
-          "imageUrl": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/191:100/w_1280,c_limit/WIRED-Coupons-R2_3.png"
+          "wordCount": 29010,
+          "title": "Corsair Discount Code: Up to 50% Off for September 2026",
+          "imageUrl": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/191:100/w_1280,c_limit/WIRED-Coupons-R2_15.png"
         },
         {
           "id": "6a0cb3b01b63989e349c1231",
@@ -854,7 +894,7 @@
           "description": "Discover the best Stearns and Foster promo codes, discounts, and deals to elevate your sleep experience with premium comfort and quality.",
           "link": "https://www.wired.com/story/stearns-and-foster-promo-code/",
           "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 25910,
+          "wordCount": 26010,
           "title": "Stearns and Foster Promo Codes: $300 Off in September 2026",
           "imageUrl": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/191:100/w_1280,c_limit/WIRED-Coupons-4.jpg"
         },
@@ -864,19 +904,9 @@
           "description": "Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals will have you waking up refreshed—and with cash left in your wallet.",
           "link": "https://www.wired.com/story/sealy-promo-code/",
           "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 26748,
+          "wordCount": 26705,
           "title": "Sealy Promo Codes: $100 Off",
           "imageUrl": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/191:100/w_1280,c_limit/WIRED-Coupons-R2_15.png"
-        },
-        {
-          "id": "67bccc2de807ab74e8f0139a",
-          "author": "Kat Merck",
-          "description": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-          "link": "https://www.wired.com/story/att-promo-code/",
-          "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 31812,
-          "title": "AT&T Promo Codes: $50 Off This September 2026",
-          "imageUrl": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/191:100/w_1280,c_limit/WIRED-Coupons-R2_13.png"
         },
         {
           "id": "69ce7c738533ad5603cb8fd9",
@@ -884,7 +914,7 @@
           "description": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
           "link": "https://www.wired.com/story/castlery-promo-code/",
           "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 27412,
+          "wordCount": 27486,
           "title": "Castlery Promo Codes: 15% Off for September 2026",
           "imageUrl": "https://media.wired.com/photos/67b63b9a4816461befb48207/191:100/w_1280,c_limit/WIRED-Coupons-R2_12.png"
         },
@@ -894,7 +924,7 @@
           "description": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
           "link": "https://www.wired.com/story/skullcandy-discount-code/",
           "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 26863,
+          "wordCount": 26907,
           "title": "Skullcandy Discount Code: 30% Off | September 2026",
           "imageUrl": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/191:100/w_1280,c_limit/WIRED-Coupons-R2_13.png"
         },
@@ -904,9 +934,19 @@
           "description": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
           "link": "https://www.wired.com/story/samsung-promo-codes/",
           "publishedOn": "2026-09-11T05:00:00.000Z",
-          "wordCount": 33377,
+          "wordCount": 33469,
           "title": "20% Off Samsung Promo Code | September 2026",
           "imageUrl": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/191:100/w_1280,c_limit/WIRED-Coupons-3.jpg"
+        },
+        {
+          "id": "67bccc2de807ab74e8f0139a",
+          "author": "Kat Merck",
+          "description": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+          "link": "https://www.wired.com/story/att-promo-code/",
+          "publishedOn": "2026-09-11T05:00:00.000Z",
+          "wordCount": 31701,
+          "title": "AT&T Promo Codes: $50 Off This September 2026",
+          "imageUrl": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/191:100/w_1280,c_limit/WIRED-Coupons-R2_13.png"
         },
         {
           "id": "6aa2f5da9bfef15e7a640b9f",
@@ -914,7 +954,7 @@
           "description": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
           "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
           "publishedOn": "2026-09-10T23:28:42.000Z",
-          "wordCount": 26684,
+          "wordCount": 27203,
           "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
           "imageUrl": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg"
         },
@@ -924,7 +964,7 @@
           "description": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
           "publishedOn": "2026-09-10T20:30:37.000Z",
-          "wordCount": 39741,
+          "wordCount": 39801,
           "title": "Is AI Actually Going to Kill Us All?",
           "imageUrl": "https://media.wired.com/photos/6aa216877d79a224cda3a43a/191:100/w_1280,c_limit/Uncanny-Valley-Anthropic-Employee-Business.jpg"
         },
@@ -934,7 +974,7 @@
           "description": "While the strengthening El Niño helped boost temperatures, climate change is the main culprit for making August so hot.",
           "link": "https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/",
           "publishedOn": "2026-09-10T20:20:23.000Z",
-          "wordCount": 26249,
+          "wordCount": 26193,
           "title": "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data",
           "imageUrl": "https://media.wired.com/photos/6aa2fe8bf61e32d0e5c27220/191:100/w_1280,c_limit/You-Just-Lived-Through-the-Hottest-Month-Ever-Science-2286431827.jpg"
         },
@@ -944,7 +984,7 @@
           "description": "Apple’s new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that’s right for you.",
           "link": "https://www.wired.com/story/which-apple-iphone-18-models-to-buy/",
           "publishedOn": "2026-09-10T16:30:00.000Z",
-          "wordCount": 31537,
+          "wordCount": 31327,
           "title": "Which iPhone 18 Model Should You Buy?",
           "imageUrl": "https://media.wired.com/photos/6aa2d2e676850b4862a36c92/191:100/w_1280,c_limit/Which-iPhone-18-Model-Should-You-Buy-.jpg"
         },
@@ -954,7 +994,7 @@
           "description": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
           "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
           "publishedOn": "2026-09-10T16:04:02.000Z",
-          "wordCount": 36078,
+          "wordCount": 36314,
           "title": "Best Robot Lawn Mowers (2026): 12+ Models Tested Over 3 Years",
           "imageUrl": "https://media.wired.com/photos/6a3221464e63d441b28e3620/191:100/w_1280,c_limit/The-Best-Robot-Lawn-Mowers.jpg"
         },
@@ -964,7 +1004,7 @@
           "description": "Experts say conspiracy theorizing about the identity and motive of Charlie Kirk’s killer will likely continue for a long time to come.",
           "link": "https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/",
           "publishedOn": "2026-09-10T14:34:36.000Z",
-          "wordCount": 26936,
+          "wordCount": 27120,
           "title": "Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever",
           "imageUrl": "https://media.wired.com/photos/6aa18f229ba60a161c7e4cb9/191:100/w_1280,c_limit/charlie-kirk-conspiracies.jpg"
         },
@@ -974,7 +1014,7 @@
           "description": "I tested portable speakers of all shapes and sizes, from pocket to party-sized.",
           "link": "https://www.wired.com/story/best-bluetooth-speakers/",
           "publishedOn": "2026-09-10T11:00:00.000Z",
-          "wordCount": 33319,
+          "wordCount": 33957,
           "title": "Best Bluetooth Speaker (2026): JBL, Sonos, Marshall, and More",
           "imageUrl": "https://media.wired.com/photos/6aa200b3c37f42357d6ac6ea/191:100/w_1280,c_limit/The-Best-Bluetooth-Speakers-for-Tunes-Anywhere-You-Go.jpg"
         },
@@ -984,7 +1024,7 @@
           "description": "The Black Panther villain’s hairstyle has become a default for Black video game characters because it’s easy to code. Danielle Udogaranya is changing that.",
           "link": "https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it/",
           "publishedOn": "2026-09-10T10:45:00.000Z",
-          "wordCount": 27653,
+          "wordCount": 27861,
           "title": "‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It",
           "imageUrl": "https://media.wired.com/photos/6aa2e0c770da26f935f4b5cb/191:100/w_1280,c_limit/Killmonger-Locs-Culture-MCDBLPA_EC170.jpg"
         },
@@ -994,7 +1034,7 @@
           "description": "Windows laptops have never been so good, and they’re only going to get better as we move through 2026.",
           "link": "https://www.wired.com/gallery/best-windows-laptops/",
           "publishedOn": "2026-09-10T10:30:00.000Z",
-          "wordCount": 35048,
+          "wordCount": 35122,
           "title": "9 Windows Laptops That Give MacBooks a Run for Their Money",
           "imageUrl": "https://media.wired.com/photos/6aa0a851cd93d7f9a51fd1c1/191:100/w_1280,c_limit/The-Best-Windows-Laptops.jpg"
         },
@@ -1004,7 +1044,7 @@
           "description": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
           "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
           "publishedOn": "2026-09-10T10:30:00.000Z",
-          "wordCount": 28086,
+          "wordCount": 27876,
           "title": "Everything New You Can Do With Siri AI",
           "imageUrl": "https://media.wired.com/photos/6a9e944a1e3f7c600a7f4444/191:100/w_1280,c_limit/GettyImages-2255802700.jpg"
         },
@@ -1014,7 +1054,7 @@
           "description": "In Emily St. John Mandel’s new novel Exit Party, becoming a “ghost” means running afoul of the state. In this excerpt, a secret agent discovers it doesn’t take much.",
           "link": "https://www.wired.com/story/book-excerpt-emily-st-john-mandel-exit-party/",
           "publishedOn": "2026-09-10T10:15:00.000Z",
-          "wordCount": 33942,
+          "wordCount": 34520,
           "title": "Book Excerpt: Emily St. John Mandel’s ‘Exit Party’ Imagines a Future Where a Spy Could Disappear",
           "imageUrl": "https://media.wired.com/photos/6aa1b1434eb21a2db77402ae/191:100/w_1280,c_limit/excerpt_culture_Exit%20Party%20by%20Emily%20St_v1.jpg"
         },
@@ -1024,7 +1064,7 @@
           "description": "The Vari Ergo electric standing desk is compact, easy to assemble, affordable, and gently sloped to fit my natural posture and shape.",
           "link": "https://www.wired.com/review/vari-ergo-electric-standing-desk/",
           "publishedOn": "2026-09-10T10:05:00.000Z",
-          "wordCount": 23354,
+          "wordCount": 23529,
           "title": "Vari Electric Standing Desk Review (2026): Form and Value",
           "imageUrl": "https://media.wired.com/photos/6aa20c879cc7a31249b76a75/191:100/w_1280,c_limit/Review--Vari-Ergo-Standing-Desk.jpg"
         },
@@ -1034,7 +1074,7 @@
           "description": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
           "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
           "publishedOn": "2026-09-10T10:00:00.000Z",
-          "wordCount": 31682,
+          "wordCount": 31079,
           "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
           "imageUrl": "https://media.wired.com/photos/6aa1c412411a289a7d31a71a/191:100/w_1280,c_limit/Security_Clearview%20AI%20Is%20Testing%20an%20AI%20Tool%20That%20Lets%20Cops%20Instantly%20Unearth%20Your%20Online%20Activity_v1.jpg"
         },
@@ -1044,7 +1084,7 @@
           "description": "Despite the many health risks, sexual strangulation has become popular among young people—with some experts blaming adult content for normalizing it.",
           "link": "https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking/",
           "publishedOn": "2026-09-10T09:45:00.000Z",
-          "wordCount": 29627,
+          "wordCount": 28994,
           "title": "A Teen Girl’s Death Is Prompting Calls to Ban Choking in Porn",
           "imageUrl": "https://media.wired.com/photos/6aa07601255190b17f3b2cac/191:100/w_1280,c_limit/Culture_A%20Teen%20Girl's%20Death%20Is%20Prompting%20Calls%20to%20Ban%20Choking%20in%20Porn_v2.jpg"
         },
@@ -1054,7 +1094,7 @@
           "description": "“I think that's been the most helpful thing,” says the ESPN journalist. “So there you go, Zoomers. There's a reason to have children.”",
           "link": "https://www.wired.com/story/user-behavior-mina-kimes/",
           "publishedOn": "2026-09-10T09:30:00.000Z",
-          "wordCount": 31423,
+          "wordCount": 32428,
           "title": "Want to Get Off Your Phone? Mina Kimes Suggests Having a Baby",
           "imageUrl": "https://media.wired.com/photos/6aa15272b402a7d627305b37/191:100/w_1280,c_limit/user-behavior-mina-kimes-web.jpg"
         },
@@ -1064,7 +1104,7 @@
           "description": "Before reentering our atmosphere, the telescopes onboard NASA’s Neil Gehrels Swift Observatory have been restarted to take their last observations.",
           "link": "https://www.wired.com/story/satellite-falling-out-of-space-embarks-on-final-mission/",
           "publishedOn": "2026-09-10T09:15:00.000Z",
-          "wordCount": 25774,
+          "wordCount": 26154,
           "title": "A Satellite Falling Out of Orbit Embarks on Its Final Mission",
           "imageUrl": "https://media.wired.com/photos/6aa18e19e013fa80cb9a0366/191:100/w_1280,c_limit/swift_view_01_comp.png"
         },
@@ -1074,7 +1114,7 @@
           "description": "The GoPro Max 2 is almost half off at Amazon and other retailers, along with other great action camera deals.",
           "link": "https://www.wired.com/story/gopro-max-2-deal-september-2026/",
           "publishedOn": "2026-09-10T09:00:00.000Z",
-          "wordCount": 27180,
+          "wordCount": 27017,
           "title": "Our Favorite GoPro 360 Camera Is Now 40 Percent Off",
           "imageUrl": "https://media.wired.com/photos/6aa1f780662fbdcd3871fb06/191:100/w_1280,c_limit/Our-Favorite-GoPro-360-Camera-Is-Now-40-Percent-Off.jpg"
         },
@@ -1084,7 +1124,7 @@
           "description": "The eyebrow-raising proposal, delivered during the president’s speech at the midterm convention, would cost $1.2 trillion and would need congressional approval.",
           "link": "https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/",
           "publishedOn": "2026-09-10T06:30:32.000Z",
-          "wordCount": 26284,
+          "wordCount": 26542,
           "title": "Trump Probably Won’t Give $5,000 to Every US Adult if Republicans Win the Midterms",
           "imageUrl": "https://media.wired.com/photos/6aa27ae7660f050841cec804/191:100/w_1280,c_limit/GettyImages-2294432281.jpg"
         },
@@ -1094,19 +1134,9 @@
           "description": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
           "link": "https://www.wired.com/story/norton-coupon-code/",
           "publishedOn": "2026-09-10T05:00:00.000Z",
-          "wordCount": 26178,
+          "wordCount": 26017,
           "title": "Norton Coupon Codes: Up to 58% Off",
           "imageUrl": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/191:100/w_1280,c_limit/WIRED-Coupons-17.jpg"
-        },
-        {
-          "id": "6761d31009e85beb9eef459b",
-          "author": "Molly Higgins",
-          "description": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
-          "link": "https://www.wired.com/story/govee-discount-code/",
-          "publishedOn": "2026-09-10T05:00:00.000Z",
-          "wordCount": 28171,
-          "title": "Govee Discount Codes and Deals: 30% Off",
-          "imageUrl": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/191:100/w_1280,c_limit/WIRED-Coupons-13.jpg"
         },
         {
           "id": "687565481c98b721c8067ce0",
@@ -1114,49 +1144,19 @@
           "description": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
           "link": "https://www.wired.com/story/nzxt-discount-code/",
           "publishedOn": "2026-09-10T05:00:00.000Z",
-          "wordCount": 26787,
+          "wordCount": 26686,
           "title": "NZXT Discount Codes: 50% Off in September 2026",
           "imageUrl": "https://media.wired.com/photos/67b63b995a505b018b67ed92/191:100/w_1280,c_limit/WIRED-Coupons-R2_10.png"
         },
         {
-          "id": "689106ddb62bf4a139ca3cca",
-          "author": "Matthew Korfhage",
-          "description": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
-          "link": "https://www.wired.com/story/hungryroot-promo-code/",
+          "id": "6761d31009e85beb9eef459b",
+          "author": "Molly Higgins",
+          "description": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
+          "link": "https://www.wired.com/story/govee-discount-code/",
           "publishedOn": "2026-09-10T05:00:00.000Z",
-          "wordCount": 27686,
-          "title": "Hungryroot Coupon Codes: 30% Off This September 2026",
-          "imageUrl": "https://media.wired.com/photos/67b63b972c751893c256c1e6/191:100/w_1280,c_limit/WIRED-Coupons-R2_16.png"
-        },
-        {
-          "id": "6a0cb2f3783504bef308aa6c",
-          "author": "Nena Farrell",
-          "description": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in September 2026.",
-          "link": "https://www.wired.com/story/herman-miller-promo-code/",
-          "publishedOn": "2026-09-10T05:00:00.000Z",
-          "wordCount": 27095,
-          "title": "Herman Miller Promo Codes: 40% Off September 2026",
-          "imageUrl": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/191:100/w_1280,c_limit/WIRED-Coupons-1.jpg"
-        },
-        {
-          "id": "69b4491c0ec2d46639a5cd12",
-          "author": "Scott Gilbertson",
-          "description": "Gear up for your next adventure with these Coleman coupons and discount codes to save on camping essentials and outdoor gear.",
-          "link": "https://www.wired.com/story/coleman-promo-code/",
-          "publishedOn": "2026-09-10T05:00:00.000Z",
-          "wordCount": 26882,
-          "title": "Coleman Promo Codes and Deals: Up to 75% Off in September 2026",
-          "imageUrl": "https://media.wired.com/photos/67b63b985a505b018b67ed90/191:100/w_1280,c_limit/WIRED-Coupons-R2_17.png"
-        },
-        {
-          "id": "6aa18ecc989080f6e79c9e38",
-          "author": "Maxwell Zeff",
-          "description": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
-          "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-          "publishedOn": "2026-09-09T22:11:55.000Z",
-          "wordCount": 33894,
-          "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-          "imageUrl": "https://media.wired.com/photos/6aa1b02e3037c77bcc965f82/191:100/w_1280,c_limit/Security_Interview%20With%20Anthropic%20Guy%20Who%20Quit%20Because%20AI%20Is%20Going%20to%20Kill%20Everybody_v1.jpg"
+          "wordCount": 28069,
+          "title": "Govee Discount Codes and Deals: 30% Off",
+          "imageUrl": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/191:100/w_1280,c_limit/WIRED-Coupons-13.jpg"
         }
       ]
     }
