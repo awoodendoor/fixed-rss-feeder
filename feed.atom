@@ -1,10 +1,426 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-01T04:04:01.545Z</id>
+    <id>urn:2026-10-01T17:59:08.243Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-01T04:04:01.545Z</updated>
+    <updated>2026-10-01T17:59:08.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)]]></title>
+        <id>https://techcrunch.com/?p=3172744</id>
+        <link href="https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"/>
+        <updated>2026-10-01T17:50:19.000Z</updated>
+        <summary type="html"><![CDATA[Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.]]></summary>
+        <author>
+            <name>Russell Brandom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This startup wants to turn idle user car inventory into rental revenue]]></title>
+        <id>https://techcrunch.com/?p=3170357</id>
+        <link href="https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/"/>
+        <updated>2026-10-01T17:09:00.000Z</updated>
+        <summary type="html"><![CDATA[When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only need a car for a few months are stuck paying too much for too little choice, so he built MyMonthlyCar, a platform that lets dealers rent out their idle used cars month to month (with an option to buy), and it's now one of the startups showing off at this year's TechCrunch Disrupt, running October 13 to 15 in San Francisco.]]></summary>
+        <author>
+            <name>Kirsten Korosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon releases its own Jev clone as decision models flood the web]]></title>
+        <id>https://techcrunch.com/?p=3172717</id>
+        <link href="https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"/>
+        <updated>2026-10-01T16:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify debuts Canvas, a way to build online stores by chatting with AI]]></title>
+        <id>https://techcrunch.com/?p=3172692</id>
+        <link href="https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"/>
+        <updated>2026-10-01T16:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people]]></title>
+        <id>https://techcrunch.com/?p=3172729</id>
+        <link href="https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/"/>
+        <updated>2026-10-01T16:35:25.000Z</updated>
+        <summary type="html"><![CDATA[The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tim Heidecker Is Bringing His Joe Rogan Parody Show to The Onion]]></title>
+        <id>6abd47d8056519305e116512</id>
+        <link href="https://www.wired.com/story/tim-heidecker-is-bringing-his-joe-rogan-parody-show-to-the-onion/"/>
+        <updated>2026-10-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Five years after the comedian went viral with a 12-hour blabberthon mocking the king of bro podcasting, he’s back in character to shill a supplement called “Crab Salts.”]]></summary>
+        <author>
+            <name>Miles Klee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One year later, Tesla and Musk still don’t have a good definition of ‘abundance’]]></title>
+        <id>https://techcrunch.com/?p=3171737</id>
+        <link href="https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/"/>
+        <updated>2026-10-01T15:50:10.000Z</updated>
+        <summary type="html"><![CDATA[The CEO promised to get more specific about his vision. But the details are still absent.]]></summary>
+        <author>
+            <name>Sean O'Kane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brian Chesky interview: AI agents need their own operating system]]></title>
+        <id>https://techcrunch.com/?p=3172101</id>
+        <link href="https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/"/>
+        <updated>2026-10-01T15:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.]]></summary>
+        <author>
+            <name>Ivan Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.]]></title>
+        <id>https://techcrunch.com/?p=3169890</id>
+        <link href="https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"/>
+        <updated>2026-10-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hearing tech startup Legato launches its AI hearing glasses]]></title>
+        <id>https://techcrunch.com/?p=3172360</id>
+        <link href="https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"/>
+        <updated>2026-10-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audible’s new features let you explore book worlds — and use AI to talk to characters]]></title>
+        <id>https://techcrunch.com/?p=3172474</id>
+        <link href="https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/"/>
+        <updated>2026-10-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader]]></title>
+        <id>https://techcrunch.com/?p=3172495</id>
+        <link href="https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/"/>
+        <updated>2026-10-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon introduces Kindle Click, a $35 remote for turning pages]]></title>
+        <id>https://techcrunch.com/?p=3172555</id>
+        <link href="https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/"/>
+        <updated>2026-10-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.]]></summary>
+        <author>
+            <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s the Best Kindle of 2026 (So Far)?]]></title>
+        <id>5c9126abe48fae1a55ed4ea6</id>
+        <link href="https://www.wired.com/gallery/best-kindle/"/>
+        <updated>2026-10-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.]]></summary>
+        <author>
+            <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kindle, Paperwhite, and Colorsoft 2026: Specs, Price, Release Date]]></title>
+        <id>6abd1d18997c2cea663523e6</id>
+        <link href="https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh/"/>
+        <updated>2026-10-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of the Kindle’s 20th anniversary next year, Amazon is refreshing its entire range of e-readers with fresh colors, an aluminum build, and a new frame design that’s both thinner and lighter.]]></summary>
+        <author>
+            <name>Julian Chokkattu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days]]></title>
+        <id>6abc0464897fab4030f834f4</id>
+        <link href="https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day/"/>
+        <updated>2026-10-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon raised prices across its devices in August. Here are the early device deals ahead of Prime Day that are still worth it—and which aren’t.]]></summary>
+        <author>
+            <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing]]></title>
+        <id>6abc2215ff2c41d6ed1c1715</id>
+        <link href="https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/"/>
+        <updated>2026-10-01T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Only two of five vehicles finished the race around a notoriously difficult Formula 1 track, exposing what happens when autonomous systems meet blind corners, sensor failures, and physics.]]></summary>
+        <author>
+            <name>Tamanna Sajeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites]]></title>
+        <id>https://techcrunch.com/?p=3172378</id>
+        <link href="https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"/>
+        <updated>2026-10-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measles Is Forcing Hospitals to Adapt to a New Normal]]></title>
+        <id>6ab19024ade3d66cae78d67a</id>
+        <link href="https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/"/>
+        <updated>2026-10-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The US resurgence of measles is forcing hospitals and health systems to adopt new protocols and procedures to deal with a disease they thought was in the past.]]></summary>
+        <author>
+            <name>Emily Mullin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More]]></title>
+        <id>6aac286faf13ab2d8d362372</id>
+        <link href="https://www.wired.com/story/gifts-for-parents-2026/"/>
+        <updated>2026-10-01T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If your friend is in the depths of newborn survival, these gifts and gadgets can go a long way to make parenting a little easier.]]></summary>
+        <author>
+            <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+]]></title>
+        <id>6246df08ceb527a328de3864</id>
+        <link href="https://www.wired.com/gallery/best-wifi-routers/"/>
+        <updated>2026-10-01T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.]]></summary>
+        <author>
+            <name>Simon Hill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Threat to the Midterms Is Regular Americans Thinking Violence Is the Answer]]></title>
+        <id>6abd20e56366a0250b4ee422</id>
+        <link href="https://www.wired.com/story/the-real-threat-to-the-midterms-is-regular-americans-thinking-violence-is-the-answer/"/>
+        <updated>2026-10-01T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Robert A. Pape, a leading authority on political violence, wants Americans to understand that the threat is coming not from the fringes, but from the mainstream.]]></summary>
+        <author>
+            <name>David Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储应如何衡量通胀 | 经济学人财经(双语译文）]]></title>
+        <id>0c4e403c2e15d8c90639026f7f885c34</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BE%8E%E8%81%94%E5%82%A8%E5%BA%94%E5%A6%82%E4%BD%95%E8%A1%A1%E9%87%8F%E9%80%9A%E8%83%80%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E8%B4%A2%E7%BB%8F%28%E5%8F%8C%E8%AF%AD%E8%AF%91%E6%96%87%EF%BC%89"/>
+        <updated>2026-10-01T11:03:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给自己一年时间，慢慢读懂《经济学人》]]></title>
+        <id>6a28fb443e319ddf282631b00f27d383</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%80%E5%B9%B4%E6%97%B6%E9%97%B4%EF%BC%8C%E6%85%A2%E6%85%A2%E8%AF%BB%E6%87%82%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B"/>
+        <updated>2026-10-01T11:03:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tractive Cat 6 Mini Review: A Fitbit for Your Cat]]></title>
+        <id>6a19e995614fca6d1ee09011</id>
+        <link href="https://www.wired.com/review/tractive-cat-6-mini/"/>
+        <updated>2026-10-01T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Cats are finally getting the dog treatment. This smart cat collar features GPS location, activity, and sleep tracking, plus all-new heart and respiratory rate monitoring.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusive: Neurable’s First Brain-Scanning Headphones Want to Fine-Tune Your Focus]]></title>
+        <id>6ab689b7dd67f48cef56c43f</id>
+        <link href="https://www.wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus/"/>
+        <updated>2026-10-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The company claims that its new device, the Neurable One, can keep you in the zone, calculate the best time to take a break, and tell you when your “brain battery” needs a recharge.]]></summary>
+        <author>
+            <name>Julian Chokkattu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race]]></title>
+        <id>6ab69fdc3ed5f7e510d98624</id>
+        <link href="https://www.wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race/"/>
+        <updated>2026-10-01T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[James Dolan has put surveillance at the center of his sports and entertainment empire. Now he’s getting involved in GOP politics by backing a candidate who supports Flock, ICE, and AI data centers.]]></summary>
+        <author>
+            <name>Noah Shachtman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Mac Studio (M5 Ultra) Review: Unlimited Power]]></title>
+        <id>6ab2f1f5d5dbe8037c9501d5</id>
+        <link href="https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/"/>
+        <updated>2026-10-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Mac Studio can run frontier-level AI language models locally. It’s only a preview of what’s to come.]]></summary>
+        <author>
+            <name>Luke Larsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secrets of the US Spyware King]]></title>
+        <id>6ab69e3d3be975e24c8d98fa</id>
+        <link href="https://www.wired.com/story/the-secrets-of-the-us-spyware-king/"/>
+        <updated>2026-10-01T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In an exclusive interview with WIRED, Paragon Solutions CEO Andrew Boyd reveals the limits of the company’s promise to keep bad actors from abusing its powerful espionage tool.]]></summary>
+        <author>
+            <name>Kim Zetter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Casio’s Crystal G-Shock Is the Most Expensive Ever Made]]></title>
+        <id>6ab68b03dc8186933f408dea</id>
+        <link href="https://www.wired.com/story/casio-crystal-g-shock-is-the-most-expensive-ever-made/"/>
+        <updated>2026-10-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet the full-blue sapphire MRG-D5000, a crazy G-Shock that costs more than a Patek Philippe or Porsche Macan.]]></summary>
+        <author>
+            <name>Jeremy White</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dell Coupon Codes: 20% Off for October 2026]]></title>
+        <id>67119320efb17e0b0a750c63</id>
+        <link href="https://www.wired.com/story/dell-coupon-code/"/>
+        <updated>2026-10-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.]]></summary>
+        <author>
+            <name>Luke Larsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026]]></title>
+        <id>67100c9a82459143cee93f27</id>
+        <link href="https://www.wired.com/story/nordvpn-coupon/"/>
+        <updated>2026-10-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mountain Hardwear Coupon Code 15% Off October]]></title>
+        <id>6abc0b61297b0fd25b3f2cf1</id>
+        <link href="https://www.wired.com/story/mountain-hardwear-promo-codes/"/>
+        <updated>2026-10-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[High-performance mountaineering and hiking apparel doesn't have to break the bank.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Booking.com Promo Codes: 20% Off | October 2026]]></title>
+        <id>671fef9f5c6935ccd7cbc918</id>
+        <link href="https://www.wired.com/story/booking-com-promo-code/"/>
+        <updated>2026-10-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paramount+ Coupon Codes and Deals for 2026]]></title>
+        <id>68a74f4bac61cbbb255166f7</id>
+        <link href="https://www.wired.com/story/paramount-plus-coupon-code/"/>
+        <updated>2026-10-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20% Off Samsung Promo Code | October 2026]]></title>
+        <id>6682a4c73029f65bb234b2d6</id>
+        <link href="https://www.wired.com/story/samsung-promo-codes/"/>
+        <updated>2026-10-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newegg Promo Codes and Coupons for October 2026]]></title>
+        <id>671bc281433273bdc6e673bc</id>
+        <link href="https://www.wired.com/story/newegg-promo-code/"/>
+        <updated>2026-10-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eBay Coupons: 20% Off in October 2026]]></title>
+        <id>672d41fcd6406683ec9bfd2e</id>
+        <link href="https://www.wired.com/story/ebay-coupon-code/"/>
+        <updated>2026-10-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T Promo Codes: $50 Off This October 2026]]></title>
+        <id>67bccc2de807ab74e8f0139a</id>
+        <link href="https://www.wired.com/story/att-promo-code/"/>
+        <updated>2026-10-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.]]></summary>
+        <author>
+            <name>Kat Merck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dyson Promo Codes: 25% Off in October 2026]]></title>
+        <id>66f197b41b1d2e8dde4bb52f</id>
+        <link href="https://www.wired.com/story/dyson-cordless-vacuum-promo-code/"/>
+        <updated>2026-10-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.]]></summary>
+        <author>
+            <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个中产沉迷“搞运动”的海边小城，凭什么比三亚还火？]]></title>
+        <id>5eadcbf2a5915205bf2e50754b809051</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%BF%99%E4%B8%AA%E4%B8%AD%E4%BA%A7%E6%B2%89%E8%BF%B7%E2%80%9C%E6%90%9E%E8%BF%90%E5%8A%A8%E2%80%9D%E7%9A%84%E6%B5%B7%E8%BE%B9%E5%B0%8F%E5%9F%8E%EF%BC%8C%E5%87%AD%E4%BB%80%E4%B9%88%E6%AF%94%E4%B8%89%E4%BA%9A%E8%BF%98%E7%81%AB%EF%BC%9F"/>
+        <updated>2026-10-01T04:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[书法，一个能陪你到老的爱好]]></title>
+        <id>2d753845fbccef2175d19ed63668bd80</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B9%A6%E6%B3%95%EF%BC%8C%E4%B8%80%E4%B8%AA%E8%83%BD%E9%99%AA%E4%BD%A0%E5%88%B0%E8%80%81%E7%9A%84%E7%88%B1%E5%A5%BD"/>
+        <updated>2026-10-01T04:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google releases Gemini 4 Argon, called its most powerful model yet]]></title>
         <id>https://techcrunch.com/?p=3172532</id>
@@ -106,16 +522,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BMW built the same car for gas and electric. The EV is $4,400 cheaper.]]></title>
-        <id>https://techcrunch.com/?p=3172355</id>
-        <link href="https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/"/>
-        <updated>2026-09-30T19:19:40.000Z</updated>
-        <summary type="html"><![CDATA[The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Furry Airline Pilots Are Just Minding Their Own Business]]></title>
         <id>6aba9dd77cc62221969305e4</id>
         <link href="https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/"/>
@@ -123,16 +529,6 @@
         <summary type="html"><![CDATA[“We’re furries at home, and we’re airline pilots at work, and these are two separate things,” says one member of the community in response to senator Tommy Tuberville's recent rant.]]></summary>
         <author>
             <name>Ej Dickson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s Jev clone could help the frontier lab stop its swarming agents]]></title>
-        <id>https://techcrunch.com/?p=3172187</id>
-        <link href="https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"/>
-        <updated>2026-09-30T19:00:57.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI's "Decisions API" is a Jev clone that confirms the importance of fast, cheap intelligence.]]></summary>
-        <author>
-            <name>Tim Fernholz</name>
         </author>
     </entry>
     <entry>
@@ -146,96 +542,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI voice startup ElevenLabs doubles valuation to $22B]]></title>
-        <id>https://techcrunch.com/?p=3172305</id>
-        <link href="https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"/>
-        <updated>2026-09-30T18:23:57.000Z</updated>
-        <summary type="html"><![CDATA[The $300 million employee tender was co-led by Wellington and T. Rowe Price.]]></summary>
-        <author>
-            <name>Marina Temkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit is killing RSS feeds and ending public API access because of AI bots]]></title>
-        <id>https://techcrunch.com/?p=3172243</id>
-        <link href="https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"/>
-        <updated>2026-09-30T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ugly economics of consumer AI]]></title>
-        <id>https://techcrunch.com/?p=3172200</id>
-        <link href="https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"/>
-        <updated>2026-09-30T17:24:45.000Z</updated>
-        <summary type="html"><![CDATA[There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.]]></summary>
-        <author>
-            <name>Russell Brandom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta disputes claim that Muse read a user’s private messages without permission]]></title>
-        <id>https://techcrunch.com/?p=3172182</id>
-        <link href="https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"/>
-        <updated>2026-09-30T16:24:23.000Z</updated>
-        <summary type="html"><![CDATA[Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DoorDash launches an AI agent you can text to order food]]></title>
-        <id>https://techcrunch.com/?p=3172181</id>
-        <link href="https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"/>
-        <updated>2026-09-30T16:00:24.000Z</updated>
-        <summary type="html"><![CDATA[By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.]]></summary>
-        <author>
-            <name>Aisha Malik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destro AI’s secret sauce is getting robots and humans on the same page]]></title>
-        <id>https://techcrunch.com/?p=3164565</id>
-        <link href="https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"/>
-        <updated>2026-09-30T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA["One of the biggest reasons we are winning against robotics companies is because we are not a robotics company."]]></summary>
-        <author>
-            <name>Tim Fernholz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instinct’s new product recommendations are giving some users the ick]]></title>
-        <id>https://techcrunch.com/?p=3172149</id>
-        <link href="https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/"/>
-        <updated>2026-09-30T15:56:28.000Z</updated>
-        <summary type="html"><![CDATA[Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FedEx orders 2,000 electric trucks from Harbinger in $300M deal]]></title>
-        <id>https://techcrunch.com/?p=3172168</id>
-        <link href="https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/"/>
-        <updated>2026-09-30T15:26:02.000Z</updated>
-        <summary type="html"><![CDATA[The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.]]></summary>
-        <author>
-            <name>Sean O'Kane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pledge signed by President Trump and top AI leaders misspells the United States]]></title>
-        <id>https://techcrunch.com/?p=3172147</id>
-        <link href="https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/"/>
-        <updated>2026-09-30T14:50:55.000Z</updated>
-        <summary type="html"><![CDATA[On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there seems to be a catch.]]></summary>
-        <author>
-            <name>Dominic-Madori Davis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[从玩家的世界掠过：Bungie 的「列车」如何驶向终焉]]></title>
         <id>https://sspai.com/post/115070</id>
         <link href="https://sspai.com/post/115070"/>
@@ -243,26 +549,6 @@
         <summary type="html"><![CDATA[Bungie 究竟是在和时间赛跑，还是在和自己赛跑？查看全文]]></summary>
         <author>
             <name>Plutonium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google launches Fitbit Air in India, though its high price might deter the masses]]></title>
-        <id>https://techcrunch.com/?p=3172028</id>
-        <link href="https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/"/>
-        <updated>2026-09-30T14:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram rolls out an AI video assistant for creators]]></title>
-        <id>https://techcrunch.com/?p=3171759</id>
-        <link href="https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/"/>
-        <updated>2026-09-30T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.]]></summary>
-        <author>
-            <name>Amanda Silberling</name>
         </author>
     </entry>
     <entry>
@@ -356,24 +642,6 @@
         <title type="html"><![CDATA[三联×China Daily：“旅行长见识”为什么是一个误区？]]></title>
         <id>cae3edcd651c7374f38ac75cd512aab1</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%89%E8%81%94%C3%97China%20Daily%EF%BC%9A%E2%80%9C%E6%97%85%E8%A1%8C%E9%95%BF%E8%A7%81%E8%AF%86%E2%80%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%80%E4%B8%AA%E8%AF%AF%E5%8C%BA%EF%BC%9F"/>
-        <updated>2026-09-30T09:12:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花几十块钱逛一上午，“纯过日子人”反向旅游的尽头是这里？]]></title>
-        <id>5fa28ba0d0786a0d98aad63faa51222e</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%8A%B1%E5%87%A0%E5%8D%81%E5%9D%97%E9%92%B1%E9%80%9B%E4%B8%80%E4%B8%8A%E5%8D%88%EF%BC%8C%E2%80%9C%E7%BA%AF%E8%BF%87%E6%97%A5%E5%AD%90%E4%BA%BA%E2%80%9D%E5%8F%8D%E5%90%91%E6%97%85%E6%B8%B8%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E8%BF%99%E9%87%8C%EF%BC%9F"/>
-        <updated>2026-09-30T09:12:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[武汉人：日子怎么能在哪过都一样？]]></title>
-        <id>41a1875541ef01fcfee08953e3b5beaa</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%AD%A6%E6%B1%89%E4%BA%BA%EF%BC%9A%E6%97%A5%E5%AD%90%E6%80%8E%E4%B9%88%E8%83%BD%E5%9C%A8%E5%93%AA%E8%BF%87%E9%83%BD%E4%B8%80%E6%A0%B7%EF%BC%9F"/>
         <updated>2026-09-30T09:12:00.000Z</updated>
         <author>
             <name>三联生活周刊</name>
@@ -630,15 +898,6 @@ Ioulex for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本期《经济学人》最值得读的10篇文章]]></title>
-        <id>40aa2ae2e1a5196dc81dfc06fa3a6eb5</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%9C%AC%E6%9C%9F%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E6%9C%80%E5%80%BC%E5%BE%97%E8%AF%BB%E7%9A%8410%E7%AF%87%E6%96%87%E7%AB%A0"/>
-        <updated>2026-09-29T11:28:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Beat Surveillance Pricing Before It Bleeds You Dry]]></title>
         <id>6ab56ee63ed5f7e510d97aab</id>
         <link href="https://www.wired.com/story/how-to-beat-surveillance-pricing-before-it-bleeds-you-dry/"/>
@@ -679,46 +938,6 @@ Ioulex for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Pentagon Influencer Called Liberal Women a ‘Pestilence’ Who Will End Western Civilization]]></title>
-        <id>6aba82608b2487ca5ad0b7b7</id>
-        <link href="https://www.wired.com/story/a-pentagon-influencer-called-liberal-women-a-pestilence-who-will-end-western-civilization/"/>
-        <updated>2026-09-29T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Kurt Schlichter was part of a task force rooting out so-called woke ideologies at the military’s war colleges. He has called to bar childless adults from voting.]]></summary>
-        <author>
-            <name>David Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beats 360 Review: Customizable, Stylish, and Fun]]></title>
-        <id>6ab7126311b77abf96ddf18c</id>
-        <link href="https://www.wired.com/review/beats-360/"/>
-        <updated>2026-09-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Beats’ new flagship headphones are customizable, stylish, fun, and great for working out. But there are stronger options for everyday use.]]></summary>
-        <author>
-            <name>Harry Rabinowitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plastic Is Melting Onto Corals]]></title>
-        <id>6aba9f427ea3dd9a2098dce8</id>
-        <link href="https://www.wired.com/story/plastic-is-melting-onto-corals/"/>
-        <updated>2026-09-29T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientists have found a new form of pollution, one where plastic and pieces of coral become irreversibly intertwined.]]></summary>
-        <author>
-            <name>Ritsuko Kawai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[19 Best Gifts for Plant Lovers and Gardeners (2026)]]></title>
-        <id>69efe202cbaa77bdcc0d53d7</id>
-        <link href="https://www.wired.com/story/gifts-for-plant-lovers-and-gardeners-2026/"/>
-        <updated>2026-09-29T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[From smart apps and planters to unique tools, these gifts will turn even a black thumb into a next-level plant parent.]]></summary>
-        <author>
-            <name>Kat Merck</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单]]></title>
         <id>https://sspai.com/post/115153</id>
         <link href="https://sspai.com/post/115153"/>
@@ -736,75 +955,6 @@ Ioulex for The New York Times]]></summary>
         <summary type="html"><![CDATA[全新 Apple Watch Series 12，有哪些可感知的升级？查看全文]]></summary>
         <author>
             <name>ElijahLee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026]]></title>
-        <id>67100c9a82459143cee93f27</id>
-        <link href="https://www.wired.com/story/nordvpn-coupon/"/>
-        <updated>2026-09-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home Depot Promo Codes: 30% Off in October 2026]]></title>
-        <id>682755a99198909d2f7f6652</id>
-        <link href="https://www.wired.com/story/home-depot-promo-code/"/>
-        <updated>2026-09-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.]]></summary>
-        <author>
-            <name>Matthew Korfhage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorola Coupon Code for October 2026]]></title>
-        <id>6a91b2ddf6dd9530a8f6b0e2</id>
-        <link href="https://www.wired.com/story/motorola-coupon-code/"/>
-        <updated>2026-09-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.]]></summary>
-        <author>
-            <name>Les Shu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50% Off Blue Apron Promo Codes | October 2026]]></title>
-        <id>672bb91dfd3b3c8dcf4aa83a</id>
-        <link href="https://www.wired.com/story/blue-apron-coupon/"/>
-        <updated>2026-09-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.]]></summary>
-        <author>
-            <name>Louryn Strampe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Target Promo Code: $50 Off | October 2026]]></title>
-        <id>671aae969d2d2bafd3d3cba6</id>
-        <link href="https://www.wired.com/story/target-promo-code/"/>
-        <updated>2026-09-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uplift Promo Codes: $300 Off]]></title>
-        <id>69dd14dc718b510536f28dad</id>
-        <link href="https://www.wired.com/story/uplift-desk-coupon-code/"/>
-        <updated>2026-09-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.]]></summary>
-        <author>
-            <name>Nicole Kinning</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年薪3000万美元，美国顶级律所为什么抢人抢疯了？摔倒 | 经济学人]]></title>
-        <id>f357d28ba1b28985843898acfbf5eeca</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%B9%B4%E8%96%AA3000%E4%B8%87%E7%BE%8E%E5%85%83%EF%BC%8C%E7%BE%8E%E5%9B%BD%E9%A1%B6%E7%BA%A7%E5%BE%8B%E6%89%80%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%A2%E4%BA%BA%E6%8A%A2%E7%96%AF%E4%BA%86%EF%BC%9F%E6%91%94%E5%80%92%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA"/>
-        <updated>2026-09-29T04:57:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
@@ -878,16 +1028,6 @@ Kevin Frayer/Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nothing’s New Headphone (1) Pro Are Made for the Studio]]></title>
-        <id>6ab697dca0aca56b43c1338d</id>
-        <link href="https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/"/>
-        <updated>2026-09-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With three drivers in each ear and tuning from Metropolis Studios, Nothing wants its new $399 cans to shine in the studio while also making your commute more musical.]]></summary>
-        <author>
-            <name>Julian Chokkattu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美中同意互降关税，涉及商品价值600亿美元]]></title>
         <id>https://cn.nytimes.com/business/20260929/china-us-summit-tariffs/</id>
         <link href="https://cn.nytimes.com/business/20260929/china-us-summit-tariffs/?utm_source=RSS"/>
@@ -913,36 +1053,6 @@ Mario Tama/Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shark’s NeverChange Air Purifier Is Nearly Half Off Right Now]]></title>
-        <id>6abaa23519bd978f6b73d578</id>
-        <link href="https://www.wired.com/story/shark-air-purifier-deal-october-2026/"/>
-        <updated>2026-09-28T21:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Shark and other top air purifier brands are on discount ahead of Amazon Prime Big Deal Days.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boox Announces the Picco, Its Smallest E-Reader Ever (2026)]]></title>
-        <id>6ab56ba3fcc0d8024d83ec15</id>
-        <link href="https://www.wired.com/story/boox-picco-announcement-2026/"/>
-        <updated>2026-09-28T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Boox Picco is a palm-sized e-reader with a 4-inch screen, strong support for different ebook formats, and digital utility tools.]]></summary>
-        <author>
-            <name>Nena Farrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers]]></title>
-        <id>6ab6abbd9e73fb37203a36d9</id>
-        <link href="https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/"/>
-        <updated>2026-09-28T18:47:54.000Z</updated>
-        <summary type="html"><![CDATA[Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism that outside researchers allege will weaken oversight of an already embattled consortium.]]></summary>
-        <author>
-            <name>Paresh Dave</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一对湾区夫妇被控枪杀跨性别女婿]]></title>
         <id>https://cn.nytimes.com/usa/20260929/jonathan-mckinsey-new-york-times-shooting-california/</id>
         <link href="https://cn.nytimes.com/usa/20260929/jonathan-mckinsey-new-york-times-shooting-california/?utm_source=RSS"/>
@@ -955,86 +1065,6 @@ via LinkedIn
 40岁的乔纳森·麦金西周六被发现死于一个停车场，身中数枪。停车场位于加州都柏林的都柏林体育场，这是一座体育综合设施和游乐场。]]></summary>
         <author>
             <name>SOUMYA KARLAMANGLA,AMY QIN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Extremists Are Running for Election in November]]></title>
-        <id>6ab55117aa34b02b9f135878</id>
-        <link href="https://www.wired.com/story/these-extremists-are-running-for-election-in-november/"/>
-        <updated>2026-09-28T14:41:08.000Z</updated>
-        <summary type="html"><![CDATA[With the threat of political violence at unprecedented levels, state and federal GOP candidates are openly sharing racist, pro-militia, anti-vaccine, sexist, antisemitic, and secessionist views.]]></summary>
-        <author>
-            <name>David Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best External Hard Drives (2026): SanDisk, Samsung, and More]]></title>
-        <id>60dc74924abd3c033f4a0180</id>
-        <link href="https://www.wired.com/story/best-portable-external-storage-drives/"/>
-        <updated>2026-09-28T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.]]></summary>
-        <author>
-            <name>Scott Gilbertson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bose Launches New Wired Earbuds After More Than a Decade]]></title>
-        <id>6ab6acb2bccfe76e77e84a6b</id>
-        <link href="https://www.wired.com/story/bose-to-release-wired-headphones-after-10-years/"/>
-        <updated>2026-09-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Bose Noise Cancelling Wired Earbuds are the first new wired headphones from the brand since 2015, inspired directly by teen preferences. We got an early listen.]]></summary>
-        <author>
-            <name>Harry Rabinowitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government]]></title>
-        <id>6aba2ec22122500d82923825</id>
-        <link href="https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"/>
-        <updated>2026-09-28T11:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.]]></summary>
-        <author>
-            <name>Isabella Ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space Lasers Are About to Get Their First Real Test Generating Energy]]></title>
-        <id>6ab1bf8dc967476bab903a43</id>
-        <link href="https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/"/>
-        <updated>2026-09-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Startup Star Catcher is launching a system that, if successful, would be the first time energy has been beamed between two separate spacecraft.]]></summary>
-        <author>
-            <name>Brian Kahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Apple Watch: Series 12, Ultra 4, and SE 3 (2026)]]></title>
-        <id>6aada62efce4a3658524cb25</id>
-        <link href="https://www.wired.com/story/best-apple-watch/"/>
-        <updated>2026-09-28T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[From the latest Ultra to last year’s SE, these are the Apple Watches worth considering.]]></summary>
-        <author>
-            <name>Boutayna Chokrane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I've Tested Over 100 Home Security Cameras. Here's Which to Buy]]></title>
-        <id>6ab232e9735cc807e46dea0d</id>
-        <link href="https://www.wired.com/story/best-security-cameras/"/>
-        <updated>2026-09-28T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Keep an eye on home wherever you are with the best security cameras, including indoor and outdoor, subscription services, AI smarts, and local recording options.]]></summary>
-        <author>
-            <name>Simon Hill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agents Are About to Flood the Workforce. No One’s Ready for It]]></title>
-        <id>6ab2a2c60fa125208c530950</id>
-        <link href="https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/"/>
-        <updated>2026-09-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.]]></summary>
-        <author>
-            <name>Kate Taylor</name>
         </author>
     </entry>
     <entry>
@@ -1056,36 +1086,6 @@ via LinkedIn
 本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
         <author>
             <name>neyham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Math’s Greatest Problems Was an Art Form. Then Came AI]]></title>
-        <id>6ab31bb92fcd03deb22ef552</id>
-        <link href="https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/"/>
-        <updated>2026-09-28T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.]]></summary>
-        <author>
-            <name>Sophia Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills]]></title>
-        <id>6aaaecb0b7c3017c573a37cd</id>
-        <link href="https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/"/>
-        <updated>2026-09-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.]]></summary>
-        <author>
-            <name>Joel Khalili</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System]]></title>
-        <id>6ab9e5651843e8497ae635e2</id>
-        <link href="https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/"/>
-        <updated>2026-09-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.]]></summary>
-        <author>
-            <name>Lauren Goode, Lily Hay Newman</name>
         </author>
     </entry>
     <entry>
