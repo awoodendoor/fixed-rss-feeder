@@ -1,16 +1,176 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-30T17:35:08.992Z</id>
+    <id>urn:2026-10-01T04:04:01.545Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-30T17:35:08.992Z</updated>
+    <updated>2026-10-01T04:04:01.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google releases Gemini 4 Argon, called its most powerful model yet]]></title>
+        <id>https://techcrunch.com/?p=3172532</id>
+        <link href="https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"/>
+        <updated>2026-09-30T23:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.]]></summary>
+        <author>
+            <name>Lucas Ropek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next]]></title>
+        <id>https://techcrunch.com/?p=3172545</id>
+        <link href="https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"/>
+        <updated>2026-09-30T23:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.]]></summary>
+        <author>
+            <name>Dominic-Madori Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation]]></title>
+        <id>https://techcrunch.com/?p=3172428</id>
+        <link href="https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"/>
+        <updated>2026-09-30T21:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.]]></summary>
+        <author>
+            <name>Julie Bort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The White House Is Starting to Panic Over the Midterms]]></title>
+        <id>6abaa40d3d338fb219395d78</id>
+        <link href="https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/"/>
+        <updated>2026-09-30T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[President Donald Trump still thinks Republicans have a shot. His aides are less convinced.]]></summary>
+        <author>
+            <name>Hugo Lowell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Factory CEO just accused his VC board adviser of spying for Cognition]]></title>
+        <id>https://techcrunch.com/?p=3172331</id>
+        <link href="https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"/>
+        <updated>2026-09-30T20:39:09.000Z</updated>
+        <summary type="html"><![CDATA[VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.]]></summary>
+        <author>
+            <name>Julie Bort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear]]></title>
+        <id>6abd2716b729f64a710059c9</id>
+        <link href="https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/"/>
+        <updated>2026-09-30T20:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.]]></summary>
+        <author>
+            <name>Maddy Varner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America]]></title>
+        <id>https://techcrunch.com/?post_type=tc_video&amp;p=3172433</id>
+        <link href="https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/"/>
+        <updated>2026-09-30T20:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this category?  On this episode of TechCrunch’s Equity podcast, […]]]></summary>
+        <author>
+            <name>Theresa Loconsolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Battle to Be Your Personal AI Agent Is Here]]></title>
+        <id>6abbf44535e7c9025b8ff9e3</id>
+        <link href="https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/"/>
+        <updated>2026-09-30T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.]]></summary>
+        <author>
+            <name>Reece Rogers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers stole millions of US military personnel records during months-long data breach]]></title>
+        <id>https://techcrunch.com/?p=3172343</id>
+        <link href="https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/"/>
+        <updated>2026-09-30T19:29:08.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DoorDash’s drone strategy started on the ground]]></title>
+        <id>https://techcrunch.com/?p=3172293</id>
+        <link href="https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/"/>
+        <updated>2026-09-30T19:22:13.000Z</updated>
+        <summary type="html"><![CDATA[DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.]]></summary>
+        <author>
+            <name>Kirsten Korosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMW built the same car for gas and electric. The EV is $4,400 cheaper.]]></title>
+        <id>https://techcrunch.com/?p=3172355</id>
+        <link href="https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/"/>
+        <updated>2026-09-30T19:19:40.000Z</updated>
+        <summary type="html"><![CDATA[The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Furry Airline Pilots Are Just Minding Their Own Business]]></title>
+        <id>6aba9dd77cc62221969305e4</id>
+        <link href="https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/"/>
+        <updated>2026-09-30T19:09:57.000Z</updated>
+        <summary type="html"><![CDATA[“We’re furries at home, and we’re airline pilots at work, and these are two separate things,” says one member of the community in response to senator Tommy Tuberville's recent rant.]]></summary>
+        <author>
+            <name>Ej Dickson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s Jev clone could help the frontier lab stop its swarming agents]]></title>
+        <id>https://techcrunch.com/?p=3172187</id>
+        <link href="https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"/>
+        <updated>2026-09-30T19:00:57.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's "Decisions API" is a Jev clone that confirms the importance of fast, cheap intelligence.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI]]></title>
+        <id>6abaa4adb463f7c4bd0df099</id>
+        <link href="https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/"/>
+        <updated>2026-09-30T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.]]></summary>
+        <author>
+            <name>Michael Mechanic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI voice startup ElevenLabs doubles valuation to $22B]]></title>
+        <id>https://techcrunch.com/?p=3172305</id>
+        <link href="https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"/>
+        <updated>2026-09-30T18:23:57.000Z</updated>
+        <summary type="html"><![CDATA[The $300 million employee tender was co-led by Wellington and T. Rowe Price.]]></summary>
+        <author>
+            <name>Marina Temkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit is killing RSS feeds and ending public API access because of AI bots]]></title>
+        <id>https://techcrunch.com/?p=3172243</id>
+        <link href="https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"/>
+        <updated>2026-09-30T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The ugly economics of consumer AI]]></title>
         <id>https://techcrunch.com/?p=3172200</id>
         <link href="https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"/>
         <updated>2026-09-30T17:24:45.000Z</updated>
-        <summary type="html"><![CDATA[There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.]]></summary>
+        <summary type="html"><![CDATA[There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.]]></summary>
         <author>
             <name>Russell Brandom</name>
         </author>
@@ -106,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/?p=3171828</id>
-        <link href="https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/"/>
-        <updated>2026-09-30T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.]]></summary>
-        <author>
-            <name>TechCrunch Events</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos]]></title>
         <id>6ab1a7c14cbdd47d804b0678</id>
         <link href="https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/"/>
@@ -126,83 +276,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Restate lands $20M as the need for durable infrastructure increases with AI agents]]></title>
-        <id>https://techcrunch.com/?p=3172103</id>
-        <link href="https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"/>
-        <updated>2026-09-30T14:27:11.000Z</updated>
-        <summary type="html"><![CDATA[Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.]]></summary>
-        <author>
-            <name>Marina Temkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/?p=3171595</id>
-        <link href="https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/"/>
-        <updated>2026-09-30T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.]]></summary>
-        <author>
-            <name>TechCrunch Events</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp adds new parental controls for teen accounts]]></title>
-        <id>https://techcrunch.com/?p=3172019</id>
-        <link href="https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/"/>
-        <updated>2026-09-30T13:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Parents can limit how teens use channels, whose Status they can see, who can see their Status updates, and control who can add teens to groups.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon’s new Fire TV Stick 4K comes with an actually good remote]]></title>
-        <id>https://techcrunch.com/?p=3172029</id>
-        <link href="https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/"/>
-        <updated>2026-09-30T13:43:54.000Z</updated>
-        <summary type="html"><![CDATA[Amazon’s new Fire TV Stick 4K is slimmer and faster, but its biggest upgrade may be the thing you’ll actually hold in your hand: a redesigned remote that’s easier to use, especially in the dark.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charter Space raises $5M to bring insurance to the stars]]></title>
-        <id>https://techcrunch.com/?p=3171650</id>
-        <link href="https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/"/>
+        <title type="html"><![CDATA[今年脑洞最大的爆笑综艺，让明星累到“发疯”？]]></title>
+        <id>b0b1559e5049a6ece7326ceba7ab0e90</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%8A%E5%B9%B4%E8%84%91%E6%B4%9E%E6%9C%80%E5%A4%A7%E7%9A%84%E7%88%86%E7%AC%91%E7%BB%BC%E8%89%BA%EF%BC%8C%E8%AE%A9%E6%98%8E%E6%98%9F%E7%B4%AF%E5%88%B0%E2%80%9C%E5%8F%91%E7%96%AF%E2%80%9D%EF%BC%9F"/>
         <updated>2026-09-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As Charter explains on its website, a common experience for space companies is that regular insurers "heard a bunch of scary science words and freaked out."]]></summary>
         <author>
-            <name>Sean O'Kane</name>
+            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature]]></title>
-        <id>https://techcrunch.com/?p=3171693</id>
-        <link href="https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/"/>
+        <title type="html"><![CDATA[曾经创下销量奇迹的中国IP，还能继续风靡全球吗？]]></title>
+        <id>b3d520c27e7c522c3726db5660da9bcd</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%9B%BE%E7%BB%8F%E5%88%9B%E4%B8%8B%E9%94%80%E9%87%8F%E5%A5%87%E8%BF%B9%E7%9A%84%E4%B8%AD%E5%9B%BDIP%EF%BC%8C%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%90%83%E5%90%97%EF%BC%9F"/>
         <updated>2026-09-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tinder has been pushing users toward more real-world experiences for some time.]]></summary>
         <author>
-            <name>Lauren Forristal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for]]></title>
-        <id>https://techcrunch.com/?p=3171387</id>
-        <link href="https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/"/>
-        <updated>2026-09-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.]]></summary>
-        <author>
-            <name>Dominic-Madori Davis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb adds AI search, more social features]]></title>
-        <id>https://techcrunch.com/?p=3171925</id>
-        <link href="https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"/>
-        <updated>2026-09-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Airbnb is also launching new services such as meal delivery and laundry in select locations.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
+            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -356,34 +444,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Pay finally launches in India after years on the sidelines]]></title>
-        <id>https://techcrunch.com/?p=3171477</id>
-        <link href="https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/"/>
-        <updated>2026-09-30T04:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Some of India's largest banks are holding off on supporting Apple Pay initially.]]></summary>
-        <author>
-            <name>Jagmeet Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去旅行，不为追寻远方，是为活好当下]]></title>
-        <id>c3b81cfc6c02d93c630ac3c7e86f0faa</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%8E%BB%E6%97%85%E8%A1%8C%EF%BC%8C%E4%B8%8D%E4%B8%BA%E8%BF%BD%E5%AF%BB%E8%BF%9C%E6%96%B9%EF%BC%8C%E6%98%AF%E4%B8%BA%E6%B4%BB%E5%A5%BD%E5%BD%93%E4%B8%8B"/>
-        <updated>2026-09-30T04:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长假回家聚餐，谁能逃过这场无声的“亲戚考核”？]]></title>
-        <id>fe8ac94d98c2a64a0274fa88a8a76955</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%95%BF%E5%81%87%E5%9B%9E%E5%AE%B6%E8%81%9A%E9%A4%90%EF%BC%8C%E8%B0%81%E8%83%BD%E9%80%83%E8%BF%87%E8%BF%99%E5%9C%BA%E6%97%A0%E5%A3%B0%E7%9A%84%E2%80%9C%E4%BA%B2%E6%88%9A%E8%80%83%E6%A0%B8%E2%80%9D%EF%BC%9F"/>
-        <updated>2026-09-30T04:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特朗普要求人工智能巨头自我监管]]></title>
         <id>https://cn.nytimes.com/usa/20260930/ai-trump-meta-microsoft-openai/</id>
         <link href="https://cn.nytimes.com/usa/20260930/ai-trump-meta-microsoft-openai/?utm_source=RSS"/>
@@ -479,16 +539,6 @@ Gilles Sabrié for The New York Times
         <summary type="html"><![CDATA[Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch]]></title>
-        <id>https://techcrunch.com/?p=3171769</id>
-        <link href="https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"/>
-        <updated>2026-09-29T23:30:55.000Z</updated>
-        <summary type="html"><![CDATA[For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.]]></summary>
-        <author>
-            <name>Amanda Silberling</name>
         </author>
     </entry>
     <entry>
@@ -699,16 +749,6 @@ Ioulex for The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Motorola Coupon Code for October 2026]]></title>
-        <id>6a91b2ddf6dd9530a8f6b0e2</id>
-        <link href="https://www.wired.com/story/motorola-coupon-code/"/>
-        <updated>2026-09-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.]]></summary>
-        <author>
-            <name>Les Shu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Home Depot Promo Codes: 30% Off in October 2026]]></title>
         <id>682755a99198909d2f7f6652</id>
         <link href="https://www.wired.com/story/home-depot-promo-code/"/>
@@ -716,6 +756,16 @@ Ioulex for The New York Times]]></summary>
         <summary type="html"><![CDATA[Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.]]></summary>
         <author>
             <name>Matthew Korfhage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola Coupon Code for October 2026]]></title>
+        <id>6a91b2ddf6dd9530a8f6b0e2</id>
+        <link href="https://www.wired.com/story/motorola-coupon-code/"/>
+        <updated>2026-09-29T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.]]></summary>
+        <author>
+            <name>Les Shu</name>
         </author>
     </entry>
     <entry>
@@ -1109,56 +1159,6 @@ Doug Mills/The New York Times
 周五，特朗普总统与中国国家主席习近平在白宫外并肩而立。]]></summary>
         <author>
             <name>MICHAEL CROWLEY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Party Speakers (2026): JBL, Sony, Marshall, and More]]></title>
-        <id>6ab29b85ade3d66cae78de32</id>
-        <link href="https://www.wired.com/story/best-party-speaker/"/>
-        <updated>2026-09-27T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[These speakers combine serious volume, big bass, portability, and the occasional karaoke session to bring the party anywhere.]]></summary>
-        <author>
-            <name>Chris Haslam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s the Best Pet DNA Test? We Tested the Most Popular Ones]]></title>
-        <id>6ab18d7a4e3d15d402c74d0e</id>
-        <link href="https://www.wired.com/story/best-pet-dna-test-kits/"/>
-        <updated>2026-09-27T11:02:00.000Z</updated>
-        <summary type="html"><![CDATA[I sent my cats’ saliva to the lab to get health and genetic insights sent to my inbox—with very different results.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Don’t Need to Pay for Distraction-Blocking Software]]></title>
-        <id>6ab14fb10c234d337ce354d0</id>
-        <link href="https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/"/>
-        <updated>2026-09-27T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[These free iOS and Android apps create the physical friction you need to put down your phone.]]></summary>
-        <author>
-            <name>Justin Pot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet]]></title>
-        <id>6ab3f05fca9e238475678ea9</id>
-        <link href="https://www.wired.com/story/data-center-backlash-climate-reckoning/"/>
-        <updated>2026-09-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Climate groups are latching onto the data center opposition movement, but it remains to be seen if they can get people to care about the facilities’ impact on the atmosphere.]]></summary>
-        <author>
-            <name>Molly Taft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicotine Is Mounting a Comeback in the Wellness Movement]]></title>
-        <id>6ab2c8132f4fc19ebd23bd04</id>
-        <link href="https://www.wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement/"/>
-        <updated>2026-09-27T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Improving mood and increasing longevity are just some of the unfounded claims about this substance circling around the “natural” medicine corners of the internet.]]></summary>
-        <author>
-            <name>Hasmeena Kathuria</name>
         </author>
     </entry>
     <entry>
