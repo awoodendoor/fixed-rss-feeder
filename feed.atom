@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-04T16:24:42.678Z</id>
+    <id>urn:2026-10-05T03:58:31.574Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-04T16:24:42.678Z</updated>
+    <updated>2026-10-05T03:58:31.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions]]></title>
+        <id>https://techcrunch.com/?p=3173559</id>
+        <link href="https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"/>
+        <updated>2026-10-04T20:31:07.000Z</updated>
+        <summary type="html"><![CDATA[AI slop seems to be overwhelming bug bounty programs.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?]]></title>
+        <id>https://techcrunch.com/?p=3173555</id>
+        <link href="https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"/>
+        <updated>2026-10-04T20:08:34.000Z</updated>
+        <summary type="html"><![CDATA[On Equity, we discussed the Trump administration's attempts to rebrand AI.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TechCrunch Mobility: Reining in robotaxis]]></title>
         <id>https://techcrunch.com/?p=3173378</id>
@@ -23,6 +43,42 @@
         <summary type="html"><![CDATA[This new task force is Trump's latest response to the debate over AI safety.]]></summary>
         <author>
             <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高能量人都在追求的这件事，正在悄悄毁掉你的前额叶？]]></title>
+        <id>09842b5bb2b818a62636325710027ab9</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%AB%98%E8%83%BD%E9%87%8F%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%BF%BD%E6%B1%82%E7%9A%84%E8%BF%99%E4%BB%B6%E4%BA%8B%EF%BC%8C%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E6%AF%81%E6%8E%89%E4%BD%A0%E7%9A%84%E5%89%8D%E9%A2%9D%E5%8F%B6%EF%BC%9F"/>
+        <updated>2026-10-04T13:20:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[何处是“南方”？| 《三联生活周刊》主笔绘出看得见的南国]]></title>
+        <id>a5019603255a940c9e0264db0daff797</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BD%95%E5%A4%84%E6%98%AF%E2%80%9C%E5%8D%97%E6%96%B9%E2%80%9D%EF%BC%9F%7C%20%E3%80%8A%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A%E3%80%8B%E4%B8%BB%E7%AC%94%E7%BB%98%E5%87%BA%E7%9C%8B%E5%BE%97%E8%A7%81%E7%9A%84%E5%8D%97%E5%9B%BD"/>
+        <updated>2026-10-04T13:20:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本期《经济学人》最值得读的10篇文章]]></title>
+        <id>40aa2ae2e1a5196dc81dfc06fa3a6eb5</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%9C%AC%E6%9C%9F%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E6%9C%80%E5%80%BC%E5%BE%97%E8%AF%BB%E7%9A%8410%E7%AF%87%E6%96%87%E7%AB%A0"/>
+        <updated>2026-10-04T12:21:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给自己一年时间，慢慢读懂《经济学人》]]></title>
+        <id>6a28fb443e319ddf282631b00f27d383</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%80%E5%B9%B4%E6%97%B6%E9%97%B4%EF%BC%8C%E6%85%A2%E6%85%A2%E8%AF%BB%E6%87%82%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B"/>
+        <updated>2026-10-04T12:21:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
@@ -46,16 +102,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Online Gift Cards and Digital Gift Ideas (2026)]]></title>
-        <id>61796004a7da35fe9f08a811</id>
-        <link href="https://www.wired.com/story/gift-cards-and-digital-gift-ideas/"/>
-        <updated>2026-10-04T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.]]></summary>
-        <author>
-            <name>Simon Hill</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meta Glasses Nova (Gen 3) Review: Not Much New]]></title>
         <id>6abfdc90f11859774e123b30</id>
         <link href="https://www.wired.com/review/meta-glasses-gen-3/"/>
@@ -63,6 +109,16 @@
         <summary type="html"><![CDATA[Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.]]></summary>
         <author>
             <name>Boone Ashworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Online Gift Cards and Digital Gift Ideas (2026)]]></title>
+        <id>61796004a7da35fe9f08a811</id>
+        <link href="https://www.wired.com/story/gift-cards-and-digital-gift-ideas/"/>
+        <updated>2026-10-04T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.]]></summary>
+        <author>
+            <name>Simon Hill</name>
         </author>
     </entry>
     <entry>
@@ -231,24 +287,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[已婚分居几十年的夫妻，退休后重新学习“同居法则”]]></title>
-        <id>b85917ad7a0c3b533ec318fefe9bfd52</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%B7%B2%E5%A9%9A%E5%88%86%E5%B1%85%E5%87%A0%E5%8D%81%E5%B9%B4%E7%9A%84%E5%A4%AB%E5%A6%BB%EF%BC%8C%E9%80%80%E4%BC%91%E5%90%8E%E9%87%8D%E6%96%B0%E5%AD%A6%E4%B9%A0%E2%80%9C%E5%90%8C%E5%B1%85%E6%B3%95%E5%88%99%E2%80%9D"/>
-        <updated>2026-10-03T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在培养一个只会 “复制粘贴式” 的孩子吗？]]></title>
-        <id>9ca1f88c66176ec5fd8fadcf3397c373</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BD%A0%E5%9C%A8%E5%9F%B9%E5%85%BB%E4%B8%80%E4%B8%AA%E5%8F%AA%E4%BC%9A%20%E2%80%9C%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E5%BC%8F%E2%80%9D%20%E7%9A%84%E5%AD%A9%E5%AD%90%E5%90%97%EF%BC%9F"/>
-        <updated>2026-10-03T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Muse Creates Detailed Profiles of All Your Friends and Family]]></title>
         <id>6abc27c619638e7270d13469</id>
         <link href="https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"/>
@@ -318,25 +356,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[给自己一年时间，慢慢读懂《经济学人》]]></title>
-        <id>6a28fb443e319ddf282631b00f27d383</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%80%E5%B9%B4%E6%97%B6%E9%97%B4%EF%BC%8C%E6%85%A2%E6%85%A2%E8%AF%BB%E6%87%82%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B"/>
-        <updated>2026-10-03T05:43:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50% Off DoorDash Promo Code | October 2026]]></title>
-        <id>6740c6ad29e1604c90f59b4f</id>
-        <link href="https://www.wired.com/story/doordash-promo-code/"/>
-        <updated>2026-10-03T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Surfshark Promo Codes: 87% Off | October 2026]]></title>
         <id>67462fb5b36fe19e4f620021</id>
         <link href="https://www.wired.com/story/surfshark-coupon/"/>
@@ -357,21 +376,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[50% Off DoorDash Promo Code | October 2026]]></title>
+        <id>6740c6ad29e1604c90f59b4f</id>
+        <link href="https://www.wired.com/story/doordash-promo-code/"/>
+        <updated>2026-10-03T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[20% Off Brooks Promo Code | October 2026]]></title>
         <id>673bb0142598c31aeeee086e</id>
         <link href="https://www.wired.com/story/brooks-promo-code/"/>
         <updated>2026-10-03T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.]]></summary>
-        <author>
-            <name>Boutayna Chokrane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoka Coupon Codes: 30% Off in October 2026]]></title>
-        <id>6722c63c3ca38074693e3e27</id>
-        <link href="https://www.wired.com/story/hoka-coupon-code/"/>
-        <updated>2026-10-03T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for October 2026.]]></summary>
         <author>
             <name>Boutayna Chokrane</name>
         </author>
@@ -384,6 +403,16 @@
         <summary type="html"><![CDATA[Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.]]></summary>
         <author>
             <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoka Coupon Codes: 30% Off in October 2026]]></title>
+        <id>6722c63c3ca38074693e3e27</id>
+        <link href="https://www.wired.com/story/hoka-coupon-code/"/>
+        <updated>2026-10-03T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for October 2026.]]></summary>
+        <author>
+            <name>Boutayna Chokrane</name>
         </author>
     </entry>
     <entry>
@@ -517,26 +546,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pope Leo XIV is not a fan of AI-generated art]]></title>
-        <id>https://techcrunch.com/?p=3173199</id>
-        <link href="https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"/>
-        <updated>2026-10-02T15:39:41.000Z</updated>
-        <summary type="html"><![CDATA["There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others," the pope wrote. "Algorithms lack the spark of humanity."]]></summary>
-        <author>
-            <name>Russell Brandom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laytr’s new app lets you save anything you find online, not just articles to read]]></title>
-        <id>https://techcrunch.com/?p=3173196</id>
-        <link href="https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/"/>
-        <updated>2026-10-02T15:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked]]></title>
         <id>6abe88e538929764b2271968</id>
         <link href="https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/"/>
@@ -544,15 +553,6 @@
         <summary type="html"><![CDATA[For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.]]></summary>
         <author>
             <name>Steven Levy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球发射量创新高，为什么反而闹起了“火箭荒”？]]></title>
-        <id>16606c45d38abb6fb52c843e8c4a5d5e</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%85%A8%E7%90%83%E5%8F%91%E5%B0%84%E9%87%8F%E5%88%9B%E6%96%B0%E9%AB%98%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%8D%E8%80%8C%E9%97%B9%E8%B5%B7%E4%BA%86%E2%80%9C%E7%81%AB%E7%AE%AD%E8%8D%92%E2%80%9D%EF%BC%9F"/>
-        <updated>2026-10-02T12:00:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
