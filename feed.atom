@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-10T16:56:47.641Z</id>
+    <id>urn:2026-10-11T03:54:20.315Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-10T16:56:47.641Z</updated>
+    <updated>2026-10-11T03:54:20.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s Satya Nadella says AI models need an ‘emergency brake’]]></title>
+        <id>https://techcrunch.com/?p=3176448</id>
+        <link href="https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"/>
+        <updated>2026-10-10T21:47:51.000Z</updated>
+        <summary type="html"><![CDATA[In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple discloses deal to hire team and license tech from personalized podcast startup Huxe]]></title>
+        <id>https://techcrunch.com/?p=3176436</id>
+        <link href="https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"/>
+        <updated>2026-10-10T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Is Apple hoping to get into the AI-generated podcast business?]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Petra Power looks to modernize energy for data centers and defense vehicles]]></title>
+        <id>https://techcrunch.com/?p=3174064</id>
+        <link href="https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/"/>
+        <updated>2026-10-10T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.]]></summary>
+        <author>
+            <name>Lucas Ropek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare acquires Deno to improve its Workers programming model]]></title>
         <id>https://techcrunch.com/?p=3176412</id>
@@ -33,6 +63,24 @@
         <summary type="html"><![CDATA[We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.]]></summary>
         <author>
             <name>Lauren Forristal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斩获超过60%的市占率，这部国产悬疑剧爆了？]]></title>
+        <id>8667c178ad53077d09f4b1e1d0ab5217</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%96%A9%E8%8E%B7%E8%B6%85%E8%BF%8760%25%E7%9A%84%E5%B8%82%E5%8D%A0%E7%8E%87%EF%BC%8C%E8%BF%99%E9%83%A8%E5%9B%BD%E4%BA%A7%E6%82%AC%E7%96%91%E5%89%A7%E7%88%86%E4%BA%86%EF%BC%9F"/>
+        <updated>2026-10-10T13:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么说青春期是人生的大型施工现场？]]></title>
+        <id>95e05d19b50359a1f397a440bea02d80</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E9%9D%92%E6%98%A5%E6%9C%9F%E6%98%AF%E4%BA%BA%E7%94%9F%E7%9A%84%E5%A4%A7%E5%9E%8B%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA%EF%BC%9F"/>
+        <updated>2026-10-10T13:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -185,15 +233,6 @@
         <title type="html"><![CDATA[百万粉丝吃播女网红离世：当暴食和痛苦被围观]]></title>
         <id>8597e6b3f0e0be75372f876131550003</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%90%83%E6%92%AD%E5%A5%B3%E7%BD%91%E7%BA%A2%E7%A6%BB%E4%B8%96%EF%BC%9A%E5%BD%93%E6%9A%B4%E9%A3%9F%E5%92%8C%E7%97%9B%E8%8B%A6%E8%A2%AB%E5%9B%B4%E8%A7%82"/>
-        <updated>2026-10-10T04:01:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不爱奶茶的中年人，为何偏爱“美人茶”？]]></title>
-        <id>6d165abb556b5a32bc2a2664ab11a9ae</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%8D%E7%88%B1%E5%A5%B6%E8%8C%B6%E7%9A%84%E4%B8%AD%E5%B9%B4%E4%BA%BA%EF%BC%8C%E4%B8%BA%E4%BD%95%E5%81%8F%E7%88%B1%E2%80%9C%E7%BE%8E%E4%BA%BA%E8%8C%B6%E2%80%9D%EF%BC%9F"/>
         <updated>2026-10-10T04:01:00.000Z</updated>
         <author>
             <name>三联生活周刊</name>
@@ -390,16 +429,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automattic interim CFO resigns just weeks after boardroom shakeup]]></title>
-        <id>https://techcrunch.com/?p=3175919</id>
-        <link href="https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/"/>
-        <updated>2026-10-09T15:02:30.000Z</updated>
-        <summary type="html"><![CDATA[Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's leadership turmoil.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I’m Still Convinced the iPod Was the Perfect Gadget]]></title>
         <id>6abda68d0d1cd22f8fcc102e</id>
         <link href="https://www.wired.com/story/im-still-convinced-the-ipod-was-the-perfect-gadget/"/>
@@ -407,35 +436,6 @@
         <summary type="html"><![CDATA[Apple’s original music player got many things right. Chief among them: It didn’t connect to the internet.]]></summary>
         <author>
             <name>Steven Levy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss]]></title>
-        <id>https://techcrunch.com/?p=3175597</id>
-        <link href="https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/"/>
-        <updated>2026-10-09T14:42:34.000Z</updated>
-        <summary type="html"><![CDATA[TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.]]></summary>
-        <author>
-            <name>Jean Bradley, TechCrunch Events</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise]]></title>
-        <id>https://techcrunch.com/?p=3175987</id>
-        <link href="https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"/>
-        <updated>2026-10-09T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.]]></summary>
-        <author>
-            <name>TechCrunch Events</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个世界，永远比AI生成的多一点]]></title>
-        <id>9f0296750d139ae4b12abffad8149146</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%EF%BC%8C%E6%B0%B8%E8%BF%9C%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E5%A4%9A%E4%B8%80%E7%82%B9"/>
-        <updated>2026-10-09T13:22:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -946,13 +946,13 @@ Demetrius Freeman for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe]]></title>
-        <id>6ac3e57d48bbca9e38e21c21</id>
-        <link href="https://www.wired.com/story/the-man-behind-a-west-bank-telegram-channel-trying-to-keep-palestinian-drivers-safe/"/>
+        <title type="html"><![CDATA[7 Best Cheap Phones (2026), Tested and Reviewed]]></title>
+        <id>5a8f727d213ac83aca7f0a36</id>
+        <link href="https://www.wired.com/story/best-cheap-phones/"/>
         <updated>2026-10-08T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With no accurate Big Tech mapping app to help him, Anas Hattab launched a Telegram group to get himself home at night. Now nearly 350,000 Palestinians rely on it to navigate the occupied West Bank.]]></summary>
+        <summary type="html"><![CDATA[There’s little reason to pay top dollar for a smartphone. These iPhones and Android devices—ranging from $100 to $800—stood up to WIRED’s testing.]]></summary>
         <author>
-            <name>Lama Rabah</name>
+            <name>Julian Chokkattu, Simon Hill</name>
         </author>
     </entry>
     <entry>
