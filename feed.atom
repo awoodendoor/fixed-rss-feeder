@@ -1,14 +1,224 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-13T18:50:58.496Z</id>
+    <id>urn:2026-10-14T03:28:20.625Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-13T18:50:58.496Z</updated>
+    <updated>2026-10-14T03:28:20.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field]]></title>
+        <title type="html"><![CDATA[人工智能推波助澜，网络攻击席卷日本]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20261014/japan-cyberattack-artificial-intelligence/</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20261014/japan-cyberattack-artificial-intelligence/?utm_source=RSS"/>
+        <updated>2026-10-14T02:11:35.000Z</updated>
+        <summary type="html"><![CDATA[关键基础设施成为网络攻击浪潮的目标，大量消费者数据遭到泄露，官员称日本处于“网络空间紧急状态”。日本网络安全本就薄弱，人工智能的发展让发动攻击变得更为容易。
+
+                    
+Haiyun Jiang/The New York Times
+                    
+日本遭遇了一波网络攻击，企业和政府均受影响。]]></summary>
+        <author>
+            <name>TIFFANY MAY,KIUKO NOTOYA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒]]></title>
+        <id>https://sspai.com/post/92653</id>
+        <link href="https://sspai.com/post/92653"/>
+        <updated>2026-10-14T02:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文]]></summary>
+        <author>
+            <name>北鸮</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI捣毁涉朝鲜IT诈骗网络：盗用身份获取美国工作岗位]]></title>
+        <id>https://cn.nytimes.com/usa/20261014/north-korea-it-workers-fbi/</id>
+        <link href="https://cn.nytimes.com/usa/20261014/north-korea-it-workers-fbi/?utm_source=RSS"/>
+        <updated>2026-10-14T01:51:08.000Z</updated>
+        <summary type="html"><![CDATA[联邦调查局捣毁了一个由美国人组成的广泛网络，这些人被指控帮助朝鲜政府获取远程信息技术工作岗位，从而帮助朝鲜规避制裁，并为该国的核武器和弹道导弹计划提供资金。
+
+                    
+Anthony Wallace/Agence France-Presse — Getty Images
+                    
+美国官员称，近年来，朝鲜通过远程IT工作者项目规避了国际制裁，赚取了数十亿美元的现金。]]></summary>
+        <author>
+            <name>DUSTIN VOLZ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justice Department says North Koreans have infiltrated dozens of U.S. companies]]></title>
+        <id>https://techcrunch.com/?p=3177447</id>
+        <link href="https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/"/>
+        <updated>2026-10-14T01:30:42.000Z</updated>
+        <summary type="html"><![CDATA[U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 发布 HomePod mini 2、HomeView 等新品]]></title>
+        <id>https://sspai.com/post/116138</id>
+        <link href="https://sspai.com/post/116138"/>
+        <updated>2026-10-14T00:40:39.000Z</updated>
+        <summary type="html"><![CDATA[Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office]]></title>
+        <id>6ace99f7435a00c3d3a1c4d2</id>
+        <link href="https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/"/>
+        <updated>2026-10-13T23:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.]]></summary>
+        <author>
+            <name>Paresh Dave, Maddy Varner, Caroline Haskins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science Corporation implants its vision-restoring chip in its first Stargardt disease patient]]></title>
+        <id>https://techcrunch.com/?p=3177396</id>
+        <link href="https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"/>
+        <updated>2026-10-13T23:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home]]></title>
+        <id>https://techcrunch.com/?p=3177414</id>
+        <link href="https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"/>
+        <updated>2026-10-13T23:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 9 Best TV Shows to Stream This Month (October 2026)]]></title>
+        <id>6994fce99d85208c5f768223</id>
+        <link href="https://www.wired.com/story/the-9-best-shows-to-stream-right-now/"/>
+        <updated>2026-10-13T23:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Crystal Lake, Tip Toe, and Carrie are just a few of the shows you should be watching right now.]]></summary>
+        <author>
+            <name>Jennifer M. Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Industrial Next wants factory robots to switch tasks in minutes, not weeks]]></title>
+        <id>https://techcrunch.com/?p=3173266</id>
+        <link href="https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"/>
+        <updated>2026-10-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cerebras CEO pushes back on AI doomsday warnings]]></title>
+        <id>https://techcrunch.com/?p=3177406</id>
+        <link href="https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"/>
+        <updated>2026-10-13T22:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie]]></title>
+        <id>6ac909991dd8a2ab2e331aca</id>
+        <link href="https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/"/>
+        <updated>2026-10-13T22:08:44.000Z</updated>
+        <summary type="html"><![CDATA[The deeply uncomfortable film forces audiences to confront what types of stories we tell ourselves about who has economic and political power.]]></summary>
+        <author>
+            <name>Molly Taft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helix Carbon says it can make iron cheaper by recycling blast furnace pollution]]></title>
+        <id>https://techcrunch.com/?p=3173359</id>
+        <link href="https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/"/>
+        <updated>2026-10-13T21:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI arrests OpenAI employee accused of planting hidden recording device in conference room]]></title>
+        <id>https://techcrunch.com/?p=3177377</id>
+        <link href="https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/"/>
+        <updated>2026-10-13T20:59:11.000Z</updated>
+        <summary type="html"><![CDATA[It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to "capture sensitive communications about the company’s super intelligence technology."]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge orders OpenAI to turn over hiring records in Apple trade secrets case]]></title>
+        <id>https://techcrunch.com/?p=3177352</id>
+        <link href="https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"/>
+        <updated>2026-10-13T20:36:44.000Z</updated>
+        <summary type="html"><![CDATA[A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cambridge Heavy Industries has been quietly building a desktop fusion device]]></title>
+        <id>https://techcrunch.com/?p=3177355</id>
+        <link href="https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/"/>
+        <updated>2026-10-13T20:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt]]></title>
+        <id>https://techcrunch.com/?p=3175359</id>
+        <link href="https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/"/>
+        <updated>2026-10-13T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI and Anthropic Tell British Lawmakers: Regulate Us]]></title>
+        <id>6ace0d6cda1d099f16b1dae2</id>
+        <link href="https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/"/>
+        <updated>2026-10-13T19:35:29.000Z</updated>
+        <summary type="html"><![CDATA[AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.]]></summary>
+        <author>
+            <name>Ben Gartside</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niobia takes the guesswork out of some of tech’s most expensive mistakes]]></title>
+        <id>https://techcrunch.com/?p=3174009</id>
+        <link href="https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/"/>
+        <updated>2026-10-13T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.]]></summary>
+        <author>
+            <name>Zack Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 9 Best Movies to Stream This Month (October 2026)]]></title>
+        <id>69e146121c5a71c2a1394f01</id>
+        <link href="https://www.wired.com/story/the-8-best-movies-to-stream-right-now/"/>
+        <updated>2026-10-13T18:49:55.000Z</updated>
+        <summary type="html"><![CDATA[Barbarian, The Fly, and Altered States are among the films deserving of your eyeballs this month.]]></summary>
+        <author>
+            <name>Matt Kamen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field]]></title>
         <id>https://techcrunch.com/?p=3177147</id>
-        <link href="https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/"/>
+        <link href="https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/"/>
         <updated>2026-10-13T18:30:03.000Z</updated>
         <summary type="html"><![CDATA[Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.]]></summary>
         <author>
@@ -96,76 +306,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between]]></title>
-        <id>https://techcrunch.com/?p=3173015</id>
-        <link href="https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/"/>
-        <updated>2026-10-13T15:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.]]></summary>
-        <author>
-            <name>Isabelle Johannessen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’]]></title>
-        <id>https://techcrunch.com/?p=3177072</id>
-        <link href="https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/"/>
-        <updated>2026-10-13T14:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bumble agrees to a $1.3B acquisition deal as online dating faces a reset]]></title>
-        <id>https://techcrunch.com/?p=3177111</id>
-        <link href="https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/"/>
-        <updated>2026-10-13T14:25:48.000Z</updated>
-        <summary type="html"><![CDATA[After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TechCrunch Disrupt 2026: Day 1]]></title>
-        <id>https://techcrunch.com/?p=3176868</id>
-        <link href="https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/"/>
-        <updated>2026-10-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.]]></summary>
-        <author>
-            <name>TechCrunch Events</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceXSI bundles X Premium, Grok, and Cursor into one subscription]]></title>
-        <id>https://techcrunch.com/?p=3176969</id>
-        <link href="https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"/>
-        <updated>2026-10-13T13:50:19.000Z</updated>
-        <summary type="html"><![CDATA[The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple refreshes its HomePod mini with a new chip and $149 price tag]]></title>
-        <id>https://techcrunch.com/?p=3176917</id>
-        <link href="https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/"/>
-        <updated>2026-10-13T13:38:03.000Z</updated>
-        <summary type="html"><![CDATA[The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells]]></title>
-        <id>https://techcrunch.com/?p=3176295</id>
-        <link href="https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/"/>
-        <updated>2026-10-13T13:37:19.000Z</updated>
-        <summary type="html"><![CDATA[The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds]]></title>
         <id>6ac69b104e2cd6b2f7118729</id>
         <link href="https://www.wired.com/story/new-york-comic-con-panel/"/>
@@ -173,46 +313,6 @@
         <summary type="html"><![CDATA[The team behind director Takashi Yamazaki’s new film created their kaiju roars by setting up speakers on top of an outdoor dam. The people walking by weren’t prepared for what they heard.]]></summary>
         <author>
             <name>Max Evry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/?p=3173520</id>
-        <link href="https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"/>
-        <updated>2026-10-13T13:28:06.000Z</updated>
-        <summary type="html"><![CDATA[The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.]]></summary>
-        <author>
-            <name>TechCrunch Events</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India delays digital payments fee rollout amid retailer pushback]]></title>
-        <id>https://techcrunch.com/?p=3176911</id>
-        <link href="https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/"/>
-        <updated>2026-10-13T13:25:05.000Z</updated>
-        <summary type="html"><![CDATA[The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.]]></summary>
-        <author>
-            <name>Jagmeet Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands]]></title>
-        <id>https://techcrunch.com/?p=3176915</id>
-        <link href="https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/"/>
-        <updated>2026-10-13T13:16:11.000Z</updated>
-        <summary type="html"><![CDATA[The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple makes another push into the smart home market with HomeView]]></title>
-        <id>https://techcrunch.com/?p=3175876</id>
-        <link href="https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/"/>
-        <updated>2026-10-13T13:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.]]></summary>
-        <author>
-            <name>Lauren Forristal</name>
         </author>
     </entry>
     <entry>
@@ -399,6 +499,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[B&H Photo Promo Codes and Deals This October 2026]]></title>
+        <id>67367a3b42e45bb4956a0b38</id>
+        <link href="https://www.wired.com/story/bh-photo-coupon/"/>
+        <updated>2026-10-13T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.]]></summary>
+        <author>
+            <name>Gear Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wayfair Coupons: Up to 80% Off October 2026]]></title>
         <id>67463b86d8f07d6a30d2b661</id>
         <link href="https://www.wired.com/story/wayfair-promo-code/"/>
@@ -446,16 +556,6 @@
         <summary type="html"><![CDATA[Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.]]></summary>
         <author>
             <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B&H Photo Promo Codes and Deals This October 2026]]></title>
-        <id>67367a3b42e45bb4956a0b38</id>
-        <link href="https://www.wired.com/story/bh-photo-coupon/"/>
-        <updated>2026-10-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.]]></summary>
-        <author>
-            <name>Gear Team</name>
         </author>
     </entry>
     <entry>
@@ -837,25 +937,6 @@ Kyodo, via Reuters Connect
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：工信部等就进一步加强汽车产品创新设计管理征求意见]]></title>
-        <id>https://sspai.com/post/115845</id>
-        <link href="https://sspai.com/post/115845"/>
-        <updated>2026-10-11T22:34:54.000Z</updated>
-        <summary type="html"><![CDATA[工信部等就进一步加强汽车产品创新设计管理征求意见
-三季度全球 PC 出货量骤降
-法国判决 Cloudflare 无须通过 DNS 屏蔽盗版
-Anthropic 宣布切断内部评估环境的互联网访问权限
-AI 助力老游戏移植到浏览器
-3C 证书大面积暂停，电动自行车销售接近停滞
-看看就行的简讯
-少数派的近期动态
-你可能错过的好文章
-查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[从新冠到疑似鼠疫：我们能遏制下一场大瘟疫吗？]]></title>
         <id>https://cn.nytimes.com/opinion/20261012/plague-siberia-russia-lab/</id>
         <link href="https://cn.nytimes.com/opinion/20261012/plague-siberia-russia-lab/?utm_source=RSS"/>
@@ -944,16 +1025,6 @@ Associated Press
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复]]></title>
-        <id>https://sspai.com/post/115568</id>
-        <link href="https://sspai.com/post/115568"/>
-        <updated>2026-10-11T07:00:49.000Z</updated>
-        <summary type="html"><![CDATA[前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ...查看全文]]></summary>
-        <author>
-            <name>阿帅的健康笔记</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[给自己一年时间，慢慢读懂《经济学人》]]></title>
         <id>6a28fb443e319ddf282631b00f27d383</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%80%E5%B9%B4%E6%97%B6%E9%97%B4%EF%BC%8C%E6%85%A2%E6%85%A2%E8%AF%BB%E6%87%82%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B"/>
@@ -1009,56 +1080,6 @@ Associated Press
         <summary type="html"><![CDATA[The new image isn’t just stunning—it may also provide clues about how this star survived its own explosion.]]></summary>
         <author>
             <name>Jorge Garay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How This Tiny Startup Built the World’s Safest Bike Helmet]]></title>
-        <id>6ac661a589688e402f0af3f4</id>
-        <link href="https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/"/>
-        <updated>2026-10-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inspired by head-banging woodpeckers, Vancouver-based Pikio Labs has discovered a new approach to skull protection.]]></summary>
-        <author>
-            <name>Chris Haslam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home Depot Promo Codes: 30% Off in October 2026]]></title>
-        <id>682755a99198909d2f7f6652</id>
-        <link href="https://www.wired.com/story/home-depot-promo-code/"/>
-        <updated>2026-10-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.]]></summary>
-        <author>
-            <name>Matthew Korfhage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG Promo Codes and Coupons for October 2026]]></title>
-        <id>67d879bf81a4d165ab8f1213</id>
-        <link href="https://www.wired.com/story/lg-promo-code/"/>
-        <updated>2026-10-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.]]></summary>
-        <author>
-            <name>Harry Rabinowitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30% Off Canon Promo Codes | October 2026]]></title>
-        <id>67252234563a280b6ad5ef8d</id>
-        <link href="https://www.wired.com/story/canon-promo-code/"/>
-        <updated>2026-10-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.]]></summary>
-        <author>
-            <name>Gear Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney Plus Discount Codes: 52% Off October 2026]]></title>
-        <id>6ac91b895442f8c22c4a842f</id>
-        <link href="https://www.wired.com/story/disney-plus-discounts/"/>
-        <updated>2026-10-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
         </author>
     </entry>
     <entry>
@@ -1144,34 +1165,6 @@ Demetrius Freeman for The New York Times
 “我们要向微软传达的信息是：你们是一家伟大的美国公司，但你们必须雇用优秀的美国就业者，”副总统万斯周四在华盛顿表示。]]></summary>
         <author>
             <name>ERICA L. GREEN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国人之间为何彼此怨恨、互相攻击？]]></title>
-        <id>https://cn.nytimes.com/opinion/20261008/china-anger-economic-frustration/</id>
-        <link href="https://cn.nytimes.com/opinion/20261008/china-anger-economic-frustration/?utm_source=RSS"/>
-        <updated>2026-10-08T04:22:17.000Z</updated>
-        <summary type="html"><![CDATA[经济疲软令许多人深感幻灭，这些情绪正以令人不安的方式显现。政府拥有掌控经济和塑造公共生活的权力，但修复国民之间的善意却不容易。
-
-                    
-Matt Rota]]></summary>
-        <author>
-            <name>高雨莘</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯暴发了鼠疫吗？这里是我们了解到的信息]]></title>
-        <id>https://cn.nytimes.com/world/20261008/russia-plague-fears-what-to-know/</id>
-        <link href="https://cn.nytimes.com/world/20261008/russia-plague-fears-what-to-know/?utm_source=RSS"/>
-        <updated>2026-10-08T03:54:39.000Z</updated>
-        <summary type="html"><![CDATA[一名在俄罗斯偏远实验室工作的女性因肺炎去世。该实验室已被封锁，而俄罗斯当局对此守口如瓶，这助长了猜测和谣言。我们收集了已知信息，并询问了专家的意见。
-
-                    
-Tatyana Makeyeva/Agence France-Presse — Getty Images
-                    
-一名安保人员站在俄罗斯谢列霍夫镇一家传染病医院的门口向外张望，该镇的伊尔库茨克抗鼠疫研究所一名员工在此去世。]]></summary>
-        <author>
-            <name>《纽约时报》</name>
         </author>
     </entry>
     <entry>
