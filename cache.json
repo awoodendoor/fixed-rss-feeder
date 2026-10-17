@@ -17,7 +17,7 @@
           "description": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...查看全文",
           "link": "https://sspai.com/post/116423",
           "publishedOn": "2026-10-16T10:21:07.000Z",
-          "wordCount": 628,
+          "wordCount": 629,
           "title": "本周看什么 | 最近值得一看的 13 部作品",
           "imageUrl": "https://rssfile.sspai.com/2026/10/16/article/86f3f810-931d-588c-c938-d620df052144.png?imageMogr2/auto-orient/ignore-error/1"
         },
@@ -59,7 +59,7 @@
           "publishedOn": "2026-10-16T00:23:12.000Z",
           "wordCount": 615,
           "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
-          "imageUrl": "https://rssfile.sspai.com/10/16/2026/article/a293bad8-5bce-98f2-423e-299932842fdb.png?imageMogr2/auto-orient/ignore-error/1"
+          "imageUrl": "https://rssfile.sspai.com/10/16/2026/article/a293bad8-5bce-98f2-423e-299932842fdb.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
         },
         {
           "id": "https://sspai.com/post/116246",
@@ -99,7 +99,7 @@
           "publishedOn": "2026-10-15T03:00:00.000Z",
           "wordCount": 256,
           "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
-          "imageUrl": "https://rssfile.sspai.com/2026/10/01/af189c32dd3d07a138f33a75a5af8d3c.jpg?imageMogr2/auto-orient/ignore-error/1"
+          "imageUrl": "https://rssfile.sspai.com/2026/10/01/af189c32dd3d07a138f33a75a5af8d3c.jpg?imageMogr2/auto-orient/format/webp/ignore-error/1"
         },
         {
           "id": "https://sspai.com/post/116193",
@@ -125,22 +125,82 @@
       "siteUrl": "https://techcrunch.com/",
       "articles": [
         {
+          "id": "https://techcrunch.com/?p=3178901",
+          "author": "Connie Loizos",
+          "description": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+          "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+          "publishedOn": "2026-10-17T02:36:18.000Z",
+          "wordCount": 4363,
+          "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3178496",
+          "author": "Lucas Ropek",
+          "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+          "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "publishedOn": "2026-10-16T21:22:28.000Z",
+          "wordCount": 3479,
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3178464",
+          "author": "Tim De Chant",
+          "description": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+          "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+          "publishedOn": "2026-10-16T19:40:00.000Z",
+          "wordCount": 4371,
+          "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3178813",
+          "author": "Aditya Mehta",
+          "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+          "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "publishedOn": "2026-10-16T17:52:24.000Z",
+          "wordCount": 3353,
+          "title": "India becomes the latest country to report rogue AI agent activity",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612"
+        },
+        {
+          "id": "https://techcrunch.com/?post_type=tc_video&p=3176211",
+          "author": "Theresa Loconsolo",
+          "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+          "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+          "publishedOn": "2026-10-16T16:30:00.000Z",
+          "wordCount": 3652,
+          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/?p=3178754",
+          "author": "Kirsten Korosec",
+          "description": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+          "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+          "publishedOn": "2026-10-16T16:06:38.000Z",
+          "wordCount": 3381,
+          "title": "Waymo’s robotaxis are headed to Canada",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675"
+        },
+        {
           "id": "https://techcrunch.com/?p=3178756",
           "author": "Aditya Mehta",
-          "description": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+          "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
           "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
           "publishedOn": "2026-10-16T16:01:37.000Z",
-          "wordCount": 3493,
+          "wordCount": 3502,
           "title": "Elorian’s first AI model wants to reason with images, not just about them",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675"
         },
         {
           "id": "https://techcrunch.com/?p=3167146",
           "author": "Dominic-Madori Davis",
-          "description": "Tressfecta will be at this year's TechCrunch Disrupt!",
+          "description": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
           "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
           "publishedOn": "2026-10-16T16:00:00.000Z",
-          "wordCount": 3528,
+          "wordCount": 3568,
           "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800"
         },
@@ -150,7 +210,7 @@
           "description": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
           "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
           "publishedOn": "2026-10-16T16:00:00.000Z",
-          "wordCount": 4242,
+          "wordCount": 4222,
           "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900"
         },
@@ -160,7 +220,7 @@
           "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
           "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
           "publishedOn": "2026-10-16T15:33:49.000Z",
-          "wordCount": 3298,
+          "wordCount": 3331,
           "title": "Jev is Vercel’s fastest-adopted AI model ever",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800"
         },
@@ -170,7 +230,7 @@
           "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
           "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
           "publishedOn": "2026-10-16T14:26:51.000Z",
-          "wordCount": 3624,
+          "wordCount": 3647,
           "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800"
         },
@@ -180,7 +240,7 @@
           "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
           "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
           "publishedOn": "2026-10-16T14:00:00.000Z",
-          "wordCount": 3441,
+          "wordCount": 3474,
           "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675"
         },
@@ -190,7 +250,7 @@
           "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
           "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
           "publishedOn": "2026-10-16T12:55:09.000Z",
-          "wordCount": 3578,
+          "wordCount": 3611,
           "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024"
         },
@@ -200,7 +260,7 @@
           "description": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
           "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
           "publishedOn": "2026-10-16T05:16:46.000Z",
-          "wordCount": 3692,
+          "wordCount": 3715,
           "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark.jpg?resize=1200,800"
         },
@@ -210,7 +270,7 @@
           "description": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
           "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
           "publishedOn": "2026-10-16T01:17:43.000Z",
-          "wordCount": 4192,
+          "wordCount": 4225,
           "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-roadster-2-fly.jpg?resize=1200,877"
         },
@@ -220,7 +280,7 @@
           "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
           "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
           "publishedOn": "2026-10-15T23:44:56.000Z",
-          "wordCount": 3460,
+          "wordCount": 3493,
           "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900"
         },
@@ -230,7 +290,7 @@
           "description": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
           "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
           "publishedOn": "2026-10-15T23:33:45.000Z",
-          "wordCount": 3596,
+          "wordCount": 3619,
           "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/55592280883_eb4cee0d80_k.jpg?resize=1200,800"
         },
@@ -240,7 +300,7 @@
           "description": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
           "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
           "publishedOn": "2026-10-15T20:38:13.000Z",
-          "wordCount": 3541,
+          "wordCount": 3558,
           "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/55591538446_52b352f16c_o.jpg?resize=1200,800"
         },
@@ -250,7 +310,7 @@
           "description": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
           "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
           "publishedOn": "2026-10-15T20:04:53.000Z",
-          "wordCount": 3270,
+          "wordCount": 3303,
           "title": "Meta launches an open-weight AI model that runs on Macs",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799"
         },
@@ -260,69 +320,9 @@
           "description": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
           "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
           "publishedOn": "2026-10-15T19:55:25.000Z",
-          "wordCount": 3720,
+          "wordCount": 3753,
           "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3178355",
-          "author": "Aisha Malik",
-          "description": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
-          "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-          "publishedOn": "2026-10-15T19:29:05.000Z",
-          "wordCount": 3589,
-          "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/55590552302_145d89d28f_o.jpg?resize=1200,800"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3178367",
-          "author": "Aditya Mehta",
-          "description": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-          "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-          "publishedOn": "2026-10-15T19:14:26.000Z",
-          "wordCount": 3387,
-          "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3178080",
-          "author": "Sarah Perez",
-          "description": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-          "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-          "publishedOn": "2026-10-15T18:56:46.000Z",
-          "wordCount": 3609,
-          "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/55591989690_9a07db512f_k.jpg?resize=1200,800"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3178318",
-          "author": "TechCrunch Events",
-          "description": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
-          "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-          "publishedOn": "2026-10-15T18:00:00.000Z",
-          "wordCount": 3264,
-          "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3178089",
-          "author": "Kirsten Korosec",
-          "description": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
-          "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-          "publishedOn": "2026-10-15T17:34:40.000Z",
-          "wordCount": 3489,
-          "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/volvo-s90.jpg?resize=1200,900"
-        },
-        {
-          "id": "https://techcrunch.com/?p=3178049",
-          "author": "Kate Park",
-          "description": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-          "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-          "publishedOn": "2026-10-15T16:45:37.000Z",
-          "wordCount": 3451,
-          "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/12/gettyimages-1157261963-594x594-1.jpg?w=594"
         }
       ]
     },
@@ -545,6 +545,26 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A",
       "articles": [
         {
+          "id": "a51584356bbd0e87af8f0debdbc6672a",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%9B%B8%E4%BA%B2%E9%83%BD%E7%BA%A6%E6%97%A9%E9%A4%90%E5%BA%97%EF%BC%8C%E8%BF%99%E4%B8%AA%E8%A5%BF%E5%8C%97%E5%B0%8F%E5%9F%8E%E7%9A%84%E6%97%A9%E8%8C%B6%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E2%80%9C%E6%8B%BF%E5%BE%97%E5%87%BA%E6%89%8B%E2%80%9D%EF%BC%9F",
+          "publishedOn": "2026-10-16T13:00:00.000Z",
+          "wordCount": 262,
+          "title": "相亲都约早餐店，这个西北小城的早茶到底有多“拿得出手”？",
+          "imageUrl": null
+        },
+        {
+          "id": "c0bd6b1f01d0bbc6e0204e08213caedb",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%96%E6%94%BE%E5%BC%83%E5%A4%A7%E5%8E%82%E9%AB%98%E8%96%AA%EF%BC%8C%E5%8F%AA%E4%B8%BA%E8%BF%BD%E9%97%AE%E9%82%A3%E4%BA%9B%E2%80%9C%E6%97%A0%E7%94%A8%E2%80%9D%E7%9A%84%E9%97%AE%E9%A2%98",
+          "publishedOn": "2026-10-16T13:00:00.000Z",
+          "wordCount": 307,
+          "title": "他放弃大厂高薪，只为追问那些“无用”的问题",
+          "imageUrl": null
+        },
+        {
           "id": "1a242a62d42f07d15f3ab9c31a6c73e7",
           "author": null,
           "description": "",
@@ -560,7 +580,7 @@
           "description": "",
           "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%86%A0%E5%86%9B%E8%B5%B5%E5%AE%B6%E9%A9%B9%EF%BC%8C%E5%92%8C%E4%BB%96%E8%BA%AB%E5%90%8E%E7%9A%84%E9%82%A3%E5%BA%A7%E2%80%9C%E5%86%B0%E5%B1%B1%E2%80%9D",
           "publishedOn": "2026-10-16T09:07:00.000Z",
-          "wordCount": 304,
+          "wordCount": 302,
           "title": "冠军赵家驹，和他身后的那座“冰山”",
           "imageUrl": null
         },
@@ -573,26 +593,6 @@
           "wordCount": 262,
           "title": "全网流行的中女“回春三件套”，到底是什么东西？",
           "imageUrl": null
-        },
-        {
-          "id": "2bd329f9a8a1dbec72e4fa874646a058",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%BD%93%E7%88%B6%E6%AF%8D%E5%8F%98%E6%88%90%E2%80%9C%E8%80%81%E5%B0%8F%E5%AD%A9%E2%80%9D%EF%BC%8C%E6%88%91%E4%BB%AC%E8%AF%A5%E5%A6%82%E4%BD%95%E5%9D%90%E5%A5%BD%E2%80%9C%E5%AE%B6%E9%95%BF%E4%BD%8D%E2%80%9D%EF%BC%9F",
-          "publishedOn": "2026-10-16T04:18:00.000Z",
-          "wordCount": 263,
-          "title": "当父母变成“老小孩”，我们该如何坐好“家长位”？",
-          "imageUrl": null
-        },
-        {
-          "id": "999a8b7820e70fc2b704a06d427b425c",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BD%95%E2%80%9C%E7%96%B2%E6%83%AB%E4%B8%8D%E5%A0%AA%E5%8D%B4%E6%97%A0%E6%B3%95%E5%AE%89%E7%9D%A1%E2%80%9D%EF%BC%9A%E4%B8%80%E4%BD%8D%E4%B8%AD%E5%8C%BB%E8%AE%B2%E9%80%8F%E4%BA%86%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BD%93%E5%9B%B0%E5%A2%83",
-          "publishedOn": "2026-10-16T04:18:00.000Z",
-          "wordCount": 263,
-          "title": "为何“疲惫不堪却无法安睡”：一位中医讲透了现代人的身体困境",
-          "imageUrl": null
         }
       ]
     },
@@ -601,6 +601,16 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/Economist_fans",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29",
       "articles": [
+        {
+          "id": "40aa2ae2e1a5196dc81dfc06fa3a6eb5",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%9C%AC%E6%9C%9F%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E6%9C%80%E5%80%BC%E5%BE%97%E8%AF%BB%E7%9A%8410%E7%AF%87%E6%96%87%E7%AB%A0",
+          "publishedOn": "2026-10-16T11:40:00.000Z",
+          "wordCount": 355,
+          "title": "本期《经济学人》最值得读的10篇文章",
+          "imageUrl": null
+        },
         {
           "id": "09b78864c1d54209dad82acf8e283459",
           "author": null,
@@ -617,7 +627,7 @@
           "description": "",
           "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E6%9C%80%E9%92%9F%E7%88%B1%E7%9A%84%E7%83%98%E7%84%99%E5%BA%97%E5%92%8C%E5%92%96%E5%95%A1%E5%BA%97%E7%8E%B0%E5%9C%A8%E4%BC%9A%E5%8D%96%E6%89%98%E7%89%B9%E8%A2%8B%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E6%96%87%E5%8C%96%EF%BC%88%E5%8F%8C%E8%AF%AD%E8%AF%91%E6%96%87%EF%BC%89",
           "publishedOn": "2026-10-16T01:22:00.000Z",
-          "wordCount": 330,
+          "wordCount": 325,
           "title": "为什么你最钟爱的烘焙店和咖啡店现在会卖托特袋 | 经济学人文化（双语译文）",
           "imageUrl": null
         },
@@ -640,16 +650,6 @@
           "wordCount": 256,
           "title": "零食口味难出新，厂商开始拼口感",
           "imageUrl": null
-        },
-        {
-          "id": "a886790e18349072d14ad8d9b362a7e8",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%AF%B9AI%E6%94%BE%E4%BB%BB%E4%B8%8D%E7%AE%A1%EF%BC%8C%E6%97%A2%E4%B8%8D%E6%98%8E%E6%99%BA%EF%BC%8C%E4%B9%9F%E9%9D%9E%E8%89%AF%E7%AD%96%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%A4%BE%E8%AE%BA%28%E5%8F%8C%E8%AF%AD%E8%AF%91%E6%96%87%EF%BC%89",
-          "publishedOn": "2026-10-15T01:17:00.000Z",
-          "wordCount": 385,
-          "title": "对AI放任不管，既不明智，也非良策 | 经济学人社论(双语译文）",
-          "imageUrl": null
         }
       ]
     },
@@ -659,12 +659,72 @@
       "siteUrl": "https://www.wired.com",
       "articles": [
         {
+          "id": "6ad25929adf6bed67ea56eb9",
+          "author": "Brian Kahn",
+          "description": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
+          "link": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+          "publishedOn": "2026-10-16T21:31:35.000Z",
+          "wordCount": 25446,
+          "title": "The Leap Second Is No More",
+          "imageUrl": "https://media.wired.com/photos/6ad26281fc48d47f39527b44/191:100/w_1280,c_limit/Science_Pour%20One%20Out%20for%20the%20Leap%20Second_v1.jpg"
+        },
+        {
+          "id": "6ad24df34fa2063ab5f076cb",
+          "author": "Tess Owen, Tim Marchman",
+          "description": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+          "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+          "publishedOn": "2026-10-16T20:05:08.000Z",
+          "wordCount": 26723,
+          "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+          "imageUrl": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/191:100/w_1280,c_limit/GettyImages-2299989251.jpg"
+        },
+        {
+          "id": "6acf8fe46e97cafdac3d556e",
+          "author": "Ali Winston",
+          "description": "Despite Illinois’ sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment–protected activities.",
+          "link": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
+          "publishedOn": "2026-10-16T18:21:54.000Z",
+          "wordCount": 26689,
+          "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
+          "imageUrl": "https://media.wired.com/photos/6acf9d6f3ad68bc4076ddf49/191:100/w_1280,c_limit/GettyImages-2296548226.jpg"
+        },
+        {
+          "id": "6ad21137281037ed104dbf79",
+          "author": "Jeremy White",
+          "description": "It turns out the Roadster 2 both sucks and blows.",
+          "link": "https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/",
+          "publishedOn": "2026-10-16T16:30:12.000Z",
+          "wordCount": 27122,
+          "title": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
+          "imageUrl": "https://media.wired.com/photos/6ad23cf9596e9f773d31db35/191:100/w_1280,c_limit/Roadster_94.jpg"
+        },
+        {
+          "id": "6acf9742b89c86bafd0c52a0",
+          "author": "Louryn Strampe",
+          "description": "The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.",
+          "link": "https://www.wired.com/review/razer-barracuda-v2-pro/",
+          "publishedOn": "2026-10-16T16:30:00.000Z",
+          "wordCount": 22311,
+          "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
+          "imageUrl": "https://media.wired.com/photos/6ad23b95526f09405ee8956f/191:100/w_1280,c_limit/Razer%20Barracuda%20V2%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg"
+        },
+        {
+          "id": "6acfd6a476c17d102a553e4e",
+          "author": "Sophia June",
+          "description": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
+          "link": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
+          "publishedOn": "2026-10-16T16:21:38.000Z",
+          "wordCount": 25732,
+          "title": "Thank Gen Z for the ‘Girls’ Revival",
+          "imageUrl": "https://media.wired.com/photos/6acfdbcff99bae5deb44dd4d/191:100/w_1280,c_limit/Thank-Gen-Z-for-Girls-Revival-Culture-TCDGIRL_EC147.jpg"
+        },
+        {
           "id": "6acd213f3db0b1ee28ed2683",
           "author": "Dell Cameron, Hugo Lowell",
           "description": "Elon Musk has assembled a presidential-level field operation this midterm cycle, underscoring the extent to which he has taken over the get-out-the-vote effort for the Republican party.",
           "link": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
           "publishedOn": "2026-10-16T15:25:18.000Z",
-          "wordCount": 24506,
+          "wordCount": 25016,
           "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
           "imageUrl": "https://media.wired.com/photos/6acd9562b718d45618194704/191:100/w_1280,c_limit/GettyImages-2180560800.jpg"
         },
@@ -674,7 +734,7 @@
           "description": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
           "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
           "publishedOn": "2026-10-16T15:00:00.000Z",
-          "wordCount": 25502,
+          "wordCount": 25417,
           "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
           "imageUrl": "https://media.wired.com/photos/6ad14b37762b59cd2aa2c0c9/191:100/w_1280,c_limit/Backchannel-Sherry-Turkle-Business-458911186.jpg"
         },
@@ -684,7 +744,7 @@
           "description": "The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life.",
           "link": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
           "publishedOn": "2026-10-16T13:00:00.000Z",
-          "wordCount": 28593,
+          "wordCount": 29215,
           "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
           "imageUrl": "https://media.wired.com/photos/6ad13db2947d3d6c92ec6bb7/191:100/w_1280,c_limit/Review%20Surface%20Laptop%20Ultra%20102026%20top%20art%20SOURCE%20BH%20Photo.jpg"
         },
@@ -704,7 +764,7 @@
           "description": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
           "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
           "publishedOn": "2026-10-16T11:00:00.000Z",
-          "wordCount": 27434,
+          "wordCount": 27416,
           "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
           "imageUrl": "https://media.wired.com/photos/6ad1662e14d5ead8303dffcb/191:100/w_1280,c_limit/Business_Comedians%20Are%20Getting%20Ripped%20Off%20By%20AI%20Hot%20Girls_v5.jpg"
         },
@@ -714,7 +774,7 @@
           "description": "What originally looked like clutter turned out to be my new favorite gadget for organizing my family’s life.",
           "link": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
           "publishedOn": "2026-10-16T10:32:00.000Z",
-          "wordCount": 36274,
+          "wordCount": 36227,
           "title": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight",
           "imageUrl": "https://media.wired.com/photos/6ad0ff23409b08718ac6fdb4/191:100/w_1280,c_limit/Are%20Digital%20Wall%20Calendars%20Worth%20It%20(Update)%20102026%20top%20art%20SOURCE%20Amazon-Skylight.jpg"
         },
@@ -734,7 +794,7 @@
           "description": "Surprised by the hype around yet another documentary on Theranos fraudster Elizabeth Holmes? It has everything to do with this experimental comedian.",
           "link": "https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder/",
           "publishedOn": "2026-10-16T10:00:00.000Z",
-          "wordCount": 28613,
+          "wordCount": 28644,
           "title": "The New Fan’s Guide to the Unreal World of Nathan Fielder",
           "imageUrl": "https://media.wired.com/photos/6ad1230d3bea6f2be1ce448f/191:100/w_1280,c_limit/NathanFielder_NF-1.jpg"
         },
@@ -744,19 +804,9 @@
           "description": "Scientists can’t agree why reefs in the Red Sea have long been immune to bleaching. The answer could be the key to saving these tough corals as climate change begins taking its toll.",
           "link": "https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/",
           "publishedOn": "2026-10-16T09:00:00.000Z",
-          "wordCount": 25324,
+          "wordCount": 25412,
           "title": "Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat",
           "imageUrl": "https://media.wired.com/photos/6acfd1d0b694762e88044dcf/191:100/w_1280,c_limit/Reef_lead.jpg"
-        },
-        {
-          "id": "6761d5ad5b998d54c2f9cdbc",
-          "author": "Molly Higgins",
-          "description": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
-          "link": "https://www.wired.com/story/total-wireless-promo-code/",
-          "publishedOn": "2026-10-16T05:00:00.000Z",
-          "wordCount": 25724,
-          "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
-          "imageUrl": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/191:100/w_1280,c_limit/WIRED-Coupons-4.jpg"
         },
         {
           "id": "67462fb5b36fe19e4f620021",
@@ -764,9 +814,19 @@
           "description": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
           "link": "https://www.wired.com/story/surfshark-coupon/",
           "publishedOn": "2026-10-16T05:00:00.000Z",
-          "wordCount": 26035,
+          "wordCount": 26038,
           "title": "Surfshark Promo Codes: 87% Off | October 2026",
           "imageUrl": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/191:100/w_1280,c_limit/WIRED-Coupons-17.jpg"
+        },
+        {
+          "id": "6761d5ad5b998d54c2f9cdbc",
+          "author": "Molly Higgins",
+          "description": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
+          "link": "https://www.wired.com/story/total-wireless-promo-code/",
+          "publishedOn": "2026-10-16T05:00:00.000Z",
+          "wordCount": 25693,
+          "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
+          "imageUrl": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/191:100/w_1280,c_limit/WIRED-Coupons-4.jpg"
         },
         {
           "id": "6ad0e80283f9c175777f8f3e",
@@ -774,7 +834,7 @@
           "description": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
           "link": "https://www.wired.com/story/skechers-coupon-codes/",
           "publishedOn": "2026-10-16T05:00:00.000Z",
-          "wordCount": 24317,
+          "wordCount": 24461,
           "title": "Skechers Coupon Codes 20% Off",
           "imageUrl": "https://media.wired.com/photos/67b63b972c751893c256c1e6/191:100/w_1280,c_limit/WIRED-Coupons-R2_16.png"
         },
@@ -784,7 +844,7 @@
           "description": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
           "link": "https://www.wired.com/story/hp-coupon-code/",
           "publishedOn": "2026-10-16T05:00:00.000Z",
-          "wordCount": 28082,
+          "wordCount": 28061,
           "title": "HP Coupon Codes and Deals October 2026",
           "imageUrl": "https://media.wired.com/photos/67b63b9079f27a355461c964/191:100/w_1280,c_limit/WIRED-Coupons-R2_2.png"
         },
@@ -794,7 +854,7 @@
           "description": "The Federal Aviation Administration will likely have thoughts about the Tesla Roadster 2’s ability to leave the ground.",
           "link": "https://www.wired.com/story/tesla-flying-car-faa/",
           "publishedOn": "2026-10-16T03:18:30.000Z",
-          "wordCount": 25101,
+          "wordCount": 25079,
           "title": "A Tesla Flying Car? I Don’t Know, Man",
           "imageUrl": "https://media.wired.com/photos/6ad1d58314d5ead8303e0748/191:100/w_1280,c_limit/2026-10-16T014239Z_1011196447_RC214OAAWK2R_RTRMADP_3_TESLA-ROADSTER.JPG"
         },
@@ -804,7 +864,7 @@
           "description": "The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.",
           "link": "https://www.wired.com/story/tesla-roadster-2-launch/",
           "publishedOn": "2026-10-16T01:22:51.000Z",
-          "wordCount": 25557,
+          "wordCount": 25435,
           "title": "The Tesla Roadster 2 Is Here—and It Flies",
           "imageUrl": "https://media.wired.com/photos/6ad1d5e2a804ead0a674d698/191:100/w_1280,c_limit/2026-10-16T014704Z_772485108_RC214OA3Y5KO_RTRMADP_3_TESLA-ROADSTER.JPG"
         },
@@ -814,7 +874,7 @@
           "description": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
           "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
           "publishedOn": "2026-10-15T21:18:15.000Z",
-          "wordCount": 40032,
+          "wordCount": 40165,
           "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
           "imageUrl": "https://media.wired.com/photos/6acff05076c17d102a553f12/191:100/w_1280,c_limit/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg"
         },
@@ -824,7 +884,7 @@
           "description": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
           "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
           "publishedOn": "2026-10-15T21:00:28.000Z",
-          "wordCount": 25312,
+          "wordCount": 25308,
           "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
           "imageUrl": "https://media.wired.com/photos/6ad00a8917414371d605a797/191:100/w_1280,c_limit/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg"
         },
@@ -834,7 +894,7 @@
           "description": "You don’t need the fanciest model to make your heating routine smarter. A refurbished Ecobee we love is just $120 through October 21.",
           "link": "https://www.wired.com/story/ecobee-fall-sale-2026/",
           "publishedOn": "2026-10-15T19:00:49.000Z",
-          "wordCount": 24387,
+          "wordCount": 24372,
           "title": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
           "imageUrl": "https://media.wired.com/photos/6ad12208409b08718ac6feae/191:100/w_1280,c_limit/Ecobee3%20Lite%20top%20art%20SOURCE%20Ecobee.jpg"
         },
@@ -844,7 +904,7 @@
           "description": "Trump’s newly installed press secretary tells WIRED that in the early 2010s, she promoted a product for a company then called Beachbody, which she described as “sort of a pyramid scheme.”",
           "link": "https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/",
           "publishedOn": "2026-10-15T17:05:19.000Z",
-          "wordCount": 26027,
+          "wordCount": 25860,
           "title": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM",
           "imageUrl": "https://media.wired.com/photos/6acfbfe28180da3345611aef/191:100/w_1280,c_limit/GettyImages-2299988078.jpg"
         },
@@ -854,7 +914,7 @@
           "description": "The artist’s macabre short works have been adapted into eerily freaky 30-minute bites for television. We got a sneak preview of the next episode airing on HBO Max.",
           "link": "https://www.wired.com/story/new-york-comic-con-panel-2/",
           "publishedOn": "2026-10-15T13:30:00.000Z",
-          "wordCount": 24713,
+          "wordCount": 24784,
           "title": "Junji Ito’s Manga Horrors Hit Harder as Live-Action TV",
           "imageUrl": "https://media.wired.com/photos/6acec4974eea6509d95be967/191:100/w_1280,c_limit/Junji-Ito-Manga-Horrors-Culture-2276601648.jpg"
         },
@@ -864,7 +924,7 @@
           "description": "Low-quality AI-generated content currently dominates children’s media. Maka, a streaming platform run by child development experts, is offering an alternative.",
           "link": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/",
           "publishedOn": "2026-10-15T11:00:00.000Z",
-          "wordCount": 26985,
+          "wordCount": 27043,
           "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
           "imageUrl": "https://media.wired.com/photos/6acfb4b1bca2b73e26f409dc/191:100/w_1280,c_limit/Kids-Content-Deeply-Broken-Culture-Mockup_Gradient_Channels.jpg"
         },
@@ -874,7 +934,7 @@
           "description": "As a recent government report on DOGE shows, even getting basic information out of the Trump administration will put a new Congress to the test.",
           "link": "https://www.wired.com/story/democrats-are-gearing-up-to-investigate-the-trump-administration-it-wont-be-so-easy/",
           "publishedOn": "2026-10-15T10:30:00.000Z",
-          "wordCount": 27569,
+          "wordCount": 27473,
           "title": "Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy",
           "imageUrl": "https://media.wired.com/photos/6acd9768fccc4c5244b9544c/191:100/w_1280,c_limit/GettyImages-2247045310.jpg"
         },
@@ -884,7 +944,7 @@
           "description": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
           "link": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
           "publishedOn": "2026-10-15T10:00:00.000Z",
-          "wordCount": 26731,
+          "wordCount": 26480,
           "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
           "imageUrl": "https://media.wired.com/photos/6acfe0c101e1efc169db5a0f/191:100/w_1280,c_limit/Security_Sophisticated%20Zero-Click%20Spyware%20Found%20Being%20Distributed%20by%20Targeted%20Ads%20for%20the%20First%20Time_v1.jpg"
         },
@@ -894,7 +954,7 @@
           "description": "Permanent eave lights that attach to the exterior of your home are becoming more popular. But are they worth the effort and cost?",
           "link": "https://www.wired.com/story/should-you-get-permanent-outdoor-lights/",
           "publishedOn": "2026-10-15T09:36:00.000Z",
-          "wordCount": 35604,
+          "wordCount": 35697,
           "title": "The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync",
           "imageUrl": "https://media.wired.com/photos/6acfd8a8250b75e3c1f1e3d2/191:100/w_1280,c_limit/Best%20Permanent%20Outdoor%20Lights%20(Update)%20102026%20top%20art%20SOURCE%20Govee.jpg"
         },
@@ -904,7 +964,7 @@
           "description": "Though scaled back from initial plans of landing, the voyage will serve as a dress rehearsal for when humans return to the moon’s surface.",
           "link": "https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission/",
           "publishedOn": "2026-10-15T09:15:00.000Z",
-          "wordCount": 28237,
+          "wordCount": 28144,
           "title": "Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission",
           "imageUrl": "https://media.wired.com/photos/6ace784a3ccd7fa0977b8204/191:100/w_1280,c_limit/WR-Nasa.jpg"
         },
@@ -914,7 +974,7 @@
           "description": "Contracts tied to elections in Ethiopia and Romania saw massive trading volumes after the outcomes were decided. “It’s obviously some form of volume manipulation,” one expert says.",
           "link": "https://www.wired.com/story/over-dollar600-million-traded-on-polymarket-election-contracts-after-races-ended/",
           "publishedOn": "2026-10-15T09:00:00.000Z",
-          "wordCount": 26725,
+          "wordCount": 26797,
           "title": "Over $600 Million in Polymarket Election Trades Took Place After Races Ended",
           "imageUrl": "https://media.wired.com/photos/6ad00b3fddecc03369093fdf/191:100/w_1280,c_limit/Millions-Traded-Zombie-Polymarket-Business.jpg"
         },
@@ -924,7 +984,7 @@
           "description": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
           "link": "https://www.wired.com/story/top-walmart-promo-codes/",
           "publishedOn": "2026-10-15T05:00:00.000Z",
-          "wordCount": 25376,
+          "wordCount": 25425,
           "title": "Walmart Promo Codes: 20% Off for October 2026",
           "imageUrl": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg"
         },
@@ -934,7 +994,7 @@
           "description": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
           "link": "https://www.wired.com/story/hotels-com-coupon/",
           "publishedOn": "2026-10-15T05:00:00.000Z",
-          "wordCount": 24865,
+          "wordCount": 24861,
           "title": "Hotels.com Coupon Codes for October 2026",
           "imageUrl": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg"
         },
@@ -954,7 +1014,7 @@
           "description": "Learn how to maximize your savings on major appliances, electronics, and mattresses using verified ABT discount codes, rebates, and special coupons, and save up to $1,200 in October 2026.",
           "link": "https://www.wired.com/story/abt-promo-code/",
           "publishedOn": "2026-10-15T05:00:00.000Z",
-          "wordCount": 24213,
+          "wordCount": 24217,
           "title": "ABT Promo Codes & Discounts for October 2026",
           "imageUrl": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/191:100/w_1280,c_limit/WIRED-Coupons-R2_14.png"
         },
@@ -964,7 +1024,7 @@
           "description": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
           "link": "https://www.wired.com/story/groupon-promo-code/",
           "publishedOn": "2026-10-15T05:00:00.000Z",
-          "wordCount": 24737,
+          "wordCount": 24710,
           "title": "Groupon Promo Codes: 60% Off in October 2026",
           "imageUrl": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/191:100/w_1280,c_limit/WIRED-Coupons-5.jpg"
         },
@@ -974,7 +1034,7 @@
           "description": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
           "link": "https://www.wired.com/story/design-within-reach-promo-code/",
           "publishedOn": "2026-10-15T05:00:00.000Z",
-          "wordCount": 26484,
+          "wordCount": 26447,
           "title": "Design Within Reach Promo Codes: 30% Off | October 2026",
           "imageUrl": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/191:100/w_1280,c_limit/WIRED-Coupons-4.jpg"
         },
@@ -984,7 +1044,7 @@
           "description": "Save on family history memberships and DNA kits with the latest Ancestry coupon codes, special offers, and seasonal discounts.",
           "link": "https://www.wired.com/story/ancestry-coupon-codes/",
           "publishedOn": "2026-10-15T05:00:00.000Z",
-          "wordCount": 24741,
+          "wordCount": 24700,
           "title": "Ancestry Coupons│50% Off│October 2026",
           "imageUrl": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/191:100/w_1280,c_limit/WIRED-Coupons-R2_9.png"
         },
@@ -994,7 +1054,7 @@
           "description": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House.",
           "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
           "publishedOn": "2026-10-14T21:00:00.000Z",
-          "wordCount": 25311,
+          "wordCount": 25492,
           "title": "Trump Aides Admit the House Is a Lost Cause",
           "imageUrl": "https://media.wired.com/photos/6ace7cf375ef8eec0d5b4a47/191:100/w_1280,c_limit/politics_white_house_midterms_trump.jpg"
         },
@@ -1004,7 +1064,7 @@
           "description": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
           "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
           "publishedOn": "2026-10-14T18:15:00.000Z",
-          "wordCount": 25018,
+          "wordCount": 25003,
           "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
           "imageUrl": "https://media.wired.com/photos/6ace87bed95d506835d511b4/191:100/w_1280,c_limit/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg"
         },
@@ -1014,7 +1074,7 @@
           "description": "Seven of 16 planetary vital signs are in their most extreme state ever recorded, and El Niño is here to make matters even worse.",
           "link": "https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/",
           "publishedOn": "2026-10-14T14:00:00.000Z",
-          "wordCount": 24716,
+          "wordCount": 24841,
           "title": "Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies",
           "imageUrl": "https://media.wired.com/photos/6acec6fbaaecd379fb33abd9/191:100/w_1280,c_limit/Earth-Condition-Getting-Worse-Science-2299206304.jpg"
         },
@@ -1024,7 +1084,7 @@
           "description": "Brian K. Vaughan claims he’s seen Dune: Part Three and it’s “a fucking beautiful movie.”",
           "link": "https://www.wired.com/story/new-york-comic-con-interview/",
           "publishedOn": "2026-10-14T13:30:00.000Z",
-          "wordCount": 26874,
+          "wordCount": 26901,
           "title": "‘Dune: Part Three’ Cowriter Brian K. Vaughan Has a New Comic on the Way",
           "imageUrl": "https://media.wired.com/photos/6acd53c53982e9e93e8e9175/191:100/w_1280,c_limit/Dune-Writer-Comic-Book-Culture-1242062718.jpg"
         },
@@ -1034,7 +1094,7 @@
           "description": "The Form Studio 1 is a $699 desktop-sized printer that fits on a desk and only stinks a little bit.",
           "link": "https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies/",
           "publishedOn": "2026-10-14T13:00:00.000Z",
-          "wordCount": 25386,
+          "wordCount": 25497,
           "title": "Formlabs Has a 3D Printer for Normies",
           "imageUrl": "https://media.wired.com/photos/6ace946f5ba8ef37cd443e51/191:100/w_1280,c_limit/Formlabs-3D-Printer-Gear-Form-Studio-1%E2%80%93media-kit-003.jpg"
         },
@@ -1044,7 +1104,7 @@
           "description": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
           "link": "https://www.wired.com/story/my-friend-has-no-soul/",
           "publishedOn": "2026-10-14T11:00:00.000Z",
-          "wordCount": 26680,
+          "wordCount": 26950,
           "title": "My Friend Has No Soul",
           "imageUrl": "https://media.wired.com/photos/6acdf1809f45e9dbe0c8053b/191:100/w_1280,c_limit/E4.jpg"
         },
@@ -1074,7 +1134,7 @@
           "description": "A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.",
           "link": "https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga/",
           "publishedOn": "2026-10-14T10:30:00.000Z",
-          "wordCount": 29071,
+          "wordCount": 29143,
           "title": "The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA",
           "imageUrl": "https://media.wired.com/photos/6acef92248e0f30c1c04574c/191:100/w_1280,c_limit/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg"
         },
@@ -1084,7 +1144,7 @@
           "description": "a certain kind of person writes in all lowercase now. why?",
           "link": "https://www.wired.com/story/the-case-for-lowercase/",
           "publishedOn": "2026-10-14T10:00:00.000Z",
-          "wordCount": 27861,
+          "wordCount": 27748,
           "title": "cool kids are writing in all lowercase now. does that make you mad?",
           "imageUrl": "https://media.wired.com/photos/6ace518c0cd03eee45eddd24/191:100/w_1280,c_limit/lowercase_internet_style_sm.jpg"
         },
@@ -1097,66 +1157,6 @@
           "wordCount": 24130,
           "title": "Nothing Headphone (1) Pro Review: Studio Quality",
           "imageUrl": "https://media.wired.com/photos/6ace413d24c9f1116aeab823/191:100/w_1280,c_limit/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg"
-        },
-        {
-          "id": "669ea457d9986d243366fce3",
-          "author": "Pete Cottell",
-          "description": "The future is here, and it is jacked up on B vitamins, red dye, and taurine. These are the best energy drinks to get from tired to wired.",
-          "link": "https://www.wired.com/story/best-energy-drinks/",
-          "publishedOn": "2026-10-14T09:36:00.000Z",
-          "wordCount": 44897,
-          "title": "I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)",
-          "imageUrl": "https://media.wired.com/photos/6ace47d9d672a344b2157934/191:100/w_1280,c_limit/Update%20Best%20Energy%20Drinks%20102026%20top%20art%20SOURCE%20Costco.jpg"
-        },
-        {
-          "id": "6acd01390acd0f3cf09bed30",
-          "author": "Kate Taylor",
-          "description": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
-          "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-          "publishedOn": "2026-10-14T09:30:00.000Z",
-          "wordCount": 24476,
-          "title": "Men Can’t Stop Faking How Much They Know About AI",
-          "imageUrl": "https://media.wired.com/photos/6ace9af8b7c3e684c0712364/191:100/w_1280,c_limit/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg"
-        },
-        {
-          "id": "6ace7f141c88d9ddc386038e",
-          "author": "Ritsuko Kawai",
-          "description": "Researchers took lessons from nocturnal animals to help rescue drones overcome a key challenge: flying in the dark.",
-          "link": "https://www.wired.com/story/cat-like-whiskers-help-tiny-drones-fly-in-the-dark/",
-          "publishedOn": "2026-10-14T09:15:00.000Z",
-          "wordCount": 25162,
-          "title": "Cat-Like Whiskers Help Tiny Drones Fly in the Dark",
-          "imageUrl": "https://media.wired.com/photos/6ace7f14e7efb271b8268bc8/191:100/w_1280,c_limit/2026_Q3_Web_TUDelft_Drones_0182.jpeg"
-        },
-        {
-          "id": "6ace892f27274743b645b3c7",
-          "author": "Aarian Marshall",
-          "description": "Nine years after its reveal, the overdue Roadster is set to debut on Thursday to an EV market that has grown skeptical of electric hypercars.",
-          "link": "https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world/",
-          "publishedOn": "2026-10-14T09:15:00.000Z",
-          "wordCount": 24991,
-          "title": "Tesla’s Roadster 2 Is Late—and Entering a Different EV World",
-          "imageUrl": "https://media.wired.com/photos/6aceb1911c96dec39a5cc07b/191:100/w_1280,c_limit/Tesla-Roadster-Walkup-Gear-AP-551443509667.jpg"
-        },
-        {
-          "id": "6ace5bf9fef1e55bb5172524",
-          "author": "David Gilbert",
-          "description": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
-          "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-          "publishedOn": "2026-10-14T09:00:00.000Z",
-          "wordCount": 25506,
-          "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-          "imageUrl": "https://media.wired.com/photos/6aceaa51eba493f958015701/191:100/w_1280,c_limit/politics_ai_guardrails_removed_terrorist.jpg"
-        },
-        {
-          "id": "674752c56e8c795eaf0c88ef",
-          "author": "Molly Higgins",
-          "description": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-          "link": "https://www.wired.com/story/peacock-promo-code/",
-          "publishedOn": "2026-10-14T05:00:00.000Z",
-          "wordCount": 28771,
-          "title": "Peacock Promo Codes: 40% Off October 2026",
-          "imageUrl": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/191:100/w_1280,c_limit/WIRED-Coupons-1.jpg"
         }
       ]
     }
