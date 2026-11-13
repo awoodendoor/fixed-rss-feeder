@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-12T19:30:42.988Z</id>
+    <id>urn:2026-11-13T04:58:59.476Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-12T19:30:42.988Z</updated>
+    <updated>2026-11-13T04:58:59.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -18,6 +18,461 @@ Manuel Orbegozo for The New York Times
 在硅谷，很少有高管像英伟达联合创始人兼首席执行官黄仁勋那样，与自己所在的公司如此密不可分。]]></summary>
         <author>
             <name>TRIPP MICKLE,MAGGIE HABERMAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁能执掌万亿AI帝国？黄仁勋卸任后 英伟达新任CEO热门人选一览]]></title>
+        <id>https://www.zaobao.com/news/world/story20261113-9991471</id>
+        <link href="https://www.zaobao.com/news/world/story20261113-9991471"/>
+        <updated>2026-11-13T03:44:22.000Z</updated>
+        <summary type="html"><![CDATA[在联合创始人黄仁勋因被曝出多段婚外情而引咎辞职后，英伟达董事会于星期四（11月12日）正式启动新任领导人的遴选工作。 
+目前，在预测市场平台Polymarket上，呼声最高的是英伟达负责超大规模数据中心业务的副总裁巴克，临时掌门人克雷斯位居次席，苹果前首席执行官库克的赔率则排在第四位。
+
+克雷斯（Colette Kress）：英伟达首席财务官
+
+              
+（路透社）
+            
+作为资深高管，克雷斯已于星期四被任命为临时CEO。分析师与投资者普遍认为，她丰富的管理经验、公司内部威望以及与华尔街的深厚渊源，使她成为带领英伟达平稳度过当前危机的理想人选。 
+克雷斯自2013年起担任英伟达首席财务官，此前曾在微软、思科及晶片巨头得州仪器（Texas Instruments）等大型科技企业积累深厚的行业资历。
+
+巴克（Ian Buck）：英伟达超大规模与高性能计算副总裁
+
+              
+（路透社）
+            
+巴克于2004年加入英伟达，参与主导CUDA软件平台的研发。这项核心底层技术赋予了图形处理器（GPU）通用计算能力，推动英伟达从一家游戏显卡厂商，成功蜕变为全球最大的人工智能（AI）硬件巨头。同时，作为公司AI软硬件业务的核心掌舵人之一，他也与各大头部客户保持着深度合作。
+哈斯（Rene Haas）：英国晶片设计公司安谋（Arm）首席执行官
+
+              
+（路透社）
+            
+哈斯曾在英伟达度过职业生涯中至关重要的七年，一路晋升至计算产品业务副总裁兼总经理，直至2013年转投安谋。2022年出任安谋首席执行官后，他于次年成功带领这家英国晶片设计巨头登陆纳斯达克。
+今年4月，他的职业版图进一步扩大，不仅接管母公司软银集团的国际业务，更正式跻身软银董事会。
+
+盖尔辛格（Pat Gel…]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高市下周赴深圳 任内首访中国]]></title>
+        <id>https://www.zaobao.com/news/world/story20261113-9991596</id>
+        <link href="https://www.zaobao.com/news/world/story20261113-9991596"/>
+        <updated>2026-11-13T03:42:16.000Z</updated>
+        <summary type="html"><![CDATA[日本政府星期五（11月13日）宣布，首相高市早苗将于下周前往中国深圳出席亚太经合组织（APEC）峰会，这将是她就任首相以来首次访问中国。 
+此次访问正值中日两国关系尤为紧张之际。去年11月，高市曾暗示，若中国声称拥有主权的台湾遭到任何攻击，日本可能会采取干预行动。 
+日本内阁官房副长官尾崎正直说：“高市首相定于11月16日至19日访问菲律宾和中国，出席亚细安相关系列峰会以及APEC峰会。”
+此次深圳之行，将是高市自去年10月出任首相以来的首次访华。
+尾崎透露，高市将在APEC峰会上就贸易与投资、区域经济一体化、经济与能源韧性、数字经济等议题展开讨论，并阐述日方立场。
+然而，外界所有的目光都将聚焦于她与中国国家主席习近平之间可能进行的任何互动。 
+在前往深圳之前，高市将先赴马尼拉，出席由11个成员国组成的亚细安峰会。尾崎补充说，各方正安排在亚细安峰会期间举行四方安全对话（Quad）领导人会议，届时澳大利亚、印度、日本和美国领导人将共同出席。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？]]></title>
+        <id>https://sspai.com/post/118512</id>
+        <link href="https://sspai.com/post/118512"/>
+        <updated>2026-11-13T03:35:48.000Z</updated>
+        <summary type="html"><![CDATA[距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...查看全文]]></summary>
+        <author>
+            <name>Tw93</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普曾敦促黄仁勋为保住英伟达CEO职位而战]]></title>
+        <id>https://cn.nytimes.com/usa/20261113/trump-jensen-huang-nvidia/</id>
+        <link href="https://cn.nytimes.com/usa/20261113/trump-jensen-huang-nvidia/?utm_source=RSS"/>
+        <updated>2026-11-13T03:24:19.000Z</updated>
+        <summary type="html"><![CDATA[特朗普曾在黄仁勋辞职前与他通话，敦促他为保住职位而抗争。黄仁勋是总统在人工智能领域的重要顾问，此前特朗普至少两次被告知黄仁勋存在国安风险，仍邀其陪同访华。
+
+                    
+Demetrius Freeman for The New York Times
+                    
+特朗普总统与黄仁勋上个月在华盛顿的一场峰会期间。]]></summary>
+        <author>
+            <name>MAGGIE HABERMAN,JONATHAN SWAN,TRIPP MICKLE,JULIAN E. BARNES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁能接替黄仁勋？英伟达可以考虑这些人]]></title>
+        <id>https://cn.nytimes.com/business/20261113/jensen-huang-nvidia-successor/</id>
+        <link href="https://cn.nytimes.com/business/20261113/jensen-huang-nvidia-successor/?utm_source=RSS"/>
+        <updated>2026-11-13T02:41:22.000Z</updated>
+        <summary type="html"><![CDATA[特朗普建议苹果前CEO库克接替黄仁勋执掌英伟达，猎头和分析人士则提供了一些其他人选。但预计很少有候选人能够维持黄仁勋在英伟达推行的超扁平化组织结构。
+
+                    
+Kenny Holston/The New York Times
+                    
+预计很少有候选人能够延续黄仁勋在英伟达所推行的超扁平化管理结构。据估计，约有60名员工直接向他汇报工作。]]></summary>
+        <author>
+            <name>DON CLARK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“我是个混蛋” 黄仁勋自责伤及家人]]></title>
+        <id>https://www.zaobao.com/news/world/story20261113-9991062</id>
+        <link href="https://www.zaobao.com/news/world/story20261113-9991062"/>
+        <updated>2026-11-13T02:21:15.000Z</updated>
+        <summary type="html"><![CDATA[在连续数周否认婚外情指控、并极力保住英伟达首席执行官一职后，黄仁勋于周三深夜无条件选择了妥协与放弃。据一名知情人士透露，黄仁勋往日雷厉风行、掌控全局的气场已荡然无存，席间频频说出“随便吧”“我不在乎”之类的话。 
+据近日与黄仁勋交谈过的人士透露，他的态度已转向忏悔，甚至痛骂自己是个“混蛋”。黄仁勋声称自己如今已不在乎个人会落得什么下场，目前最担心的是自己的妻子，也不愿毁掉那些在公众舆论中与他传出绯闻的几名女性的生活。 
+彭博社记者未能联系到黄仁勋本人对此置评。
+不过，即便黄仁勋有意淡出公众视野，恐怕也难以如愿。预计未来几周他将前往国会作证，届时政界人士将就他与被指是中国情报员的黄乐的关系，以及这段关系是否可能使英伟达最先进晶片的商业机密面临泄露风险，对他进行质询。
+
+特朗普：黄仁勋对丑闻牵连家人深感懊悔
+
+周四，在黄仁勋因被曝出三段婚外情而下台仅数小时后，美国总统特朗普在白宫接受广播主持人史密斯（Stephen A. Smith）采访时透露，黄仁勋此前曾主动致电给他，对丑闻给家人造成的伤害表达了深深的懊悔。
+“我昨天和他通了话，他现在正经历地狱般的煎熬。他最感到愧疚的是他的妻子和家人。这就是他在电话里亲口告诉我的。” 
+当被问及黄仁勋是否应该辞职时，特朗普说，问题的关键在于涉事的黄乐是否是间谍。不过特朗普预测，黄仁勋最终将走出这场风波的阴霾：“我可以告诉你这一点，无论如何，他最终都会重新站起来的。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于英伟达临时CEO克雷斯，我们知道些什么]]></title>
+        <id>https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/</id>
+        <link href="https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/?utm_source=RSS"/>
+        <updated>2026-11-13T02:04:12.000Z</updated>
+        <summary type="html"><![CDATA[克雷斯于2013年加入英伟达，任公司首席财务官。她熟悉公司内部运营，在华尔街有广泛人脉，但她缺乏黄仁勋与英伟达庞大的供应链或与华盛顿方面建立的关系。
+
+                    
+Nvidia, via Reuters
+                    
+英伟达于周四发布首席财务官科莱特·克雷斯的照片。]]></summary>
+        <author>
+            <name>ADAM SATARIANO,KALLEY HUANG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄仁勋下台会成为人工智能泡沫破裂的开端吗]]></title>
+        <id>https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/</id>
+        <link href="https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/?utm_source=RSS"/>
+        <updated>2026-11-13T02:03:00.000Z</updated>
+        <summary type="html"><![CDATA[英伟达不仅是占据主导地位的芯片制造商，它还为整个行业的发展提供融资支持；黄仁勋则是英伟达的中心。他的离职给本已处于敏感时期的人工智能产业带来了新的不确定性。
+
+                    
+Callaghan O'Hare for The New York Times
+                    
+在其他行业陷入困境之际，数据中心建设热潮成为美国经济增长的重要推动力，而英伟达一直在为这股建设热潮提供融资支持。]]></summary>
+        <author>
+            <name>BEN CASSELMAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[涉国安及敏感技术保护 美参院银行委主席要求黄仁勋与商务部长作证]]></title>
+        <id>https://www.zaobao.com/news/world/story20261113-9990912</id>
+        <link href="https://www.zaobao.com/news/world/story20261113-9990912"/>
+        <updated>2026-11-13T01:53:02.000Z</updated>
+        <summary type="html"><![CDATA[美国参议院银行委员会主席斯科特周四致信商务部长卢特尼克以及英伟达前首席执行官黄仁勋，要求两人就英伟达近期的相关动态出席听证会作证。 
+斯科特星期四（11月12日）在X平台发文说：“近期的报道引发了人们对国家安全以及保护美国敏感技术的严重关切。我正要求英伟达首席执行官黄仁勋和商务部长卢特尼克前往参议院银行委员会作证。” 
+路透社目前尚未能联系到黄仁勋和卢特尼克的发言人对此置评。
+斯科特警告称，若黄仁勋不愿主动出席听证，他将考虑动用传票强制他到场，并强调美国人民理应得到答案。
+众议院外交事务委员会主席、佛罗里达州共和党人马斯特（Brian Mast）周四向媒体透露，国会工作人员已于周三晚间与英伟达方面接洽，商讨与议员举行闭门简报会的时间和地点。此前一周，马斯特与另外两名众议院共和党高层曾要求黄仁勋就其与黄乐的关系向国会作简报。
+针对相关指控，中方已否认黄乐是间谍。美国司法部长布兰奇星期四则表示，司法部尚未就她是否为间谍得出结论。截至目前，尚未能联系到黄乐本人发表评论。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美司法部：尚未认定黄仁勋婚外情对象黄乐为中国间谍]]></title>
+        <id>https://www.zaobao.com/news/world/story20261113-9990801</id>
+        <link href="https://www.zaobao.com/news/world/story20261113-9990801"/>
+        <updated>2026-11-13T01:41:31.000Z</updated>
+        <summary type="html"><![CDATA[美国司法部长布兰奇星期四（11月12日）在新闻发布会上说，司法部尚未就中国女商人黄乐是否为中国间谍得出结论，但美国联邦调查局（FBI）已在调查有关她为中国政府工作的报道。黄乐此前曾与英伟达前首席执行官黄仁勋发生婚外情。 
+美国总统特朗普在同日晚些时候发布的一段采访中，被问及黄仁勋是否应该辞职时重申，目前尚未确定黄乐是否为间谍。
+特朗普在《直话直说》（Straight Shooter）播客节目中说：“关键在于，那个女人是不是间谍？我不知道这件事是否已经查明。但如果她是间谍，那（他）确实应该辞职。如果不是，情况或许就会有所不同。”他还补充说，自己周三（11日）曾与黄仁勋通电话。 
+《纽约时报》周四引述两名知情人士报道，特朗普曾于周二（10日）致电黄仁勋，敦促这位时任英伟达掌门人全力保住自己的职位。
+黄仁勋已于周四正式辞去英伟达首席执行官一职。他11月8日公开承认自己对妻子不忠，但未透露这段关系的具体细节。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return]]></title>
+        <id>6af651a752603e59fec1044f</id>
+        <link href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"/>
+        <updated>2026-11-13T01:17:49.000Z</updated>
+        <summary type="html"><![CDATA[An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.]]></summary>
+        <author>
+            <name>Paresh Dave, Zoë Schiffer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新加坡政府：在调查黄乐公司时美国几乎未予协助]]></title>
+        <id>https://cn.nytimes.com/world/20261113/nvidia-megaspeed-alice-huang/</id>
+        <link href="https://cn.nytimes.com/world/20261113/nvidia-megaspeed-alice-huang/?utm_source=RSS"/>
+        <updated>2026-11-13T01:13:39.000Z</updated>
+        <summary type="html"><![CDATA[新加坡政府表示，由于黄乐在该国注册的公司涉嫌“虚假申报”问题，该国自去年6月至今年2月扣留了她的护照。在此期间，新加坡曾向美国寻求协助，但美国几乎未予理会。
+
+                    
+Taryn Ng/Agence France-Presse — Getty Images
+                    
+Megaspeed位于新加坡的办公室。该公司由黄乐掌管，她是涉及英伟达首席执行官黄仁勋间谍案的核心人物。]]></summary>
+        <author>
+            <name>孟建国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普点名苹果前CEO库克 接替黄仁勋掌英伟达]]></title>
+        <id>https://www.zaobao.com/news/world/story20261113-9990694</id>
+        <link href="https://www.zaobao.com/news/world/story20261113-9990694"/>
+        <updated>2026-11-13T01:05:55.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普星期四（11月12日）说，前苹果公司首席执行官库克应该接替黄仁勋执掌英伟达。 
+特朗普当天在其社交平台Truth Social发文称：“鉴于表现出色的英伟达首席执行官黄仁勋已经辞职，只有一个人能接替他的位置——苹果的库克（TIM COOK）。” 
+“传奇接替传奇！” 
+对于谁来掌管处于人工智能（AI）革命核心的晶片巨头英伟达，特朗普并没有正式的决定权，但他这一罕见的公开表态，凸显了他与黄仁勋及库克两人的密切关系。 
+库克今年9月卸任苹果首席执行官一职，但仍担任公司董事会执行主席。自特朗普重返白宫以来，他也是频频现身白宫的科技巨头之一。
+去年8月，在特朗普威胁要对海外制造的科技产品征收巨额关税之际，库克曾与特朗普一同出现在白宫椭圆形办公室，宣布苹果将把在美国的投资增加到6000亿美元（约7722亿新元）。
+他还带来了一份特朗普钟爱的奢华礼物，一块由iPhone玻璃制造商康宁（Corning）打造的定制雕刻玻璃，底座为24K纯金。过去，特朗普曾多次批评苹果没有在美国本土生产iPhone，而这份礼物帮助缓和了库克与特朗普之间的关系。
+今年5月，库克也曾陪同特朗普访问中国。9月，他和黄仁勋还一同出席了特朗普在白宫为中国国家主席习近平举行的盛大国宴。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：英伟达 CEO 黄仁勋宣布辞职等]]></title>
+        <id>https://sspai.com/post/118966</id>
+        <link href="https://sspai.com/post/118966"/>
+        <updated>2026-11-13T00:48:17.000Z</updated>
+        <summary type="html"><![CDATA[2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“美人计”：中国间谍机构如何利用亲密关系套取情报]]></title>
+        <id>https://cn.nytimes.com/china/20261113/china-spy-espionage-romance/</id>
+        <link href="https://cn.nytimes.com/china/20261113/china-spy-espionage-romance/?utm_source=RSS"/>
+        <updated>2026-11-13T00:39:29.000Z</updated>
+        <summary type="html"><![CDATA[黄仁勋事件引发人们对中国情报部门如何利用亲密关系从事间谍活动的关注。情报专家表示，在间谍活动中利用美色并不新鲜，中国的独特之处在于其投入的时间。
+
+                    
+Obtained By Reuters
+                    
+2024年，英伟达首席执行官黄仁勋与黄乐在台湾台北。美国官员表示，一个间谍机构招募了她，以收集有关黄仁勋的情报。]]></summary>
+        <author>
+            <name>郭莉莉</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软Outlook突发大规模故障 全球数万用户受影响 波及新加坡]]></title>
+        <id>https://www.zaobao.com/news/world/story20261113-9990624</id>
+        <link href="https://www.zaobao.com/news/world/story20261113-9990624"/>
+        <updated>2026-11-13T00:28:54.000Z</updated>
+        <summary type="html"><![CDATA[微软（Microsoft）旗下的电邮服务Outlook突发大规模系统故障，导致全球数万名用户无法正常收发邮件，办公协作软件Microsoft Teams也受波及。
+这起故障始于美东时间11月12日下午1时许（新加坡时间13日凌晨2时）。网络故障追踪网站Downdetector的监测数据显示，故障发生初期，全球有近13万名用户提交了Outlook无法使用的报告。另有数千名用户反映，在访问Microsoft Teams时遇到连接异常。截至美东时间下午3时，全球关于Outlook的故障报告已回落至约6万起。
+随着新加坡迎来早间工作时段，本地也陆续出现服务受阻的情况。截至新加坡时间13日早上6时40分左右，Downdetector录得本地共有195起关于微软Outlook的故障报告，较一小时前的75起明显攀升。针对云端订阅套装Microsoft 365的本地故障报告则有94起。
+针对此次突发状况，微软在事件初期曾表示正调查美洲地区的服务中断报告，但随后更新声明，证实这一连接问题可能会影响任何地区的Microsoft 365用户。
+微软在社交平台X发文解释故障原因时指出，多个地区的部分基础设施正面临高负载情况，这很可能是引发连接错误的主因。微软强调，公司正全力以赴采取一切可行方案减轻影响，目前已暂停所有系统新部署，并将额外流量从受影响的基础设施中转移出去，同时重启相关服务器以尽快恢复服务。
+Microsoft 365是微软旗下的云端订阅服务，整合了Outlook和Teams等热门办公应用。相关恢复工作仍在进行中。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美司法部据报调查黄乐 核查是否涉超微电脑产品走私案]]></title>
+        <id>https://www.zaobao.com/news/world/story20261113-9990583</id>
+        <link href="https://www.zaobao.com/news/world/story20261113-9990583"/>
+        <updated>2026-11-13T00:18:44.000Z</updated>
+        <summary type="html"><![CDATA[据知情人士透露，美国司法部正在调查涉嫌针对英伟达前掌门人黄仁勋从事间谍活动的女子黄乐，以核查与她有关联的实体是否参与将超微电脑（Super Micro Computer）产品走私至中国。 
+彭博社引述这名因事态敏感而要求匿名的知情人士报道，这项此前未曝光的审查由曼哈顿联邦检察官办公室主导。目前尚不清楚针对黄乐的调查，是否与美国或亚洲检方已提起诉讼的任何晶片走私案存在具体关联。
+彭博社此前报道称，美国司法部已牵头调查黄乐的前东家Megaspeed 涉嫌半导体走私一案，但Megaspeed否认存在任何不当行为。 
+在目前已提起诉讼的案件中，最引人注目的一起涉及超微电脑共同创办人廖益贤（Yih-Shyan “Wally” Liaw）。
+曼哈顿联邦检察官今年3月起诉廖益贤及另外两人，指控他们合谋将搭载英伟达晶片的服务器运往一家未具名的东南亚公司，随后再转运给中国客户。超微电脑未被列为被告，并表示正配合调查。廖益贤已作无罪抗辩，目前已不在该公司任职。
+在彭博社报道发布前，超微电脑拒绝就检方对黄乐的审查置评。该公司随后发表声明说：“超微电脑一直积极回应质询，并与美国和台湾地区官员充分合作，同时自愿提供信息，配合新加坡当局迄今提出的所有要求。Megaspeed现在不是、也从来不是超微电脑的客户。超微电脑拥有完善的合规体系，并将继续与当局及行业合作伙伴密切合作，打击非法转运行为，协助保护美国创新成果。” 
+美国司法部及曼哈顿联邦检察官办公室发言人均拒绝置评。目前尚不清楚黄乐或与其有关联的实体，在将超微电脑产品走私至中国的过程中可能扮演了什么角色。美国司法部的调查最终也可能在不提出任何指控的情况下结案。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roborock Robot Vacuum Early Black Friday Deals (2026)]]></title>
+        <id>6af5f64b3b3d498b480a78d4</id>
+        <link href="https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/"/>
+        <updated>2026-11-12T23:54:58.000Z</updated>
+        <summary type="html"><![CDATA[The brand’s official Black Friday sales start next week, but some of its best vacuums are already discounted.]]></summary>
+        <author>
+            <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息：白宫正权衡是否罢免商务部长卢特尼克]]></title>
+        <id>https://www.zaobao.com/news/world/story20261113-9990527</id>
+        <link href="https://www.zaobao.com/news/world/story20261113-9990527"/>
+        <updated>2026-11-12T23:43:48.000Z</updated>
+        <summary type="html"><![CDATA[两名知情人士周四透露，在围绕英伟达前首席执行官黄仁勋的间谍丑闻持续发酵之际，白宫高级官员正在讨论是否应迫使商务部长卢特尼克离职。 
+越来越多国会议员批评卢特尼克，指责特朗普政府拒绝将数十家中国企业列入美国关键贸易黑名单，并质疑美方是否对英伟达的对华出口进行了有效监管。
+外界对卢特尼克相关举措的批评，早在黄仁勋辞职前便已出现。此前有报道称，黄仁勋与被美国当局怀疑为北京从事间谍活动的黄乐有染，他随后于星期四（11月12日）宣布卸任。随着该事件引发的余波不断扩大，舆论对卢特尼克在限制对华人工智能（AI）晶片出货方面监管不力的指责日益凸显。
+在路透社报道白宫官员正讨论卢特尼克的去留后，白宫和商务部均未回应置评请求。不过在周四早些时候，一名白宫官员曾表示，总统特朗普对卢特尼克及其履职能力抱有十足信心。
+今年6月，路透社曾报道称，特朗普政府暂缓将中国AI初创公司深度求索（DeepSeek）、存储晶片制造商长鑫存储（CXMT）以及其他100多家被标记为国家安全风险的企业列入贸易黑名单。
+此外，美国新闻网站Axios周三报道称，卢特尼克曾阻挠特朗普对涉嫌将英伟达晶片转运至中国的公司采取打击行动。
+在接受美国有线电视新闻网（CNN）采访时被问及卢特尼克是否应该下台，共和党参议员肯尼迪（John Kennedy）说：“我还不知道。” 
+肯尼迪与其他议员敦促卢特尼克尽快公开回应质疑，并指卢特尼克将被传唤至国会作证。他直言：“这就像动脉瘤一样严重。” 
+自2025年10月以来，美国尚未向该贸易黑名单新增任何实体，创下十多年来最长间隔纪录。路透社此前报道指出，由于担心加剧美中之间的紧张局势，美国商务部一直未将新的中国企业列入该名单。 
+马萨诸塞州民主党参议员沃伦（Elizabeth Warren）说：“商务部长卢特尼克和副部长凯斯勒（Jeffrey Kessler）必须解释为何没有堵住出口管制漏洞，并立即采取行动，确保我们的先进技术不会助长中国的军事力量。” 
+佛罗里达州共和党众议员马斯特（Brian Mast）则认为，国会需要调查商务部在审批晶片出口方面所扮演的角色，但他同时补充说，自己对卢特尼克仍抱有信心。
+卢特尼克是华尔街资深人士，曾担任特朗普过渡团队的联席主席，与特朗普有着30年的交情。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄仁勋因涉间谍绯闻下台 美国会加大对特朗普与英伟达审查]]></title>
+        <id>https://www.zaobao.com/news/world/story20261113-9990445</id>
+        <link href="https://www.zaobao.com/news/world/story20261113-9990445"/>
+        <updated>2026-11-12T23:35:00.000Z</updated>
+        <summary type="html"><![CDATA[在英伟达（Nvidia）宣布首席执行官黄仁勋离职后，美国多名关键议员周四要求特朗普政府交代，当局对黄仁勋与一名涉嫌为中国从事间谍活动的女性发生婚外情一事，究竟知情多少。 
+现已卸任的黄仁勋此前一直推动放宽美国对华晶片销售限制，而该领域在人工智能（AI）竞赛中至关重要。在特朗普即将启程访华的前几天，这场风波重新激发了美国政界对华强硬派的声势。 
+参议院民主党领袖舒默在社媒发文说：“尽管黄仁勋已经辞职，但国会仍必须要求他及英伟达的其他相关人员做出解释，说明他们是如何可能将美国国家安全置于风险之中的。” 
+他补充说：“特朗普政府也必须说明，在得知黄仁勋与一名疑似中国情报人员有染后采取了什么行动。” 
+黄仁勋11月8日曾发表声明，承认自己有过一段婚外情，但未透露对方身份。媒体随后披露，涉事女子为总部位于新加坡的数据中心公司Megaspeed前高管黄乐。
+美国情报机构怀疑黄乐为北京方面效力，中方则对此指控予以坚决否认。
+据《纽约时报》报道，特朗普去年就已获悉相关怀疑，国务卿鲁比奥也在今年5月向他证实了这些情况。
+特朗普周一说，他知道美国联邦调查局（FBI）正在调查这起婚外情，并说预计黄仁勋会安然无恙。他还透露，黄仁勋曾告诉他自己并不知道这名女子是间谍。 
+然而，这桩丑闻最终还是导致黄仁勋下台。英伟达董事会周四宣布他即刻离职。
+参议院共和党领袖图恩（John Thune）周四告诉记者，鉴于此事攸关国家安全利益，国会展开调查合情合理。
+将于明年1月接替图恩出任参议院多数党领袖的舒默向白宫追问道：“政府官员是否因为特朗普与黄仁勋的关系，而被告知不要进行调查？当特朗普今年5月亲自邀请黄仁勋搭乘空军一号前往中国进行国事访问时，他到底知道些什么？” 
+除了国家安全问题外，民主党人还可能调查其中是否存在腐败迹象。
+据《华盛顿邮报》报道，在对华晶片销售恢复数月后，英伟达承诺向特朗普在白宫兴建的宴会厅捐赠2500万美元（约3216万新元）。英伟达强调，这笔捐款与公司商业利益无关。
+民主党参议员库恩斯（Chris Coons）上周在X平台写道：“我对特朗普政府、中国间谍和AI亿万富翁之间这种荒唐关系的了解越多，就越确信这届政府所做的一切无不充斥着腐败。国会将展开调查并查明真相。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息：黄仁勋被曝曾与第二名员工有染]]></title>
+        <id>https://www.zaobao.com/news/world/story20261113-9990371</id>
+        <link href="https://www.zaobao.com/news/world/story20261113-9990371"/>
+        <updated>2026-11-12T23:15:16.000Z</updated>
+        <summary type="html"><![CDATA[路透社从两名知情人士获悉，被迫离职的英伟达首席执行官黄仁勋，曾与公司另一名员工有过亲密关系。 
+此前，黄仁勋因另外两段婚外情曝光而于星期四（11月12日）辞职。这两起事件涉及的女性分别是被美国情报部门怀疑为中国间谍的黄乐，以及英伟达医疗保健业务副总裁鲍威尔（Kimberly Powell）。
+路透社未披露这名员工的身份。记者曾试图联系该女子，但未果。
+英伟达对此拒绝置评。鲍威尔、黄仁勋以及英伟达董事会代表均未回应置评请求。记者也未能联系上黄乐本人。
+在有关他与黄乐恋情的报道传出后，黄仁勋曾在11月8日发表声明，承认自己有过一段婚外情，但未在声明中点出对方的名字。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year]]></title>
+        <id>6af604a0506e35cfaae88e09</id>
+        <link href="https://www.wired.com/story/mint-mobile-phone-deal-november-2026/"/>
+        <updated>2026-11-12T22:47:26.000Z</updated>
+        <summary type="html"><![CDATA[The limited-time offer applies to the latest phones from Google and Samsung, but you must be a new customer who signs up for 12 months of the unlimited plan.]]></summary>
+        <author>
+            <name>Les Shu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump]]></title>
+        <id>https://techcrunch.com/?p=3188108</id>
+        <link href="https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"/>
+        <updated>2026-11-12T22:42:51.000Z</updated>
+        <summary type="html"><![CDATA[This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.]]></summary>
+        <author>
+            <name>Julie Bort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Valley Is Still Defending Jensen Huang]]></title>
+        <id>6af508af71a0e5889c82ff5f</id>
+        <link href="https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/"/>
+        <updated>2026-11-12T22:29:43.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.]]></summary>
+        <author>
+            <name>Paresh Dave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 10 Best Early Black Friday TV Deals (2026)]]></title>
+        <id>691e4c67d689d6dc432d4b28</id>
+        <link href="https://www.wired.com/story/early-black-friday-tv-deals-11-12-26/"/>
+        <updated>2026-11-12T22:27:06.000Z</updated>
+        <summary type="html"><![CDATA[I found discounts of up to half off some of the top WIRED-tested TVs.]]></summary>
+        <author>
+            <name>Harry Rabinowitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muse can now place calls to US businesses — if you pay]]></title>
+        <id>https://techcrunch.com/?p=3188128</id>
+        <link href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"/>
+        <updated>2026-11-12T22:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Muse's AI can now place outbound calls to U.S. businesses — but it's not free.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?]]></title>
+        <id>6af5df5f8002dae2d83cda97</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/"/>
+        <updated>2026-11-12T22:14:41.000Z</updated>
+        <summary type="html"><![CDATA[In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.]]></summary>
+        <author>
+            <name>Brian Barrett, Zoë Schiffer, Leah Feiger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The unfolding Jensen Huang scandal: a timeline]]></title>
+        <id>https://techcrunch.com/?p=3186475</id>
+        <link href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"/>
+        <updated>2026-11-12T21:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.]]></summary>
+        <author>
+            <name>Amanda Silberling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nebius tests the neocloud playbook with $40 billion in planned spending]]></title>
+        <id>https://techcrunch.com/?p=3188119</id>
+        <link href="https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"/>
+        <updated>2026-11-12T21:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.]]></summary>
+        <author>
+            <name>Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walmart Early Black Friday Deals Double as Great Gifts (2026)]]></title>
+        <id>6af4ab114262f0db532976a1</id>
+        <link href="https://www.wired.com/story/walmart-black-friday-deals-gifts-2026/"/>
+        <updated>2026-11-12T21:21:33.000Z</updated>
+        <summary type="html"><![CDATA[Save on some of our favorite giftable vacuums, headphones, pet gadgets, and more ahead of Black Friday.]]></summary>
+        <author>
+            <name>Louryn Strampe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women]]></title>
+        <id>6af5d68f8875b9db16ffe524</id>
+        <link href="https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/"/>
+        <updated>2026-11-12T20:35:11.000Z</updated>
+        <summary type="html"><![CDATA[A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.]]></summary>
+        <author>
+            <name>Lauren Goode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang was having a third affair, Reuters reports]]></title>
+        <id>https://techcrunch.com/?p=3188106</id>
+        <link href="https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"/>
+        <updated>2026-11-12T20:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.]]></summary>
+        <author>
+            <name>Russell Brandom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email]]></title>
+        <id>6af60e8dbf1463b6abc5f706</id>
+        <link href="https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/"/>
+        <updated>2026-11-12T20:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft says its systems are experiencing “elevated loads” as the company races to end an outage impacting its business and enterprise customers.]]></summary>
+        <author>
+            <name>Andrew Couts</name>
         </author>
     </entry>
     <entry>
@@ -363,16 +818,6 @@ Manuel Orbegozo for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The unfolding Jensen Huang scandal: a timeline]]></title>
-        <id>https://techcrunch.com/?p=3186475</id>
-        <link href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"/>
-        <updated>2026-11-12T14:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.]]></summary>
-        <author>
-            <name>Amanda Silberling</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美国白宫附近发生枪击案 至少四人受伤]]></title>
         <id>https://www.zaobao.com/news/world/story20261112-9989612</id>
         <link href="https://www.zaobao.com/news/world/story20261112-9989612"/>
@@ -393,16 +838,6 @@ Manuel Orbegozo for The New York Times
         <summary type="html"><![CDATA[Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.]]></summary>
         <author>
             <name>Lauren Goode, Louise Matsakis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO]]></title>
-        <id>https://techcrunch.com/?p=3187751</id>
-        <link href="https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"/>
-        <updated>2026-11-12T14:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.]]></summary>
-        <author>
-            <name>Ram Iyer, Julie Bort</name>
         </author>
     </entry>
     <entry>
@@ -516,16 +951,6 @@ Manuel Orbegozo for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition]]></title>
-        <id>https://techcrunch.com/?p=3187646</id>
-        <link href="https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"/>
-        <updated>2026-11-12T13:26:25.000Z</updated>
-        <summary type="html"><![CDATA[The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.]]></summary>
-        <author>
-            <name>Kate Park</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[澳洲工会与专家批大型企业 借AI之名削减成本]]></title>
         <id>https://www.zaobao.com/news/world/story20261112-9989167</id>
         <link href="https://www.zaobao.com/news/world/story20261112-9989167"/>
@@ -573,116 +998,6 @@ Manuel Orbegozo for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[俄副外长：需建立某种机制 避免局势失控升级]]></title>
-        <id>https://www.zaobao.com/news/world/story20261112-9989037</id>
-        <link href="https://www.zaobao.com/news/world/story20261112-9989037"/>
-        <updated>2026-11-12T12:38:49.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯外交部副部长里亚布科夫说，俄罗斯、美国、乌克兰在阿联酋首都阿布扎比举行的三方会谈成果表明，只要有政治意愿，就有可能建立起某种机制。
-里亚布科夫星期四（11月12日）接受今日俄罗斯电视台采访时说，这次三方会谈重点关注在欧洲地区和当前冲突地区建立安全架构的前景。这一前景有可能确保未来达成协议的可持续性，并将目前的紧张和升级趋势转变为共存。
-里亚布科夫说，目前谈论恢复各方信任还为时过早，但需要建立某种功能性机制，避免局势失控升级。“鉴于过去两天的讨论，只要有足够的政治意愿，（这一点）就有可能实现。”
-为期两天的俄美乌三方会谈星期三（11日）在阿布扎比结束，各方就大规模交换被俘人员达成协议，但在结束冲突、领土争议、乌克兰安全保障及欧洲未来安全架构等关键问题上仍存“重大分歧”。
-
-欧洲各国欢迎和谈
-
-另外，法国总统马克龙星期四说，欧洲在考虑任命特使与俄罗斯谈判之前，需要对乌克兰问题谈判的目标有一个“清晰而统一的愿景”。
-马克龙说：“我认为，欧洲目前最需要的是一个清晰、统一的愿景，明确自身的目标。” 
-德国总理默茨则说，在决定派遣欧洲特使之前，首先必须促使俄罗斯总统普京就乌克兰战争问题重返谈判桌。他说：“这与个人无关，重要的是普京愿意举行会谈。” 
-北约秘书长吕特指出，和平谈判取得一些积极进展，但警告说俄罗斯是否真心愿意参与谈判以结束乌克兰战争仍不明朗。“一切都取决于俄罗斯人，取决于他们是否愿意合作。” 
-他也说，在与俄罗斯继续谈判的同时，必须尽可能保持乌克兰的强大。
-不过，乌克兰总统泽连斯基警告欧洲，要警惕美国和俄罗斯就欧洲大陆新安全框架进行的讨论。“我们正在等待更多细节，欧洲需要密切关注。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲多地传炸弹威胁 法国火车站和上千意大利学校受影响]]></title>
-        <id>https://www.zaobao.com/news/world/story20261112-9988954</id>
-        <link href="https://www.zaobao.com/news/world/story20261112-9988954"/>
-        <updated>2026-11-12T12:19:08.000Z</updated>
-        <summary type="html"><![CDATA[欧洲多地接连传出炸弹威胁，法国北部一座火车站响起炸弹警报，意大利则有上千所学校收到炸弹威胁邮件。
-加来海峡省加来-弗雷坦火车站星期四（11月12日）传出炸弹警报，并警告称这可能会影响周边地区的交通。 
-法国上法兰西地区铁路公司（TER Hauts-de-France）在社交媒体平台上说，由于加来-弗雷坦火车站发现一件无人认领的行李，该线路双向列车服务已暂停。
-国际高速铁路运营商欧洲之星说，部分连接伦敦和巴黎的列车服务受到这次事件的影响。省长后来发布消息说，安全检查已经完成，道路交通正在逐步恢复。
-意大利政府星期四说，全国共有1803所学校收到含有炸弹威胁的电子邮件。政府已指示地方当局和校长，除非有可信的理由相信确实存在威胁，否则应照常上课。
-这是继星期三（11日）6000多所公立学校收到威胁邮件后，再发生炸弹威胁事件。
-意大利总理梅洛尼与情报和安全部门负责人会谈后说，这些信息旨在“制造恐慌”，并称警方在任何学校都没有发现任何可疑物品。
-欧洲各地近期遭遇的一系列威胁和网络攻击事件，此前受影响的目标包括超市、血库、空中交通系统和电视台。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民主党密州爆冷夺参院席位 料明年在国会寻求削减五角大楼预算]]></title>
-        <id>https://www.zaobao.com/news/world/story20261112-9988374</id>
-        <link href="https://www.zaobao.com/news/world/story20261112-9988374"/>
-        <updated>2026-11-12T12:01:24.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国中期选举计票接近尾声，共和党又一传统票仓爆冷翻蓝，多家媒体预测民主党在密西西比险胜，进一步扩大在参议院的优势。民主党明年掌控参众两院后，预计将寻求削减特朗普政府高达1.5万亿美元（约1.9万亿新元）的国防预算。 
-根据媒体星期三（11月11日）的最新统计结果，民主党候选人科洛姆（Scott Colom）在密西西比参议员选战中，领先共和党对手海德-史密斯（Cindy Hyde-Smith）超过4500票。
-若最终结果与媒体预测一致，科洛姆将以0.5个百分点的微弱优势，成为近45年来首名赢得密西西比参议院席位的民主党人。他也将是这个南方州自美国内战后“重建时期”以来，140多年间首个黑人参议员。
-这个结果在共和党势力稳固的密西西比州堪称一次令人震惊的爆冷，也给本就遭遇重大失利的共和党又一记重拳。
-选民对特朗普政府严苛移民政策、对伊战事及生活费上升等问题的不满，推动民主党在本届中期选举取得强劲表现，重夺国会参众两院控制权。 
-拿下密西西比州席位后，民主党在参议院的100席中已取得55席，共和党则有44席。目前还剩阿拉斯加州一席尚未揭晓，如果民主党也在阿拉斯加获胜，它在参议院的总席位将达到56席，创下2008年奥巴马当选总统以来的新高。
-在众议院方面，民主党总席位现已达254席，大幅领先共和党的168席。
-
-民主党主掌国会 或审视国防部更名决定
-
-《华尔街日报》报道，民主党人明年主掌国会后，预计会把矛头对准总统特朗普力推的项目，也可能重新审视特朗普把国防部更名为战争部的决定，并寻求阻挠特朗普政府其他国防优先计划。
-五角大楼早前提出一项价值高达1.5万亿美元的国防预算申请，旗舰项目之一是打造一批可搭载核武器的新型“特朗普”级战列舰。民主党人认为，这是劳民伤财的面子工程。
-极有可能出任众议院军事委员会主席的民主党众议员史密斯（Adam Smith）说：“美军需要在高端生存能力系统与低成本的可消耗能力之间取得适当平衡，而不是像总统所提议，组件一支核动力战舰舰队。” 
-战争部的国防预算申请中包括1.1万亿美元常规预算、一项3500亿美元的单独预算协调方案，以及用于伊朗战争和国民警卫队部署的670亿美元。
-如果各方无法就预算案达成共识，五角大楼支出可能会根据一项临时拨款决议，冻结在不足9000亿美元的水平，而且无法将资金用于新项目。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国拟设国际中心 推动国防人工智能发展]]></title>
-        <id>https://www.zaobao.com/news/world/story20261112-9988791</id>
-        <link href="https://www.zaobao.com/news/world/story20261112-9988791"/>
-        <updated>2026-11-12T11:53:43.000Z</updated>
-        <summary type="html"><![CDATA[法国国防部说，将设立一个国际中心，以推动并支持人工智能（AI）在国防领域的日益广泛应用。此举正值欧洲加紧提升军事科技能力、减少对美国依赖之际。
-路透社报道，一名官员星期四（11月12日）在记者会上说，国防部希望北约能够认可这个中心，中心预计将于2027年夏季正式启用。
-自2022年俄罗斯入侵乌克兰以来，AI工具已成为战争的关键要素，相关技术能处理和分析无人机、卫星及其他传感器收集的大量数据，加快战场决策。
-然而，欧洲在人工智能军事软件方面仍高度依赖美国企业，例如数据分析公司Palantir。
-法国军方尚未敲定这个中心的经费来源及国际成员安排。该部门已邀请其他国家的代表出席下星期举行的会议，介绍这项倡议的具体计划。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄仁勋风波有何潜在影响？ 五方面解析英伟达优势与隐忧]]></title>
-        <id>https://www.zaobao.com/news/world/story20261112-9987274</id>
-        <link href="https://www.zaobao.com/news/world/story20261112-9987274"/>
-        <updated>2026-11-12T11:38:27.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）因婚外情曝光而导致公司股价猛挫、万亿美元市值“蒸发”的事并不常见。而今处于风口浪尖的英伟达首席执行官黄仁勋除了被爆与黄乐有婚外情，还被美国媒体爆料，疑似也同直属女下属发展婚外情。 
-就目前看来，即使经历几天震荡，英伟达的市值仍高达4万亿美元（约5.14万亿新元），相当于日本、英国和印度的经济产值，这家公司的分量不言而喻，黄仁勋事件的后续发展和影响因此格外受关注。
-
-彭博社从五大方面分析英伟达的优势与隐忧：
-● 市值属全球前列 
-2024年年中，英伟达的市值首次超过Alphabet、亚马逊和微软这三家超大科技企业。2025年，英伟达成为首家市值先后突破4万亿美元和5万亿美元大关的公司。今年10月初，它的市值逼近6万亿美元。 
-10月底，英伟达被苹果公司超越，不再是全球市值最高的企业。在这个时候，投资者对人工智能（AI）股估值膨胀，以及这个领域的借贷扩张潮日益不安。
-本月初，民主党在中期选举大胜而掌控国会，预料将对AI与数据中心的建设收紧监察，这股热潮是否可持续顿时存疑。 
-11月10日，黄仁勋的婚外情曝光，英伟达的估值大幅回落，与排第三的微软公司几乎持平。 
-● 晶片市场绝对主导者 
-目前，英伟达在高端晶片销售市场占了绝对主导的份额。AI兴起之前，英伟达已早早启动研发，研究如何将图形处理器应用在游戏之外的领域。通过每年推出新的晶片设计，它一直维持领先地位。 
-对英伟达而言，若此时陷入领导层危机，后果将特别严重。它的竞争对手包括部分客户以及许多初创企业，都在全力开发具有竞争力的AI晶片。
-在中国市场，英伟达面对的竞争也持续加剧。可是，由于面对美国出口管制，英伟达无法向中国市场出售最先进的产品。而英伟达曾说，华为技术有限公司等中资企业，在自主研发AI晶片方面进展迅速。 
-● 人工智能行业的资金供应者 
-自2024年以来，英伟达不仅是AI领域的供应商，还是主要资金源。它向多家领先的AI平台开发商，包括OpenAI、超级富豪马斯克旗下的SpaceX，以及法国AI公司Mistral投入巨资，也投资于构建AI数据中心的企业。 
-这是一种共生关系，英伟达通过提供资金，协助扩大AI基础设施，进而带动市场对它的晶片需求。　
-● 在全球投资组合占比显著 
-在2020年之前，英伟达的市值在标普500指数所涵盖的公司总市值中，占比不到1％；过去两年，这一占比维持在8％左右，在所有成分股中排第一位。黄仁勋风波发生后，英伟达的这个占比降至少于7％。
-英伟达的经营状况会显著影响标普500指数的整体价值，而这个指数又与规模庞大的资金挂钩。标普全球（S&P Global）统计，目前有多达20万亿美元的资产是以标普500指数为基准，或通过指数基金进行投资。
-● 关键人物风险 
-黄仁勋是英伟达的掌舵人，负责公司的每一项重大决策，连最细微的业务环节也亲自过问。 
-据知，直接向黄仁勋汇报工作的多达60人，这样的团队规模在科技行业的高层中很少见。这些核心人员会通过电子邮件向他发送“最重要的五件事”，而他也一定会阅读并予以回复。
-一般认为，英伟达的成功与黄仁勋密不可分，此次因他而起的风波也就凸显了这家巨头企业面临着“关键人物风险”（key-man risk）。
-据英伟达员工透露，董事会希望尽可能留住黄仁勋，但独立委员会已经对黄仁勋的行为展开调查。如果黄仁勋最终必须离职，英伟达将顿时陷入异常脆弱的境地，而公司至今尚未指定任何继任者。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online]]></title>
         <id>6af35a0c89687f9d0662f4d7</id>
         <link href="https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/"/>
@@ -690,39 +1005,6 @@ Manuel Orbegozo for The New York Times
         <summary type="html"><![CDATA[A new report finds that a digital community obsessed with Columbine and similar attacks is promoting apparel modeled after clothing worn by the perpetrators.]]></summary>
         <author>
             <name>Miles Klee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国号客轮沉入墨西哥湾 化身人工鱼礁]]></title>
-        <id>https://www.zaobao.com/news/world/story20261112-9987195</id>
-        <link href="https://www.zaobao.com/news/world/story20261112-9987195"/>
-        <updated>2026-11-12T11:08:26.000Z</updated>
-        <summary type="html"><![CDATA[美国著名远洋客轮美国号（SS United States）星期三（11月11日）在佛罗里达州外海沉入墨西哥湾，将被改造为全球最大人工鱼礁。
-这艘长约300米的客轮曾是美国建造过的最大客轮，1952年首航时载着1700名乘客，凭借平均时速约66公里创下当时的航速纪录。
-在客轮沉没前，工作人员先清除船上可能危害环境或对潜水员造成缠绕危险的物品，并在船体和甲板开孔，以确保船只缓慢、平稳地下沉，整个过程未使用炸药。预计它最终将直立在约55米深的海床上，其上层甲板预计将位于水面以下约15公尺处。
-美国号于1969年退役，之后停泊近30年，几乎被拆解出售。佛罗里达州奥卡卢萨县后来以1300万美元（约1670万新元）购入，并将它改造成潜水景点。
-它将加入当地由500多个沉船及混凝土结构组成的人工礁区，潜水员最快星期四便可前往探索。（路透社）]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美韩：特金APEC料难接触 朝鲜参加峰会相关活动概率低]]></title>
-        <id>https://www.zaobao.com/news/world/story20261112-9987510</id>
-        <link href="https://www.zaobao.com/news/world/story20261112-9987510"/>
-        <updated>2026-11-12T10:53:20.000Z</updated>
-        <summary type="html"><![CDATA[（首尔综合电）据美国与韩国高官传出消息，朝鲜领导人金正恩与美国总统特朗普借下周在中国深圳举行的亚太经济合作组织峰会接触的可能性不大，朝鲜参加峰会相关活动的概率也很小。
-路透社报道，特朗普希望实现特金会，寻求重启与金正恩的谈判；但美韩官员认为两人今年会面的可能性不大。韩国总统府高官星期四（11月12日）说，朝美是否会在峰会前后接触仍难以预测，韩政府正与美方保持沟通。 
-韩国也在关注俄罗斯总统普京是否出席峰会。这名高官说，若美中俄领导人举行三方会谈，朝鲜半岛问题或成讨论议题。
-
-朝鲜海军现代化加快
-
-朝鲜近年加快海军现代化。据朝中社星期四报道，朝鲜发展战争威慑力量势在必行且刻不容缓，将对美国及其盟友日益加剧的海上威胁采取行动。
-金正恩星期三（11日）视察东海岸一座在建海军基地，要求加快港口建设，并指基地建设攸关国家安全和海洋主权。朝鲜刚在星期一（9日）试射新型高速鱼雷系统，预计明年初投入海军服役。 
-官方媒体称，两艘5000吨级驱逐舰今年先后服役；平壤也表明正建造核动力潜艇。
-韩朝关系近期再度紧张。上个月，朝鲜领导人金正恩的胞妹金与正说，朝鲜正考虑恢复在边境附近通过扩音器播放宣传内容。韩国则指朝鲜在非军事区埋设地雷，导致韩军士兵于9月受伤；朝鲜否认与事件有关，称这是韩国捏造的说法。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -756,70 +1038,6 @@ Manuel Orbegozo for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[泽连斯基称军用星盾卫星互联网再受限]]></title>
-        <id>https://www.zaobao.com/news/world/story20261112-9987981</id>
-        <link href="https://www.zaobao.com/news/world/story20261112-9987981"/>
-        <updated>2026-11-12T09:47:03.000Z</updated>
-        <summary type="html"><![CDATA[乌克兰总统泽连斯基说，乌军使用的星盾（Starshield）卫星互联网服务近日再度受到限制，而且这次是新的“系统性”限制。
-法新社报道，泽连斯基星期四（11月12日）在社交媒体发文说：“过去几天，我们的部队持续记录到星盾在乌克兰境内运行时出现严重干扰。” 
-他说：“系统性的速度限制正在实施”，并强调这“不是随机故障”。 
-他补充说：“这正在帮助俄罗斯人杀害更多乌克兰人，并实施更精准的打击。” 
-泽连斯基说，星盾系统在速度超过每小时约161公里的情况下便无法运作。
-他指出，这些速度限制大大增加拦截俄罗斯喷气式无人机的难度，因为这类无人机的飞行速度远高于上述限制。
-星盾由美国企业家马斯克旗下的太空探索科技公司（SpaceX）运营，在乌克兰前线通信中发挥关键作用。
-乌克兰上个月首次报告星盾服务出现问题。当时，泽连斯基与美国总统特朗普因一项美俄柴油交易发生争执。
-特朗普和马斯克此前否认对上一次服务中断事件负有责任。不过，马斯克之后指责乌克兰将SpaceX的星链（Starlink）互联网服务用于军事目的，存在滥用行为。乌克兰后来称，已恢复全面使用相关服务。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[气候大会：各国吁勿因战争与贸易争端 忽视全球暖化]]></title>
-        <id>https://www.zaobao.com/news/world/story20261112-9986695</id>
-        <link href="https://www.zaobao.com/news/world/story20261112-9986695"/>
-        <updated>2026-11-12T09:37:00.000Z</updated>
-        <summary type="html"><![CDATA[（安塔利亚综合电）各国领导人周三在土耳其出席第31届联合国气候变化大会（COP31）时说，不应让战争和贸易争端分散全球应对气候暖化的注意力。各国谈判代表正磋商新协议，寻求遏制气候变化。 
-巴西总统卢拉星期三（11月11日）说，气候变化已从全球议程上退居次要位置。“我们谈论武器和关税的时间，比谈论未来世代的生存还多。”他强调，地球不应任由强权争斗摆布。 
-土耳其总统埃尔多安也说：“战争、危机、移民、饥荒和贫困，使国际团结的必要性与日俱增。” 
-联合国秘书长古特雷斯指出，全球应对气候变化的行动迟缓，已让世界走上自我毁灭。他指出，温室气体排放和全球气温持续上升，气候灾害也日益严重，各方必须加快行动。
-他说：“残酷的事实是，气候危机正超越我们应对的速度。这条路将导致相互毁灭。” 
-作为大会东道主，土耳其建议各国到2035年将电力在全球能源消费中的占比从目前的约20%提高到35%。土方希望把扩大电气化列为最终协议的核心内容，并重启逐步摆脱化石燃料的努力。
-不过，批评人士认为，若没有更明确的减少化石燃料使用的计划，扩大电气化对遏制全球暖化的作用可能有限。
-沙特能源部长阿卜杜勒阿齐兹则说：“气候保护措施不应成为各国面临的障碍，也不应阻碍各国实现经济发展。”他认为，当前地缘政治局势凸显各类能源保持自由流通的重要性。 
-
-伊朗总统：美以袭击 造成严重环境破坏
-
-伊朗总统佩泽希齐扬也在会上指责美国和以色列对伊朗发动袭击，造成严重环境破坏。他说，伊朗南部一处主要气田的燃料设施遭袭后，排放约50万吨二氧化碳；德黑兰附近的燃料储存设施遇袭，则另排放约100万吨。
-他要求建立机制追究美以责任，并要求赔偿环境损失。虽然这些指控的具体细节无法得到独立核实，但波斯湾国家沿岸附近已探测到多起漏油事件。
-美国连续第二年缺席大会。法国、德国、日本、意大利和加拿大也没有派最高领导人出席。 
-非洲气候与能源智库Power Shift Africa主任阿多说，全球最大经济体应带头应对气候危机，不应把责任留给其他国家。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国任命全球首名气候安全特使 应对气候威胁]]></title>
-        <id>https://www.zaobao.com/news/world/story20261112-9987546</id>
-        <link href="https://www.zaobao.com/news/world/story20261112-9987546"/>
-        <updated>2026-11-12T09:13:58.000Z</updated>
-        <summary type="html"><![CDATA[英国首相伯纳姆宣布，任命一名专门负责气候安全的特使。这是全球首起这类任命，旨在更好地应对全球暖化日益加剧的影响。
-法新社报道，伯纳姆星期四（11月12日）在土耳其安塔利亚举行的联合国第31届气候变化大会（COP31）上发表演讲时说，他今年夏天上任后的前三个星期，都在应对英国有史以来最严重的野火灾情。
-他说：“我当时就决定，我有必要亲自出席这场会议，展现英国的领导作用，因为在这个世界上，气候问题受到的重视远远不够。”他是唯一出席这场峰会的七国集团（G7）领导人。 
-他也说，气候是国家安全问题。“为此，我今天宣布任命亚历山德里（Dame Madeleine Alessandri）为英国首名气候安全特别代表。” 
-亚历山德里曾担任英国联合情报委员会主席。这个委员会负责向政府部长提供安全威胁方面的简报。
-亚历山德里在声明中说：“在这个职位上，我将与政府各部门及国际伙伴合作，加深我们对气候威胁的认识，增强应对能力，并确保我们能更充分地为未来的挑战做好准备。” 
-英国目前设有气候事务部长一职，由怀特（Katie White）担任。她目前正在安塔利亚出席COP31会议，会议预计于11月20日结束。
-气候政策智库E3G专家卡塞尔（Cosima Cassel）说，各国通常都会任命气候特使，而气候安全也属于他们的职责范围之一。“这是首个专门负责气候安全的特使。” 
-卡塞尔说：“这项任命让气候安全议题获得应有的重视，其他国家政府也应考虑采取类似做法。” 
-环保组织绿色和平也说，这项任命是“值得欢迎的举措”，因为气候变化会加剧其他威胁。
-不过，绿色和平批评伯纳姆近期批准在北海开采一个天然气田的决定。
-绿色和平英国分部政治事务主管麦卡锡说：“他（伯纳姆）在未来几周和几个月内作出的决定，将决定他今天的演讲究竟只是空谈，还是会付诸行动。” 
-英国和西欧其他国家今年经历有记录以来最热的夏季，热浪和野火接连发生。高温导致欧洲大陆出现数以万计的超额死亡病例。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[孩子学英语，做对什么才能少走弯路？]]></title>
         <id>c25bbdc67afb729936caf1c90cb13a2d</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%AD%A9%E5%AD%90%E5%AD%A6%E8%8B%B1%E8%AF%AD%EF%BC%8C%E5%81%9A%E5%AF%B9%E4%BB%80%E4%B9%88%E6%89%8D%E8%83%BD%E5%B0%91%E8%B5%B0%E5%BC%AF%E8%B7%AF%EF%BC%9F"/>
@@ -844,21 +1062,6 @@ Manuel Orbegozo for The New York Times
         <updated>2026-11-12T09:00:00.000Z</updated>
         <author>
             <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普与内坦亚胡被曝就伊朗问题“激烈争吵”]]></title>
-        <id>https://www.zaobao.com/news/world/story20261112-9987362</id>
-        <link href="https://www.zaobao.com/news/world/story20261112-9987362"/>
-        <updated>2026-11-12T08:37:31.000Z</updated>
-        <summary type="html"><![CDATA[据报道，美国总统特朗普与以色列看守总理内坦亚胡上周末通话时，围绕是否重启对伊朗的军事行动爆发“地狱般的激烈争吵”。
-美国福克斯新闻频道星期三（11月11日）引述以色列《新消息报》网站消息称，内坦亚胡在通话中敦促特朗普重启军事行动，而特朗普则主张继续以外交途径推进与伊朗的谈判。
-两名消息人士透露，这次通话“艰难”，演变成一场“地狱般的激烈争吵”。
-不过，以色列总理办公室回应称上述报道为“假新闻”，“完全是无稽之谈”，否认通话具有对抗性。一名以色列高级官员向《新消息报》证实双方曾通话，但强调“这绝不是一场艰难的对话”。
-另据英国《金融时报》报道，内坦亚胡最近“每天”给特朗普打电话，敦促他恢复对伊朗的军事行动。
-这不是特朗普与内坦亚胡第一次发生争吵。今年6月，媒体爆料特朗普在与内坦亚胡通话过程中，因强烈不满以方升级在黎巴嫩的军事行动，怒斥内坦亚胡“简直疯了”。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -1072,16 +1275,6 @@ Haiyun Jiang/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who could replace Jensen Huang? A highly unscientific list of possible successors]]></title>
-        <id>https://techcrunch.com/?p=3187615</id>
-        <link href="https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"/>
-        <updated>2026-11-12T03:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.]]></summary>
-        <author>
-            <name>Connie Loizos</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验]]></title>
         <id>https://sspai.com/post/118921</id>
         <link href="https://sspai.com/post/118921"/>
@@ -1182,16 +1375,6 @@ Marco Alpozzi/LaPresse, via Associated Press
         <summary type="html"><![CDATA[Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang]]></title>
-        <id>https://techcrunch.com/?p=3187556</id>
-        <link href="https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"/>
-        <updated>2026-11-11T23:28:45.000Z</updated>
-        <summary type="html"><![CDATA[As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.]]></summary>
-        <author>
-            <name>Amanda Silberling</name>
         </author>
     </entry>
     <entry>
@@ -1308,96 +1491,6 @@ Doug Mills/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Indoor Garden Systems I’ve Been Testing for Years (2026)]]></title>
-        <id>6877f4e6e1c1b51582845053</id>
-        <link href="https://www.wired.com/gallery/best-indoor-gardening-systems/"/>
-        <updated>2026-11-11T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Grow a backyard’s worth of greens and vegetables in your house with a hydroponic garden. Here are a few that might be worth the investment.]]></summary>
-        <author>
-            <name>Kat Merck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech]]></title>
-        <id>6adfd3bb54050eb306c84147</id>
-        <link href="https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/"/>
-        <updated>2026-11-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography.]]></summary>
-        <author>
-            <name>Julian Chokkattu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best OLED TVs of 2026: LG, Samsung, Sony, and More]]></title>
-        <id>6af1f037c112f9286c9a9e11</id>
-        <link href="https://www.wired.com/story/best-oled-tv/"/>
-        <updated>2026-11-11T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for rich picture quality and inky-black shadows? These OLED TVs are the ones you want for your next movie night.]]></summary>
-        <author>
-            <name>John Brandon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing]]></title>
-        <id>6af202b7de07673ef2c0f377</id>
-        <link href="https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/"/>
-        <updated>2026-11-11T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Amid rising electricity costs, Michiganders decisively voted for a ballot proposition to curtail the ability of utilities to spend on elections—a move utilities say limits their freedom of speech.]]></summary>
-        <author>
-            <name>Molly Taft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Air Purifiers (2026): Tested Picks for Every Room]]></title>
-        <id>5d30ece3d738cc0009de595e</id>
-        <link href="https://www.wired.com/gallery/best-air-purifiers/"/>
-        <updated>2026-11-11T11:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks]]></title>
-        <id>6aee59f2d9407a3cfa2ceb7d</id>
-        <link href="https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"/>
-        <updated>2026-11-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.]]></summary>
-        <author>
-            <name>Paresh Dave, Caroline Haskins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks]]></title>
-        <id>6ae0fe13268680e603e73921</id>
-        <link href="https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/"/>
-        <updated>2026-11-11T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers in Germany gradually reversed human cells’ ages by decades. By doing so, they could track the de-aging process in a way previous rejuvenation experiments could not.]]></summary>
-        <author>
-            <name>Jorge Garay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early Black Friday Deals Under $100 (2026)]]></title>
-        <id>691f3de53b476d6c7a5ff4dc</id>
-        <link href="https://www.wired.com/story/best-early-black-friday-deals-under-100-11-11-2026/"/>
-        <updated>2026-11-11T10:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Here are the best discounts we’ve found so far on WIRED-tested gadgets under $100.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini]]></title>
-        <id>5af4857bea9cb21801b14251</id>
-        <link href="https://www.wired.com/gallery/the-best-ipad/"/>
-        <updated>2026-11-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple sells four types of iPads. Here’s an updated breakdown of the brand’s tablets to help you find the best one for your needs.]]></summary>
-        <author>
-            <name>Luke Larsen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[城市漫步指南 | 安特卫普，时尚就在生活中]]></title>
         <id>https://sspai.com/post/118781</id>
         <link href="https://sspai.com/post/118781"/>
@@ -1483,31 +1576,6 @@ Kenny Holston/The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[顺从的董事会：黄仁勋危机考验英伟达公司治理]]></title>
-        <id>https://cn.nytimes.com/technology/20261111/jensen-huang-nvidia-board/</id>
-        <link href="https://cn.nytimes.com/technology/20261111/jensen-huang-nvidia-board/?utm_source=RSS"/>
-        <updated>2026-11-11T00:58:46.000Z</updated>
-        <summary type="html"><![CDATA[在黄仁勋领导下，英伟达已成为全球最有价值的公司之一。黄仁勋似乎对继任者没有规划，公司董事会则一贯对其表现出忠诚和顺从。危机爆发后，公司治理面临考验。
-
-                    
-Mike Kai Chen for The New York Times
-                    
-公司治理专家担心，英伟达董事会已让公司变得过于依赖黄仁勋。]]></summary>
-        <author>
-            <name>KALLEY HUANG,DON CLARK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等]]></title>
-        <id>https://sspai.com/post/118905</id>
-        <link href="https://sspai.com/post/118905"/>
-        <updated>2026-11-11T00:26:34.000Z</updated>
-        <summary type="html"><![CDATA[卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[黄仁勋事件中的“女主角”黄乐是谁？]]></title>
         <id>https://cn.nytimes.com/business/20261111/alice-huang-megaspeed-nvidia-jensen-huang/</id>
         <link href="https://cn.nytimes.com/business/20261111/alice-huang-megaspeed-nvidia-jensen-huang/?utm_source=RSS"/>
@@ -1557,91 +1625,6 @@ Doug Mills/The New York Times
         <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文]]></summary>
         <author>
             <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[报名人数创下新高，第十一届「移动应用创新赛」圆满落幕]]></title>
-        <id>https://sspai.com/post/118824</id>
-        <link href="https://sspai.com/post/118824"/>
-        <updated>2026-11-10T08:02:37.000Z</updated>
-        <summary type="html"><![CDATA[北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...查看全文]]></summary>
-        <author>
-            <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国前10个月贸易顺差突破1万亿美元]]></title>
-        <id>https://cn.nytimes.com/business/20261110/china-trade-surplus-trillion/</id>
-        <link href="https://cn.nytimes.com/business/20261110/china-trade-surplus-trillion/?utm_source=RSS"/>
-        <updated>2026-11-10T04:33:47.000Z</updated>
-        <summary type="html"><![CDATA[中国从全球对绿色能源产品的强劲需求和人工智能数据中心的繁荣中获利，出口持续急剧攀升，前10个月贸易顺差达到1.04万亿美元，超越了去年创纪录的速度。
-
-                    
-Agence France-Presse — Getty Images
-                    
-上周，在连云港某港口装载出口至阿曼的风力涡轮机。]]></summary>
-        <author>
-            <name>KEITH BRADSHER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国防长海格塞斯面临弹劾动议，这里是需要了解的信息]]></title>
-        <id>https://cn.nytimes.com/usa/20261110/hegseth-impeachment-massie/</id>
-        <link href="https://cn.nytimes.com/usa/20261110/hegseth-impeachment-massie/?utm_source=RSS"/>
-        <updated>2026-11-10T03:55:34.000Z</updated>
-        <summary type="html"><![CDATA[共和党众议员马西牵头提出决议，指控海格塞斯违反联邦法律和宪法，并在多个方面滥用职权。民主党人已表示广泛支持这一行动。特朗普则表态支持海格塞斯。
-
-                    
-Kenny Holston/The New York Times
-                    
-众议员托马斯·马西提出了一项决议，指责国防部长皮特·海格塞斯，称“若允许其继续留任，将对宪法构成威胁”。]]></summary>
-        <author>
-            <name>ROBERT JIMISON</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄仁勋对英伟达的全面控制是否意味着他难以被惩罚]]></title>
-        <id>https://cn.nytimes.com/business/20261110/jensen-huang-affair-nvidia/</id>
-        <link href="https://cn.nytimes.com/business/20261110/jensen-huang-affair-nvidia/?utm_source=RSS"/>
-        <updated>2026-11-10T02:35:48.000Z</updated>
-        <summary type="html"><![CDATA[黄仁勋是英伟达日常运营的中心，在硅谷和全世界都有极大的影响力。这给英伟达董事会带来了挑战，董事会正在调查他与一名被认定是中国间谍的女子之间的婚外情。
-
-                    
-Eric Lee for The New York Times
-                    
-黄仁勋是英伟达的最大个人股东，他的子女也是公司的高管。]]></summary>
-        <author>
-            <name>KALLEY HUANG,TRIPP MICKLE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国商务部就芯片展开的调查在英伟达介入后中止]]></title>
-        <id>https://cn.nytimes.com/usa/20261110/nvidia-megaspeed-investigation-huang/</id>
-        <link href="https://cn.nytimes.com/usa/20261110/nvidia-megaspeed-investigation-huang/?utm_source=RSS"/>
-        <updated>2026-11-10T02:30:25.000Z</updated>
-        <summary type="html"><![CDATA[商务部此前曾深入调查新加坡Megaspeed公司，怀疑该公司将英伟达人工智能芯片走私到中国。但在调查人员收到英伟达法律顾问的问询邮件后，这起案件被移交至司法部。
-
-                    
-Manuel Orbegozo for The New York Times
-                    
-英伟达周日表示，已对黄仁勋展开调查。此前，他承认曾与一家涉嫌向中国走私芯片的新加坡公司的高管有过亲密关系。]]></summary>
-        <author>
-            <name>ANA SWANSON,DEVLIN BARRETT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄仁勋何以成为硅谷的“摇滚明星”]]></title>
-        <id>https://cn.nytimes.com/business/20261110/jensen-huang-nvidia-ai-chips-scandal/</id>
-        <link href="https://cn.nytimes.com/business/20261110/jensen-huang-nvidia-ai-chips-scandal/?utm_source=RSS"/>
-        <updated>2026-11-09T17:03:37.000Z</updated>
-        <summary type="html"><![CDATA[随着芯片成为人工智能的关键组件，黄仁勋这样的企业高管的个人财富和声望也以前所未有的速度飙升。随之而来的是华盛顿权势人物的关注，以及卷入某些纠葛的可能性。
-
-                    
-Manuel Orbegozo for The New York Times
-                    
-英伟达首席执行官黄仁勋今年3月在圣何塞举行的公司年度大会上。]]></summary>
-        <author>
-            <name>DON CLARK</name>
         </author>
     </entry>
 </feed>
