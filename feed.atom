@@ -1,18 +1,919 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-17T06:28:07.966Z</id>
+    <id>urn:2026-11-17T20:26:48.676Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T06:28:07.966Z</updated>
+    <updated>2026-11-17T20:26:48.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Chewy Promo Codes: 25% Off November 2026]]></title>
-        <id>674f80033ffc1b7f03c85b6b</id>
-        <link href="https://www.wired.com/story/chewy-promo-code/"/>
-        <updated>2026-11-17T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.]]></summary>
+        <title type="html"><![CDATA[Waymo suspends freeway rides nationwide after California DMV order]]></title>
+        <id>https://techcrunch.com/?p=3189697</id>
+        <link href="https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"/>
+        <updated>2026-11-17T19:49:41.000Z</updated>
+        <summary type="html"><![CDATA[The California Department of Motor Vehicles, which regulates the testing and deployment of autonomous vehicles in the state, issued the operational restrictions on Waymo following several incidents.]]></summary>
         <author>
-            <name>Molly Higgins</name>
+            <name>Kirsten Korosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Tell If It’s a Cyberattack or Just an Outage]]></title>
+        <id>6afb8c33a996ac633851f2e4</id>
+        <link href="https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/"/>
+        <updated>2026-11-17T19:40:57.000Z</updated>
+        <summary type="html"><![CDATA[Email, flights, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)]]></summary>
+        <author>
+            <name>Andy Greenberg, Lily Hay Newman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo Pauses All Highway Rides After California Safety Ban]]></title>
+        <id>6afca0b71654de3e85c826ac</id>
+        <link href="https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/"/>
+        <updated>2026-11-17T19:38:08.000Z</updated>
+        <summary type="html"><![CDATA[California’s DMV banned Waymo’s self-driving cars from freeways after determining that they pose “an imminent hazard to public safety.”]]></summary>
+        <author>
+            <name>Aarian Marshall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model ML raises $250M to automate investment banking grunt work]]></title>
+        <id>https://techcrunch.com/?p=3189688</id>
+        <link href="https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"/>
+        <updated>2026-11-17T19:32:11.000Z</updated>
+        <summary type="html"><![CDATA[The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.]]></summary>
+        <author>
+            <name>Marina Temkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google expands access to Gemini Tasks, which can help with calls, purchases]]></title>
+        <id>https://techcrunch.com/?p=3189640</id>
+        <link href="https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"/>
+        <updated>2026-11-17T19:02:20.000Z</updated>
+        <summary type="html"><![CDATA[Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.]]></summary>
+        <author>
+            <name>Lucas Ropek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple services, including iCloud, App Store, Apple Music, and more, hit by outage]]></title>
+        <id>https://techcrunch.com/?p=3189647</id>
+        <link href="https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/"/>
+        <updated>2026-11-17T18:55:40.000Z</updated>
+        <summary type="html"><![CDATA[Apple's status page confirms its services are facing outages, but has not confirmed the cause.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google to keep Gemini chats for 2 months, up from 72 hours, even with history off]]></title>
+        <id>https://techcrunch.com/?p=3189652</id>
+        <link href="https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"/>
+        <updated>2026-11-17T18:48:23.000Z</updated>
+        <summary type="html"><![CDATA[Google's Gemini update extending chat retention will roll out globally over the coming weeks.]]></summary>
+        <author>
+            <name>Jagmeet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As decision model use skyrockets, is customization the next frontier?]]></title>
+        <id>https://techcrunch.com/?p=3189001</id>
+        <link href="https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/"/>
+        <updated>2026-11-17T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pedestal AI raises $4.7 million to agentify the supply chain]]></title>
+        <id>https://techcrunch.com/?p=3189612</id>
+        <link href="https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"/>
+        <updated>2026-11-17T18:04:16.000Z</updated>
+        <summary type="html"><![CDATA[The company uses agentic AI to make supply chains faster and more reliable.]]></summary>
+        <author>
+            <name>Russell Brandom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going]]></title>
+        <id>6af7b4d112cfc6b44449348f</id>
+        <link href="https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/"/>
+        <updated>2026-11-17T18:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Commerce secretary Howard Lutnick has been under attack for not blacklisting a company caught up in the Jensen Huang scandal. But Trump is on board with the policy.]]></summary>
+        <author>
+            <name>Hugo Lowell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop]]></title>
+        <id>https://techcrunch.com/?p=3189535</id>
+        <link href="https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"/>
+        <updated>2026-11-17T17:32:25.000Z</updated>
+        <summary type="html"><![CDATA[Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang Says He’s Open to Coming Back to Nvidia]]></title>
+        <id>6afc7f26276fa364fc470d3c</id>
+        <link href="https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/"/>
+        <updated>2026-11-17T17:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Huang said in a statement that he “would be honored” to return as Nvidia CEO if the board of directors supported the decision.]]></summary>
+        <author>
+            <name>Caroline Haskins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI models can be tricked into identifying civilians as military targets by telling them it’s a game]]></title>
+        <id>https://techcrunch.com/?p=3189496</id>
+        <link href="https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"/>
+        <updated>2026-11-17T17:20:41.000Z</updated>
+        <summary type="html"><![CDATA[Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.]]></summary>
+        <author>
+            <name>Kirsten Korosec, Rebecca Bellan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VSCO Is Gunning for Adobe Lightroom With Its New Desktop App]]></title>
+        <id>6afafb4c1b9eeb3f89843b4d</id>
+        <link href="https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/"/>
+        <updated>2026-11-17T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new Studio Pro Desktop app for macOS delivers fast batch editing, RAW support, and more than 200 presets, though a few pro tools are still missing.]]></summary>
+        <author>
+            <name>Julian Chokkattu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO]]></title>
+        <id>https://techcrunch.com/?p=3189502</id>
+        <link href="https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"/>
+        <updated>2026-11-17T16:44:15.000Z</updated>
+        <summary type="html"><![CDATA[In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.]]></summary>
+        <author>
+            <name>Russell Brandom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daydream’s new AI agent acts as your personal stylist — and can shop for you, too]]></title>
+        <id>https://techcrunch.com/?p=3189498</id>
+        <link href="https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"/>
+        <updated>2026-11-17T16:32:55.000Z</updated>
+        <summary type="html"><![CDATA[Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.]]></summary>
+        <author>
+            <name>Sarah Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国将向乌克兰提供1000多枚短程导弹]]></title>
+        <id>https://www.zaobao.com/news/world/story20261118-10015147</id>
+        <link href="https://www.zaobao.com/news/world/story20261118-10015147"/>
+        <updated>2026-11-17T16:11:49.000Z</updated>
+        <summary type="html"><![CDATA[英国星期二（11月17日）说，将向乌克兰额外提供1000多枚短程防空导弹及其发射装置，帮助乌方抵御今年冬季俄罗斯的空袭。
+路透社报道，这批导弹是英国星期二宣布的一项价值2.4亿英镑（约4.1亿新元）援助计划的一部分，资金来自英国上月预算中承诺的向乌克兰提供的5亿英镑援助。
+英国说，所提供的防空系统已被证明能够有效拦截俄罗斯发射的“沙赫德”（Shahed）无人机。援助计划还包括十多部防空雷达。
+相关装备将从12月中旬开始交付。此前，英国已在今年冬季到来前向乌克兰提供了400枚地对空导弹。
+英国首相伯纳姆将于星期四在布鲁塞尔举行的“志愿联盟”国家会议上公布其余援助内容。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[称美国是“太平洋国家” 特朗普强调对东南亚的坚定支持]]></title>
+        <id>https://www.zaobao.com/news/world/story20261118-10014678</id>
+        <link href="https://www.zaobao.com/news/world/story20261118-10014678"/>
+        <updated>2026-11-17T16:08:09.000Z</updated>
+        <summary type="html"><![CDATA[（马尼拉综合电）美国总统特朗普在马尼拉亚细安峰会上，强调美国对东南亚国家的坚定支持，并大力推销美国是区域国家的首选合作对象。菲律宾总统小马可斯以亚细安主席国领导人身份回应说，特朗普的出席已表明，亚细安与美国是共同塑造区域未来的伙伴。
+特朗普星期二（11月17日）傍晚抵达菲律宾首都马尼拉，展开为期三天的亚洲访问行程。他在亚细安-美国特别峰会上致辞时形容，美国是真正意义上的太平洋国家，数百年来一直在东南亚各地开展贸易、商业和外交活动。他说：“我今天来到这里，是因为美国对我们的这么多位朋友和伙伴取得成功、主权与繁荣，做出坚定承诺……我们会始终如一。” 
+他说，美国过去两年持续与在场的许多国家合作，以加强和深化彼此的经济关系。自他展开第二个总统任期以来，美国已吸引22.2万亿美元（28.66万亿新元）的投资，并同马来西亚、柬埔寨、印度尼西亚、日本、韩国等多国达成了重大贸易协议。此外，美国也在本区域达成其他重要协议，涵盖能源、关键矿物与技术领域。
+菲律宾总统小马可斯致辞时则说，特朗普的出席表明，亚细安与美国是共同塑造区域未来的伙伴。“对亚细安来说，与美国的伙伴关系还会更深远，涵盖贸易、投资、科技、安全等领域。” 
+同天较早前，特朗普出席了与印度、澳大利亚和日本领导人的四方安全对话（Quad）领导人会议。这是四方安全对话机制时隔两年多再次举行领导人会晤。
+特朗普在会议开始前说：“我们这四个国家是印太地区自由开放、稳定繁荣的四大支柱。我们的关系极佳，并在区域安全、经济安全和外交事务上密切协调。” 
+特朗普也称，如果时间允许，他愿意在深圳出席亚太经济合作组织（APEC）领导人非正式会议期间，与普京单独举行双边会晤。他还说，朝鲜领导人金正恩也有意前往深圳参会。特朗普、普京与中国国家主席习近平星期四（19日）将在深圳举行三方会谈。
+特朗普还称，美国正以前所未有的规模生产稀土，产量将在10个月内追平中国。
+根据会后发布的联合声明，四方安全对话领导人表示强烈反对任何企图改变现状的行动，称这类行动会加剧紧张局势，破坏地区和平与稳定。他们也对包括任意实施出口限制在内的经济胁迫行为表达严重关切，并重申将坚定不移地支持亚细安中心地位和团结，维护自由与开放的印太地区。
+声明宣布，将于2027年初举办首届四方安全对话商界领袖论坛，以促进各国私营部门之间的商业联系，包括推动对印太地区繁荣至关重要的商业交易与合作伙伴关系。 
+声明也重申，四方安全对话机制推出的人工智能加速器（AI Accelerator）项目非常重要，并宣布启动印太海上监视合作（Indo-Pacific Maritime Surveillance Collaboration）项目，以加强信息共享并提升对海上态势的感知能力。 
+
+美泰或将达成贸易协定 泰取消对美所有出口关税
+
+四方安全对话结束后，特朗普与泰国首相阿努廷签署了一份有关美泰对等贸易的联合声明。 
+特朗普说，根据两国即将达成的贸易协定，泰国将取消对美国出口商品的所有关税，并消除对美国汽车、医疗器械、药品、乙醇和家禽的大量非关税壁垒。泰国也将购买价值约26亿美元（约33.5亿新元）的美国农产品。 
+特朗普说，这对双方来说都将是一项极好的协议。“这是一场不可思议的胜利……我期待在未来几周内敲定正式协议的细节。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[胡塞武装称沙特发动多起致命袭击 造成多人死亡]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10015105</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10015105"/>
+        <updated>2026-11-17T16:00:55.000Z</updated>
+        <summary type="html"><![CDATA[胡塞武装控制的媒体星期二（11月17日）说，沙特军队对也门胡塞武装控制区发动多轮袭击，造成多人死亡。与此同时，法新社记者报告称，也门首都萨那发生爆炸。
+法新社报道，自今年夏季也门内战再度升温以来，胡塞武装正大幅扩张在也门境内的控制区，并向国际社会承认的也门政府临时首都亚丁逼近。
+据胡塞武装新闻机构报道，沙特军队袭击了也门西部荷台达附近的一家海绵制造厂，造成数名工厂员工和应急救援人员死亡。
+胡塞武装控制的卫生部称，此次袭击造成七人死亡。
+与此同时，胡塞武装旗下的Almasirah新闻频道指称，沙特军队袭击了基塔夫地区的一支排雷队伍，以及前来协助他们的平民，造成四人死亡。他们还指责沙特军队袭击了荷台达以北的农业基础设施。
+胡塞武装新闻机构另行报道称，在西北部萨达省的基塔夫地区，另有两名平民在一次袭击中丧生。
+在自2014年以来一直由胡塞武装控制的首都萨那，法新社记者称听到了爆炸声，并看到一家鞋厂遭到袭击。
+胡塞武装军事发言人萨雷星期二威胁称，将对沙特阿拉伯的利益采取报复行动，以回应上述袭击。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄仁勋将于12月出席美国国会委员会听证会]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10015080</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10015080"/>
+        <updated>2026-11-17T15:55:31.000Z</updated>
+        <summary type="html"><![CDATA[美国众议院外交事务委员会星期二（11月17日）在一份声明中说，英伟达前首席执行官黄仁勋已同意于12月1日接受美国众议院多个委员会的问询，相关访谈将进行文字记录。
+路透社报道，此前，黄仁勋被曝光涉嫌与被指控为中国间谍的黄乐发生婚外情，引发外界对英伟达先进人工智能晶片出口到中国的质疑。黄仁勋已于11月12日辞去英伟达首席执行官职务。
+声明称，问询将由众议院外交事务委员会、众议院中国问题特别委员会以及众议院情报委员会共同进行。
+英伟达总法律顾问泰特将于12月2日接受上述三个委员会的问询。
+上述委员会的共和党籍主席马斯特、穆勒纳尔和克劳福德在声明中说：“我们期待听取黄仁勋和蒂姆·泰特的陈述，了解他们在可能危害美国国家安全的事件中所扮演的角色。”
+“美国民众需要了解黄仁勋和英伟达在允许中华人民共和国危险势力获取美国最先进晶片一事中所扮演的角色，以及一名可能与中国情报机构有关联的人士在这起风波中所起的作用。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巩固能源供应链 高市倡议建“亚洲石油安保特别工作组”]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10014136</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10014136"/>
+        <updated>2026-11-17T15:42:50.000Z</updated>
+        <summary type="html"><![CDATA[美伊战事凸显了亚洲各国能源供应对霍尔木兹海峡航运的依赖，以及由此带来的脆弱性，日本首相高市早苗星期二（11月17日）在菲律宾马尼拉提出，日本应发挥连接产油国与亚洲各国的枢纽作用，倡议成立“亚洲石油安全保障工作组”，为建立“亚洲版国际能源署”（International Energy Agency，IEA）机制铺路。 
+高市在马尼拉出席多场与亚细安领导人的会议。她在“亚洲零排放共同体”（Asia Zero Emission Community，AZEC）会议上呼吁各国加强能源等领域的合作，并提议建立危机时期协调石油采购的新机制，以增强能源供应韧性，深化日本与东南亚的合作。 
+AZEC成员包括日本、澳大利亚、文莱、柬埔寨、印度尼西亚、老挝、马来西亚、菲律宾、新加坡、泰国和越南。
+高市在会上指出，日本希望推动区域各国加强石油储备，发挥连接产油国与亚洲的枢纽作用。日本也将利用国内闲置储油罐，协助东南亚各国开展石油储备工作。
+她说：“为增强能源韧性，我们将与国际能源署及亚细安与东亚经济研究所（ERIA）共同成立‘亚洲石油安全保障工作组’，制定紧急情况下释放石油储备及相互调配的规则。同时，还将设立IEA东京办事处，作为工作组的核心机构。”
+与日本相比，东南亚国家的石油储备规模较小。日本则依赖一些区域国家供应石脑油相关产品，包括医疗导管和手套等关键物资。石脑油是生产塑料的重要原料。
+此外，高市也提出另一项名为“海湾能源倡议”（Power Gulf Initiative）的计划，旨在进一步加强中东主要产油国与亚洲能源消费国之间的战略合作。
+据日本放送协会（NHK）报道，高市在亚细安—日本峰会上提出“亚洲桥梁”（Bridge Asia）构想，计划在人工智能（AI）和量子技术等尖端科技领域建立“亚洲共同市场”，推动日本与东南亚各国企业及研究机构在AI、量子技术和去碳化等领域开展合作。
+针对高性能AI模型可能带来的网络安全威胁等风险，高市提出，日本将与东南亚国家建立新的安全伙伴关系，通过共享专业知识、培养人才等方式加强合作。
+面对国际秩序动荡，高市主张开展涵盖盟友、志同道合国家及友好国家的“多层次外交”。此次马尼拉之行，她也着力推广升级版“自由开放的印度太平洋”战略。
+在“亚细安加三”峰会上，高市表明，日本将更主动地维护和加强以法治为基础的国际秩序，并愿与印太各国携手，增强自主性和韧性，力争共同实现强盛与繁荣。
+“亚细安加三”峰会始于1997年亚洲金融危机期间，旨在推动东亚国家开展务实合作。中国总理李强此次没有参会，并没有与日韩领导人同桌开会，由农业农村部部长张柱代为出席。
+由美国、澳大利亚、印度和日本组成的“四方安全对话”（QUAD）峰会也在马尼拉举行，日本方面称，各方就一份共同文件达成一致，针对“经济胁迫”表达严重关切。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国证实就晶片出口问题调查超速国际]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10014535</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10014535"/>
+        <updated>2026-11-17T15:10:33.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国政府证实，正在就晶片出口问题对总部设在新加坡的云计算服务公司超速国际（Megaspeed）进行调查。这个调查早在两年前就启动，当局怀疑这家公司协助把英伟达最尖端的晶片技术转移至中国，以此规避美国的监管。
+美国商务部和司法部星期一（11月16日）发联合声明说，两个部门携手合作，将针对超速国际可能存在的任何犯罪行为，依法动用一切手段追究责任。
+声明说，美方在监测潜在敏感半导体产品被转运的过程中，发现了可疑活动后，商务部便在2024年对超速国际可能违反出口管制规定展开调查。
+去年5月，商务部调查人员要求英伟达提供向超速国际直接或间接销售产品的记录，英伟达一个月后把这家公司列入禁售名单。
+同月，美国与新加坡的执法官员合作，到超速国际办事处进行核查，并约谈了时任首席执行官黄乐。在这之后，美国司法部牵头对超速国际展开刑事调查。
+联合声明说，虽然美国政府机构一般不会对正在进行的调查置评，但这次披露的相关细节符合公众利益。
+针对商务部和司法部的声明，英伟达没有做出回应。
+新加坡数码发展及新闻部长杨莉明星期一在旧金山出席美国新闻机构Semafor的年度硅谷与世界峰会。她在一场对话会上，说明新加坡对超速国际的调查过程。
+主持人询问，新加坡称在调查过程中多次向美方求助不果，华盛顿是否对此给予解释。杨莉明答说，新加坡在去年2月对超速国际展开独立调查，同年6月得知，美国工业与安全局也在关注这家公司，准备展开“装运后核查”（post-shipment verification checks）。之后，新加坡针对超速国际将它的服务器流向申报为“买卖交易活动”，向美方寻求协助。
+她说：“我不想代美国司法部或联邦调查局作出揣测。执法机构是否提供信息，往往有他们的考量。在这起案件中，我们尤其希望获得一家名为‘超微电脑公司’（Supermicro）的配合，我们相信它参与了有关交易。然而，这家公司提供的支持和信息非常有限，我们已告知美方这一难处。” 
+杨莉明也说，新加坡对超速国际的调查仍在进行。
+超微电脑公司是一家美国上市公司，核心业务是为全球企业、大型数据中心和云计算厂商提供服务器与存储基础设施。新加坡警方与总检察署在去年7月，要求美方协助促使这家公司配合调查。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow]]></title>
+        <id>https://techcrunch.com/?p=3189450</id>
+        <link href="https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/"/>
+        <updated>2026-11-17T15:07:06.000Z</updated>
+        <summary type="html"><![CDATA[The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.]]></summary>
+        <author>
+            <name>Kirsten Korosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta launches Direct, a stand-alone messaging app for Instagram]]></title>
+        <id>https://techcrunch.com/?p=3189457</id>
+        <link href="https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/"/>
+        <updated>2026-11-17T15:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voyage Labs raises $12 million for a specialized AI travel assistant]]></title>
+        <id>https://techcrunch.com/?p=3188450</id>
+        <link href="https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"/>
+        <updated>2026-11-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.]]></summary>
+        <author>
+            <name>Russell Brandom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos]]></title>
+        <id>https://techcrunch.com/?p=3189028</id>
+        <link href="https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/"/>
+        <updated>2026-11-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how generative AI has made it easier to manipulate existing videos.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials]]></title>
+        <id>https://techcrunch.com/?p=3189440</id>
+        <link href="https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"/>
+        <updated>2026-11-17T14:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.]]></summary>
+        <author>
+            <name>Ram Iyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APEC官员：各国有望搁置分歧 就联合声明达成一致]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10014772</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10014772"/>
+        <updated>2026-11-17T14:41:43.000Z</updated>
+        <summary type="html"><![CDATA[一名亚太经济合作组织（APEC）高级官员星期二（11月17日）告诉路透社，APEC各经济体虽然在关税和供应链等问题上存在分歧，但预计仍将搁置部分矛盾，在本周于深圳举行的峰会上就共同目标达成一致。
+APEC政策支持部门主任库里亚马说，从安全使用人工智能提高经济生产力，到通过数字化系统简化繁琐的海关通关流程，APEC各经济体一直有着良好的合作记录，能够推动各方着眼于国际贸易的大局。
+库里亚马说，尽管各方存在分歧，但从启动跨太平洋贸易协定谈判，到推动世界贸易组织提高环境标准，各成员经济体最终总能找到合作的办法。
+“我们有21个经济体。尽管存在紧张局势和各种担忧，但各方仍保持着沟通渠道，这就为通过外交手段解决问题创造了可能。”
+虽然北京与华盛顿的关系近期再度紧张起来，但库里亚马说，他不认为这会破坏达成联合声明的努力。
+他说：“我看到美国代表团正在与其他代表团密切合作，以确保我们能够发表一份各方都认可的联合声明。”
+他还说，从更广泛的层面来看，APEC全部21个成员都对不必要的贸易限制表达了担忧，并一致认为，必须确保贸易不仅“开放”，还要“公平”。
+库里亚马说，APEC成员已经就人工智能的安全、负责任使用展开讨论，包括如何利用人工智能促进经济增长、就业和更广泛的发展，但目前尚未最终敲定联合声明。
+“所有代表团都在夜以继日地工作，希望之后能向大家传达好消息。他们正在非常努力地工作，以确保各方能够达成共识。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science Corporation’s brain tech is worth $3.5 billion after new funding]]></title>
+        <id>https://techcrunch.com/?p=3189451</id>
+        <link href="https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"/>
+        <updated>2026-11-17T14:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Science Corp. raised a $400 million Series D to scale up its anti-blindness business.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无视美科技巨头反对 美国拟限进口中国数据中心设备]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10014687</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10014687"/>
+        <updated>2026-11-17T14:20:29.000Z</updated>
+        <summary type="html"><![CDATA[据知情人士透露，尽管亚马逊、谷歌、Meta等美国科技公司提出反对，特朗普政府仍计划继续推进限制美国进口中国生产的数据中心设备。
+路透社今年8月曾报道称，美国联邦通信委员会正寻求禁止美国进口中国新型号光收发器。光收发器是一种允许数据以光速通过光纤电缆在数据中心内部传输的设备。
+然而，这项措施遭遇强烈反对。据两名了解相关会议情况的人士透露，今年早些时候，亚马逊、谷歌、Meta、CoreWeave和思科与微软一道，参加了与白宫官员举行的会议。
+美国企业代表当时向白宫官员表示，若实施此类规定，美国企业可能需要长达10年时间才能完成合规调整。
+不过，另外三名了解此事的人士说，相关限制措施仍在推进中。
+华盛顿对华强硬派人士担心，中国光收发器可能被北京方面利用，窃取数据、植入恶意软件，或干扰美国数据中心的服务。
+据市场研究机构Counterpoint Research的数据，中国企业占据全球光收发器市场约三分之二的份额。虽然美国企业Coherent和Lumentum也掌握相关技术，但其产能规模不足以取代中国供应商。
+其中一名知情人士说，美国企业还指出中国可能采取报复措施的风险，例如禁止出口磷化铟。磷化铟是一种关键矿物，也是美国企业自主生产光收发器所必需的材料。
+特朗普在第二任期内对华采取了相对温和的政策姿态。不过，美国联邦通信委员会是一个明显的例外。过去一年，他们已成功限制中国新型号无人机、机器人、逆变器和路由器进入美国市场。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四方安全对话声明：反对破坏和平的单边行动]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10014702</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10014702"/>
+        <updated>2026-11-17T14:12:12.000Z</updated>
+        <summary type="html"><![CDATA[“四方安全对话”（Quad）领导人星期二（11月17日）在一份联合声明中表示，坚决反对任何旨在单方面改变现状、破坏地区稳定的行动，无论通过武力还是胁迫手段。声明指出，此类行动会加剧紧张局势，损害地区和平与稳定。
+声明还说，美国、日本、印度和澳大利亚领导人对经济胁迫行为表示严重关切，包括通过实施出口限制进行经济施压。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia’s first big move after Jensen Huang’s exit targets national security]]></title>
+        <id>https://techcrunch.com/?p=3189442</id>
+        <link href="https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"/>
+        <updated>2026-11-17T14:05:30.000Z</updated>
+        <summary type="html"><![CDATA[The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.]]></summary>
+        <author>
+            <name>Kirsten Korosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify’s new tool aims to stop deepfakes from being attributed to real artists]]></title>
+        <id>https://techcrunch.com/?p=3189147</id>
+        <link href="https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"/>
+        <updated>2026-11-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.]]></summary>
+        <author>
+            <name>Aisha Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis AI raises $500M to deploy glove-wearing robots]]></title>
+        <id>https://techcrunch.com/?p=3189251</id>
+        <link href="https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/"/>
+        <updated>2026-11-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.]]></summary>
+        <author>
+            <name>Tim Fernholz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xreal Aura Review: Stunning Screens, Frustrating Controls]]></title>
+        <id>6afb749039b6227e45ce0b55</id>
+        <link href="https://www.wired.com/review/xreal-aura/"/>
+        <updated>2026-11-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Xreal’s Aura glasses are much comfier than a bulky VR headset. I just wish they weren’t so frustrating to control.]]></summary>
+        <author>
+            <name>Boone Ashworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英首相称脱欧十年失多于得]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10011871</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10011871"/>
+        <updated>2026-11-17T13:24:24.000Z</updated>
+        <summary type="html"><![CDATA[（伦敦综合电）英国首相伯纳姆说，英国脱欧十年来“失去的多于得到的”，英国须重新审视现有英欧关系。 
+伯纳姆星期一（11月16日）在伦敦发表外交政策演讲，他引述英国预算责任办公室的数据指出，脱欧使英国经济损失约4%；其他估算则认为，损失可能高达国内生产总值（GDP）的8%。 
+他也指出：“从更深层次来看，十年前就已存在的问题，如今依然未得到解决。” 
+伯纳姆提出三项外交政策重置，其中一项是重新审视英国与欧洲的关系。他说：“我们必须审视，我们目前的关系对于当下、我们的经济以及我们的安全而言，是否合适。” 
+伯纳姆说，英国将与欧盟伙伴讨论长期关系的选项，并向下届国会提交评估，供议员作决定。但他也强调，相关讨论需要时间，英欧关系若有重大改变，也不会在英国下届大选前落实。下届大选最迟须于2029年举行。
+英欧本星期五将在布鲁塞尔举行峰会，预计敲定三项协议，包括青年交流计划、放宽排放交易限制，并消除农产品和食品跨境运输的壁垒。伯纳姆说，他下周将推动国会立法落实协议。他承诺，本届任期内不会让英国重返欧洲单一市场或关税同盟，也不会恢复人员自由流动。
+伯纳姆的表态引发脱欧支持者反弹。前首相约翰逊称，重启相关辩论是“疯狂”的；另一名前首相卡梅伦则警告，讨论重返欧盟可能演变为漫长而痛苦的十年辩论。伯纳姆所属的工党内部也意见不一：一名议员主张在下届大选纲领中承诺重返欧盟，部分来自支持脱欧地区的议员则希望结束讨论。 
+英国于2016年举行脱欧公投，当时约52%的选民投票支持英国脱离欧盟。英国于2020年正式退出欧盟。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普：美国认真对待伊朗或在华盛顿引爆脏弹]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10014463</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10014463"/>
+        <updated>2026-11-17T13:20:58.000Z</updated>
+        <summary type="html"><![CDATA[美国总统特朗普星期二（11月17日）说，美国正认真对待有关伊朗可能策划在华盛顿发动“脏弹”袭击的消息。
+路透社报道，当记者问及伊朗是否正计划在美国首都引爆脏弹时，特朗普点了点头。他在马尼拉说：“我们正在调查此事。”
+当被问及是否存在迫在眉睫的威胁时，特朗普说：“如果确实存在，他们将付出前所未有的代价，没有任何国家曾付出过如此惨重的代价。”
+记者再次追问是否有理由相信袭击即将发生，特朗普回答说：“我希望不会发生，但我们对此高度重视，因为他们恰好是一群疯子。”
+伊朗外交部发言人星期二在社交平台X上发文否认相关指控，称这些说法“毫无根据”。
+CNN引述消息人士的话报道称，美国情报部门掌握的信息显示，德黑兰正在制定相关计划，可能在美国首都引爆一枚脏弹。
+脏弹利用常规炸药扩散放射性物质。与核武器不同，脏弹不会引发核爆炸，但可能造成放射性污染，并引发严重的社会混乱和公众恐慌。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰空袭致克里米亚大桥部分坍塌]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10014437</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10014437"/>
+        <updated>2026-11-17T13:18:23.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰星期二（11月17日）连续第二天袭击连接俄罗斯南部与克里米亚的大桥。与此同时，俄罗斯正猛烈轰炸基辅的桥梁及其他基础设施。
+路透社报道，社交媒体上发布的未经证实的视频和照片显示，克里米亚大桥的整段公路拱桥结构已经坍塌，落入下方的刻赤海峡，导致航运受阻。
+目前尚无官方消息证实克里米亚大桥的受损程度。克里姆林宫说，本周首次袭击仅造成轻微损坏。
+俄罗斯任命的克里米亚行政长官阿克肖诺夫说，这轮袭击造成两人死亡，大桥交通已暂停。
+乌克兰总统泽连斯基证实乌方袭击了这座大桥，并表示这是对俄罗斯袭击乌克兰基础设施的回应。
+他在社交平台X上说：“我们是在提醒俄罗斯，战争终将回到它开始的地方。”
+据俄新社报道，这次针对克里米亚的夜间袭击，是自2022年全面战争爆发以来，乌克兰对俄罗斯发动的规模最大的一次夜间无人机袭击。
+俄罗斯国防部说，俄军在22个地区击落了1441架无人机，超过了前一天的1336架。
+在乌克兰基辅，市长克利奇科说，俄军袭击了横跨第聂伯河的两座桥梁，以及首都的其他基础设施。
+乌克兰能源部副部长涅克拉索夫说，俄罗斯夜间猛烈空袭能源基础设施，导致乌克兰八个地区的用户断电。
+据报停电地区包括第聂伯罗彼得罗夫斯克、顿涅茨克、扎波罗热、尼古拉耶夫、敖德萨、苏梅、切尔尼戈夫和切尔诺夫策地区。
+涅克拉索夫说：“第聂伯罗彼得罗夫斯克和扎波罗热地区的情况极其严峻。自上周以来，俄罗斯一直在持续袭击第聂伯罗地区的能源设施。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「多读书就好了」，可能是学语文最偷懒的答案]]></title>
+        <id>530a4a2a03b5642691565196b07476c9</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E3%80%8C%E5%A4%9A%E8%AF%BB%E4%B9%A6%E5%B0%B1%E5%A5%BD%E4%BA%86%E3%80%8D%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%98%AF%E5%AD%A6%E8%AF%AD%E6%96%87%E6%9C%80%E5%81%B7%E6%87%92%E7%9A%84%E7%AD%94%E6%A1%88"/>
+        <updated>2026-11-17T13:01:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年薪几百万被疯抢：这个爆火赛道的应届生凭啥毕业就拿顶薪？]]></title>
+        <id>1b328f6b59332ff387f2068b6fc06834</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%B9%B4%E8%96%AA%E5%87%A0%E7%99%BE%E4%B8%87%E8%A2%AB%E7%96%AF%E6%8A%A2%EF%BC%9A%E8%BF%99%E4%B8%AA%E7%88%86%E7%81%AB%E8%B5%9B%E9%81%93%E7%9A%84%E5%BA%94%E5%B1%8A%E7%94%9F%E5%87%AD%E5%95%A5%E6%AF%95%E4%B8%9A%E5%B0%B1%E6%8B%BF%E9%A1%B6%E8%96%AA%EF%BC%9F"/>
+        <updated>2026-11-17T13:01:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三联中读×微信读书：你的读书搭子已就位，开启全年阅读自由！]]></title>
+        <id>a552240edf17cc9a0011b37e2602d319</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%89%E8%81%94%E4%B8%AD%E8%AF%BB%C3%97%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%EF%BC%9A%E4%BD%A0%E7%9A%84%E8%AF%BB%E4%B9%A6%E6%90%AD%E5%AD%90%E5%B7%B2%E5%B0%B1%E4%BD%8D%EF%BC%8C%E5%BC%80%E5%90%AF%E5%85%A8%E5%B9%B4%E9%98%85%E8%AF%BB%E8%87%AA%E7%94%B1%EF%BC%81"/>
+        <updated>2026-11-17T13:01:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Laptops (2026): My Top Recommendations After Testing Hundreds]]></title>
+        <id>69b494517533a770a21ec074</id>
+        <link href="https://www.wired.com/story/best-laptops/"/>
+        <updated>2026-11-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.]]></summary>
+        <author>
+            <name>Luke Larsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美俄领导人释放会晤信号 金正恩现身朝中边境引猜测]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10014205</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10014205"/>
+        <updated>2026-11-17T12:53:40.000Z</updated>
+        <summary type="html"><![CDATA[亚太经济合作组织（APEC）领导人会议将于星期三（11月18日）起在中国深圳举行，为期两天。美国总统特朗普和俄罗斯总统普京都释放可能在峰会期间会晤朝鲜领导人金正恩的信号。在此情况下，金正恩现身朝中边境地区，并到访被朝鲜视为“革命圣地”的白头山一带，引发外界对他是否即将赴华的猜测。
+分析认为，中国国家主席习近平可能成为促成朝美首脑会谈的关键人物，但平壤迄今未明确表态，会晤能否成行仍充满变数。
+特朗普星期一（16日）启程访问亚洲时说，他将在深圳与习近平及普京会面，也可能见到金正恩。
+当记者追问会晤地点时，特朗普回答：“在中国。说不定金正恩会来，我不知道。这是习近平主席的事情。”
+这与白宫三天前表示此次亚洲之行没有安排朝美会谈的说法形成反差。分析认为，特朗普公开点名习近平，既是争取中国协助促成朝美对话，也将会晤能否成行的关键部分交给北京。
+俄罗斯方面同样释放积极信号。据塔斯社报道，克里姆林宫发言人佩斯科夫16日表示，如果金正恩出席深圳APEC峰会，普京可能与他举行会谈。
+普京当天在莫斯科会见金正恩亲信、朝鲜劳动党中央委员会书记赵甬元，并请他向金正恩转达诚挚问候，强调高度珍视俄朝近年来建立的务实友好关系。
+值得关注的是，朝中社17日报道，金正恩于15日至16日视察朝中边境两江道三池渊市旅游区建设项目，妻子李雪主及女儿金珠爱陪同。官方画面显示，金珠爱在滑雪场滑雪，金正恩则戴着墨镜，与李雪主在一旁观看，显得相当从容。
+
+              
+朝中社11月17日发布的照片显示，金珠爱在两江道三池渊市一处在建度假村内滑雪。照片摄于11月15日至16日之间。（法新社）
+            
+金正恩此时现身边境地区，尤其到访具有特殊政治象征意义的白头山（中国称长白山）一带，引发外界猜测他是否正为赴华作准备。
+白头山历来被视为金正恩作出重大政治决策前的重要象征性场所。2013年姑父张成泽被处决前后、2017年朝鲜决定参与平昌冬奥会前夕，以及2019年12月朝美无核化谈判期限临近之际，金正恩都曾到访白头山或三池渊地区。
+分析认为，金正恩此次携妻女现身滑雪场，刻意展现从容姿态，可能意在与积极寻求外交突破的特朗普形成对比，显示平壤并不急于重启对话。
+朝鲜研究所教授梁武进指出，金正恩过去曾在重大决策前到访白头山，此次行程的时间点值得关注。
+不过，梨花女子大学教授朴元坤认为，朝美双方尚未就核问题及会谈议程展开必要的工作层磋商，加上朝鲜外务相崔善姬未随行，现阶段将此次边境视察解读为首脑会谈前兆仍为时过早。
+分析认为，面对国内政治压力，特朗普可能希望借助中国的外交影响力，推动朝美关系取得突破。对金正恩而言，若能同时与中美俄领导人接触，将有助于提升朝鲜的外交地位；对习近平而言，若能促成这场罕见的领导人会晤，也将进一步彰显中国在大国外交中的斡旋能力。
+韩国外交部表示，目前难以预断朝美首脑会谈是否举行。如果特朗普与金正恩本周再次会面，将是两人自2019年6月板门店会晤以来，时隔约七年五个月再度举行首脑会谈。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国政府内斗白热化 特朗普图淡化分歧力挺卢特尼克]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10012706</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10012706"/>
+        <updated>2026-11-17T12:37:45.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国特朗普内阁围绕对华政策的纷争白热化，英伟达丑闻的余波已使政府内部分歧进一步加深。不过，总统特朗普试图淡化阁员纷争，并声明不会撤换备受指责的商务部长卢特尼克。
+备受特朗普信任的卢特尼克因英伟达公司丑闻和先进人工智能（AI）晶片运往中国一事，遭到猛烈批评。美国媒体日前报道，卢特尼克曾多次阻挠特朗普对涉嫌将英伟达晶片转运至中国的公司采取打击行动。
+特朗普周一（11月16日）向媒体坦言，财政部长贝森特和卢特尼克存在分歧，争议在于应该以多大力度堵住漏洞，不让中国通过其他国家的数据中心使用先进人工智能晶片。
+特朗普指两人一个想对中国友好，另一个想跟中国闹翻。他周一公开为卢特尼克辩护，称商务部没有将超速国际（Megaspeed）列入清单，可能是为了避免与中国爆发冲突，而自己也是这么认为的。
+多名了解内情的现任及前任官员透露，政府内部在对华政策上的分歧，远不止于两名部长之间的争斗。卢特尼克在对华晶片出口问题上，主张采取较温和方案；主张对华强硬的另一方则不只有贝森特，还有国务卿鲁比奥、贸易代表格里尔，以及国家安全委员会的大部分成员。特朗普的多名顾问称，特朗普对两个阵营的态度摇摆不定，倾向哪一方往往取决于当天的情形。
+特朗普否认鲁比奥曾通报黄乐是间谍
+
+针对英伟达前首席执行官黄仁勋的婚外情风波，特朗普连日来一直对他表示支持，甚至对黄仁勋的婚外情对象黄乐被指是情报人员这一点，也表示怀疑。
+特朗普周一对记者说：“我不确定她（黄乐）是间谍。很多时候，任何从中国来到美国的漂亮女子，他们就会说她是间谍。” 
+面对媒体的询问，特朗普也否认鲁比奥曾向他通报，指黄乐是间谍。
+黄仁勋辞任后，连日来硅谷多名科技公司创办人公开声援，至今超过18万人联署要求黄仁勋复职，包括至少6000名英伟达现任及前任员工，还有超过6万名股东。特朗普周一表示欢迎黄仁勋回归英伟达，并对记者说：“我当然不介意看到这样的情况。我想，他已经吸取了深刻的教训。” 
+
+美媒：英伟达未考虑让黄仁勋复职
+
+不过，美国消费者新闻与商业频道（CNBC）周一引述消息人士的话说，英伟达董事会如今聚焦针对黄仁勋的调查，并没有考虑让他复职。董事会已委托律师事务所对黄仁勋展开调查，以确定他的行为是否危及国家安全或泄露公司机密。
+OpenAI首席执行官奥尔特曼（Sam Altman）周一在旧金山出席美国新闻机构Semafor的年度硅谷与世界峰会，并接受采访时说，他相信人工智能这个行业能够挺过黄仁勋离任所引发的不确定性。 
+奥尔特曼指黄仁勋在人工智能领域发挥特殊而且重要的作用，并赞扬黄仁勋以卓越远见，推动人工智能行业向前发展。
+但与此同时，奥尔特曼认为，目前人工智能领域的营收和需求增长非常强劲，即使黄仁勋离开，这个行业仍然会继续发展，英伟达也仍将在人工智能领域继续发挥重要作用。奥尔特曼说：“英伟达是一家巨无霸级的公司。我认为，人们依然非常信赖他们的承诺。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capillus HairBand Review: Good Looks, Awkward Fit]]></title>
+        <id>6af38436881dd02ac0da6dfe</id>
+        <link href="https://www.wired.com/review/capillus-hairband/"/>
+        <updated>2026-11-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Capillus HairBand’s small size is both its biggest attraction and one of its biggest drawbacks.]]></summary>
+        <author>
+            <name>Kat Merck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[气候大会政治协议草案吁加快淘汰化石燃料]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10013208</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10013208"/>
+        <updated>2026-11-17T11:19:47.000Z</updated>
+        <summary type="html"><![CDATA[（安塔利亚法新电）第31届联合国气候变化大会（COP31）共同主办国澳大利亚星期一（11月16日）公布首份政治协议草案，列出各方在气候政策上截然不同的立场，同时呼吁加快淘汰化石燃料。
+这份厚达18页的提案，凸显了近200个与会国之间存在的巨大鸿沟；各国必须弥合分歧，才能在星期五（20日）谈判结束前达成共识。
+草案涵盖化石燃料、气候科学及全球升温即将突破《巴黎协定》设定的1.5摄氏度目标等议题。正在土耳其安塔利亚主持这场马拉松谈判的澳洲气候部长鲍恩说，草案并非最终版本，部分内容未必能获所有国家认同。 
+草案提出“加快行动，逐步淘汰化石燃料”，这项提议可能遭遇强烈反对。煤炭、石油和天然气是全球暖化的主要来源，相关措辞一直是联合国气候谈判的争议焦点。 
+去年巴西气候大会的最终协议没有明确提及化石燃料，今年许多国家因此要求纳入更有力的表述，但部分产油和产气国持保留态度。
+草案也呼吁富裕国家至少提供1200亿美元（约1547亿新元），协助发展中国家采取气候适应措施。尼泊尔谈判代表潘迪特说，各方尚未达成协议，发展中国家将继续争取。 
+草案另提出，到2035年将电力占终端能源需求的比率提高至35%，并呼吁富裕国家在2030年前实现净零排放。
+各国也对联合国政府间气候变化专门委员会（IPCC）报告发布时间意见分歧：许多欧洲国家和低洼岛国希望报告赶在2028年COP33会议各国审议减排成效前发布，沙特阿拉伯和印度等国则主张延至2029年。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孟加拉制衣工人示威酿暴力冲突 警方发射催泪弹驱散]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10013362</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10013362"/>
+        <updated>2026-11-17T11:11:06.000Z</updated>
+        <summary type="html"><![CDATA[孟加拉制衣工人争取加薪的抗议活动演变成暴力冲突。数千名示威工人周二（11月17日）封锁连接首都达卡与重要金融区迈门辛的主干道，并投掷砖块和焚烧车辆，警方则发射催泪弹和震爆弹，试图驱散示威人群。 
+孟加拉是仅次于中国的全球第二大服装出口国，当地制衣业雇用超过400万人，年营收达380亿美元（约490亿新元）。
+然而，孟加拉自10月爆发的制衣工人示威潮，已严重威胁制衣业的正常运转。据了解，目前孟加拉4500家制衣厂中约有500家关闭。由于圣诞节将至，当地制衣业正处于一年中出口最繁忙的时期。
+示威工人要求把最低月薪提高140%至3万塔卡（约310新元），以应付不断上涨的生活费。负责检讨制衣业最低工资的委员会原定于周一（16日）召开一场关键会议，但临时决定推迟至下周。（路透社）]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congratulations to WIRED’s Class of 2026]]></title>
+        <id>6af4a3f953156106eee174e5</id>
+        <link href="https://www.wired.com/story/wired-yearbook-2026/"/>
+        <updated>2026-11-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This past year was, frankly, crazy. For our inaugural WIRED Yearbook, we celebrate the people, inventions, and viral moments that made it a little more bearable—and are already defining the future.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?]]></title>
+        <id>6af3622682931ce68d5ff1c4</id>
+        <link href="https://www.wired.com/story/wired-yearbook-2026-clement-delangue/"/>
+        <updated>2026-11-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.]]></summary>
+        <author>
+            <name>Will Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dark Side of the Moon Was the Brightest Part of 2026]]></title>
+        <id>6af35ffedf48aa5160f9a29a</id>
+        <link href="https://www.wired.com/story/wired-yearbook-2026-artemis-crew/"/>
+        <updated>2026-11-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.]]></summary>
+        <author>
+            <name>Brendan I. Koerner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward]]></title>
+        <id>6af5ff1c0b81f4a3e576433e</id>
+        <link href="https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/"/>
+        <updated>2026-11-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.]]></summary>
+        <author>
+            <name>Julian Chokkattu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults]]></title>
+        <id>6af35cb0edee43782ec1b116</id>
+        <link href="https://www.wired.com/story/wired-yearbook-2026-ms-rachel/"/>
+        <updated>2026-11-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Throughout the past year, the children’s entertainer has called for grown-ups to do more to stand up for children everywhere, from ICE detention centers to Gaza.]]></summary>
+        <author>
+            <name>Kate Knibbs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Bunch of YouTube Auteurs Are Reinventing Hollywood]]></title>
+        <id>6af35e62d46e4509a50da8c6</id>
+        <link href="https://www.wired.com/story/wired-yearbook-2026-youtube-directors/"/>
+        <updated>2026-11-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Backrooms started as a 4chan meme. Obsession came from someone who got his start in online sketch comedy. They both got people back into theaters—and it’s just the beginning.]]></summary>
+        <author>
+            <name>Miles Klee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business]]></title>
+        <id>6af70b2466909349c1be422f</id>
+        <link href="https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/"/>
+        <updated>2026-11-17T10:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.]]></summary>
+        <author>
+            <name>Isabella Ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About]]></title>
+        <id>6afb74337909a762e559307f</id>
+        <link href="https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/"/>
+        <updated>2026-11-17T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The electric-auto maker says it has invited some buyers to reserve a personal robotaxi. The arrangement raises big questions about the future of car ownership.]]></summary>
+        <author>
+            <name>Aarian Marshall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)]]></title>
+        <id>6af6217e7d3b549f19bbdcbe</id>
+        <link href="https://www.wired.com/story/do-you-need-a-smart-car-seat/"/>
+        <updated>2026-11-17T10:06:00.000Z</updated>
+        <summary type="html"><![CDATA[I tested the Babyark Classic and Cybex Cloud G Pro with my two kids. Here’s what the extra tech did for me and what I’d prioritize when buying a car seat.]]></summary>
+        <author>
+            <name>Nicole Kinning</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国和挪威将为乌克兰采购爱国者防空系统]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10012874</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10012874"/>
+        <updated>2026-11-17T09:53:12.000Z</updated>
+        <summary type="html"><![CDATA[德国国防部长星期二（11月17日）说，德国和挪威将共同出资，为乌克兰采购一批新的美国“爱国者”防空系统。
+法新社报道，德国国防部长皮斯托里乌斯在布鲁塞尔举行的一场欧盟会议上说：“俄罗斯正在加大空袭力度，因为它在战场上没有取得进展。”
+皮斯托里乌斯说，德国将出资3亿美元（约3亿8000万新元），购买一批最新的美国武器装备。此次采购将重点加强防空能力，尤其是“爱国者”拦截导弹。
+俄罗斯近期加大了对乌克兰各地城市和基础设施的轰炸力度。基辅方面称，此举意在让乌克兰在今年冬天陷入严寒和困境，最终迫使其屈服。
+乌克兰一直迫切要求盟友协助提供更多“爱国者”系统，因为这是唯一能够拦截俄罗斯弹道导弹的防空系统。
+这项新援助宣布之际，乌克兰的军事支持国将于星期二晚些时候在布鲁塞尔北约总部举行会议。
+特朗普领导下的美国政府已停止向基辅提供武器，但允许其他国家为乌克兰采购美国武器。
+北约说，美国的盟友迄今已为基辅采购美国武器投入超过100亿美元。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[锁定特朗普政府高官 伊朗据报拟在华盛顿实施脏弹或化武袭击]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10012621</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10012621"/>
+        <updated>2026-11-17T09:45:22.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿讯）美国最新情报显示，伊朗正在制定计划，通过在华盛顿特区引爆所谓的“脏弹”或使用化学武器，来袭击特朗普政府的高级官员。不过，美国官员对伊朗是否具备实施这类计划的能力或意愿仍无定论。
+美国有线电视新闻网（CNN）星期一（11月16日）引述多名熟悉有关情报的美国官员报道，目前伊朗的相关筹划旨在为自己保留选项，而非表明袭击已迫在眉睫的信号。
+但其中两名消息人士透露，美方掌握的袭击计划非常具体，甚至涵盖袭击地点和目标，这已促使美国密集制定应急方案。
+对此，白宫发言人发声明称，美国正在监测一切潜在威胁，但目前未发现针对美国本土的可信威胁。
+伊朗常驻联合国代表团发言人则说，伊朗认为在任何情况下使用化学武器都是完全非法的，有关伊朗拟使用化武的说法纯属捏造。不过，发言人未明确回应有关伊朗策划脏弹袭击的情报。
+据悉，过去一周美国官员已召开数次会议，商讨如何应对伊朗的潜在袭击。
+自特朗普首次出任总统以来，伊朗就一直策划要暗杀美国在任与前任官员，特别是趁他们出国访问期间伺机行动，包括在2024年试图买凶杀害特朗普。
+
+据报伊朗声称制弹材料已藏匿于美国境内
+
+美国官员认为，最新情报表明，面对美国持续的军事打击与严厉的经济封锁，伊朗可能有意升级局势，并正积极筹划针对美国本土的袭击。但目前没有证据显示，伊朗已决定动手，也不清楚伊朗是否已部署能够实施袭击的人员。
+受访官员指出，美国极易遭受非常规武器袭击。脏弹把放射性材料装入常规炸弹，相对容易组装。伊朗也未必需要派训练有素的特工偷渡进入美国，只须说服一名已在美国境内居住的人实施袭击即可。据报道，美方截获的通讯显示，伊朗声称已把制弹材料藏匿于美国境内。
+消息人士指出，脏弹属于恐怖武器，但破坏力没有核弹大，造成的任何伤亡很可能是爆炸本身，而非辐射所致。尽管如此，脏弹一旦引爆，仍可能把危险的放射性物质扩散至数个街区甚至是数英里，从而严重影响民众健康，并使某些地区变得不再适宜居住。
+能否提前发现伊朗的袭击图谋，或许是美国面临的一大挑战。由于白宫与国会就时任代理国家情报总监普尔特的任命僵持不下，美国一项关键监控法已于今年6月到期。 
+这项法律允许官员收集外国人的通讯，是美国发现恐怖阴谋的最有效手段之一。特朗普政府官员日前联合致函国会两党领袖，呼吁国会重新授权这项法律。
+美国情报还显示，伊朗可能对驻中东美军使用化学武器，而美军缺乏应对这类袭击所需的防护装备和训练。据悉，美国正同步就此制定应急计划，重点确保驻中东外交和情报人员有能力抵御伊朗化武袭击。
+美国官员指出，伊朗明白，无论是在中东或美国本土使用脏弹或化武都将招致报复，但若伊朗领导层认为自己的政权正面临生存威胁，他们可能会认为冒险是值得的。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏]]></title>
+        <id>https://sspai.com/post/119184</id>
+        <link href="https://sspai.com/post/119184"/>
+        <updated>2026-11-17T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逃离内卷去伦敦，一个中产家庭爸爸全职带娃的10年]]></title>
+        <id>04a25002a646ed4765fd1a632a2e943b</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E9%80%83%E7%A6%BB%E5%86%85%E5%8D%B7%E5%8E%BB%E4%BC%A6%E6%95%A6%EF%BC%8C%E4%B8%80%E4%B8%AA%E4%B8%AD%E4%BA%A7%E5%AE%B6%E5%BA%AD%E7%88%B8%E7%88%B8%E5%85%A8%E8%81%8C%E5%B8%A6%E5%A8%83%E7%9A%8410%E5%B9%B4"/>
+        <updated>2026-11-17T09:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中年女性回报率最高的养生，是先降皮质醇？]]></title>
+        <id>98a79fb6e16af4264d122ea9ee85688a</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%B8%AD%E5%B9%B4%E5%A5%B3%E6%80%A7%E5%9B%9E%E6%8A%A5%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E5%85%BB%E7%94%9F%EF%BC%8C%E6%98%AF%E5%85%88%E9%99%8D%E7%9A%AE%E8%B4%A8%E9%86%87%EF%BC%9F"/>
+        <updated>2026-11-17T09:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴林拦截伊朗空袭 伊朗称目标是美国雷达]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10012547</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10012547"/>
+        <updated>2026-11-17T08:57:27.000Z</updated>
+        <summary type="html"><![CDATA[巴林星期二（11月17日）拦截了伊朗发动的空袭。此前，伊朗伊斯兰革命卫队说，他们使用无人机袭击了位于巴林谢赫伊萨空军基地的美国军用雷达系统。
+路透社报道，伊朗伊斯兰革命卫队称，此次袭击是为了回应美国军用无人机持续侵犯伊朗领空的行为。
+美国海军第五舰队司令部设在巴林境内。
+巴林星期二早些时候警告称，存在不明威胁，并敦促公民和居民前往最近的安全地点避险。
+巴林星期天说，其防空系统拦截了数次来自伊朗的空袭。德黑兰称，伊朗出动六架无人机，目标是位于阿尔里法直升机基地的美国防空雷达系统，以报复美国的敌对行动。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI应对气候暖化潜力巨大 数据中心碳排放引发担忧]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10012097</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10012097"/>
+        <updated>2026-11-17T08:35:20.000Z</updated>
+        <summary type="html"><![CDATA[（安塔利亚综合电）《联合国气候变化框架公约》执行秘书斯蒂尔强调，人工智能（AI）在应对全球变暖方面既有巨大潜力，也伴随重大风险。 
+第31届联合国气候变化大会（COP31）东道国土耳其星期一（11月16日）发起一项让各国和机构自愿加入的《安塔利亚人工智能承诺》，希望利用AI寻找气候解决方案，同时评估AI带来的环境风险。 
+这项承诺至今获得80个国家和组织的支持，但当中只有九个国家，而且不包括美国、中国和欧盟这三个高排放量经济体。
+斯蒂尔说：“AI和其他前沿技术是一把双刃剑……我们不能要求人们今天承受更高账单、更多导致地球变暖的污染和更严重的不平等，只为换取美好明天的承诺。” 
+AI正被广泛应用于改善天气预报、监测工业排放和优化可再生能源利用等领域，但支撑这项技术运行的数据中心消耗大量能源和水，不仅引发面对水电账单飙升的社区居民不满，也令人担忧其日益扩大的碳足迹。
+美国超大数据中心碳排放 相等于丹麦全年碳排放
+
+国际能源署的数据显示，数据中心消耗的电力约有30%来自煤炭，其次是可再生能源，占27%，天然气占26%，核能占15%。
+星期一公布的最新研究则显示，目前在美国各地运营的403座超大规模数据中心在2024年5月至2025年4月期间，二氧化碳排放量的中位数为2570万吨，相当于500万至600万辆汽油车一年的排放量，也与丹麦全国的年碳排放总量相近。
+
+美前证券交易委员会主席：AI泡沫将破裂并引发衰退
+
+AI领域的巨额投资也引发金融风险争论。美国前证券交易委员会主席根斯勒接受美国有线电视新闻网（CNN）访问时指出，AI热潮是一场泡沫，很可能在2028年总统选举前破裂，并引发经济衰退。 
+现任麻省理工学院教授的根斯勒说，投入AI基础设施建设的资金规模惊人，有估计称每年高达8000亿美元（约1.03万亿新元）。“2026年，科技巨头的支出是三年前的五倍……这规模之大实在惊人。” 
+根斯勒认为，资金涌入AI领域的速度，已超越企业实现盈利的速度，这令人担忧企业可能会过度投资，并背负过多债务。
+他说：“历史显示每当出现一项新技术并伴随大量投资时，总会到达一个平稳期，随后就会出现收缩。唯一的问题是，这会是一场温和的衰退，还是更剧烈的衰退。”]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oobah Butler Can Sell You Anything—If You’re a Rich Idiot]]></title>
+        <id>6ae0c30839e97d874027b4bd</id>
+        <link href="https://www.wired.com/story/oobah-butler-exclusive-interview-scams-for-a-better-tomorrow/"/>
+        <updated>2026-11-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In an exclusive interview, the stunt journalist talks about his new HBO show, where he dreams up grifting schemes to lampoon some of the world’s most opulent—and gullible—industries.]]></summary>
+        <author>
+            <name>Manisha Krishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[罗斯福号抵达中东 美军形成三航母部署态势]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10009350</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10009350"/>
+        <updated>2026-11-17T07:34:54.000Z</updated>
+        <summary type="html"><![CDATA[美军中央司令部证实，美军罗斯福号航空母舰已在其责任区内执行任务。这是美军目前在中东地区部署的第三艘航母。 
+新华社报道，美军中央司令部星期一（11月16日）在社交媒体发布一张照片，称罗斯福号航母星期天（15日）正航行在印度洋上。美军称，该航母目前正在美军中央司令部责任区内执行预定部署任务。
+目前，美军布什号和华盛顿号两艘航母已部署在该地区，尚不清楚罗斯福号是否将替换其中一艘航母。
+美军方称，除三艘航母外，当前部署在阿拉伯海的舰队还包括13艘驱逐舰、两艘巡洋舰和一艘濒海战斗舰，另有两艘驱逐舰位于红海。
+美国哥伦比亚广播公司报道认为，随着美军航母打击群在中东地区轮换，这三艘航母未必都长期部署在此。
+自今年2月底对伊朗发起军事行动以来，美军在中东地区基本保持着至少两艘航母的部署规模。4月下旬，美军曾在中东同时集结林肯号、福特号和布什号三艘航母。美媒当时报道称，这是2003年伊拉克战争后，美军首次在中东形成三航母部署态势。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经济学人展望2027]]></title>
+        <id>fc857ab3964500419172a8a13ac71006</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E5%B1%95%E6%9C%9B2027"/>
+        <updated>2026-11-17T07:13:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给自己一年时间，慢慢读懂《经济学人》]]></title>
+        <id>6a28fb443e319ddf282631b00f27d383</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%80%E5%B9%B4%E6%97%B6%E9%97%B4%EF%BC%8C%E6%85%A2%E6%85%A2%E8%AF%BB%E6%87%82%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B"/>
+        <updated>2026-11-17T07:13:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国近百万青年未就业未升学 拟削福利金鼓励就业]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10009283</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10009283"/>
+        <updated>2026-11-17T07:01:11.000Z</updated>
+        <summary type="html"><![CDATA[英国近百万年轻人既没有工作，也没有上学或参加培训，青年就业问题日益严峻。英国政府委托撰写的一份报告呼吁，全面改革福利和就业支援制度，包括削减25岁以下青年的福利金，并要求长期失业的年轻人参加就业实习计划。 
+路透社报道，这份报告由英国前部长米尔本（Alan Milburn）主持撰写，定于星期二（11月17日）公布。他指出，英国必须彻底改革现有制度，帮助年轻人走上工作岗位，而不是长期依赖福利。
+数据显示，今年第二季，英国16岁至24岁的年轻人中，有98万1000人没有工作，也没有上学或参加培训，相当于每八人中就有一人。去年，英国这类青年的占比在欧洲排名第二。
+英国青年失业率达15.6％，远高于较年长劳动人口的3.4％。这两个年龄群体的失业率差距，也明显大于欧洲其他国家。 
+报告建议，加大奖励力度，鼓励雇主聘用年轻人，同时加强心理健康支援，并将学徒培训人数增加一倍。目标是在未来10年内，把未就业、未上学或未参加培训的青年比例降至5％。
+英国目前每年向18岁至24岁青年发放约80亿英镑（约136亿新元）的主要残障及失业福利金。米尔本建议，增加就业支援投入，把福利开支与就业支援开支的比例，从目前的25比1调整至2比1。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TDS REVIEW｜Bose 有线消噪耳塞体验]]></title>
+        <id>https://sspai.com/post/118976</id>
+        <link href="https://sspai.com/post/118976"/>
+        <updated>2026-11-17T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章是TDSStudio在少数派上的第35篇文章，依然是全平台首发。早先我们评价过绯乐的虹，当时在评论区曾经有一些读者好奇它和BoseQC20的区别。有线降噪入耳耳机，在TWS时代到来之前曾经是一 ...查看全文]]></summary>
+        <author>
+            <name>KingTsui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI模型涉嫌失控入侵企业系统 美国加州起诉OpenAI]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10009287</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10009287"/>
+        <updated>2026-11-17T06:53:58.000Z</updated>
+        <summary type="html"><![CDATA[美国加利福尼亚州起诉人工智能（AI）公司OpenAI，指控它在缺乏充分安全措施和监管的情况下开发危险产品，导致旗下AI模型自主发动网络攻击，危及公共安全。 
+路透社报道，加州总检察长邦塔星期一（11月16日）宣布，已向旧金山州法院提起诉讼，指控OpenAI违反消费者保护法，并对公共安全构成威胁。这是美国首个州政府因AI模型发动网络攻击而起诉OpenAI。
+事件源于今年7月曝光的一起安全事故。当时，OpenAI先进模型驱动的自主AI代理在安全测试期间失控，入侵AI初创企业Hugging Face的系统，引发外界对AI自主行动能力的担忧。 
+邦塔指出，这起事故并非偶然，而是OpenAI长期优先追求业务增长和加速模型开发，却忽视安全及问责的可预见后果。他透露，目前已知的相关事故多达80起。
+OpenAI此前承认，这起事件涉及前所未有的先进网络攻击能力，并表示正加强安全防护措施。公司也承认，有必要提高AI失控行为的透明度，并于9月公布新的事故披露机制。 
+随着AI安全事故接连曝光，美国政府面临越来越大的监管压力，尤其担忧能源、银行及紧急服务等关键领域遭到攻击。
+美国国会议员正讨论加强AI监管，包括要求最先进AI模型的开发商接受独立安全审查。
+与此同时，OpenAI也面临多起涉及模型安全的诉讼。上个月，八个州跨党派联合起诉OpenAI，指控ChatGPT曾引导包括青少年在内的用户伤害自己或他人。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美要求调查台湾专机航权争议 中国批政治操弄]]></title>
+        <id>https://www.zaobao.com/news/world/story20261117-10011139</id>
+        <link href="https://www.zaobao.com/news/world/story20261117-10011139"/>
+        <updated>2026-11-17T06:30:40.000Z</updated>
+        <summary type="html"><![CDATA[美国要求国际民用航空组织（ICAO）介入台湾航班飞越国际空域受限的争议，强调有关国家不应把空域管理权当作政治工具。中国则批评美国借台湾问题进行政治操弄。 
+路透社星期二（11月17日）独家报道，美国已向国际民航组织理事会提交文件，质疑毛里求斯和塞舌尔今年4月撤销台湾总统赖清德专机飞越许可的决定，并要求展开调查。
+赖清德原定4月访问台湾在非洲的邦交国斯威士兰。台湾当局称，毛里求斯、塞舌尔和马达加斯加临时撤销专机飞越许可，导致行程推迟。赖清德指责北京以经济手段施压，促使三国配合，中方则否认这一说法。
+赖清德最终于5月乘坐斯威士兰国王的私人飞机出访，并在抵达后才公布行程。
+美国提交的文件主要针对毛里求斯和塞舌尔。文件指出，台湾中华航空公司原已获准飞越两国管理的飞行情报区，但两国在专机起飞前几天撤销许可，也没有提出飞行安全或营运方面的理由。
+美方强调，各国对本国领土和领海上空拥有主权，但管理公海上空的飞行情报区，不代表拥有这片空域的主权。如果允许各国以政治理由限制航班飞越，恐怕会开创危险先例。
+美国要求国际民航组织理事会对此表达关切，并要求秘书长向两国索取书面解释，再评估是否有必要采取纠正措施。
+中国外交部回应路透社询问时批评，美国片面引用公海上空飞越自由等原则，借维护航行自由之名抹黑其他国家。外交部重申，世界上只有一个中国，台湾是中国领土不可分割的一部分，并敦促有关国家停止利用台湾问题进行政治操弄。
+毛里求斯、塞舌尔政府及台湾外交部均未回应置评请求。]]></summary>
+        <author>
+            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -96,6 +997,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Chewy Promo Codes: 25% Off November 2026]]></title>
+        <id>674f80033ffc1b7f03c85b6b</id>
+        <link href="https://www.wired.com/story/chewy-promo-code/"/>
+        <updated>2026-11-17T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.]]></summary>
+        <author>
+            <name>Molly Higgins</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Newegg Promo Codes and Coupons for November 2026]]></title>
         <id>671bc281433273bdc6e673bc</id>
         <link href="https://www.wired.com/story/newegg-promo-code/"/>
@@ -113,41 +1024,6 @@
         <summary type="html"><![CDATA[Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.]]></summary>
         <author>
             <name>Kat Merck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果为首款折叠手机增设脸部解锁功能 但安全性较低]]></title>
-        <id>https://www.zaobao.com/news/world/story20261117-10009313</id>
-        <link href="https://www.zaobao.com/news/world/story20261117-10009313"/>
-        <updated>2026-11-17T05:38:01.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司为旗下首款折叠手机iPhone Duo新增脸部识别解锁功能，以解决用户对指纹解锁速度及便利性的不满。不过，新功能的安全性不及传统Face ID。 
-彭博社报道，苹果星期一（11月16日）在iOS 27.3测试版中推出新功能，让iPhone Duo用户能够通过前置摄像头识别脸部特征解锁手机。
-苹果今年9月推出售价1999美元（近2600新元）的iPhone Duo，是历来最昂贵的iPhone，也是近20年来设计变化最大的一款。 
-由于折叠机身未配备Face ID所需的3D脸部扫描硬件，iPhone Duo原本只能通过Touch ID指纹识别解锁。部分早期用户抱怨，指纹解锁不如其他iPhone的Face ID快速顺畅。
-新功能采用类似苹果近期推出的HomeView智能显示屏的技术，通过较简单的脸部特征进行身份验证，但安全性不及传统Face ID。
-为降低风险，用户必须先在近期使用指纹或密码解锁手机，才能启用脸部识别。Apple Pay付款及读取密码等敏感操作，仍须使用指纹认证。
-此外，新系统也允许用户在合上折叠手机的内屏时自动锁定设备，避免外屏继续运作造成误触及耗电。不过，这项功能默认关闭，须由用户自行启用。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国防部连续九年审计不合格 财务管理存漏洞]]></title>
-        <id>https://www.zaobao.com/news/world/story20261117-10009412</id>
-        <link href="https://www.zaobao.com/news/world/story20261117-10009412"/>
-        <updated>2026-11-17T05:25:40.000Z</updated>
-        <summary type="html"><![CDATA[美国国防部连续第九年未能通过财务审计，暴露出长期存在的财务管理问题。
-路透社报道，根据星期一（11月16日）公布的监察长报告，国防部2026财政年度的整体审计仍不合格。
-国防部首席财务官赫斯特（Jules Hurst）说，25个单独接受审计的单位中，有14个通过审计，比去年的11个有所增加。
-这些通过审计的单位，占国防部总资产的56％、总负债的86％。这也是国防部首次有超过半数的资产获得审计认可。
-美国国防部自2018年首次接受整体财务审计以来，至今未曾过关，主要原因是财务系统老旧、账目管理混乱。
-国防部目前使用约149套财务管理系统，其中不少已经过时，有些甚至仍在使用50年前编写的电脑程序。
-特朗普政府正向国会争取创纪录的1.5万亿美元（约1.93万亿新元）国防预算。在这一背景下，改善财务管理、争取国会议员信任，成为国防部的优先任务。
-为弥补旧系统的不足，国防部今年利用较先进的云端数据平台，从61个核心系统提取数据供审计使用，并引入Palantir和xAI的人工智能工具，自动核对账目、整理文件。 
-赫斯特说，人工智能让审计人员能够检查更多数据，国防部通过整体审计主要是时间问题。
-国会此前给国防部10年时间，要求它在2028财政年度通过审计。国防部计划先将25份独立审计意见整合为八份，再争取于2028财政年度通过整体审计。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -181,24 +1057,6 @@ Haiyun Jiang for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美拟收紧五国AI晶片出口规定 限制中国获取海外算力]]></title>
-        <id>https://www.zaobao.com/news/world/story20261117-10010172</id>
-        <link href="https://www.zaobao.com/news/world/story20261117-10010172"/>
-        <updated>2026-11-17T03:05:01.000Z</updated>
-        <summary type="html"><![CDATA[特朗普政府计划进一步收紧先进人工智能（AI）晶片的出口规定，防止中国企业通过海外数据中心，远程使用受美国管制的晶片和服务器。 
-彭博社报道，美国商务部星期一（11月16日）公布临时规定，拟对运往新加坡、马来西亚、泰国、印度尼西亚和巴西数据中心的先进AI晶片实施新的许可要求。有关晶片包括英伟达及其他美国制造商的产品。 
-这项措施旨在限制中国及美国认定的其他对手，通过海外数据中心获取美国设计的先进晶片所提供的算力。
-商务部在声明中说，新规定是为了堵住漏洞，防止企业借助第三国的数据中心，以远程计算的方式绕过美国现有的技术限制。
-消息公布后，英伟达股价一度下跌2.9％，费城半导体指数一度下跌5.5％。
-美国商务部说，新规定由财政部和国家安全委员会起草，并按照这两个部门的指示制定。相关出口许可将逐案审批。
-商务部指出，随着云计算技术发展，企业越来越容易远程使用美国的AI计算系统，因此有必要让远程使用和直接获取相关技术受到一致的限制。
-新规定也设有例外。总部位于美国、在上述五国经营的企业，可继续向当地运送AI晶片，无须申请许可。运往数据中心、用于网络零售或社交媒体商业推荐系统的晶片，也可获得豁免。
-根据规定草案，新要求将在《联邦公报》刊登后生效。截至美国时间星期一上午9时，相关规定尚未刊登。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[为了另一种可能性：在国内折腾 Linux 打游戏的二三事]]></title>
         <id>https://sspai.com/post/118442</id>
         <link href="https://sspai.com/post/118442"/>
@@ -206,25 +1064,6 @@ Haiyun Jiang for The New York Times
         <summary type="html"><![CDATA[当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。查看全文]]></summary>
         <author>
             <name>AstrianZ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国前证监会主席警告 AI泡沫恐在2028年大选前破裂]]></title>
-        <id>https://www.zaobao.com/news/world/story20261117-10009458</id>
-        <link href="https://www.zaobao.com/news/world/story20261117-10009458"/>
-        <updated>2026-11-17T02:51:44.000Z</updated>
-        <summary type="html"><![CDATA[美国证券交易委员会（SEC）前主席根斯勒警告，人工智能（AI）热潮已形成泡沫，可能在2028年美国总统选举前破裂，并引发经济衰退，但冲击程度预计不及2008年全球金融危机。 
-2021年至2025年担任证监会主席的根斯勒（Gary Gensler）接受美国有线电视新闻网（CNN）访问时说，企业正投入巨额资金建设AI基础设施，每年投资额估计高达8000亿美元（约1.03万亿新元），但盈利增长远远跟不上投资速度。
-现为麻省理工学院教授的根斯勒指出，科技巨头今年的支出是三年前的五倍，投资规模惊人。他以历史上的铁路、电力及互联网热潮为例，说明突破性技术往往伴随过度投资，最终导致市场调整。
-他说：“历史告诉我们，当新技术吸引大量投资，最终总会来到增长停滞、开始萎缩的阶段。唯一的问题是，经济会温和衰退，还是出现更剧烈的冲击。”
-根斯勒尤其担忧AI产业的融资模式，包括循环融资及复杂的表外融资安排，使投资者难以掌握实际风险。他认为，部分贷款机构放贷过多、速度过快，可能重演历史上的泡沫破裂。 
-他预测，一旦泡沫破裂，首当其冲的将是依赖大量借贷、向AI开发商出租算力的新型云计算公司，部分企业可能破产。大型科技公司则较有能力渡过危机。
-根斯勒认为，潜在经济冲击可能与2000年代初互联网泡沫破裂相当，但不会像2008年次贷危机般严重。他预计，美国经济可能在2028年11月总统选举前出现资产重新定价及增长放缓。
-不过，华尔街并非一致看淡AI前景。亚德尼研究公司总裁亚德尼（Ed Yardeni）认为，近期AI概念股回调反而有助市场降温，避免估值过度膨胀。
-他说，目前晶片制造商的市盈率已跌至整体市场水平以下，情况不同于2000年互联网泡沫破裂前，未见非理性繁荣。
-根斯勒则强调，他仍看好AI技术的长期潜力，但担心资本市场低估了相关风险。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -273,21 +1112,6 @@ Ulet Ifansasti for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[欧洲谈判团队首次全员参与乌美磋商]]></title>
-        <id>https://www.zaobao.com/news/world/story20261117-10009320</id>
-        <link href="https://www.zaobao.com/news/world/story20261117-10009320"/>
-        <updated>2026-11-17T01:19:43.000Z</updated>
-        <summary type="html"><![CDATA[乌克兰总统泽连斯基称，欧洲谈判团队首次以“完整阵容”与乌克兰和美国谈判团队举行工作层面磋商，讨论未来与俄罗斯举行谈判的相关事宜。 
-新华社报道，泽连斯基星期一（11月16日）在社交媒体发文称，美国总统特使威特科夫和总统特朗普的女婿库什纳参加当天的线上磋商，欧洲方面则派出所有后续将参与对俄谈判的代表，包括法国、德国、英国、意大利和波兰以及欧盟机构代表，此外还有一名北约代表参加磋商。
-泽连斯基说，乌克兰需要体面地结束战争且获得安全保障，“我们将在柏林以‘志愿联盟’成员身份举行会晤，共同制定谈判进程中具体的联合举措”。 
-“志愿联盟”由英法牵头组建，是一个承诺加强对乌克兰支持的国家集团，美国不是其成员。
-泽连斯基此前说，欧洲将派代表直接参与下一轮俄美乌三方会谈，并拥有发言权。 
-欧洲理事会主席科斯塔则宣布，欧洲谈判团队将由欧盟机构及英国、法国、德国、意大利和波兰五国代表组成。俄罗斯总统助理乌沙科夫16日表明，俄美乌三方会谈将继续举行，对于是否“扩大谈判规模”、吸纳欧洲国家参加，他表示俄方未同任何一方进行过协商。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[黄仁勋骤然离场，亚洲失去驻美“AI大使”]]></title>
         <id>https://cn.nytimes.com/business/20261117/jensen-huang-nvidia-china-asia/</id>
         <link href="https://cn.nytimes.com/business/20261117/jensen-huang-nvidia-china-asia/?utm_source=RSS"/>
@@ -313,38 +1137,6 @@ Tomohiro Ohsumi/Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[金正恩视察边境旅游区 朝鲜高官赴俄会普京]]></title>
-        <id>https://www.zaobao.com/news/world/story20261117-10009425</id>
-        <link href="https://www.zaobao.com/news/world/story20261117-10009425"/>
-        <updated>2026-11-17T00:53:15.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜领导人金正恩近日视察靠近中国边境的三池渊山区旅游区，检查机场、铁路及滑雪度假村等设施的建设进度，并要求确保各项工程达到最高质量标准。 
-路透社引述朝中社星期二（17日）报道，金正恩视察了三池渊机场改建工程、旅游铁路和滑雪度假村，并对当地酒店、旅馆和住宅的建设情况表示满意。他也登上白头山，查看重建的缆车站和天池周边工程。
-与此同时，朝鲜劳动党中央委员会书记赵甬元率团访问俄罗斯，并与俄罗斯总统普京会面。
-美国总统特朗普星期一称，他本周访问中国期间，可能与金正恩会面。克里姆林宫也说，如果金正恩前往中国出席亚太经济合作组织（APEC）峰会，普京可能与他会晤。 
-韩国统一部指出，朝鲜代表团在美中俄元首峰会前夕访俄，韩方将密切关注相关动向。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内忧外患下展开亚洲行 特朗普会习近平面临新考验]]></title>
-        <id>https://www.zaobao.com/news/world/story20261117-10009268</id>
-        <link href="https://www.zaobao.com/news/world/story20261117-10009268"/>
-        <updated>2026-11-17T00:02:26.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普当地时间星期一（11月16日）启程访问亚洲，先后赴菲律宾和中国出席区域峰会。在共和党中期选举失利、英伟达前首席执行长黄仁勋卷入疑似中国间谍风波之际，特朗普与中国国家主席习近平的会晤备受关注。 
-路透社报道，特朗普启程前透露，可能在中国与朝鲜领导人金正恩会面，称这取决于习近平的安排。不过，朝鲜此前已公开表明，目前无意与特朗普会晤。 
-特朗普星期二（17日）将在马尼拉会见东南亚及其他地区领导人，随后赴深圳参加亚太经济合作组织（APEC）会议，期间拟与习近平会晤，并与俄罗斯总统普京举行三方会谈。特朗普说，三方将讨论核裁军、伊朗、乌克兰、贸易和经济问题。
-美中贸易休战安排明年1月10日到期，双方12月还将在迈阿密二十国集团峰会期间举行会谈。分析原以为深圳峰会不会有重大突破，但共和党在本月中期选举失利，加上黄仁勋被指与疑似中国间谍有婚外情，以及美方被质疑未及时处理相关情报，令峰会增添不确定性。
-美国政府星期一又宣布新规，限制先进晶片出口至马来西亚、泰国等国的数据中心，以遏制中国企业通过海外算力获取美国先进人工智能晶片。美国国会也有进一步收紧对华晶片限制的呼声。南京大学学者朱锋认为，争议可能加速美中人工智能领域脱钩。 
-英国托尼·布莱尔研究所中国政策顾问奥斯曼指出，特朗普如今较少担心市场或选举反弹，或更愿意采取扰乱现状的措施。中国方面则指责美国借间谍指控合理化技术封锁。
-另一焦点是拟举行的美中俄三方会谈。特朗普希望借此推动核军控协议，但中国分析人士认为，北京核弹头数量远少于美俄，不会接受。俄罗斯克里姆林宫称，三方会晤将对全球事务产生重大影响。
-在对华议题上，北京希望阻止特朗普批准总值140亿美元（约180亿新元）的对台军售。特朗普此前称暂缓军售是与中国谈判的筹码。
-尽管双方在贸易休战执行方面仍有分歧，多名分析人士认为，彼此均有维持稳定的诱因，休战安排有望延长。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等]]></title>
         <id>https://sspai.com/post/119160</id>
         <link href="https://sspai.com/post/119160"/>
@@ -352,68 +1144,6 @@ Tomohiro Ohsumi/Getty Images
         <summary type="html"><![CDATA[少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity AI startup Corma reaches $1B valuation in about 3 months]]></title>
-        <id>https://techcrunch.com/?p=3189297</id>
-        <link href="https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"/>
-        <updated>2026-11-16T23:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.]]></summary>
-        <author>
-            <name>Julie Bort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摩根大通系统出现技术故障 部分交易处理延误]]></title>
-        <id>https://www.zaobao.com/news/world/story20261117-10009295</id>
-        <link href="https://www.zaobao.com/news/world/story20261117-10009295"/>
-        <updated>2026-11-16T23:21:22.000Z</updated>
-        <summary type="html"><![CDATA[美国最大银行摩根大通星期一出现技术故障，导致部分客户的交易处理时间延长，但客户仍可正常使用账户及资金。
-彭博社报道，摩根大通（JPMorgan Chase）星期一（11月16日）发表电邮声明说，银行正面对技术问题，部分交易的处理时间比平时更长，正尽快修复故障。
-一名知情人士透露，这次故障与网络安全事件无关。
-据追踪网站服务故障的Downdetector统计，星期一有超过3000起用户通报摩根大通服务异常。
-受消息影响，摩根大通股价在纽约时间星期一下午1时33分下跌2.3％，报338.24美元（约436新元），今年以来的累计涨幅收窄至近5％。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美台掀声援潮 消息称英伟达董事会无意让黄仁勋复职]]></title>
-        <id>https://www.zaobao.com/news/world/story20261117-10009278</id>
-        <link href="https://www.zaobao.com/news/world/story20261117-10009278"/>
-        <updated>2026-11-16T23:16:39.000Z</updated>
-        <summary type="html"><![CDATA[美国晶片巨头英伟达前首席执行长黄仁勋辞职后，支持他复职的声浪持续扩大，不仅获得特斯拉首席执行长马斯克及美国总统特朗普声援，台湾也掀起挺黄热潮。不过，据三名知情人士透露，英伟达董事会目前无意让黄仁勋重掌公司。
-路透社报道，要求黄仁勋复职的“与黄仁勋站在一起”联署行动，截至星期一（11月16日）已获得超过18万200人支持，包括马斯克、人工智能公司Replit首席执行长马萨德，以及Epic Games首席执行长斯威尼。
-联署网站显示，支持者包括逾8800名自称英伟达现任员工，以及超过9万4000名股东，但有关身份尚未经过独立核实。
-特朗普星期一也公开支持黄仁勋复职，称他相信黄仁勋已从事件中吸取深刻教训。不过，美国财政部长贝森特此前主张，英伟达应从外部聘请新任首席执行长，彻底整顿公司。 
-黄仁勋此前因涉嫌与员工发生婚外情，以及卷入疑似中国情报活动的风波而辞职。
-两名知情人士透露，美国情报机构仍在调查中国女商人黄乐与中国国家安全部的关系，以及她可能向北京提供哪些情报。现有证据显示，她更可能是向情报机构提供消息的线人，而非受过完整训练的间谍。
-这场风波也使华尔街对黄仁勋的去留意见分歧。部分股东认为，董事会不应急于寻找接班人；但公司治理专家警告，在调查结束前让黄仁勋复职，恐使英伟达面对新的法律和经营风险。英伟达股价星期一下跌3.7％。
-与此同时，黄仁勋离职在出生地台湾引发强烈反响。台北101大楼星期一亮灯，打出“台湾爱Jensen”等字样声援。
-黄仁勋长期与台积电及台湾供应链保持密切关系，在当地享有明星般的人气。不少台湾民众认为，他不仅推动科技产业发展，也带动当地商业及旅游业，盼望他有朝一日能像苹果创办人乔布斯一样，重返自己一手打造的企业。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber giant Infoblox confirms security incident after hackers access ‘company information’]]></title>
-        <id>https://techcrunch.com/?p=3189270</id>
-        <link href="https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"/>
-        <updated>2026-11-16T22:12:31.000Z</updated>
-        <summary type="html"><![CDATA[The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.]]></summary>
-        <author>
-            <name>Zack Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All the questions Nvidia should answer on Tuesday — but probably won’t]]></title>
-        <id>https://techcrunch.com/?p=3189019</id>
-        <link href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"/>
-        <updated>2026-11-16T22:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.]]></summary>
-        <author>
-            <name>Julie Bort</name>
         </author>
     </entry>
     <entry>
@@ -427,26 +1157,6 @@ Tomohiro Ohsumi/Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple reveals new Mac security controls as AI agents raise privacy risks]]></title>
-        <id>https://techcrunch.com/?p=3189173</id>
-        <link href="https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"/>
-        <updated>2026-11-16T21:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California state AG sues OpenAI over rogue agent incidents]]></title>
-        <id>https://techcrunch.com/?p=3189115</id>
-        <link href="https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"/>
-        <updated>2026-11-16T20:07:13.000Z</updated>
-        <summary type="html"><![CDATA[The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.]]></summary>
-        <author>
-            <name>Russell Brandom</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best Early Black Friday Espresso Machine Deals (2026)]]></title>
         <id>692076bc1d5cbe3df783222e</id>
         <link href="https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-16-2026/"/>
@@ -457,43 +1167,18 @@ Tomohiro Ohsumi/Getty Images
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uber says hackers stole information on close to 150,000 driver’s licenses during data breach]]></title>
-        <id>https://techcrunch.com/?p=3188333</id>
-        <link href="https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"/>
-        <updated>2026-11-16T19:53:00.000Z</updated>
-        <summary type="html"><![CDATA[The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.]]></summary>
+        <title type="html"><![CDATA[黄仁勋女儿留任引发担忧：脾气暴躁，曾导致多名高管离职]]></title>
+        <id>https://cn.nytimes.com/business/20261117/nvidia-jensen-madison-huang/</id>
+        <link href="https://cn.nytimes.com/business/20261117/nvidia-jensen-madison-huang/?utm_source=RSS"/>
+        <updated>2026-11-16T18:32:26.000Z</updated>
+        <summary type="html"><![CDATA[黄敏珊此前是父亲事实上的幕僚长，她脾气火爆、作风强势，英伟达员工称有十多名关键高管因为不喜欢与她共事而离开公司。她继续留任给临时CEO带来了直接挑战。
+
+                    
+Maxim Shemetov/Reuters
+                    
+8月，英伟达产品营销高级总监、黄仁勋之女黄敏珊在北京的2026年世界机器人大会上。]]></summary>
         <author>
-            <name>Zack Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID]]></title>
-        <id>https://techcrunch.com/?p=3189094</id>
-        <link href="https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"/>
-        <updated>2026-11-16T19:26:55.000Z</updated>
-        <summary type="html"><![CDATA[Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security]]></title>
-        <id>https://techcrunch.com/?p=3189047</id>
-        <link href="https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"/>
-        <updated>2026-11-16T19:12:02.000Z</updated>
-        <summary type="html"><![CDATA[Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.]]></summary>
-        <author>
-            <name>Amanda Silberling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Island is a new screen-time app that turns staying off your phone into a game]]></title>
-        <id>https://techcrunch.com/?p=3188957</id>
-        <link href="https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/"/>
-        <updated>2026-11-16T18:54:18.000Z</updated>
-        <summary type="html"><![CDATA[YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
+            <name>KALLEY HUANG,TRIPP MICKLE,RYAN MAC</name>
         </author>
     </entry>
     <entry>
@@ -504,26 +1189,6 @@ Tomohiro Ohsumi/Getty Images
         <summary type="html"><![CDATA[Originally launching only with Touch ID, Apple’s folding phone now borrows a feature from the new HomeView and can recognize your mug, but it’s likely not as secure as Face ID.]]></summary>
         <author>
             <name>Julian Chokkattu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion]]></title>
-        <id>https://techcrunch.com/?p=3189007</id>
-        <link href="https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/"/>
-        <updated>2026-11-16T18:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’]]></title>
-        <id>https://techcrunch.com/?p=3189053</id>
-        <link href="https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"/>
-        <updated>2026-11-16T18:11:10.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.]]></summary>
-        <author>
-            <name>Rebecca Bellan</name>
         </author>
     </entry>
     <entry>
@@ -540,26 +1205,6 @@ Damon Winter/The New York Times]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’]]></title>
-        <id>https://techcrunch.com/?p=3188979</id>
-        <link href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"/>
-        <updated>2026-11-16T17:36:43.000Z</updated>
-        <summary type="html"><![CDATA[The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.]]></summary>
-        <author>
-            <name>Zack Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’]]></title>
-        <id>https://techcrunch.com/?p=3188848</id>
-        <link href="https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/"/>
-        <updated>2026-11-16T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.]]></summary>
-        <author>
-            <name>Connie Loizos</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10个数字，让你更了解亚洲]]></title>
         <id>https://cn.nytimes.com/asia-pacific/20261117/asean-trade-security-technology/</id>
         <link href="https://cn.nytimes.com/asia-pacific/20261117/asean-trade-security-technology/?utm_source=RSS"/>
@@ -572,36 +1217,6 @@ Pool photo by Ted Aljibe
 周一，各国领导人在马尼拉举行的东盟峰会上合影。]]></summary>
         <author>
             <name>DAMIEN CAVE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI will embed safety researchers to investigate AI subversion]]></title>
-        <id>https://techcrunch.com/?p=3188985</id>
-        <link href="https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"/>
-        <updated>2026-11-16T17:02:43.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.]]></summary>
-        <author>
-            <name>Rebecca Bellan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM]]></title>
-        <id>https://techcrunch.com/?p=3188489</id>
-        <link href="https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"/>
-        <updated>2026-11-16T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.]]></summary>
-        <author>
-            <name>Ivan Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram now lets creators add Amazon affiliate links in reels and feed posts]]></title>
-        <id>https://techcrunch.com/?p=3188922</id>
-        <link href="https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"/>
-        <updated>2026-11-16T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.]]></summary>
-        <author>
-            <name>Aisha Malik</name>
         </author>
     </entry>
     <entry>
@@ -635,16 +1250,6 @@ Pool photo by Ted Aljibe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Serena Williams winds down her VC firm, launches new fund, seeks $200M]]></title>
-        <id>https://techcrunch.com/?p=3188191</id>
-        <link href="https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/"/>
-        <updated>2026-11-16T16:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.]]></summary>
-        <author>
-            <name>Dominic-Madori Davis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Just 400 US Data Centers Use More Electricity Than Michigan]]></title>
         <id>6af61ecccd85a690853e7e8b</id>
         <link href="https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/"/>
@@ -652,230 +1257,6 @@ Pool photo by Ted Aljibe
         <summary type="html"><![CDATA[New Harvard research shows that data-center power demand is outstripping states—and that doesn’t even include facilities with off-grid gas plants.]]></summary>
         <author>
             <name>Molly Taft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audible turns to AI to help users discover audiobooks]]></title>
-        <id>https://techcrunch.com/?p=3188907</id>
-        <link href="https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/"/>
-        <updated>2026-11-16T15:52:19.000Z</updated>
-        <summary type="html"><![CDATA[Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.]]></summary>
-        <author>
-            <name>Sarah Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国与九国同意共同保护人工智能供应链]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10008549</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10008549"/>
-        <updated>2026-11-16T15:22:40.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国与九个伙伴国家包括印度、新加坡和英国等，承诺保护敏感技术和关键基础设施。各国签署宣言，同意构建一个安全框架，以保护对于人工智能供应链极其重要的关键技术、软件、知识材料和零部件。 
-美国负责经济事务的副国务卿赫尔伯格星期天（11月15日）说，美国同韩国、日本、英国、新加坡、澳大利亚、以色列、印度、卡塔尔和阿联酋签署了《持久繁荣安全基础旧金山宣言》（San Francisco Declaration on the Secure Foundations of Enduring Prosperity）。德国、瑞典、荷兰和欧盟委员会也将在下星期签署。 
-赫尔伯格说，设计晶片的技术、制造晶片的机器和运输晶片的港口，可能分布在不同国家，这个新协议强调的是集体责任。“旧金山宣言的历史意义在于，硅和平倡议的合作伙伴同意将这些技术和基础设施的安全视为共同责任”。 
-他说，这份承诺可促使各国对哪些敏感技术和关键基础设施属于“超级智能”范围达成共识，从而有助于促进各国共享重要信息，并确定哪些领域需要实现供应链多元化。
-“超级智能”（SuperIntelligence, SI）是美国总统特朗普今年9月对“人工智能”（AI）命令指定的官方用语。
-这个宣言是美国硅和平倡议（Pax Silica）的一部分。美国去年12月提出这个国际战略倡议，要保障人工智能与半导体供应链安全，降低对特定单一供应链的依赖。倡议的签署方除了美国，还有其他24个国家。
-当前，美国与中国围绕人工智能发展的战略竞争日益激烈。华盛顿正在重新评估如何管控向中国出口高端人工智能晶片。英伟达原首席执行官黄仁勋最近被曝出与疑似中国女间谍搞婚外情后，对人工智能技术管控的辩论越发激烈。
-新签署的宣言表明，经济安全是国家安全的基石，如果不能保护关键系统和技术免受侵害，任何国家都无法确保自身安全。
-美国国务院星期天也发声明说，参与的各国政府计划成立多个联合工作组，推动一系列相关工作。各方也承诺共同应对经济胁迫和供应链中断问题，同时保护私人投资，确保竞争环境公平以促进创新与增长。
-拟成立的五个工作组的工作重点将涵盖：促进创新的政策框架、关键领域的超级智能应用、超级智能技术的供应链合作、安全港与供应链安全枢纽，以及超级智能的安全与韧性。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普称不介意黄仁勋重掌英伟达：他已吸取深刻教训]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10008852</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10008852"/>
-        <updated>2026-11-16T15:12:30.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普说，他不介意黄仁勋重新担任英伟达首席执行官。
-路透社报道，特朗普星期一（11月16日）对记者发表这番言论，并称他认为黄仁勋“吸取了一次深刻教训”。
-黄仁勋被曝与疑似中国间谍的黄乐有染，惊动美国政府。黄仁勋在丑闻发酵多日后辞去英伟达首席执行官职务，但美国商界领袖纷纷游说，希望他能恢复原职。
-《金融时报》引述知情者的消息报道，黄仁勋正在与亲信讨论重返公司的可能。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：可能在中国与金正恩会晤]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10008838</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10008838"/>
-        <updated>2026-11-16T15:04:02.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普意外宣称，在本周东亚之行期间，他可能会在中国与朝鲜领导人金正恩会晤。
-路透社报道，特朗普星期一（11月16日）启程前往亚洲前，在白宫告诉记者：“（中国国家主席）习近平一个月前刚来过这里，我们还会与俄罗斯总统普京会晤，或许也会与金正恩会晤。” 
-他补充说，如果与金正恩会面，地点会是中国。
-特朗普这番言论出人意料。美国高级官员此前说，目前并无相关会晤计划。
-特朗普首个总统任期内曾多次与金正恩会晤，包括在朝韩非军事区的一次。他近期也曾表露在当前任期内再次会见金正恩的意愿。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US tightens AI chip export controls to deter Chinese companies from accessing compute remotely]]></title>
-        <id>https://techcrunch.com/?p=3188900</id>
-        <link href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"/>
-        <updated>2026-11-16T15:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.]]></summary>
-        <author>
-            <name>Ram Iyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Maps can now build trip itineraries with real-time details about each stop]]></title>
-        <id>https://techcrunch.com/?p=3188899</id>
-        <link href="https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"/>
-        <updated>2026-11-16T14:48:13.000Z</updated>
-        <summary type="html"><![CDATA[You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.]]></summary>
-        <author>
-            <name>Aisha Malik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美商务部发布新规 防止经第三方访问先进AI晶片]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10008765</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10008765"/>
-        <updated>2026-11-16T14:43:37.000Z</updated>
-        <summary type="html"><![CDATA[美国商务部在美中俄元首会晤临近之际发布新规，以防第三国远程访问先进人工智能（AI）晶片。
-路透社报道，美国商务部星期一（11月16日）发布一项临时最终规则，称此举“旨在确保不会通过第三国数据中心的远程计算安排，绕过现行对敏感美国技术的管制”。 
-报道称，新规可能会限制中国获取先进AI晶片。
-新规发布之际，正值美国总统特朗普即将在深圳与中国国家主席习近平和俄罗斯总统普京举行三方会晤。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国索要三倍驻军费 日本拟砍半应对]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10008369</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10008369"/>
-        <updated>2026-11-16T14:12:54.000Z</updated>
-        <summary type="html"><![CDATA[日本和美国正就更新为期五年的驻日美军经费分摊协定进行磋商。据报特朗普政府提出高达3万亿日元（约240亿新元）的要求，约为现行水平的三倍，日方是否会全盘接受成为关注焦点。据日美外交相关人士透露，日方不会完全满足美方要求，最终金额可能在1.5万亿日元左右。
-日美上一份协定于2022年签署，规定日方每年承担约2110亿日元经费。由于现行协议将于2027年3月到期，美日双方工作层级官员自今年7月起便展开交涉，旨在敲定未来五年的新预算方案。
-《日经新闻》披露，美方在谈判中要求日本在未来五年承担超过3万亿日元的经费。在特朗普第一任期内，美方也曾要求日方将分摊经费增加四倍；当时日本政府采取了拖延策略，直至拜登政府上台后才重启谈判。
-但这次情况不同，现行合约仅剩数月便将到期，而特朗普的任期还有两年，加上日本面临财政吃紧的困境，使得此次交涉尤为棘手。日方目前拟定的方案仅为美方要价的一半，且考虑到日元贬值和物价上涨等因素，这一数额恐怕难以令美方满意。
-日本承担的驻日美军经费，主要用于补贴美军基地的运营，涵盖水电燃气费、日籍雇员的薪资以及设施建设与维护等开支。长期以来，这笔开支在日本预算项目里有个昵称叫“体贴开支”，被外界批评为讨好美国的举措。2022年，当局将它更名为“同盟强韧化预算”。
-在日美协定中，一项名为“训练器材采购费”的条目备受关注。设立目的是为了强化日美同盟威慑力，提升自卫队与美军联合训练的质量。在此次谈判中，日本政府曾考虑接受美方提议，替美军承担它部署在日本的飞机、舰艇等装备的维护费用。但由于内容超出了现行法律规定的范围，最终只能作罢。
-对于美方要求大幅增加基地分摊经费一事，日本官方有观点认为，经费最终大多流向了基地雇佣的日籍员工以及日本国内建筑承包商，这在一定程度上有助于扩大日本内需，拉动经济。
-但日本舆论界也存在反对声音。在集中了约70%驻日美军基地的冲绳县，当地媒体《琉球新报》发表评论认为，美方这种先漫天要价、再迫使对方妥协的谈判策略，日本政府绝不应屈从，而应采取坚决态度予以回绝。况且，随着共和党在美国中期选举中失利，特朗普政府的政策主张实际上已遭到选民否定。
-该报也指出，与其他驻有美军的国家相比，日本承担的美军经费比例本就极高。在国家财政状况严峻的当下，与其扩大美军经费开支，不如将资金用于改善和支援国民生活。此外，该报也对预算被用于采购美军与自卫队联合军演的设备表示不满，批评此举意在将冲绳打造成“军事要塞”，进一步加重了冲绳的军事负担。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男子东京街头行刺 致一女子伤重身亡]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10008594</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10008594"/>
-        <updated>2026-11-16T13:51:16.000Z</updated>
-        <summary type="html"><![CDATA[日本东京街头发生持刀伤人事件，一名女子遭袭身亡，警方逮捕一名嫌疑男子。
-日本放送协会（NHK）报道，当地时间星期一（11月16日）晚上7时30分左右，警方接到报警称，东京中野区街头一名女子被刺伤。
-这名女子20多岁，颈部和其他部位遭刺伤，送医时已昏迷，最终在医院不幸死亡。
-东京警方逮捕一名三四十岁的男子。据报，这名男子行刺后逃离现场。警方怀疑他涉嫌抢劫未遂和谋杀。事件详情仍在调查中。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苏格兰威尔士堕胎去罪化生效 曾获罪女性自动得到赦免]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10008316</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10008316"/>
-        <updated>2026-11-16T13:14:20.000Z</updated>
-        <summary type="html"><![CDATA[英国一项堕胎去罪化法案正式生效。英格兰和威尔士地区曾因违反19世纪相关法律而被判堕胎罪的女性，自动获得赦免。
-根据英国去年通过的新法案，英格兰和威尔士地区自行终止妊娠的女性不再构成刑事犯罪。
-法新社报道，这项法案星期一（11月16日）正式生效。
-英国司法部当天发布声明说：“此前因与自身怀孕相关堕胎行为而被定罪或受到警告的女性，现已自动获得赦免。” 
-在此之前，如果女性选择在怀孕24周后终止妊娠，或在未获得相应医疗许可的情况下终止妊娠，可能面临刑事指控。
-这种情况源于一项1861年制定的法律，最高可判处终身监禁。
-权益倡导者称，2022年至2025年间，英格兰有六名女性因试图在法律规定之外终止妊娠而受到起诉。
-提出这项堕胎非刑事化修正案的议员安东尼亚齐（Tonia Antoniazzi）早前表明，2020年至2025年间，警方曾以涉嫌非法堕胎为由，对100多名女性展开调查。
-根据新规定，堕胎服务的合法提供方式保持不变，孕期时限要求也不变；任何协助女性在法律规定范围之外进行堕胎的人，仍会面临起诉风险。
-安东尼亚齐说，任何曾因堕胎受到调查的女性，犯罪记录也会删除。“对英格兰和威尔士的女性和女孩而言，今天是具有历史意义的重大日子。没有任何赦免能够抹去她们经历的伤害与痛苦，但这一举措具有重要意义，它承认了她们曾遭遇不公。” 
-北爱尔兰已于2019年将女性堕胎行为去罪化。苏格兰也正在对当地堕胎相关法律进行审议。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用粤语说唱爆火出圈，她唱出了年轻人最想要的松弛感？]]></title>
-        <id>515bfe9a5eb149e5aa398a092d74f5b3</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%94%A8%E7%B2%A4%E8%AF%AD%E8%AF%B4%E5%94%B1%E7%88%86%E7%81%AB%E5%87%BA%E5%9C%88%EF%BC%8C%E5%A5%B9%E5%94%B1%E5%87%BA%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%80%E6%83%B3%E8%A6%81%E7%9A%84%E6%9D%BE%E5%BC%9B%E6%84%9F%EF%BC%9F"/>
-        <updated>2026-11-16T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这部高分烧脑神剧，直面中年婚姻里的信任危机？]]></title>
-        <id>ad176e3f04285added55a067a7845467</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%BF%99%E9%83%A8%E9%AB%98%E5%88%86%E7%83%A7%E8%84%91%E7%A5%9E%E5%89%A7%EF%BC%8C%E7%9B%B4%E9%9D%A2%E4%B8%AD%E5%B9%B4%E5%A9%9A%E5%A7%BB%E9%87%8C%E7%9A%84%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%9C%BA%EF%BC%9F"/>
-        <updated>2026-11-16T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中美俄元首周四会晤 中方促共同合作应对全球挑战]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10007041</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10007041"/>
-        <updated>2026-11-16T12:21:04.000Z</updated>
-        <summary type="html"><![CDATA[（深圳/马尼拉综合电）中国官方确认，中美俄三国元首将于来临星期四在深圳会晤。中国外交部说，这是史上中美俄三国元首第一次面对面会晤，具有开创性意义，三国肩负着合作应对全球挑战、促进世界和平稳定的重要责任。
-中国外交部发言人毛宁星期一（11月16日）宣布，国家主席习近平星期四（19日）将同俄罗斯总统普京与美国总统特朗普在深圳会晤。
-毛宁在例行记者会上说，此次会晤将围绕维护世界和平、促进大国关系战略稳定深入交换意见。她说，中美俄都是联合国创始会员国和安理会常任理事国，三国曾并肩赢得世界反法西斯战争的胜利。在当前形势下，三方加强沟通、管控分歧、稳定关系，符合三国利益。这也是国际社会的期待，有利于稳定世界局势、推动对话合作。
-白宫上星期五（13日）率先公布，三位领导人本星期四将于亚太经济合作组织（APEC）领导人非正式会议期间会晤。克里姆林宫过后也证实了这个安排。外界预期，届时三人可能讨论俄乌战争、美伊战争、削减核武器、人工智能（AI）等全球关注的热点问题。
-为期两天的APEC领导人非正式会议星期三（18日）起在深圳举行。一般预料，由于地缘政治竞争持续加剧，以及美国的政策加剧贸易战，此次会议恐难取得重大突破。
-新加坡韩礼士基金会贸易政策主任埃尔姆斯在一份研究报告中写道：“由中国在一个包括美国和俄罗斯的机构中担任东道主，并不是争取成功的良方。这三方彼此不和，加上地缘政治竞争涉及多个成员国，即使要在相对无争议的议题上展开合作也比以往任何时候都困难。” 
-特朗普所属的共和党虽然在本月初的中期选举中惨败，但没有迹象显示他会扭转大规模加征关税的政策。美国外交关系协会高级研究员库兰齐克甚至认为，特朗普反而可能变本加厉，而国会对此束手无策。 
-除了中期选举失利，英伟达联合创办人黄仁勋因婚外情间谍风波而辞任首席执行官，也进一步打击特朗普在国内的政治地位。
-彭博社分析指出，随着特朗普的政治力量削弱，指他与习近平过于密切的批评声量也越来越大。黄仁勋被揭发与疑似中国间谍发生婚外情后，特朗普和黄仁勋的关系也受到更严厉的审视，尤其黄仁勋一直以来是最积极主张向中国销售先进晶片的AI行业领袖。
-特朗普试图拉近与普京的关系，并因此批评乌克兰总统泽连斯基，此举也招致非议。
-以上种种因素可能使特朗普与中俄领袖的会谈更为复杂，但特朗普国内政治力量被削弱，却也可能使他更渴望在国际舞台上展现影响力。美国前外交官唐伟康说：“总统无疑会借此行重申他的领导地位与权威，展现政治家才能，在国际舞台上表演一番。” 
-在飞往深圳之前，特朗普星期二（17日）将先到菲律宾首都马尼拉，出席亚细安峰会及系列会议。本届峰会于上个星期天（15日）开始。
-由于特朗普预计不会在贸易问题上改弦易辙，许多国家都趁出席亚细安峰会之机寻求深化彼此的贸易和防务关系，以对抗美国保护主义。
-加拿大总理卡尼星期天宣布，加拿大分别同菲律宾和亚细安达成了贸易协定。
-巴西总统卢拉当天也呼吁各国加强合作，尊重多边主义。他说，面对美国的高关税，巴西选择寻找新贸易伙伴，“而不是哭泣或向美国政府乞求”。他透露，巴西同印度尼西亚和越南的贸易额已分别增长15%和13%。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为防范高考AI作弊 韩政府拟收考场智能设备并屏蔽公共WiFi]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10008163</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10008163"/>
-        <updated>2026-11-16T12:14:05.000Z</updated>
-        <summary type="html"><![CDATA[韩国税务师考试状元在高考临近之际自曝用人工智能（AI）技术作弊后，韩国政府计划在高考考场收缴智能设备并屏蔽公共无线网络（WiFi），以防此类情况再现。
-韩联社报道，韩国高考将于星期四（11月19日）举行，国务总理韩圣淑星期一（16日）主持“防范利用智能设备作弊跨部门会议”期间，讨论上述管控方案。
-今年税务师考试排名第一的韩姓考生星期天（15日）承认，在两阶段考试中利用电子设备及AI作弊。他已向警方自首，并承诺交出作弊设备。
-韩国总统府随后紧急召开对策会议，决定加强考场电子设备检查，并全面调查国家资格考试中的AI作弊问题。
-韩圣淑在星期一的会议上强调，政府有必要集中一切力量，防止考生在高考中利用智能眼镜、微型摄像头和耳机等搭载AI技术的设备实施作弊。
-她指示成立高考跨部门紧急应对小组，切实制定落实事前、事后应对措施。
-她也要求相关部门和机构积极研究在所有考场切断公共WiFi的方案，还要求彻查考试结束后发现的各种可疑异常情况。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传黄仁勋拟回巢 美财长：英伟达须对外选帅彻底重整]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10006718</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10006718"/>
-        <updated>2026-11-16T12:08:21.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）据消息人士透露，英伟达前首席执行官黄仁勋正在同亲信讨论重返公司的可能性；然而美国财政部长贝森特却公开表明，要英伟达往外物色新首席执行官，对公司领导层进行彻底改组。
-《金融时报》星期天（11月15日）引述一名与黄仁勋关系密切人士的消息报道，黄仁勋的亲信正在集结硅谷企业高管组成一个战情室（war room），对促成黄仁勋回归英伟达展开游说，并争取白宫支持。
-根据这名消息人士的说法，黄仁勋众亲信形容：“在科技界，除了前沿研究实验室人员之外，所有举足轻重的人物，都很爱戴黄仁勋。”他也指，这些争取回归的行动也获得黄仁勋本人的支持。 
-针对有关消息，英伟达并未置评。
-黄仁勋在本月12日辞任英伟达首席执行官。《金融时报》隔天报道，英伟达董事会已同英国晶片设计公司安谋（Arm）首席执行官哈斯（Rene Haas）接触。英伟达董事会则回应，现阶段对内部或外部的任何个别候选人加以揣测，都为时过早。
-
-贝森特限英伟达10天内交代  是否背离国家出口管制
-
-除了硅谷多名科技公司创办人公开声援外，要求黄仁勋复职的公开信，截至星期天晚上已获得超过16万5000人联署。联署人当中包括数千名英伟达现任及前任员工，以及超过6万2000名股东。
-不过，美国财长贝森特星期天接受福克斯新闻台采访说，英伟达必须在公司以外物色新首席执行官，对公司领导层大刀阔斧彻底改组。
-贝森特要知道英伟达公司是否刻意回避一些警讯，包括多家空壳公司涉嫌将晶片转运至中国。他指示英伟达董事会和外部法律顾问须在10天内，就公司是否严格遵守出口管制条规作出交代，比如，是否为推高营收和盈利，而推动看似非法的销售活动。
-贝森特暗批与新加坡超速国际（Megaspeed International）有关联的多家企业：“谁知道？我的意思是，很明显的，这些都是空壳公司，也一度受调查。英伟达是不是利用这些公司变通，向中国转售晶片？” 
-问及曾任超速国际高管的黄仁勋婚外情对象黄乐，贝森特说：“她是不是间谍对我来说并不重要。詹森（黄仁勋的英文名）的私生活瑕疵终究是他自家的事。” 
-这番话显示，美国政府正把焦点从黄仁勋个人行为，上升至法律和国家安全层面。
-另一方面，美国共和党众议员、众议院中国问题特别委员会主席穆勒纳尔星期天在哥伦比亚广播公司（CBS）《面向全国》（Face The Nation）节目中说，黄仁勋已同意向众议院议员闭门供证，说明他与黄乐的关系。 
-穆勒纳尔透露，他领导的委员会，连同外交事务委员会和情报委员会，仍在协调会面日期。委员会成员都急于了解，是否曾有任何敏感信息走漏。
-这场婚外情间谍疑云爆发后，美国国会再次强烈呼吁政府加强对中国获取先进人工智能（AI）晶片限制。参议院民主党领袖舒默11月10日吁国会尽快通过三项法案以加强管制，分别是《人工智能监督法案》、《晶片安全法案》及推动美国盟友限制向中国出口更多晶片制造设备的《匹配法案》。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -889,16 +1270,6 @@ Pool photo by Ted Aljibe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore]]></title>
-        <id>6af4fb5e14d6b214e4117bac</id>
-        <link href="https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/"/>
-        <updated>2026-11-16T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.]]></summary>
-        <author>
-            <name>Ames Alexander</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Best Smart Bird Feeders for Backyard Birding (2026)]]></title>
         <id>6671f1ec865e53584d1a830b</id>
         <link href="https://www.wired.com/story/best-smart-bird-feeders/"/>
@@ -909,6 +1280,16 @@ Pool photo by Ted Aljibe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore]]></title>
+        <id>6af4fb5e14d6b214e4117bac</id>
+        <link href="https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/"/>
+        <updated>2026-11-16T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.]]></summary>
+        <author>
+            <name>Ames Alexander</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nvidia Was Already in Trouble Before the Jensen Huang Mess]]></title>
         <id>6af5d84658905b6f1b0fc8b9</id>
         <link href="https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/"/>
@@ -916,36 +1297,6 @@ Pool photo by Ted Aljibe
         <summary type="html"><![CDATA[AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.]]></summary>
         <author>
             <name>Will Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟拟新增113项对俄制裁 俄斥此举损害和平进程]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10007482</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10007482"/>
-        <updated>2026-11-16T10:27:09.000Z</updated>
-        <summary type="html"><![CDATA[欧盟预计就针对俄罗斯的113项新制裁达成一致，莫斯科称此举损害当前俄乌和平进程。
-路透社报道，欧盟预计星期一（11月16日）晚些时候对俄罗斯实施新一轮多达113项制裁，其中包括被指控参与网络攻击和破坏活动的俄罗斯个人。欧盟希望以此施压俄方，结束在乌克兰的军事行动。
-克里姆林宫当天回应说，欧盟官员一边承诺继续支持乌克兰，一边扬言要通过制裁加大对俄施压，这种表态对当前的和平进程有害。
-克宫上周表明，如果欧洲国家展现出为和平作出贡献的真正意愿，俄方愿意让欧洲参与乌克兰和平谈判。
-经过数月犹豫，欧盟领导人日前商定，由英国、法国、德国、意大利、波兰以及欧盟相关机构代表欧洲方面参与新一轮美俄乌谈判。
-俄罗斯官员还呼吁，就欧洲安全架构达成一项广泛协议。不过，俄方此举可能会转移外界对实现停火这一迫切需求的关注。
-欧盟外交与安全政策高级代表卡拉斯表明：“我们需要看到停火，才能真正开始讨论其他议题。目前我们并未看到这一点，因为俄罗斯实际上正在升级局势。”]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外媒：美军第三艘航母抵达中东]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10007334</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10007334"/>
-        <updated>2026-11-16T10:10:42.000Z</updated>
-        <summary type="html"><![CDATA[外媒报道，美国罗斯福号航空母舰抵达中东，美国在当地部署的航母打击群随之增至三个。
-美国新闻网站Axios记者拉维德（Barak Ravid）和中东地区媒体《国家新闻》报道，美国西奥多·罗斯福号（USS Theodore Roosevelt）航空母舰星期天（11月15日）抵达中东。
-美国此前已在中东部署两艘航母，分别是布什号（USS George H.W. Bush）和华盛顿号（USS George Washington）航空母舰。
-罗斯福号抵达前不久，伊朗刚声称向美国中东盟友巴林发动无人机袭击。此举打破美以伊战事中的一段平静。
-美国总统特朗普本周将在深圳与中国国家主席习近平和俄罗斯总统普京会晤。一名官员上星期五（13日）说，特朗普计划与中俄元首讨论伊朗战争。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
         </author>
     </entry>
     <entry>
@@ -969,77 +1320,6 @@ Pool photo by Ted Aljibe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[研究：气候变化加剧2025年伊比利亚半岛野火]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10007199</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10007199"/>
-        <updated>2026-11-16T09:59:35.000Z</updated>
-        <summary type="html"><![CDATA[英国大学研究人员发布的报告显示，气候变化加剧了2025年伊比利亚半岛西北部的极端野火。
-新华社报道，英国东安格利亚大学（University of East Anglia）日前发布消息说，学校研究人员发布的《全球野火状况2025-2026》（State of Wildfires 2025–2026）报告显示，去年在伊比利亚半岛西北部等地区，先是异常湿润的天气促进植被生长，随后出现极端高温和干旱，为异常猛烈的野火创造条件。
-报告说，伊比利亚半岛西北部在2025年8月发生多场大规模野火，造成人员伤亡，大量人员被迫疏散。
-在2025年3月至2026年2月期间的野火季，西班牙过火面积为2002年以来最高，葡萄牙则出现有记录以来规模最大的单场野火。
-报告预测，在高排放情景下，到本世纪末，伊比利亚半岛西北部还会发生类似的野火事件，过火面积可能增加约78%。不过，减少人为排放有助于限制未来此类野火规模的增长。
-这份报告汇集英国气象局、东安格利亚大学、欧洲中期天气预报中心、英国生态学与水文学中心等机构专家的研究成果。
-研究团队结合野火、植被覆盖和天气状况的卫星观测数据，利用多种天气、气候和火灾模型，分析气候变化对伊比利亚半岛西北部等地典型野火事件的影响。
-报告的主要作者之一、英国气象局野火专家伯顿（Chantelle Burton）指出，气候变化对全球极端野火的影响已显现，但通过有力的减排行动，仍可避免未来出现更严重的火灾。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI需求推高核电厂建设 全球在建核反应堆创40年新高]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-9934076</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-9934076"/>
-        <updated>2026-11-16T09:42:56.000Z</updated>
-        <summary type="html"><![CDATA[（伦敦讯）化石燃料价格上涨和高耗能人工智能（AI）的普及，正推动各国加快推进建造新核电站的计划。截至今年10月中，全球在建核反应堆多达79座，是40年来的新高。
-日经亚洲报道，总部设在伦敦的世界核协会的数据显示，2026年已有11座新核反应堆开工建设。若计入计划在15年内投入运行的反应堆，总数将达到201座。 
-目前全球在运行的核反应堆有443座。考虑到有一部分反应堆因为老化而关闭，到2040年前后，全球在运反应堆仍可能超过600座。
-报道说，AI普及是核电站数量增加的主要推动因素。为了给AI数据中心供电，越来越多企业倾向于建设周期更短和成本更低的小型模块化反应堆（SMR）。比起传统核电站，小型模块化反应堆占地面积更小，安全设计更完善，对周边环境的影响也更小。 
-另一个因素是俄乌战争与美伊战争导致的能源价格飙升。战事的爆发凸显了在不依赖进口化石燃料的情况下，保障电力供应的迫切需要。由于许多国家都已制定了脱碳政策，当前的局面迫使它们转向发展核能。
-在美国，一些科技公司在建造AI数据中心的同时，也在为那些开发小型模块化反应堆的企业提供资金。华盛顿正在推进一个800亿美元（约1031亿新元）核电站扩建项目，为数据中心提供电力供应。
-日本计划在2040年代更换两座至五座反应堆，并在2050年代增建九座反应堆，总共将新增11座至14座反应堆。
-报道说，全球在建的79座核反应堆中，中国占了38座，其次是印度（八座）和俄罗斯（七座）。至于处在规划阶段的核反应堆建造计划，中国以42座位居第一，俄罗斯和印度分别有23座和14座。
-2011年日本福岛核电站事故发生后，欧洲大陆曾掀起弃核浪潮，不过如今情况有变。意大利、瑞典和比利时等国已扭转了此前的弃核政策。法国正在考虑新建14座核反应堆。今年3月，欧盟宣布新政策，要利用核能实现脱碳和保障能源安全。欧盟委员会主席冯德莱恩说，欧洲此前弃核的做法是战略错误。 
-不过，核电站数量迅速增加也伴随着风险。国际原子能机构（IAEA）指出，全球目前有约70座小型模块化反应堆处在设计阶段，但在制定安全标准等方面却相对滞后。此外，也必须确保监管机构的独立性并强化其监管能力，国际原子能机构正推动各国在安全标准方面展开合作。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌逾千架无人机夜袭俄 击中克里米亚大桥]]></title>
-        <id>https://www.zaobao.com/news/world/story20261116-10006909</id>
-        <link href="https://www.zaobao.com/news/world/story20261116-10006909"/>
-        <updated>2026-11-16T09:18:37.000Z</updated>
-        <summary type="html"><![CDATA[乌克兰向俄罗斯发动大规模无人机夜间袭击，并击中连接俄控克里米亚半岛与俄本土的一座标志性大桥。
-法新社报道，乌克兰星期天（11月15日）夜间向包括莫斯科在内的俄境内目标发动大规模无人机袭击；俄罗斯国防部说，乌方出动1336架无人机。
-根据法新社对俄罗斯官方声明的统计，这是今年以来，单日无人机出动数量第二多的一次。
-莫斯科市长索比亚宁（Sergei Sobyanin）说，约有600架无人机在接近莫斯科时被拦截。
-这次袭击也击中克里米亚大桥（Kerch Bridge），虽然造成的破坏较轻，但仍引起俄方官员的愤怒。自俄罗斯于2022年2月对乌克兰发动攻势以来，克里米亚大桥一直是乌克兰的主要打击目标。
-俄罗斯总统普京即将于星期四（19日）在中国深圳与美国总统特朗普和中国国家主席习近平会晤。不过，美国官员说，俄乌战争预计不会成为此次会谈的焦点。
-乌克兰军队不久前还袭击俄罗斯的一家大型石化工厂、一座炼油厂以及一处军事生产设施。
-基辅方面说，乌方采取的报复打击，是对莫斯科此前针对乌克兰城市及能源基础设施发动导弹和无人机袭击的正当回击。]]></summary>
-        <author>
-            <name>《联合早报》-国际-即时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[价格腰斩、大批门店关停，曾经暴利的牙科生意凉了？]]></title>
-        <id>0d46d70f216ae6177c01dced941102aa</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9%E3%80%81%E5%A4%A7%E6%89%B9%E9%97%A8%E5%BA%97%E5%85%B3%E5%81%9C%EF%BC%8C%E6%9B%BE%E7%BB%8F%E6%9A%B4%E5%88%A9%E7%9A%84%E7%89%99%E7%A7%91%E7%94%9F%E6%84%8F%E5%87%89%E4%BA%86%EF%BC%9F"/>
-        <updated>2026-11-16T09:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[踏上丝绸之路的马友友]]></title>
-        <id>a763e0559a38f1b511ffb1100f89933e</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E8%B8%8F%E4%B8%8A%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF%E7%9A%84%E9%A9%AC%E5%8F%8B%E5%8F%8B"/>
-        <updated>2026-11-16T09:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rosetta 2 即将退役，Mac 老应用何去何从？]]></title>
         <id>https://sspai.com/post/118100</id>
         <link href="https://sspai.com/post/118100"/>
@@ -1047,15 +1327,6 @@ Pool photo by Ted Aljibe
         <summary type="html"><![CDATA[Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...查看全文]]></summary>
         <author>
             <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[敢于谈性的年轻人，为什么却在远离性？]]></title>
-        <id>3e5e6516759190d876d45b56cc64ec34</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%95%A2%E4%BA%8E%E8%B0%88%E6%80%A7%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%B4%E5%9C%A8%E8%BF%9C%E7%A6%BB%E6%80%A7%EF%BC%9F"/>
-        <updated>2026-11-16T04:01:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -1285,126 +1556,6 @@ Mike Kai Chen for The New York Times
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beware the New AI-Fueled Ransomware Boom]]></title>
-        <id>6af7247ac18c09c3056cf94f</id>
-        <link href="https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"/>
-        <updated>2026-11-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.]]></summary>
-        <author>
-            <name>Matt Burgess, Lily Hay Newman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)]]></title>
-        <id>6075a1303b14ce9d953f9788</id>
-        <link href="https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/"/>
-        <updated>2026-11-14T12:05:00.000Z</updated>
-        <summary type="html"><![CDATA[These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.]]></summary>
-        <author>
-            <name>Nena Farrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run SteamOS on Your Mac]]></title>
-        <id>6af3b5d5d9a2d626a60843fb</id>
-        <link href="https://www.wired.com/story/get-steamos-easily-running-on-your-mac/"/>
-        <updated>2026-11-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A free app lets you boot SteamOS in a virtual machine on your Apple Silicon Mac, unlocking PC and legacy games that otherwise won’t run.]]></summary>
-        <author>
-            <name>Justin Pot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared]]></title>
-        <id>6af4f17c3111357845393d99</id>
-        <link href="https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/"/>
-        <updated>2026-11-14T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.]]></summary>
-        <author>
-            <name>David Nield</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off]]></title>
-        <id>691e4b9bf2b91809d95c122a</id>
-        <link href="https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/"/>
-        <updated>2026-11-14T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.]]></summary>
-        <author>
-            <name>Harry Rabinowitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 21 Best REI Holiday Sale Outdoor Deals (2026)]]></title>
-        <id>6af48768b9a1088954de93e3</id>
-        <link href="https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/"/>
-        <updated>2026-11-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stock up on outdoor gear and gifts for friends at REI’s annual holiday sale.]]></summary>
-        <author>
-            <name>Scott Gilbertson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Pilots. Few Air Traffic Controllers. What Could Go Wrong?]]></title>
-        <id>6aed23d9bbed27ba0f21394f</id>
-        <link href="https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"/>
-        <updated>2026-11-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Normally, aviation is slow to embrace new technology—but AI has come for the skies.]]></summary>
-        <author>
-            <name>Jeff Wise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)]]></title>
-        <id>6af4dfb911d8a61e3722dabc</id>
-        <link href="https://www.wired.com/story/best-pickleball-paddles/"/>
-        <updated>2026-11-14T10:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Paddles are getting more sophisticated and expensive. We’ve tested 100+ over the years to find our favorites.]]></summary>
-        <author>
-            <name>Martin Cizmar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage]]></title>
-        <id>6af4abdf9181a13e281c83e7</id>
-        <link href="https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/"/>
-        <updated>2026-11-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As Israeli restrictions limit repairs in Gaza, fuel is being diverted from wells to drainage pumps.]]></summary>
-        <author>
-            <name>Isra Namey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket]]></title>
-        <id>6af6f130a1ecab03ddbca233</id>
-        <link href="https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/"/>
-        <updated>2026-11-14T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The signature moto jacket has officially worn out its welcome. Here’s how fashion’s pros would rebrand him.]]></summary>
-        <author>
-            <name>Jeremy White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These ‘Ghostly’ Galaxies Have Lost Their Dark Matter]]></title>
-        <id>6af205c40bb5b05adabf4ddb</id>
-        <link href="https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/"/>
-        <updated>2026-11-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.]]></summary>
-        <author>
-            <name>Robin George Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target]]></title>
-        <id>6af74c1b3ebab5000961c7da</id>
-        <link href="https://www.wired.com/story/thanksgiving-meal-deals-2026/"/>
-        <updated>2026-11-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here’s how to get your bird and all the trimmings on a budget.]]></summary>
-        <author>
-            <name>Louryn Strampe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA]]></title>
         <id>https://sspai.com/post/118276</id>
         <link href="https://sspai.com/post/118276"/>
@@ -1412,86 +1563,6 @@ Mike Kai Chen for The New York Times
         <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
         <author>
             <name>随便好啦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outlook Went Down? Microsoft May Owe You Money]]></title>
-        <id>6af770c24e708cb7030f0534</id>
-        <link href="https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/"/>
-        <updated>2026-11-14T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If your Microsoft business services were offline last week, you’re probably entitled to a partial credit on your next monthly bill.]]></summary>
-        <author>
-            <name>Christopher Null</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paramount+ Coupon Codes and Deals for 2026]]></title>
-        <id>68a74f4bac61cbbb255166f7</id>
-        <link href="https://www.wired.com/story/paramount-plus-coupon-code/"/>
-        <updated>2026-11-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30% Off Canon Promo Codes | November 2026]]></title>
-        <id>67252234563a280b6ad5ef8d</id>
-        <link href="https://www.wired.com/story/canon-promo-code/"/>
-        <updated>2026-11-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wayfair Coupons: Up to 80% Off November 2026]]></title>
-        <id>67463b86d8f07d6a30d2b661</id>
-        <link href="https://www.wired.com/story/wayfair-promo-code/"/>
-        <updated>2026-11-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Klook Promo Code: 20% Off November 2026]]></title>
-        <id>6abff7f8aaf34f8d315f6b84</id>
-        <link href="https://www.wired.com/story/klook-promo-code/"/>
-        <updated>2026-11-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG Promo Codes and Coupons 20% Off for November 2026]]></title>
-        <id>67d879bf81a4d165ab8f1213</id>
-        <link href="https://www.wired.com/story/lg-promo-code/"/>
-        <updated>2026-11-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.]]></summary>
-        <author>
-            <name>Harry Rabinowitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 10 部作品]]></title>
-        <id>https://sspai.com/post/118999</id>
-        <link href="https://sspai.com/post/118999"/>
-        <updated>2026-11-13T09:39:22.000Z</updated>
-        <summary type="html"><![CDATA[📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验]]></title>
-        <id>https://sspai.com/post/118153</id>
-        <link href="https://sspai.com/post/118153"/>
-        <updated>2026-11-13T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文]]></summary>
-        <author>
-            <name>胡拉图说</name>
         </author>
     </entry>
     <entry>
@@ -1540,33 +1611,9 @@ Nvidia, via Reuters
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[黄仁勋下台会成为人工智能泡沫破裂的开端吗]]></title>
-        <id>https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/</id>
-        <link href="https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/?utm_source=RSS"/>
-        <updated>2026-11-13T02:03:00.000Z</updated>
-        <summary type="html"><![CDATA[英伟达不仅是占据主导地位的芯片制造商，它还为整个行业的发展提供融资支持；黄仁勋则是英伟达的中心。他的离职给本已处于敏感时期的人工智能产业带来了新的不确定性。
-
-                    
-Callaghan O'Hare for The New York Times
-                    
-在其他行业陷入困境之际，数据中心建设热潮成为美国经济增长的重要推动力，而英伟达一直在为这股建设热潮提供融资支持。]]></summary>
-        <author>
-            <name>BEN CASSELMAN</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[糙米真的比白米健康吗？| 经济学人科技（双语译文）]]></title>
         <id>f1adf8d05346f874919f9dbc76454ad4</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%B3%99%E7%B1%B3%E7%9C%9F%E7%9A%84%E6%AF%94%E7%99%BD%E7%B1%B3%E5%81%A5%E5%BA%B7%E5%90%97%EF%BC%9F%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%A7%91%E6%8A%80%EF%BC%88%E5%8F%8C%E8%AF%AD%E8%AF%91%E6%96%87%EF%BC%89"/>
-        <updated>2026-11-13T01:38:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给自己一年时间，慢慢读懂《经济学人》]]></title>
-        <id>6a28fb443e319ddf282631b00f27d383</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%80%E5%B9%B4%E6%97%B6%E9%97%B4%EF%BC%8C%E6%85%A2%E6%85%A2%E8%AF%BB%E6%87%82%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B"/>
         <updated>2026-11-13T01:38:00.000Z</updated>
         <author>
             <name>一天一篇经济学人(双语)</name>
@@ -1598,15 +1645,6 @@ Anthony Wallace/Agence France-Presse — Getty Images
 英伟达董事会周四宣布，联合创始人兼首席执行官黄仁勋已辞职。]]></summary>
         <author>
             <name>ZANE IRWIN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密集型育儿不再是富人的专利 | 经济学人财经(双语译文）]]></title>
-        <id>edeb9e716cda28ed3499c6f1a0fb57fa</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%AF%86%E9%9B%86%E5%9E%8B%E8%82%B2%E5%84%BF%E4%B8%8D%E5%86%8D%E6%98%AF%E5%AF%8C%E4%BA%BA%E7%9A%84%E4%B8%93%E5%88%A9%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E8%B4%A2%E7%BB%8F%28%E5%8F%8C%E8%AF%AD%E8%AF%91%E6%96%87%EF%BC%89"/>
-        <updated>2026-11-12T01:50:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
 </feed>
