@@ -1,10 +1,485 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-22T04:59:14.956Z</id>
+    <id>urn:2026-11-22T19:00:19.139Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-22T04:59:14.956Z</updated>
+    <updated>2026-11-22T19:00:19.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why data centers are at the center of the Big Tech backlash]]></title>
+        <id>https://techcrunch.com/?p=3191157</id>
+        <link href="https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"/>
+        <updated>2026-11-22T18:08:43.000Z</updated>
+        <summary type="html"><![CDATA[Journalist Paris Marx unpacks his new book "Hyperscale."]]></summary>
+        <author>
+            <name>Anthony Ha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TechCrunch Mobility: A/B testing robots vs. humans]]></title>
+        <id>https://techcrunch.com/?p=3191042</id>
+        <link href="https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/"/>
+        <updated>2026-11-22T17:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.]]></summary>
+        <author>
+            <name>Kirsten Korosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴西南部强风暴增至五死 逾250人受伤]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10040535</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10040535"/>
+        <updated>2026-11-22T15:52:35.000Z</updated>
+        <summary type="html"><![CDATA[巴西南部城镇遭强风暴重创，截至星期天（11月22日）死亡人数已上升至五人，另有超过250人受伤。
+法新社报道，巴西最南端的南里奥格兰德州的图潘西雷唐（Tupancireta）在星期五（20日）清晨遭风暴袭击。
+狂风掀翻建筑屋顶，损毁约8000所民宅、多所学校和当地医院，并吹倒数千根电线杆。法新社航拍画面显示，失去屋顶的房屋和棚屋绵延数公里，倒下的树木和碎片散落街头。
+图潘西雷唐市长赫尔特（Gustavo Herter）星期五形容，风暴在黎明前短短40分钟内横扫全镇，导致居民断水断电，“整个城镇都没了”。 
+根据巴西国家气象研究所的数据，当时的风速达到每小时114公里。
+民防部门将这场风暴归类为“超级单体风暴”（supercell），这是一种以强烈上升气流为特征的强雷暴，可能会引发龙卷风。当局不排除当时曾形成龙卷风的可能性。
+自11月16日以来，恶劣天气持续袭击南里奥格兰德州，为约30个市镇带来强风、冰雹和暴雨。图潘西雷唐受灾最为严重，也是唯一通报人员伤亡的市镇。
+巴西南部经常遭龙卷风袭击。公益气象网络Prevots数据显示，巴西在2025年共记录了创纪录的92次龙卷风及类似天气事件。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美交通部长：全美航班将在星期一结束前恢复正常]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10040483</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10040483"/>
+        <updated>2026-11-22T15:31:32.000Z</updated>
+        <summary type="html"><![CDATA[距离美国联邦航空管理局发布全国停飞令已过去一星期，美国航空交通预计星期一（11月23日）结束前能够全面恢复正常。
+美国交通部长达菲星期天（22日）接受美国全国广播公司（NBC）《会见新闻界》（Meet the Press）节目访问时，给出上述时间线。
+达菲说：“航空公司需要一些时间重新调配所有机组人员和飞机。我们今天就会开始看到情况好转，但我认为明天就能恢复正常。” 
+这场航空大混乱始于上星期五（11月13日）下午，航管局因空中交通管制中心的雷达和通信系统出现不稳定情况，下令全国几乎所有待起飞航班暂停起飞。 
+这项罕见的全国停飞令持续四个多小时，成为2001年九一一恐怖袭击以来持续时间最长的一次。
+在停飞令解除后，数以万计的旅客仍滞留机场，航空公司须重新调配飞机和机组人员，才能逐步恢复正常运作。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can a TV be too large? An investigation]]></title>
+        <id>https://techcrunch.com/?p=3190069</id>
+        <link href="https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/"/>
+        <updated>2026-11-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.]]></summary>
+        <author>
+            <name>Lucas Ropek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国前首相特雷莎·梅促伯纳姆：接受脱欧事实向前看]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10040219</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10040219"/>
+        <updated>2026-11-22T13:50:43.000Z</updated>
+        <summary type="html"><![CDATA[英国前首相特雷莎·梅说，对于现任首相伯纳姆可能考虑重新加入欧盟感到“惊愕”，并敦促他在脱欧问题上“向前看”。 
+英国以微弱多数公投决定脱离欧盟已过去10年。
+下个月，英国政府将公布一项国家10年规划，而伯纳姆在此时重新激活与欧盟建立更紧密关系的讨论。他也在星期五（11月20日）与欧盟高级官员在布鲁塞尔峰会上达成协议，放宽贸易限制和促进青年流动。
+这让特雷莎·梅在英国广播公司（BBC）星期天（11月22日）播出的访谈中，做出上述表态 ，并警告与欧盟进行谈判可能会耗费政府大量时间，从而阻碍政府解决其他问题。
+她说：“这就是为什么我对伯纳姆谈论进一步谈判以重返欧盟感到有些惊愕的原因之一。” 
+当年支持留在欧盟的特雷莎·梅说，政府必须尊重2016年脱欧公投的结果。她告诉BBC：“我就任首相时对此非常明确。人民投票支持脱欧，我们就应该落实脱欧。” 
+她批评道：“他（伯纳姆）想拍拍他们（选民）的脑袋说：‘知道吗？还记得那次投票吗？你们投错了，不是吗？所以再来一次，给出一个正确的答案吧。’” 
+特雷莎·梅补充道：“我想对他说的其实是：人民投票支持脱欧。脱欧已成定局。接受脱欧的事实并向前看吧。” 
+特雷莎·梅因无法让国会通过她的脱欧协议，于2019年5月被迫辞职。
+今年7月上任的伯纳姆承诺，在本届国会任期内将坚守前任首相斯塔默对欧洲问题划下的“红线”，即不重返单一市场、关税同盟或恢复人员自由流动。
+但支持脱欧的人士担心，他最终会推动英国重新加入这个由27国组成的集团。
+英国欧洲事务部长法尔科纳（Hamish Falconer）说，世界自2016年以来已发生变化，英国需要“长远思考我们与欧洲的关系”。 
+他接受天空新闻台（Sky News）访问时说，这就是为什么伯纳姆将在下个月公布的10年规划中，进一步阐述英欧的长期关系。
+但他坚称，在每个阶段，英国人民“都将是最终的决策者”。 
+他说：“正如首相明确指出的，我们谈论的是长远规划。在那之前我们会举行大选，人民将能够表达他们的看法。”]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本爱子公主结束访新 感言祝愿新日友谊深厚]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10039980</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10039980"/>
+        <updated>2026-11-22T13:37:40.000Z</updated>
+        <summary type="html"><![CDATA[配合新日建交60周年，应邀到新加坡进行正式访问的日本爱子公主星期六（11月21日）结束为期五天的行程返回日本。她在抵步后发表访新感言，对尚达曼总统及新加坡各界人士的热情款待致以谢意，并衷心祝愿两国的友谊与互信纽带愈发深厚。 
+爱子公主是通过日本皇宫发表这份书面感言。她形容这是一次充满新体验且收获丰硕的访问。
+她衷心感谢尚达曼总统、代总理颜金勇、国务资政李显龙及新加坡政府官员的盛情款待，同时也对新加坡民众在她所到之处给予的热烈欢迎表示感谢。
+日本皇室与新加坡有着跨越三代的情谊。爱子公主在感言中提到，此行让她见证新日之间深厚绵长的友谊，希望自己能传承皇室一直珍视和培育的友好亲善精神。
+在裕廊湖花园的星和园，她看到祖父母、上皇明仁与上皇后美智子，在1970年亲手种植的苏铁，她这次则亲手种下一棵福木。此外，新加坡植物园以她的名字“爱子”为胡姬花命名，也让她倍感温馨。 
+爱子公主说，此行让她深入了解新加坡的历史、多元文化与自然风光，领略新加坡独有的魅力。在参观土生华人博物馆和探访老巴刹美食中心时，新加坡多元的社会面貌以及不同族群和谐共处的景象，都给她留下深刻印象。 
+爱子公主即将在12月1日迎来25岁生日。据日本媒体报道，她于11月18日出席总统府晚宴时，现场端上一个插着蜡烛的抹茶蛋糕为她提前庆生。
+爱子公主访新期间穿的和服，也在日本国内引发热议。
+有日本周刊报道，她在拜会尚达曼总统时所穿的和服绘有寓意吉祥的“梅、兰、竹、菊”四君子图案。新加坡的国花是胡姬花，也就是兰花，她特意选择带有兰花图案的和服，蕴含对东道国的敬意。
+据《朝日新闻》报道，爱子公主访新前曾向专家请教新加坡的历史和文化。
+在新加坡发表演讲时，她表达“不忘历史”的态度，并沿用上皇明仁在2006年访新时针对二战发表的谈话，即“我们（日本）绝不忘记，在贵国曾有许多宝贵生命流逝，许多人饱受苦难”。
+在参观新加坡国家博物馆时，她也认真聆听二战历史解说。
+此次出访的首席随员、前驻新加坡大使竹内春久指出，爱子公主此行为新日两国关系未来10年、20年乃至半个世纪的发展，奠定极为重要的基础。]]></summary>
+        <author>
+            <name>符祝慧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗袭击巴林致两人受伤 沙特批犯罪行径]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10040152</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10040152"/>
+        <updated>2026-11-22T13:22:02.000Z</updated>
+        <summary type="html"><![CDATA[伊朗袭击巴林一处民用工业设施，造成两人受伤，沙特阿拉伯随后发表声明，严厉谴责伊朗发动的“犯罪袭击”。
+巴林内政部星期天（11月22日）在社交媒体发文告说，巴林星期六（21日）遭伊朗袭击，造成一名患有残疾的巴林公民受伤，另有一名巴基斯坦籍居民受伤，目前情况危急。
+两名当地居民告诉法新社，他们看到首都麦纳麦以东的锡特拉岛（Sitra Island）上空冒起浓烟。这座岛上设有多座工业设施，包括由巴林国家石油公司（Bapco）运营的一家炼油厂。
+在经过自9月初以来的短暂平静后，伊朗从11月13日起恢复对巴林的打击。伊朗伊斯兰革命卫队一再声称，他们的打击目标是美国驻巴林的设施。
+据伊朗官方媒体星期六晚间报道，伊朗革命卫队称，他们动用导弹和无人机袭击部署在巴林里法（Al-Riffa）和阿瓦利（Awali）基地的美军“爱国者”防空系统，以反击针对伊朗的“持续侵犯领空行为”。
+针对巴林遇袭，沙特星期天猛烈抨击德黑兰持续对波斯湾国家进行“野蛮侵略”。
+沙特外交部在社交媒体平台X发表声明说：“对伊朗针对兄弟之邦巴林王国一处民用工业设施发动的犯罪袭击，表达沙特阿拉伯王国最强烈和严厉的谴责。”]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄乌战火波及波罗的海 遇袭俄货船漂入芬兰领海]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10039526</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10039526"/>
+        <updated>2026-11-22T12:57:21.000Z</updated>
+        <summary type="html"><![CDATA[（赫尔辛基／华沙综合电）波罗的海周边接连传出安全警报。一艘与俄罗斯军方有关联的货船在芬兰湾遭无人机袭击起火，随后漂入北约成员国芬兰的领海，火势直至星期天仍未扑灭。
+芬兰军方初步研判，乌克兰极可能发动了这起袭击；事发数小时后，一架俄直升机更被指侵犯芬兰领空。就在此前一天，波兰领空也拉响警报，指控三件俄罗斯飞行物越境。
+这艘遇袭货船为俄罗斯籍的斯巴达二号（Sparta II）。它星期五（11月20日）从圣彼得堡启航，原定前往俄罗斯飞地加里宁格勒，却在星期六（21日）上午于芬兰湾东部的国际水域遭遇袭击。 
+俄罗斯列宁格勒州当局通报，两架无人机袭击了货船，当地防空系统同夜更击落80架无人机。乌克兰官方目前尚未针对袭击事件置评。 
+斯巴达二号隶属为俄国防部提供后勤服务的航运公司Oboronlogistika，且已列入美国财政部的制裁名单。芬兰边防部门指出，目前无法确认船上载有何种货物，但军方绝不排除载有军用物资的可能性。
+货船受损后漂至芬兰洛维萨外海，并在芬兰领海内抛锚。船上16名船员已全数乘坐救生艇撤离，并转移至附近另一艘俄罗斯船只。目前，芬兰边防部门正主导救援行动，爱沙尼亚和俄罗斯船只也参与灭火并冷却甲板上的集装箱。 
+由于火势延烧至星期天（22日）上午仍未扑灭，救援人员须防止灌入过多海水导致货船失稳沉没。芬兰官方已在船只周边划设限制区，全力防范可能出现的海洋污染。
+
+俄直升机疑越境 瑞典战机协防
+
+这起事件也触发了空域安全警报。芬兰暂时限制芬兰湾东部的航空及海上交通，并向北约通报。芬兰国防部证实，一架俄罗斯直升机涉嫌在洛维萨附近闯入芬兰领空，越境深度达4.1公里。
+芬兰国防部长哈卡宁指出，该直升机可能参与受损货船的救援或执行监视任务。瑞典国防部长延松也证实，瑞典战机已在芬兰指挥下升空，共同维护芬兰与北约的领土完整。 
+针对战火逼近边界，芬兰总理奥尔波发出严厉警告：“战争正蔓延至我们周边。”但他同时强调，乌克兰有权反击侵略者。 
+
+波兰领空告警 北约将商对策
+
+就在俄方货船遇袭前一天，同为北约成员国的波兰也拉响领空警报。
+波兰星期五通报，三件来自俄罗斯的飞行物侵入领空。军方初步判断，坠落物为两枚导弹和一架无人机，确切细节仍待调查。波兰政府强烈指责俄罗斯蓄意挑衅，并敦促北约强化东部边境的侦测与监视网络。
+北约秘书长吕特星期六在华沙强硬表态：“我可以保证，北约将捍卫波兰的每一寸领土。”他重申，北约将彻底查明事件经过，并评估是否需要调整当前的防御部署。 
+北约最高决策机构北大西洋理事会定于星期一（23日）召开会议，专门商讨波兰领空遇侵事件。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟等拒绝接受协议草案 COP31谈判破裂]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10040024</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10040024"/>
+        <updated>2026-11-22T12:45:33.000Z</updated>
+        <summary type="html"><![CDATA[由于欧盟、巴拿马等缔约方拒绝接受最终协议草案，共同担任联合国气候变化大会（COP31）主席国的土耳其和澳大利亚未能在如何推进抗击气候变化的问题上促成共识，这场联合国气候谈判彻底破裂、陷入混乱。
+路透社报道，在安塔利亚举行的COP31历时两个多星期，原定于星期五（11月20日）落幕，但一直挑灯夜战延宕至星期天（22日）。
+最终，COP31主席、土耳其环境部长库鲁姆（Murat Kurum）在星期天的闭幕全体会议上宣布，协议草案未获通过。
+库鲁姆说：“很显然，这个会堂里有缔约方反对这份案文。我们认识到各方对这份文件没有达成共识。因此，这些决定不获采纳。” 
+各方围绕案文是否应提及“化石燃料”的紧张分歧始终无法化解，欧盟与巴拿马等国明确表示无法接受大会提出的“封面决定”（cover decision）。 
+这次谈判破裂正值艰难的一年。尽管今年全球各地经历欧洲极端高温、尼泊尔冰川洪水等全球变暖带来的最具破坏性冲击，但气候议题却被多场战争的需求，以及民众对生活费飙升的强烈不满所掩盖。 
+联合国气候谈判上一次出现重大破裂，要追溯到2009年的哥本哈根气候大会。当时各国未能以共识方式通过《哥本哈根协定》，使多边气候外交遭受重挫。
+在安塔利亚大会上，主导谈判的澳洲与东道国土耳其此前已发布多份案文草案，试图在最易受气候变化冲击的国家，以及经济依赖化石燃料生产或消费的国家之间寻找折中方案。
+这份未获通过的最终草案首次承认，全球变暖正走向突破各国一直力求守住的1.5摄氏度控温门槛，同时呼吁加快研发碳移除技术，以期能达到最终逆转气温超标（overshoot）的局面。但批评者纷纷指责这份案文缺乏雄心。
+联合国气候变化框架公约缔约方大会（COP）进程，是世界各国协调遏制全球变暖努力的主要机制。一年一度的大会被视为重要契机，旨在向外界发出信号，表明各国愿意携手寻找解决方案，并协助出资应对气温上升引发的种种难题。
+分析指出，尽管未能在安塔利亚达成政治宣言，对加强国际气候行动的努力造成重大打击，但这并不会抹杀历届峰会已达成的减排义务，也不会消除规范多边抗击气候变化行动的技术与法律框架。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Best Travel Adapters (2026): 20+ Models Tested]]></title>
+        <id>60eeedeba86e5ac15953a11e</id>
+        <link href="https://www.wired.com/gallery/best-travel-adapters/"/>
+        <updated>2026-11-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.]]></summary>
+        <author>
+            <name>Simon Hill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国收紧晶片管制 英伟达供应商暂停对东南亚出货]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10038953</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10038953"/>
+        <updated>2026-11-22T11:58:02.000Z</updated>
+        <summary type="html"><![CDATA[（台北／华盛顿综合电）美国收紧先进晶片出口管制后，英伟达至少两家服务器合作伙伴暂停向东南亚客户发货，其中一家暂不接受当地新客户订单；此举恐导致东南亚正在快速扩张的人工智能数据中心陷入设备延迟交付的困境。
+据《日经亚洲》报道，一家未具名的服务器制造商从星期五（11月20日）起全面暂停出货；另一家则按法务部门的建议暂缓交付，以进一步确认产品是否符合规定。不过，暂停发货不意味着英伟达所有产品都无法进入东南亚市场。
+美国商务部上周出台新规，要求出口商向新加坡、马来西亚、泰国和印度尼西亚等地出口受管制的先进晶片，须得先申请许可证。 
+美方此举，旨在防止受管制的实体利用第三国数据中心，远程获取美国先进晶片的算力。上述四个国家近年积极扩建数据中心，许可审批若拖延，很可能会影响设备交付和项目进度。
+一名供应商高管透露：“我们必须先要求客户提供更多资料，才能向美国政府申请出口许可证。我最担心的是，最后可能有太多昂贵的GPU板卡积压在我们手上，成为库存，给我们带来沉重的财务负担。” 
+供应商：近一两年项目如常 2028年下半年起变数大
+
+除了出口管制，供应链也在评估黄仁勋请辞英伟达首席执行官所带来的连锁反应。多名供应商表明，近期项目仍照常推进，明后两年的需求与订单也基本维持不变。然而，从2028年下半年起，下一代产品的规格与产能规划将出现更多变数。
+《华尔街日报》引述特斯拉首席执行官马斯克指出，部分供应链交易全凭黄仁勋的个人关系敲定，缺乏书面合约。马斯克直言：“如今没了詹森（黄仁勋洋名），那些核心订单中起码有几单会泡汤。” 
+《华尔街日报》分析认为，这些说法其实也反映了一些企业领袖呼吁黄仁勋回巢，实则不过是希望与黄仁勋建立的个人合作关系得以保全。面对外界焦虑，英伟达临时首席执行官克雷斯派发定心丸，强调公司与客户、供应商的合作不受影响。 
+
+英伟达会计受查 地区营收引关注
+
+英伟达正面对美国证券交易委员会的调查。知情人士透露，这项调查尚处初期阶段。执法人员正审视英伟达可能涉及的会计问题，但具体细节不明。
+此外，英伟达与新加坡客户超速国际（Megaspeed）的业务往来，也让公司的地区营收披露受到关注。美国当局怀疑超速国际把受限制的AI晶片转往中国；超速国际否认违法。 
+英伟达去年调整各地区营收的统计方式。过去，只要客户的账单地址在新加坡，销售额便计入新加坡；如今改按客户总部所在地计算。
+换言之，即便账单寄至新加坡，只要客户总部设于海外，这笔销售额便归入客户总部所在国。
+按原有算法，新加坡占英伟达2025财年总营收的18％；改用新统计方式后，新加坡不再列入营收地区名单。这并不意味英伟达在新加坡的业务消失，且账单地址也不等同于晶片的实际交货地。 
+目前尚无法确定，美国证券交易委员会的调查是否涉及上述营收统计方式的调整，或与超速国际事件有关。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games]]></title>
+        <id>6afd799cee5c9e07415dd46e</id>
+        <link href="https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/"/>
+        <updated>2026-11-22T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.]]></summary>
+        <author>
+            <name>Simon Hill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More]]></title>
+        <id>69f3c59f59018beb3d0d73a2</id>
+        <link href="https://www.wired.com/story/best-gifts-for-moms-2026/"/>
+        <updated>2026-11-22T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.]]></summary>
+        <author>
+            <name>Nena Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banks Have Had It Up to Here With Your AI Agent]]></title>
+        <id>6b0079848a18277ad68d6fd0</id>
+        <link href="https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"/>
+        <updated>2026-11-22T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.]]></summary>
+        <author>
+            <name>Reece Rogers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄无人机击中基辅州公寓14人受困 多地能源与港口设施受创]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10039693</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10039693"/>
+        <updated>2026-11-22T10:59:42.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯仍在继续对乌克兰发动空袭，基辅地区一栋住宅大楼遭俄军无人机击中坍塌，导致至少14人受困瓦砾堆下。此外，俄军也袭击乌克兰多处能源和港口基础设施，导致敖德萨地区电力供应吃紧。
+路透社报道，乌克兰总统泽连斯基星期天（11月22日）在社交媒体X平台上发文说，基辅州德梅尔村（Dymer）一栋五层楼高的公寓大楼在当天上午遭俄罗斯无人机击中后部分坍塌，估计至少有14人仍被困在废墟下。
+泽连斯基说：“感谢我们的应急救援人员迅速采取行动，目前已疏散九人，火势也已受控。” 
+当地官员透露，有两人在这起袭击中受伤，其中包括一名青少年。
+乌克兰紧急服务部门发布的视频画面显示，搜救人员正在大片瓦砾堆中展开搜寻，并利用梯子和起重机平台协助受困居民从受损建筑中撤离。
+俄罗斯国防部星期天也发声明称，俄军在夜间对乌克兰境内的多个目标发动打击，包括扎波罗热（Zaporizhzhia）的普拉沃别列日纳（Pravoberezhna）发电厂、敖德萨州（Odesa）多瑙河畔基利亚港（Kiliya）的设施，以及一艘在敖德萨东北方航行的干货船。
+乌克兰国家电网运营商乌克兰能源公司（Ukrenergo）也在Telegram上说，袭击对输电网络的关键基础设施造成严重破坏，导致敖德萨及周边地区的电力供应陷入紧张。
+在俄军空袭乌克兰的同时，乌克兰也对俄罗斯境内发动无人机反击。俄罗斯媒体星期天引述地方当局的话报道，俄南部克拉斯诺达尔边疆区（Krasnodar）在夜间遭到乌克兰无人机袭击，造成五人受伤。
+俄官方塔斯社（TASS）引述克拉斯诺达尔当局指出，其中四名伤者来自阿菲普斯基村（Afipsky）村；这里设有一座炼油厂，近几个月来屡次成为乌克兰的袭击目标。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Tried to Kill This Dirt, but It Wouldn’t Die]]></title>
+        <id>6afe08a12f95a8ab50db6aca</id>
+        <link href="https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/"/>
+        <updated>2026-11-22T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.]]></summary>
+        <author>
+            <name>Siddhant Pusdekar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[预防高考AI作弊引混乱 韩国教育部长崔敎振辞职]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10039522</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10039522"/>
+        <updated>2026-11-22T10:15:44.000Z</updated>
+        <summary type="html"><![CDATA[为应对可能使用人工智能技术作弊的风险，韩国政府在今年高考前几天内多次紧急调整防作弊对策，引发混乱，教育部长崔敎振引咎辞职，得到总统李在明的迅速批准。
+韩联社报道，崔敎振星期天（11月22日）通过教育部发言人发表声明说，本次高考筹备过程给考生及国民带来不便，他对此深感责任重大，因此决定辞职。
+崔敎振公开表明辞意仅一个小时后，李在明便受理了他的辞呈。
+报道分析认为，在今年的高考筹备过程中，政府制定作弊防范对策的工作出现混乱，李在明迅速批准崔敎振辞职实质上可被视为对他作出“撤职”处理，以追究相应责任。
+总统府青瓦台首席发言人姜由桢说，新任教育部长人选遴选将依照相关程序进行。此外，李在明还指示国务总理韩圣淑以负责任的态度全力做好高考后续工作。
+随着利用人工智能技术作弊的风险浮出水面，政府在本次高考临近仅几天内多次紧急调整防作弊对策，引发混乱。此外，崔敎振也发表被解读为“没有信心查出作弊行为”的言论，招致更大非议。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中期选举惨败重塑共和党布局 万斯接班面临严峻挑战]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10039353</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10039353"/>
+        <updated>2026-11-22T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[（华盛顿综合电）美国共和党在中期选举中惨败，不仅失去国会参众两院的控制权，也打乱党内2028年总统候选人提名战的格局，原本领跑的副总统万斯面临严峻挑战。 
+万斯一直被视为总统特朗普的可能接班人。彭博社指出，他在中期选举后陷入被动，既要维持对特朗普与“让美国再次伟大”（MAGA）基本盘的忠诚，同时也得设法与支持率低迷的特朗普保持一定距离，但至今效果并不理想。
+共和党策略师如今认为，2028年总统选举党内参选阵容，可能远超特朗普政府执政初期的预期。其中一名策略师达林说：“万斯在中期选举前是明显的领跑者，但我现在认为，竞选局面已变得充满变数。” 
+万斯此前把共和党败选归咎于伊朗战争，引起特朗普不满，但知情者透露，两人关系依然稳固。 
+随着万斯因中期选举而受挫，加上特朗普未必会钦点他为接班人，外界纷纷把目光转向他的潜在对手，特别是国务卿鲁比奥。
+鲁比奥近日陪同特朗普出访亚洲，还代表政府就美国近期发生的一系列技术服务中断事件作出回应。
+共和党政治策略师韦弗说：“他的履历非常出色，身为古巴移民之子的个人经历也极具感染力，且是特朗普内阁中毋庸置疑的超级巨星。” 
+
+多名共和党籍州长有意竞选总统
+
+另一些共和党人则把目光投向政府外部。
+美国有线电视新闻网（CNN）报道，目前已有至少四名现任或前任共和党籍州长释出有意竞逐白宫的信号，包括佛罗里达州州长德桑蒂斯、佐治亚州州长坎普、阿肯色州州长桑德斯，以及弗吉尼亚州前州长杨金。 
+此外，犹他州州长考克斯和俄克拉荷马州州长斯蒂特也表明，他们希望由一名州长代表共和党在2028年竞选总统。 
+德桑蒂斯和桑德斯近日都强调，他们领导的红州在此次中期选举中抵御了民主党掀起的蓝色浪潮。
+德桑蒂斯担任州长近八年期间推行多项符合MAGA理念的政策，成为他可以在竞选中大力宣扬的政绩。
+共和党策略师杜海姆说：“德桑蒂斯是能够声称自己真的像特朗普，却没有特朗普那些包袱的人选。” 
+知情者透露，德桑蒂斯尚未就是否参选作出最终决定。
+桑德斯也未排除竞选总统的可能。作为特朗普首个任期的白宫新闻秘书，桑德斯备受MAGA忠实支持者与共和党建制派信任。她也通过削减州所得税、收紧对暴力犯罪者的量刑法律等一系列举措，进一步巩固党内地位。
+威斯康星州前州长沃克指出，当前人们普遍对华盛顿两党都感到不满，这使得远离首都且交出实际政绩的州长具备独特优势。不过，州长无法仅凭在地方上的表现竞选，而是必须提出能说服选民的施政计划。 
+桑德斯日前受访时也承认，要击败万斯仍是一件难事，尤其是如果他继续得到特朗普的支持。
+除了州长，曾在2016年党内初选与特朗普激烈竞争的得克萨斯州参议员克鲁兹也坦言，自己想当总统。 
+其他被认为有可能参选总统的共和党人还包括密苏里州参议员霍利、阿肯色州参议员科顿、宾夕法尼亚州参议员麦考密克等，但一般认为他们胜算渺茫。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How This Year’s Super El Niño Will Worsen Global Hunger]]></title>
+        <id>6aff67b5010b3517c8092c6d</id>
+        <link href="https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/"/>
+        <updated>2026-11-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.]]></summary>
+        <author>
+            <name>Nicola Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼日利亚南部发生沉船事故至少24人死亡]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10039403</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10039403"/>
+        <updated>2026-11-22T09:42:19.000Z</updated>
+        <summary type="html"><![CDATA[尼日利亚南部发生沉船事故，随着搜救人员寻获更多遗体，罹难人数已上升至24人，包括多名儿童。
+法新社报道，这起事故发生在星期五（11月20日），一艘载着奔丧民众的船只在尼日利亚南部的巴耶尔萨州（Bayelsa）航行时沉没。
+警方透露，事发当天最初从水中打捞出四具遗体中，包括两名儿童。
+尼日利亚国家紧急事务管理局发言人伊齐基尔（Manzo Ezekiel）星期六（21日）公布最新伤亡情况时说：“截至目前，我们在事发现场共打捞出24具遗体，搜救工作仍在进行中。”
+他也说，救援人员正继续搜寻其他可能遇难者的遗体。
+尼日利亚总统提努布发表声明，对这起悲剧表达哀悼。他说：“在这场悲剧中失去生命的人，不该是如此离世。”
+在尼日利亚繁忙的河流与水道上，致命沉船事故屡见不鲜，原因往往是船只超载、维修保养不当，或是未能遵守安全条规。
+今年8月，西北部索科托州（Sokoto）发生沉船事故，造成至少51人死亡；今年1月，一艘载着农民和渔民的船只从吉加瓦州（Jigawa）驶往约贝州（Yobe）途中倾覆，导致至少26人溺毙。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰驻美大使悬空逾三月 泽连斯基点名多名高官]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10039275</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10039275"/>
+        <updated>2026-11-22T09:23:29.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰驻美国大使职位悬空逾三个月后，乌克兰总统泽连斯基点名几位可能出任下一任乌克兰驻美国大使的潜在人选。
+彭博社报道，泽连斯基星期六（11月21日）与记者交流时，点名现任外交部长瑟比加（Andrii Sybiha），以及两名过往资历同样符合条件的前外长库列巴（Dmytro Kuleba）和克利姆金（Pavlo Klimkin）为竞争人选。
+他也提到前总理斯维里坚科（Yuliia Svyrydenko）；她在今年夏天一次备受瞩目的内阁改组中，刚被泽连斯基免去总理职务。
+泽连斯基提出的其他人选，还包括总统办公室副主任基斯利齐亚（Sergiy Kyslytsya），以及曾在2021年至2025年担任驻美大使的马尔卡罗娃（Oksana Markarova）。
+马尔卡罗娃卸任后，斯特凡尼希娜（Olha Stefanishyna）接替担任大使，但她已在三个多月前辞职，导致这个重要职位自今年8月以来一直悬空。
+此外，泽连斯基也暗示，可能会派一名“英语水平高、经验丰富的军人”出使华盛顿，但他并未点名任何具体的军方人士。
+报道指出，在美国总统特朗普的第二个任期内，乌克兰驻美大使一职变得更加复杂难为，尤其是在泽连斯基与特朗普于2025年2月在白宫椭圆形办公室举行一场不欢而散的会晤之后。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华尔街日报：为促成特金会 美国曾考虑正式宣布朝鲜战争结束]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10039161</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10039161"/>
+        <updated>2026-11-22T08:52:06.000Z</updated>
+        <summary type="html"><![CDATA[美国《华尔街日报》报道，美国总统特朗普在近期的亚洲行期间，曾探讨与朝鲜最高领导人金正恩再次会面，并一度讨论过宣布朝鲜战争结束以及不要求朝鲜废除核计划的条件。但由于平壤开出华盛顿认为无法接受的条件，“特金会”最终未能成事。
+《华尔街日报》星期六（11月21日）引述消息人事报道此事，但朝鲜所开出的具体条件，目前仍不得而知。 
+报道指出，共和党在本月较早时的中期选举中失利，削弱特朗普的政治地位。为此，特朗普渴望取得一项能奠定他政治遗产的外交成就，但安排“特金会”的努力最终付之东流。 
+特朗普在首个总统任期内曾与金正恩举行过三次首脑会晤，旨在通过外交途径遏制平壤的核武器研发计划，但相关谈判最终未能达成任何实质性协议。两人上一次面对面会谈是在2019年。
+报道指出，特朗普在准备启程前往亚洲时，曾强烈敦促幕僚安排他与金正恩会晤；在星期一（16日）前往菲律宾前，特朗普也曾向记者透露，他可能会在中国参加亚太经济合作组织（APEC）峰会期间与金正恩会面。
+报道称，为了促成会晤，美国官员甚至考虑过正式宣布结束1950年至1953年的朝鲜战争。这场战争在70多年前凭一纸停战协定停止了战斗，至今未签署和平条约。
+匿名美国官员也透露，美方曾讨论发表一份声明，既不承认朝鲜为拥核国，但也不要求朝鲜废除核计划。而作为交换，华盛顿想要求平壤限制核试验与导弹试射。
+报道补充道，美国当时可能还探讨设立联络处，作为美朝建立外交关系的第一步。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美移民局登机桥上抓人 华盛顿州长发声谴责]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10038802</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10038802"/>
+        <updated>2026-11-22T07:29:18.000Z</updated>
+        <summary type="html"><![CDATA[美国移民执法人员在西雅图地区一座机场的登机桥上逮捕两名旅客，引发华盛顿州州长和当地工会强烈谴责。
+这起事件发生在当地时间星期六（11月21日）上午8时左右（新加坡时间星期天零时），地点是西雅图—塔科马国际机场。当时，乘客正准备登上一架飞往洛杉矶的阿拉斯加航空公司客机。
+美国移民与海关执法局（ICE）说，执法人员当时展开行动，逮捕逾期居留的男子门多萨（Ricardo Larrondo Mendoza），以及另一名向执法人员泼洒热咖啡的女子梅希亚（Sofia Hernandez Mejia）。当局称，梅希亚同样逾期居留，接下来也将被控袭击联邦执法人员罪。
+民主党籍的华盛顿州州长弗格森（Bob Ferguson）星期六在记者会上猛烈抨击此事说：“移民与海关执法局已经彻底失控，今天我们又一次亲眼目睹了铁证。” 
+弗格森形容，在社交媒体和新闻媒体上流传的现场视频“令人震惊”，也让人“毛骨悚然”。他说自己已告知阿拉斯加航空的代表，“他们必须呼吁移民与海关执法局撤出我们的机场”。 
+他也表明，会向所有在这个机场运营的其他航空公司提出同样要求。
+阿拉斯加航空公司则对联邦机构的这一行动表示关切。公司在声明中说：“阿拉斯加航空事先并未接获有关此次执法行动的通知，我们正致力于了解事发经过。” 
+事发后不久，许多受影响乘客被安排改搭其他航班，而原定航班最终延误至当地时间上午11时（新加坡时间星期天凌晨3时）才起飞。
+美国劳工联合会—产业工会联合会（AFL-CIO，简称劳联—产联）旗下的华盛顿州劳工委员会主席西姆斯（April Sims）也发声明，批评当局的逮捕行动犹如“快闪抢劫”（smash-and-grab），在航空旅行的敏感时期制造了恐惧与混乱。
+西姆斯指出：“就在全国经历大范围航空旅行中断和航班停飞的几天后，联邦特工竟选择在一年中出行最繁忙的一周，在我们最繁忙的机场之一展开这种行动。”]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2027年朝鲜平壤马拉松赛将推迟至10月举行]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10038585</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10038585"/>
+        <updated>2026-11-22T06:43:38.000Z</updated>
+        <summary type="html"><![CDATA[一家旅行社说，朝鲜拟将明年的平壤国际马拉松赛从原定的4月推迟至10月举行。
+路透社报道，平壤国际马拉松赛独家合作伙伴、高丽旅行社在其网站上说：“我们已接到平壤国际马拉松组委会合作伙伴的通知，2027年马拉松赛的日期将作出调整。”
+这家总部位于北京、曾组织旅游团前往朝鲜的旅行社说：“比赛不会在2027年4月举行。2027年平壤国际马拉松赛几乎可以确定将在2027年10月举行。”
+朝鲜今年取消了平壤国际马拉松赛，但没有说明原因。
+去年，外国运动员时隔六年首次参加平壤马拉松赛。此前，赛事因新冠疫情暂停。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COP31协议草案强调实现全球经济电气化]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10038531</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10038531"/>
+        <updated>2026-11-22T06:31:55.000Z</updated>
+        <summary type="html"><![CDATA[第31届联合国气候变化大会（COP31）主席国星期日（11月22日）在最后关头提出一项协议草案，强调了各方高度关注的“实现全球经济电气化”这一目标。
+法新社报道，草案文本提出，应通过全球共同努力，将电力在终端能源消费总量中的占比提高至2035年的35%，并扩大“清洁能源”的使用。
+面对化石燃料问题引发的批评，主席国土耳其和澳大利亚将“电气化”作为减少温室气体排放、增强能源安全的一种途径。
+电气化是指以电力替代直接燃烧化石燃料的技术，例如用电动车取代柴油车，或以电力供暖取代天然气供暖。
+但一些国家要求明确设定“清洁能源”目标，以确保电气化进程依靠可再生能源供电，而不是继续使用化石燃料。
+目前，全球约三分之一的电力来自燃煤发电，另有五分之一来自天然气发电。
+与此同时，沙特阿拉伯、印度和肯尼亚试图推迟联合国政府间气候变化专门委员会（IPCC）下一轮报告的发布，这也是谈判中的另一个主要分歧点。
+协议草案指出，这些报告对于2028年即将举行的全球减排行动盘点具有重要意义。
+欧洲、非洲和太平洋地区数十个国家希望，IPCC能及时发布相关评估报告，以便为这项重要盘点提供依据。
+在COP31会议上，各国还就如何应对全球升温即将突破《巴黎协定》设定的1.5摄氏度的目标存在分歧。
+最新草案说，对全球气温可能在未来几年超过工业化前水平1.5摄氏度表示“深切关切”。
+此外，草案删除了为气候适应提供1200亿美元（约1560亿新元）资金的目标，引发发展中国家的不满。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最新COP31协议草案未提及化石燃料]]></title>
+        <id>https://www.zaobao.com.sg/news/world/story20261122-10038494</id>
+        <link href="https://www.zaobao.com.sg/news/world/story20261122-10038494"/>
+        <updated>2026-11-22T06:18:19.000Z</updated>
+        <summary type="html"><![CDATA[第31届联合国气候变化大会（COP31）主席国星期日（11月22日）在最后关头提出一项协议草案，但文本未提及化石燃料。
+法新社报道，这项提案需要在闭幕会议上获得近200个国家的一致批准。但是，经过两周艰苦谈判，各方仍难以弥合分歧。
+欧盟及其他国家一直推动在协议中加入强有力的措辞，明确提出逐步摆脱化石燃料，但这一主张遭到石油资源丰富的沙特阿拉伯反对。
+一名欧盟官员告诉法新社，最新提案是“倒退”，并警告称，COP31“极有可能”无法达成协议。“我今天比昨天更加悲观。”
+一名德国官员说：“目前局势十分困难，最终结果尚不确定。产油国正在进行激烈的抵制。”
+本周早些时候公布的一份协议草案曾呼吁加快淘汰化石燃料，但星期四（19日）发布的第二版精简草案删除了所有有关煤炭、石油和天然气的表述。
+最新文本提及了2023年全球协议，它提出推动世界摆脱对化石燃料的依赖，但最新文本仍未明确点名化石燃料。
+此外，最新方案保留了扩大碳捕集与封存技术的应用。这项技术受到化石燃料行业支持，但批评者认为，它成本高昂，且在减少温室气体排放方面效果有限。
+安提瓜和巴布达环境部长约瑟夫告诉法新社：“我们对这份文本的内容感到非常失望。”
+“我不能诚实地说，我能接受以目前的形式通过这份文本。”他补充说，草案对化石燃料问题“几乎只字未提”。]]></summary>
+        <author>
+            <name>联合早报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈佛商业评论：为什么职场中越靠谱的人，越容易被工作吞没？]]></title>
+        <id>4843ebe54005a3163bbd161c984333b9</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%93%88%E4%BD%9B%E5%95%86%E4%B8%9A%E8%AF%84%E8%AE%BA%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%81%8C%E5%9C%BA%E4%B8%AD%E8%B6%8A%E9%9D%A0%E8%B0%B1%E7%9A%84%E4%BA%BA%EF%BC%8C%E8%B6%8A%E5%AE%B9%E6%98%93%E8%A2%AB%E5%B7%A5%E4%BD%9C%E5%90%9E%E6%B2%A1%EF%BC%9F"/>
+        <updated>2026-11-22T04:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[注射网红“减肥针”后，出现严重副作用的年轻人]]></title>
+        <id>c265601f5f8a9ed74a0e806f37cac9ea</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%B3%A8%E5%B0%84%E7%BD%91%E7%BA%A2%E2%80%9C%E5%87%8F%E8%82%A5%E9%92%88%E2%80%9D%E5%90%8E%EF%BC%8C%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E5%89%AF%E4%BD%9C%E7%94%A8%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA"/>
+        <updated>2026-11-22T04:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福鼎的斗茶局里，为什么好的寿眉比银针更备受钦佩？]]></title>
+        <id>eb09a8fabaf34178521369919576efa3</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E7%A6%8F%E9%BC%8E%E7%9A%84%E6%96%97%E8%8C%B6%E5%B1%80%E9%87%8C%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9A%84%E5%AF%BF%E7%9C%89%E6%AF%94%E9%93%B6%E9%92%88%E6%9B%B4%E5%A4%87%E5%8F%97%E9%92%A6%E4%BD%A9%EF%BC%9F"/>
+        <updated>2026-11-22T04:00:00.000Z</updated>
+        <author>
+            <name>三联生活周刊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[传获美资助 利比里亚再接收25名被驱逐移民]]></title>
         <id>https://www.zaobao.com.sg/news/world/story20261122-10038093</id>
@@ -92,6 +567,24 @@ AUKUS成立于2021年，是美英澳三国为应对中国在印太地区日益�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一个人越不可替代，公司越容易大起大落？｜考研 / MTI精读]]></title>
+        <id>934212532768184b856cb19c7dbe6908</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%B6%8A%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3%EF%BC%8C%E5%85%AC%E5%8F%B8%E8%B6%8A%E5%AE%B9%E6%98%93%E5%A4%A7%E8%B5%B7%E5%A4%A7%E8%90%BD%EF%BC%9F%EF%BD%9C%E8%80%83%E7%A0%94%20/%20MTI%E7%B2%BE%E8%AF%BB"/>
+        <updated>2026-11-22T01:23:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给自己一年时间，慢慢读懂《经济学人》]]></title>
+        <id>6a28fb443e319ddf282631b00f27d383</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%80%E5%B9%B4%E6%97%B6%E9%97%B4%EF%BC%8C%E6%85%A2%E6%85%A2%E8%AF%BB%E6%87%82%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B"/>
+        <updated>2026-11-22T01:23:00.000Z</updated>
+        <author>
+            <name>一天一篇经济学人(双语)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[英国泳将游霍尔木兹海峡 凸显环境破坏吁停战清污]]></title>
         <id>https://www.zaobao.com.sg/news/world/story20261122-10037657</id>
         <link href="https://www.zaobao.com.sg/news/world/story20261122-10037657"/>
@@ -125,53 +618,6 @@ AUKUS成立于2021年，是美英澳三国为应对中国在印太地区日益�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[艾森科特邀请内坦亚胡政党 进行政府组阁谈判]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261122-10037592</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261122-10037592"/>
-        <updated>2026-11-22T01:04:29.000Z</updated>
-        <summary type="html"><![CDATA[负责组建下一届以色列政府的艾森科特星期六（11月21日）邀请看守总理内坦亚胡领导的右翼利库德集团参加联合政府谈判。
-法新社报道，艾森科特领导的中间派政党“正直党”（Yashar）说，这体现了“组建尽可能广泛的联合政府的真诚承诺”。
-正直党在一份声明中说：“为了探索组建新政府的一切可能性，正直党主席加迪·艾森科特已指示谈判团队邀请利库德集团的谈判团队进行一系列密集谈判，谈判将从明天（星期日）举行的会议开始。”
-声明还说，正直党将“竭尽全力，寻求大胆的举措，争取实现组建政府所需的突破”。
-艾森科特阵营的重要人物、前总理贝内特星期六呼吁组建一个“由艾森科特领导的犹太复国主义团结政府”，并表示自己的政党拒绝与内坦亚胡或其阵营联合。
-贝内特在一份声明中说：“我将确保内坦亚胡不会成为以色列国下一任总理，我的政党在任何情况下都不会加入他或他所领导的阵营。”
-内坦亚胡一直在积极推动组建民族团结政府。他表示，这是保障以色列安全所必需的。]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴林称工业设施遭伊朗袭击]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261122-10037548</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261122-10037548"/>
-        <updated>2026-11-21T23:57:19.000Z</updated>
-        <summary type="html"><![CDATA[巴林星期六（11月21日）说，伊朗袭击了一处民用工业设施，导致现场发生火灾并造成设施受损，但没有人员伤亡。
-法新社报道，巴林内政部在社媒平台X上说：“由于伊朗发动了恶劣的侵略行动，一处民用工业设施遭到袭击，现场发生火灾。民防部门正在努力控制火势。”声明没有具体说明遇袭地点。
-当地居民说，他们看到巴林东海岸的锡特拉岛上空升起浓烟。岛上有多个工业设施，其中包括由巴林国有石油公司Bapco运营的一座炼油厂。
-伊朗法尔斯通讯社报道称，伊朗伊斯兰革命卫队说，他们对位于巴林岛上的谢赫·伊萨美军基地和朱费尔美军基地发动了导弹和无人机联合攻击，“以报复美军的侵略和屡次侵犯伊朗领空的行为”。]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[质疑俄和谈诚意 泽连斯基：特朗普称停战可节省资金助力欧洲发展]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261122-10037516</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261122-10037516"/>
-        <updated>2026-11-21T23:32:48.000Z</updated>
-        <summary type="html"><![CDATA[乌克兰总统泽连斯基星期六（11月21日）透露，美国总统特朗普本周告诉欧洲领导人，他们在俄乌战争上投入了巨额资金；如果俄乌达成和平协议，这些资金本可用于欧洲自身的发展。
-路透社报道，11月19日，特朗普以连线方式参加了在柏林举行的“志愿联盟”盟友会议。
-泽连斯基出席了柏林会议。他在基辅与英国国防大臣斯特里廷举行会谈前说：“他说，欧洲花了很多钱，战争结束后，这些钱本可以花在自己身上……这听起来不像是一种威胁。”
-此前，特朗普在深圳的亚太经合组织（APEC）峰会上，与俄罗斯总统普京和中国国家主席习近平举行了三方会晤。特朗普星期五（20日）返回华盛顿后说，普京在会谈中明确表达了希望通过外交途径结束俄乌战争的意愿。
-但泽连斯基说，他并不确定普京的真实意图。
-“与美国人相比，我对普京是否准备好作出妥协持更加怀疑的态度。顺便说一句，我已经把这一点告诉了美国团队。”
-泽连斯基对美国特使近期有关让欧洲全面参与和平进程的表态表示欢迎。他说，美国特使目前需要就下一轮谈判的议程和时间安排达成一致。
-泽连斯基说：“当然，美国会努力推动会议尽快举行。而我确信，俄罗斯会采取一切措施，稍微推迟这场会议。”
-11月19日，普京指责基辅方面和欧洲国家缺乏妥协意愿，称他们无法为解决俄乌战争作出让步。]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance]]></title>
         <id>https://techcrunch.com/?p=3191147</id>
         <link href="https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"/>
@@ -189,18 +635,6 @@ AUKUS成立于2021年，是美英澳三国为应对中国在印太地区日益�
         <summary type="html"><![CDATA[We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.]]></summary>
         <author>
             <name>Anthony Ha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国际特稿：被透支的一代：一场法国年轻人的抗议]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261122-10020667</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261122-10020667"/>
-        <updated>2026-11-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[上学时坐在年久失修的教室里，向可能身兼数职的老师学习略显过时的知识；好不容易考入高等院校，毕业后却发现，十几年学习换来的薪水依旧租不起房、成不起家，更遑论实现阶层跃升。
-在许多抗议者看来，政府为应对财政赤字必须缩减开支，却不敢动作为大票仓的养老金，也不愿向富人多征税，只能向年轻人的教育和未来开刀，使他们沦为被压缩、甚至透支的一代。
-法国《世界报》委托民调机构益普索（Ipsos）开展的最新一期“法国裂痕”调查显示，18至24岁年轻人中，有22%认为自己最受社会不平等加剧影响；近三分之一认为学校未能给所有人提供同等机会，持这一看法者约一半拥有高等教育文凭。]]></summary>
-        <author>
-            <name>杨烨</name>
         </author>
     </entry>
     <entry>
@@ -234,20 +668,6 @@ AUKUS成立于2021年，是美英澳三国为应对中国在印太地区日益�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美军中央司令部否认伊朗导弹击伤F-16战机]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10037161</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10037161"/>
-        <updated>2026-11-21T15:50:28.000Z</updated>
-        <summary type="html"><![CDATA[伊朗称在波斯湾上空发射导弹，击伤一架美军F-16战机，迫使战机紧急降落，但美国中央司令部很快驳斥了这个说法。
-伊朗官方媒体早前报道称，伊朗防空系统在星期五（11月20日）晚间锁定并攻击了这架美军战机，迫使它中止任务并在附近一座机场降落。
-对此，美国中央司令部星期六（21日）发表声明说：“伊朗昨天根本没有袭击美军F-16战斗机。”
-声明补充道，目前部署在中东地区的所有美军战斗机皆安全无虞，且无失联情况。
-在这场战争期间，伊朗曾多次发布类似消息，声称击落或击伤美军军机，但美军均予以否认。]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Alaska, your next governor is a Wikipedia nerd]]></title>
         <id>https://techcrunch.com/?p=3191074</id>
         <link href="https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/"/>
@@ -255,160 +675,6 @@ AUKUS成立于2021年，是美英澳三国为应对中国在印太地区日益�
         <summary type="html"><![CDATA[Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.]]></summary>
         <author>
             <name>Amanda Silberling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传美备忘录限制两军合作 加防长：加美军事关系未变]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10037115</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10037115"/>
-        <updated>2026-11-21T15:16:54.000Z</updated>
-        <summary type="html"><![CDATA[针对有报道称美国发出一份机密备忘录限制加美两军合作，加拿大国防部长麦坚迪声称，他并未见过这份文件，并强调两国武装部队依然保持紧密合作。 
-路透社报道，麦坚迪星期六（11月21日）在加拿大新斯科舍省首府哈利法克斯（Halifax）出席一场安全会议期间受访时作出上述表态。
-此前，《华盛顿邮报》引述消息称，美国战争部长海格塞斯（Pete Hegseth）发出了一份备忘录，对加拿大与美国军方的合作施加了新的限制。
-对此，麦坚迪回应说：“无论是在两军之间还是其他方面，我依然认为我们的合作亲密无间。” 
-他指出，加美两军在多项事务上继续保持“密切无间的配合”，包括在加勒比海部署舰艇以拦截可卡因、芬太尼等非法毒品走私、操作综合导弹系统，以及在北美上空紧急起飞战斗机等任务。 
-尽管美国总统特朗普一再发出吞并加拿大的威胁，但麦坚迪表明，两国军方的持续合作方式并未出现任何变化。
-他说：“坦白说，我们与美国在北美防空司令部（NORAD）框架下长达70年的合作关系，构建了一个极其有效的大陆防御体系，我们希望继续进行投资并展开合作。” 
-不过，麦坚迪也指出，加拿大必须在自身防务与安全上承担更多责任，包括保卫广袤的北极地区；加拿大目前也正致力打造能与“星链”（Starlink）抗衡的本土卫星网络，以捍卫国家的通信主权。
-他坦言，加拿大近期在防务上的一些调整，确实是受到特朗普发出的威胁所促使；正如加拿大总理卡尼所形容，当前全球秩序出现破裂，这要求加拿大必须大幅提升国家安全投资。 
-在卡尼的领导下，加拿大的国防开支在去年首次达到了占国内生产总值2%的北约目标，政府还计划在2035年之前将这一比率提高至5%。
-麦坚迪坦言：“几十年来我们一直处于舒适区，但现在情况已经改变了。”]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墨西哥军方逮捕大毒枭 美FBI十大通缉犯之一]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10037021</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10037021"/>
-        <updated>2026-11-21T14:35:23.000Z</updated>
-        <summary type="html"><![CDATA[墨西哥军方宣布，特种部队在一次突袭行动中，成功逮捕了名列美国联邦调查局“十大通缉要犯”名单的一名贩毒集团首脑。
-法新社报道，墨西哥国防部星期六（11月21日）在社交媒体X平台上宣布，绰号“矮子伊西德罗”（Chapo Isidro）的毒枭梅萨（Fausto Isidro Meza），以及他手下贩毒集团的另外两名头目，星期五（20日）晚间在墨西哥锡那罗亚州（Sinaloa）落网。
-据当地媒体报道，军方与贩毒集团成员在瓜萨韦镇（Guasave）爆发枪战，引起周边地区民众恐慌，当时正在附近举行的一场职业棒球赛也受到波及。
-墨西哥军方指出，“矮子伊西德罗”涉嫌领导贝尔特兰·莱瓦（Beltran Leyva）贩毒集团；这个团伙也与势力庞大的锡那罗亚贩毒集团内部两个敌对派系之一结盟。
-与他一同被捕的还有组织的二号人物，以及另一名被确认为负责财务运作的男子。军方称，三人已被墨西哥空军专机押送至首都墨西哥城，移交相关检察机关发落。
-“矮子伊西德罗”在墨西哥和美国两地皆面临刑事指控。美国联邦调查局（FBI）此前将他列入十大通缉逃犯名单，并悬赏500万美元（约645万新元）获取能将他绳之以法的线索。
-联邦调查局的通缉令将他的全名列为梅萨-弗洛雷斯（Fausto Isidro Meza-Flores），并指他的犯罪集团负责将“大量的海洛因、冰毒、可卡因、芬太尼和大麻走私到美国”。]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：中美俄峰会有助维护美国安全]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10036833</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10036833"/>
-        <updated>2026-11-21T14:24:41.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国总统特朗普结束亚洲之行后为他与中俄元首会晤辩护，称他同中国国家主席习近平与俄罗斯总统普京的关系良好，有助维护美国的安全。但他说，北京正在急速发展核武器，很快可以赶上美国。 
-特朗普星期五（11月20日）在白宫记者会上，形容他和中俄领导人日前在深圳的三方会谈是空前的，是多年来最具重大意义的峰会之一。他说，会后发表的三方和平宣言是峰会的成果。
-他描述三方会晤期间气氛热络，称他同习近平和普京的关系非常融洽。“我和普京关系非常好，这是很好的事情。我与习主席的关系也非常好，这也是件好事，因为这样，我们的国家才安全”。 
-三国在宣言中重申核战争打不赢也打不得，并承诺就降低核风险与防止核扩散展开对话。专家认为，中美俄的领导人同意应避免核战是积极的信号。
-不过，特朗普在白宫记者会上，提及中国在加速发展核武器，而且库存已经很大。“他们可以在10年内赶上我们。他们正全力以赴地推进，而且他们已经有很多了。” 
-据五角大楼此前对中国军力建设的年度评估，截至2024年，中国核弹头库存有600多枚，但按目前的进度发展，到了2030年将超过1000枚。
-列席白宫记者会的美国国务卿鲁比奥说，中美俄这三个核大国开展对话至关重要。“这三个国家拥有地球上绝大多数的核武器，认为这三位领导人不应定期接触的想法不仅荒谬，而且危险”。 
-特朗普的上述谈话招致民主党批评。众议院民主党党鞭克拉克在社媒X平台发文说：“没谈如何结束他挑起的伊朗战争。没谈如何帮助乌克兰。没谈如何确保人工智能（AI）安全。相反，他只一味沉迷于与独裁者打交道。” 
-美国有线电视新闻网（CNN）分析，中美俄三巨头峰会，对特朗普而言是一场精心安排的国际秀，但对习近平和普京来说，这印证他们的想法，即当今世界正经历着一场根本的权力再平衡。
-另一方面，美国财政部长贝森特星期五接受美国消费者新闻与商业频道（CNBC）采访时透露，尽管中美正在争夺人工智能领域的主导地位，但特朗普和习近平一致同意，在涉及使用人工智能的军事决策中都必须有人的参与。
-贝森特说，中美领导人的这个共识是特朗普亚洲之行取得的重要成果之一。“我认为非常重要的是，特朗普总统与习近平主席同意，在超级智能（Super Intelligence，简称SI）所涉及的任何军事决策中，人类都必须参与其中，不能让超级智能自主决定重大军事行动”。 
-特朗普政府所说的超级智能，指的就是人工智能。]]></summary>
-        <author>
-            <name>蔡添成</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[涉操控跨国内幕交易牟利数千万美元 狮城男美国受审]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10036918</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10036918"/>
-        <updated>2026-11-21T14:10:28.000Z</updated>
-        <summary type="html"><![CDATA[（波士顿路透电）一名35岁新加坡籍男子因涉嫌操控一个全球内幕交易网络，利用多家上市企业的财务与并购机密，非法牟利数千万美元，日前已由新加坡引渡至美国，星期五（11月20日）在波士顿联邦法院首次出庭面控。
-路透社引述美国司法部消息报道，被告葛志（Ge Zhi，音译）2024年在新加坡落网，近期经新加坡法院裁定批准引渡后押解赴美，面对证券欺诈及洗钱罪名指控。
-葛志的代表律师巴伦（Kevin Barron）通过电子邮件回应说：“他（葛志）将提出无罪抗辩，并准备进行强有力的辩护。” 
-美国检察官指出，本案共有九人被控参与这项历时多年的跨国交易网络，其中多数被告目前仍在逃。检察官指葛志与法国前投资银行家库阿贾（Samy Khouadja）及其法国餐馆合伙人萨菲（Eamma Safi）共同操控该网络。库阿贾仍在逃，萨菲则自2025年起被美国当局拘押，并已表明不认罪。
-根据起诉书，三人在2016年至2024年间专门物色并收买投资银行家及企业内部人士，以获取多家上市公司的未公开内幕消息，并向线人支付报酬。葛志曾积极扩大线人网络，在2019年发信息鼓励一名身在纽约的演员朋友，为他引荐“专门在大型银行从事并购业务的投资银行家”。
-检察官指出，团伙凭借非法获取的机密，在多起重大企业并购消息正式公布前抢先交易获利，涉及案例包括英国药企阿斯利康（AstraZeneca）2020年计划以390亿美元（约503亿8000万新元）收购美国制药公司Alexion Pharmaceuticals，以及瑞士药企诺华（Novartis）2024年以29亿美元收购MorphoSys的交易。
-此外，葛志等人在作案期间使用一次性手机（burner phone）及加密通信应用掩盖行踪，沟通时更使用暗号，把金钱称为“绿钞”（greens），将企业的潜在并购对象代称为“女孩”（girls）和“模特”（models）。检察官也指控被告将窃取的机密泄露给新闻记者，待消息见报引发股价波动后趁机套利。]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美企赴海外建AI数据中心 特朗普恫言以重税惩处]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10036768</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10036768"/>
-        <updated>2026-11-21T13:50:13.000Z</updated>
-        <summary type="html"><![CDATA[（华盛顿综合电）美国总统特朗普恫言，将对在海外建人工智能（AI）数据中心的美国企业征收重税。这也凸显特朗普与民间在这个问题上的分歧，即特朗普认为扩大国内的数据中心建设对美国赢得科技竞赛至关重要，但民间对这些设施能带来的好处高度质疑。 
-特朗普星期五（11月20日）在白宫记者会上警告，如果日益高涨的政治反弹导致数据中心建设放缓，美国可能失去领先优势。
-他说：“我们不会允许企业在其他国家建设数据中心……如果他们非要这么做，那也可以，但我们将对他们征收巨额税款。” 
-目前，美国多家大型数据中心运营商包括Equinix和Digital Realty，都在海外建设和运营数据中心设施。运营商通常会把设施建在靠近客户的地点，以压缩数据传输时间，避免对时间有严格要求的业务如付款作业造成延误。这也可免去长距离传输海量数据导致成本过高。
-特朗普要防止数据中心外移，但美联社的调查显示，约四分之三的美国选民反对在自家社区建数据中心；多数美国人非常担忧数据中心可能推高当地电费，或影响社区供水。
-针对这些顾虑，特朗普呼吁社区通过谈判，向有意建数据中心的科技公司争取好处。“你们应该充分利用数据中心。让这些公司向你们付费，向你们的社区付费……但别把它们拒于门外。” 
-对人工智能算力的需求激增，推高大型数据中心的建设成本。项目管理公司Turner & Townsend的报告显示，今年的数据中心建设成本上涨13%，涨幅是全球水平的两倍多，也是过去十年平均水平的约三倍。
-这份报告考察全球62个市场、超过500个在建或近期完工的数据中心项目，也汇集400位全球数据中心行业专家的看法。
-Turner & Townsend北美区数据中心业务负责人巴里解释，由于项目工期大幅压缩，承包商与分包商会抬高报价，计入赶工费、加班与招工补贴，以及就承担远超常规的工程交付风险的额外收费。 
-电力是数据中心的核心要素。据报告，56%受访业者认为，供电问题是项目落地的主要阻碍。劳动力短缺也是一大阻力，仅略超四分之一受访者表示，属下承包商产能足以消化积压的在建工程。 
-展望明年，巴里预期数据中心建造成本的涨幅会放缓，预计回落到6%至10%。]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普公开呼吁让黄仁勋重掌英伟达]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10036862</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10036862"/>
-        <updated>2026-11-21T13:33:59.000Z</updated>
-        <summary type="html"><![CDATA[（纽约/华盛顿综合电）美国总统特朗普呼吁英伟达董事会给予前首席执行官黄仁勋第二次机会，让他重返掌舵。 
-特朗普周五（11月20日）在白宫对记者说，黄仁勋是个好人，是世界上最杰出的人才之一，只是做了一些错误决定。他希望看到黄仁勋郑重道歉后重返英伟达。
-他说：“我非常希望黄仁勋能获得第二次机会。毕竟，我们这个国家向来崇尚给予人们第二次机会。”  
-特朗普也说，他本周在亚太经合组织峰会与习近平会面时曾谈及英伟达事件，习近平也形容黄仁勋才华横溢。
-特朗普直言，如果英伟达“聪明”，就应该让黄仁勋回去担任首席执行官。
-黄仁勋此前因多段婚外情风波引咎辞职，其中一名对象据称涉及中国间谍活动。黄仁勋辞职后曾提出重返公司，但英伟达董事会已拒绝这一提议。
-特朗普也力挺近期备受利益冲突质疑的商务部长卢特尼克，赞扬他是一名非常优秀的商人且工作出色。 
-民主党众议员近日已启动调查，审查卢特尼克是否利用职权，协助他儿子掌控的投资公司避免因英伟达与有中国背景的新加坡公司超速国际（Megaspeed）的业务往来受查而蒙受损失。 
-卢特尼克也被指拖延将超速国际列入商务部贸易黑名单，也未要求该公司在出口美国先进人工智能晶片时申请许可。
-在对华晶片出口政策方面，特朗普星期五重申，美国只愿意向中国出售较旧型号的晶片。“我们希望只是出售较旧型号的晶片，即便不卖给他们也没关系，但必须是较旧型号的。你得明白，中国也能生产晶片，如果我们不卖给他们，他们也会自己制造。” 
-对于是否考虑放宽对华晶片出口禁令，他透露美国政府正与中国商讨一项全面协议，但没有提供更多细节。
-
-美财长称旧款晶片限制已到位 证交会对英伟达启动会计调查
-
-美国财长贝森特周五接受美国消费者新闻与商业频道（CNBC）访问时说，适当的晶片限制措施已经到位，政府也阻挡了中国对最新半导体的远程使用，因此已无须进一步收紧向中国出售英伟达较旧型号晶片的限制。 
-就在星期四（19日），美国众议院外交事务委员会披露，在截至今年5月的半年内，商务部批准英伟达和超威半导体（AMD）向中国企业出口超过85万枚晶片，这些中企部分与中国军方存在关联。
-其中，英伟达申请向中企出售性能较强但非最先进的H200晶片，AMD则申请出售性能与H200晶片相当的MI325X晶片。
-路透社引述知情人士报道，美国证券交易委员会正在调查英伟达可能存在的会计问题，令这家陷入高层动荡与出口审查的科技巨头雪上加霜。
-路透社暂时无法确定证交会何时展开调查，也无法确认监管机构正在审查哪些具体会计问题。不过报道强调，监管调查并不代表存在不当行为，许多调查最终并未采取任何执法行动。]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[涉妨碍反黑法官遇刺案调查 意大利前警察总长疑吞枪自尽]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10036853</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10036853"/>
-        <updated>2026-11-21T13:24:00.000Z</updated>
-        <summary type="html"><![CDATA[因涉嫌妨碍1992年意大利反黑手党法官博尔塞利诺遇刺案调查而受查的意大利前警察总长德真纳罗被发现身亡，当地媒体指他是自杀。
-法新社引述意大利《共和国报》（La Repubblica）报道，现年78岁的德真纳罗（Gianni De Gennaro）相信是在位于托斯卡纳的乡间寓所内吞枪自尽。他的亲属在星期五（11月20日）晚上与他失联后报警，当局随后于星期六（21日）黎明时分发现了他的遗体。
-意大利总理梅洛尼对德真纳罗的死讯表示“深感震惊”。她说：“在这个悲痛的时刻，我向他的兄弟、即金融警察总司令，以及他所有的亲人致以哀悼和慰问。” 
-西西里岛卡尔塔尼塞塔（Caltanissetta）的检察官于上周对德真纳罗立案调查，指他涉嫌在1992年7月19日巴勒莫（Palermo）爆炸案的调查中妨碍司法公正。当年的爆炸案造成反黑手党法官博尔塞利诺（Paolo Borsellino）和五名随行安保人员丧命。
-检方指称，当年针对这起袭击事件的调查工作存在隐瞒证据的情况。目前的调查重点主要集中在博尔塞利诺日记本的失踪之谜。这本日记记载了与他查案相关的笔记，据报在爆炸案发生后不久便不翼而飞。
-检察官近期曾下令搜查德真纳罗的住家，并申请将他软禁在家。不过，负责初步调查的法官驳回了软禁申请，检方的上诉原定于今年12月1日审理。
-博尔塞利诺遇刺前不到两个月，意大利也发生了另一起臭名昭著的黑手党袭击案。1992年5月23日，巴勒莫郊外卡帕奇（Capaci）附近一条道路下方埋藏的半公吨炸药被引爆，导致53岁的反黑手党法官法尔科内（Giovanni Falcone）、他的妻子以及三名安保人员遇害。
-博尔塞利诺随后于同年7月19日在巴勒莫死于类似的炸弹袭击，促使意大利政府对西西里黑手党“我们的事业”（Cosa Nostra）展开更严厉的围剿行动。1993年1月，警方逮捕了外号“野兽”、令人闻风丧胆的黑手党头目里伊纳（Toto Riina）。
-尽管多名参与上述袭击的罪犯后来被定罪，但博尔塞利诺命案仍有许多疑点未解，尤其是那本失踪的法官日记。]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克里米亚大桥恢复铁路列车运行]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10036798</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10036798"/>
-        <updated>2026-11-21T13:05:46.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯副总理尼基京说，遭到乌克兰连续轰炸的克里米亚大桥铁路桥，已恢复正常通车。
-新华社报道，尼基京星期六（11月21日）告诉媒体，克里米亚大桥铁路段的列车通行已全面恢复，目前列车运行正常。
-克里米亚大桥本周以来连续遭到乌军袭击，导致大桥结构受损，交通受到影响。乌克兰总统泽连斯基星期二（17日）在社交媒体发文证实，乌军使用多款无人机和导弹对克里米亚大桥的公路和铁路设施实施了打击。
-克里米亚大桥连接克里米亚半岛和俄罗斯克拉斯诺达尔地区，全长19公里，由公路桥和铁路桥组成，是普京于2018年主持启用的标志性工程。
-虽然俄军如今更依赖穿过乌克兰东南部占领区的陆路走廊运送补给，但大桥遇袭仍给普京带来重大象征性打击。
-俄罗斯总统普京星期四（19日）曾指出，在克里米亚大桥遭袭后，俄方不会就海上停火或停止攻击能源设施与有关方面进行谈判，并将对这些袭击作出更猛烈的反击。]]></summary>
-        <author>
-            <name>联合早报</name>
         </author>
     </entry>
     <entry>
@@ -440,32 +706,6 @@ Turner & Townsend北美区数据中心业务负责人巴里解释，由于项目
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韩国接连爆AI作弊丑闻 传统监考制度面临挑战]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10036526</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10036526"/>
-        <updated>2026-11-21T12:42:04.000Z</updated>
-        <summary type="html"><![CDATA[继韩国税务师考试状元承认利用人工智能（AI）作弊并接受警方调查后，另一名在韩国法学院入学选拔考试（LEET）中取得满分、却卷入作弊疑云的知名考生李镇宇，星期四（11月19日）被发现死在首尔一家汽车旅馆。连串作弊风波不仅重创韩国国家考试的公信力，也凸显传统监考制度难以应对AI作弊的新挑战。 
-今年税务师考试状元韩某（34岁）11月15日承认在考试中利用AI作弊，并坦言在会计师第一阶段考试中也曾作弊。
-警方调查发现，韩某涉嫌将普通计算器改装成无线键盘，把微型摄像头藏在修正带内、智能手机藏于护腰带中，在考场内拍下试题并传回家中电脑，由AI生成答案后回传考场，再通过微型显示器抄录作答。
-值得关注的是，今年税务师第一阶段考试取得90分以上者多达66人，是去年的33倍；会计师第一阶段会计学概论科目取得90分以上者，也从去年的一人激增至66人。尽管高分人数暴增不能直接证明普遍作弊，却已加深社会大众对考试公平性的疑虑。
-
-“逆袭学霸”考入首尔大学牙医系 陷作弊疑云后被发现身亡
-
-在税务师作弊案发酵之际，32岁考生李镇宇的成绩也受到网民质疑。他14年前首次参加韩国高考时，各科成绩仅介于第六至第八等级，但他前年在高考中以高分考入高丽大学政治外交学系，今年更以全科第一等级的佳绩考入首尔大学牙医学系。他去年还出版学习方法专书，成为畅销书作家。
-然而，有网民翻查李镇宇此前公开的法学院入学选拔考试答题纸，发现部分修改前的答案与前一道题目雷同，怀疑他作弊。
-李镇宇坚决否认，并预告星期四通过网络直播，现场解答当天的高考国语试题以证清白。不过，他当天并未如约现身，警方随后在首尔一家汽车旅馆发现其遗体。有关他作弊的指控截至目前尚未得到证实。
-
-AI仅20秒全部答对高考题 学者吁改革学生评估方式
-
-韩国教育界人士透露，微型摄像头、隐形耳机等AI作弊设备早在两三年前便已通过Telegram等平台暗中交易。随着相关设备日趋微型化与隐蔽化，监考人员越来越难以及时识破。
-与此同时，AI解题能力的飞跃也令防弊难度倍增。韩国媒体将本周举行的高考国语试题输入谷歌AI模型Gemini进行测试，结果仅用约20秒便全部答对。
-曾任首尔大学教授协议会会长的林正默认为，传统的标准答案式考试已面临挑战，当局应改革评估方式，着重考查学生运用AI解决问题的能力。美国斯坦福大学等高校也已尝试扩大口试比重，以检验学生对知识的真实理解。
-韩国媒体指出，素以教育竞争激烈著称、被称为“考试共和国”的韩国，正面临AI技术带来的严峻挑战。当AI能够迅速解答高难度考题，传统考试制度如何防弊、真正衡量考生能力并捍卫社会公平，已成为韩国教育界亟待解决的考题。]]></summary>
-        <author>
-            <name>姜贵瑛</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best Power Banks (2026): My Picks After Testing Over 100]]></title>
         <id>60084ece15db9ef1886a34f6</id>
         <link href="https://www.wired.com/gallery/best-portable-chargers-power-banks/"/>
@@ -483,34 +723,6 @@ AI仅20秒全部答对高考题 学者吁改革学生评估方式
         <summary type="html"><![CDATA[Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.]]></summary>
         <author>
             <name>Petr Kubala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《侠盗猎车手6》掀下载狂潮 美国网络流量创纪录]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10036540</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10036540"/>
-        <updated>2026-11-21T11:36:23.000Z</updated>
-        <summary type="html"><![CDATA[刚刚发售的现象级热门电子游戏《侠盗猎车手6》（Grand Theft Auto VI，简称GTA 6）掀起破纪录的抢购与下载热潮，并推动美国这星期的互联网流量飙升。
-彭博社报道，随着大批游戏玩家赶在星期三（11月18日）游戏正式上线前预先下载游戏，美国家庭宽带供应商康卡斯特（Comcast）和特许通讯（Charter Communications）纷纷通报迎来了有史以来最繁忙的网络流量高峰。
-由于下载这个庞大的游戏数据包可能耗时数小时，提早预载能确保急于探索游戏中虚拟“罪恶城”（Vice City）的玩家，能在游戏星期四（19日）正式上线的第一时间进入游戏。
-总部位于费城、为约2800万家庭宽带用户提供服务的康卡斯特说，开放预载的最后一天“公司网络历史上最繁忙的一天”。 
-公司发给彭博社的声明中说，当天流量比平时高出31%，也比此前的最高单日纪录多出9.6%。
-康卡斯特指出，总体而言，《GTA 6》“已经包办了我们网络有史以来最繁忙10天中的五天”。 
-在高峰时段，所有互联网流量中有近四分之一用于下载和玩这款游戏；允许观众收看游戏直播的平台Twitch，流量也在星期三激增近50%，并持续攀升。
-总部位于康涅狄格州、服务约3400万家庭网络用户的特许通讯也在声明中说，自11月10日开放预载以来，旗下Spectrum宽带品牌的流量激增了49%。
-特许通讯称，这款游戏的发布是“Spectrum网络有史以来规模最大的下载事件”，一度占了Spectrum总网络流量的12.6%以上。 
-康卡斯特和特许通讯都在游戏上线前提供了免费的网速升级，鼓励玩家提前下载。特许通讯更宣传，用户可在不到30分钟内下载完《GTA 6》。
-游戏开发商Take-Two互动软件公司公布，游戏的预售量达到创纪录的3250万份，截至星期四结束时，已在全球狂揽37亿9000万美元（约49亿新元）营收，成为历史上最成功的娱乐产品。
-
-希腊总理蹭游戏热度反挨批
-
-这款游戏的热潮也蔓延到了政坛。希腊总理米佐塔基斯星期五在TikTok发视频，借游戏宣传政府将发放的400欧元（约566新元）养老金花红。
-他在视频中问年轻网民：“你们当中有谁会向爷爷奶奶讨《GTA》作为圣诞礼物？我们都知道爷爷奶奶很少会拒绝孙辈。” 
-不过，由于这款游戏包含严重暴力、色情及吸毒等内容，被归为“17岁或以上”分级，米佐塔基斯此举立刻招致各方炮轰。
-主要反对党泛希社运党（Pasok）批评总理为了跟风，竟然向未成年人“推销”禁玩游戏；当地左翼与保守派报章也纷纷批评这是一次“失言”和“可悲的错误”。 
-讽刺的是，米佐塔基斯政府此前才刚对青少年使用社交媒体实施限制。]]></summary>
-        <author>
-            <name>联合早报</name>
         </author>
     </entry>
     <entry>
@@ -534,28 +746,6 @@ AI仅20秒全部答对高考题 学者吁改革学生评估方式
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[涉殴打黑人音乐制作人 法国三警员罪成入狱]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10036434</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10036434"/>
-        <updated>2026-11-21T11:03:17.000Z</updated>
-        <summary type="html"><![CDATA[在冠病疫情期间殴打一位黑人音乐制作人的三名法国警员被判入狱，法院也罕见地在警察暴力案件中，认定这起袭击具有种族歧视性质。 
-法新社报道，法国一家法院星期五（11月20日）对这起2020年11月21日冠病疫情期间的警察暴力事件作出判决。这起事件的受害者是现年47岁的黑人音乐制作人泽克勒（Michel Zecler）。
-当时，三名警员在泽克勒位于巴黎的录音室外将他拦下，指责他未按强制规定戴口罩。调查显示，警员将他推入办公室入口处并殴打他，整个过程被室内的监控摄像机拍下。
-殴打造成泽克勒头部外伤、嘴唇和头皮撕裂，以及二头肌肌腱完全断裂。涉案警员事后声称是泽克勒袭击他们，并试图抢夺其中一人的武器，但监控画面推翻了这一说法。
-泽克勒也说，警员在殴打过程中多次对他使用种族侮辱字眼。
-泽克勒遇袭后，在法国再次引发民众对警察暴力的愤怒。受害者和研究人员认为，法国警队的暴力问题是系统性的，但当局和警察工会坚称这只是个别孤立事件。
-这三名面对殴打及事后伪造警方报告控状的警员，均被判处五年监禁，但获部分缓刑。其中，29岁的拉佩松（Aurelien Lapersonne）获缓刑三年；50岁的通德（Philippe Tondeux）获缓刑三年半；两人将在稍后日期入狱服刑。37岁的普兰蒂埃（Pierre Plantier）则获缓刑四年，剩余一年刑期可佩戴电子脚镣在监狱外服刑。
-星期五早些时候，三名警员在庭上向泽克勒道歉，普兰蒂埃更是当庭落泪，通德则对自身行为损害警队形象表示懊悔。
-当泽克勒步出法庭时，现场人群向他报以掌声。他的代表律师莫内（Serge Money）说：“正义得到了伸张。这恢复了一个人的尊严，让他能够开始重建生活。” 
-尽管法院判处的刑期低于检方求处的四至六年监禁，但与调查人员不同的是，法院认定种族主义是这起事件的加重情节，理由是受害者的证词始终如一。
-法院指出，泽克勒在遇袭后被一名黑人警员戴上手铐时，就曾告诉对方自己遭受了种族言语侮辱；他随后在警察局、被送往医院途中，以及向亲友讲述时，也都反复提及这一点。此外，涉案警员伪造警方报告的行为，削弱了他们否认曾使用种族侮辱字眼的可信度。
-在法国，涉及警察暴力的案件很少会作出有罪判决。2024年，三名警员因在2017年的一次截查行动中，对黑人青年卢哈卡（Theo Luhaka）造成不可逆转的直肠损伤，被法官判处缓刑。
-根据法国人权专员去年发布的一份报告，在对5000多人进行调查后发现，“被视为阿拉伯裔、黑人或来自北非”的年轻男性，遭警方截查的概率是其他人群的四倍；他们在检查过程中受到搜身等更严厉措施对待的概率，更是其他人的12倍。]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best Laptops for Travel (2026): Which to Take on the Road]]></title>
         <id>6aee4283dcea605147033e13</id>
         <link href="https://www.wired.com/story/best-laptops-for-travel/"/>
@@ -563,42 +753,6 @@ AI仅20秒全部答对高考题 学者吁改革学生评估方式
         <summary type="html"><![CDATA[Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.]]></summary>
         <author>
             <name>Luke Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟禁止向非经合组织国出口塑料垃圾]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10036248</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10036248"/>
-        <updated>2026-11-21T10:13:07.000Z</updated>
-        <summary type="html"><![CDATA[欧盟禁止向经济合作与发展组织（OECD）以外国家出口塑料垃圾的禁令正式生效，并同时也收紧向经合组织成员国出口塑料垃圾的规定，以推动建立更可循环的经济体系。 
-据路透社报道，禁止向经合组织以外国家出口塑料垃圾的禁令，在星期六（11月21日）正式生效。
-欧盟每年产生约4000万公吨的塑料垃圾，其中150万公吨出口到海外，主要接收国包括土耳其、英国等经合组织成员国，以及不属于经合组织的马来西亚、印度尼西亚和越南。
-欧盟环境专员罗斯瓦尔（Jessika Roswall）指出，欧盟的优先事项之一就是制止塑料污染，“我们看到制定全球塑料污染条约的必要性，这与明天（21日）生效的措施息息相关”。 
-在塑料垃圾出口禁令生效后，欧盟接下来还将实施范围更广的禁令，从明年5月21日起，禁止出口包括纸张、橡胶、金属和玻璃在内的非危险废料。
-联合国自2022年以来一直试图就解决塑料污染问题，达成一项具法律约束力的条约，但由于石化生产国以及特朗普总统领导的美国政府反对，谈判至今仍陷于僵局。
-另一方面，欧盟委员会预计将在今年12月提呈《循环经济法案》（Circular Economy Act）。
-这项法案将统一欧盟27个成员国各自不同的废料定义，以促进欧洲单一市场内的回收利用，并提升对再生材料的需求。法案也旨在改善电子垃圾的收集工作，以便从中提取关键原材料，如稀土以及具国防战略意义的小众金属，从而协助欧盟减少对中国的依赖。
-根据欧盟统计局（Eurostat）的数据，欧盟在2024年仅回收了39%的电子垃圾，相当于约550万公吨，即人均12.3公斤。
-罗斯瓦尔说：“我们这里有一座金矿……在欧洲各地的家庭中，有7亿台闲置的电子设备。我们必须善加利用，把它们收集起来。”]]></summary>
-        <author>
-            <name>联合早报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[草案避谈化石燃料引争议 气候大会加时谈判]]></title>
-        <id>https://www.zaobao.com.sg/news/world/story20261121-10035999</id>
-        <link href="https://www.zaobao.com.sg/news/world/story20261121-10035999"/>
-        <updated>2026-11-21T10:07:39.000Z</updated>
-        <summary type="html"><![CDATA[（安塔利亚综合电）原定星期五（11月20日）闭幕的第31届联合国气候变化大会（COP31），因各方未能就核心议题达成共识，延长至星期六（21日）继续谈判。
-近200个国家的代表在土耳其经过两周艰苦磋商后，仍围绕一份避谈化石燃料的争议性协议草案展开激烈角力，凸显各国在应对全球暖化的优先事项上存在严重分歧。 
-COP31联合主办国澳大利亚正争分夺秒地拟定第三版协议草案，力求弥合各国立场。COP31主席、土耳其环境部长库鲁姆星期五深夜说：“我们已接近终点线，但还没有到达。” 
-星期四（19日）公布的修订版草案删除了先前呼吁加快淘汰化石燃料的内容。欧盟对此严厉警告，若按此版本通过，“可能使这场气候大会沦为化石燃料峰会”。 
-法国、巴拿马、所罗门群岛等十多个国家星期五发表联署信，坚持协议必须纳入“明确逐步摆脱化石燃料”的承诺，巴拿马更威胁若诉求落空将退出谈判。 
-此外，修订版草案虽提议到2035年将电力满足全球终端能源需求的比率提高至35%，却未明确规定新增电力须来自可再生能源，同样引起部分国家质疑。
-气候融资问题也是谈判陷入僵局的关键。草案删除了1200亿美元（近1550亿新元）的气候适应资金目标，令发展中国家感到不满。
-加纳环境部长阿杰曼-罗林斯说：“我们来这里不是为了乞讨……非洲大陆不会接受那种只作承诺却缺乏落实资源的结果。”]]></summary>
-        <author>
-            <name>联合早报</name>
         </author>
     </entry>
     <entry>
@@ -622,13 +776,13 @@ COP31联合主办国澳大利亚正争分夺秒地拟定第三版协议草案，
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Therabody Promo Codes: 15% Off November 2026]]></title>
-        <id>674632f1989e3c09f802f92c</id>
-        <link href="https://www.wired.com/story/therabody-promo-code/"/>
+        <title type="html"><![CDATA[Mint Mobile Discounts for November 2026]]></title>
+        <id>6ad65118f85dfee471db09d1</id>
+        <link href="https://www.wired.com/story/mint-mobile-promo-code/"/>
         <updated>2026-11-21T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.]]></summary>
+        <summary type="html"><![CDATA[Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.]]></summary>
         <author>
-            <name>Molly Higgins</name>
+            <name>Les Shu</name>
         </author>
     </entry>
     <entry>
@@ -662,23 +816,13 @@ COP31联合主办国澳大利亚正争分夺秒地拟定第三版协议草案，
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mint Mobile Discounts for November 2026]]></title>
-        <id>6ad65118f85dfee471db09d1</id>
-        <link href="https://www.wired.com/story/mint-mobile-promo-code/"/>
+        <title type="html"><![CDATA[Therabody Promo Codes: 15% Off November 2026]]></title>
+        <id>674632f1989e3c09f802f92c</id>
+        <link href="https://www.wired.com/story/therabody-promo-code/"/>
         <updated>2026-11-21T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.]]></summary>
+        <summary type="html"><![CDATA[Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.]]></summary>
         <author>
-            <name>Les Shu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorola Coupon Code for November 2026]]></title>
-        <id>6a91b2ddf6dd9530a8f6b0e2</id>
-        <link href="https://www.wired.com/story/motorola-coupon-code/"/>
-        <updated>2026-11-21T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.]]></summary>
-        <author>
-            <name>Les Shu</name>
+            <name>Molly Higgins</name>
         </author>
     </entry>
     <entry>
@@ -692,6 +836,16 @@ COP31联合主办国澳大利亚正争分夺秒地拟定第三版协议草案，
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[20% Off Brooks Promo Code | November 2026]]></title>
+        <id>673bb0142598c31aeeee086e</id>
+        <link href="https://www.wired.com/story/brooks-promo-code/"/>
+        <updated>2026-11-21T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.]]></summary>
+        <author>
+            <name>Boutayna Chokrane</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ulta Promo Codes: Up to 20% Off in November 2026]]></title>
         <id>69c14a90c8c019cf2b9a5309</id>
         <link href="https://www.wired.com/story/ulta-coupon/"/>
@@ -702,13 +856,13 @@ COP31联合主办国澳大利亚正争分夺秒地拟定第三版协议草案，
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20% Off Brooks Promo Code | November 2026]]></title>
-        <id>673bb0142598c31aeeee086e</id>
-        <link href="https://www.wired.com/story/brooks-promo-code/"/>
+        <title type="html"><![CDATA[Motorola Coupon Code for November 2026]]></title>
+        <id>6a91b2ddf6dd9530a8f6b0e2</id>
+        <link href="https://www.wired.com/story/motorola-coupon-code/"/>
         <updated>2026-11-21T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.]]></summary>
+        <summary type="html"><![CDATA[Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.]]></summary>
         <author>
-            <name>Boutayna Chokrane</name>
+            <name>Les Shu</name>
         </author>
     </entry>
     <entry>
@@ -759,24 +913,6 @@ COP31联合主办国澳大利亚正争分夺秒地拟定第三版协议草案，
         <summary type="html"><![CDATA[A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.]]></summary>
         <author>
             <name>Jagmeet Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多位跑圈大神猝死：沉迷跑步竞速的中年人为何停不下来？]]></title>
-        <id>d1565c69a8eac0c79294702728e55224</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%A4%9A%E4%BD%8D%E8%B7%91%E5%9C%88%E5%A4%A7%E7%A5%9E%E7%8C%9D%E6%AD%BB%EF%BC%9A%E6%B2%89%E8%BF%B7%E8%B7%91%E6%AD%A5%E7%AB%9E%E9%80%9F%E7%9A%84%E4%B8%AD%E5%B9%B4%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%81%9C%E4%B8%8D%E4%B8%8B%E6%9D%A5%EF%BC%9F"/>
-        <updated>2026-11-21T04:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无所事事的时光有多重要？]]></title>
-        <id>fad2f9eb9f130e343d0aa33da81c6311</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E6%97%A0%E6%89%80%E4%BA%8B%E4%BA%8B%E7%9A%84%E6%97%B6%E5%85%89%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%EF%BC%9F"/>
-        <updated>2026-11-21T04:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -958,15 +1094,6 @@ COP31联合主办国澳大利亚正争分夺秒地拟定第三版协议草案，
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[年度顶配阵容的国产悬疑剧：张颂文为何无法超越“高启强”？]]></title>
-        <id>53c7835ca5b458c1a4c495ee0e38121f</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A+%E5%B9%B4%E5%BA%A6%E9%A1%B6%E9%85%8D%E9%98%B5%E5%AE%B9%E7%9A%84%E5%9B%BD%E4%BA%A7%E6%82%AC%E7%96%91%E5%89%A7%EF%BC%9A%E5%BC%A0%E9%A2%82%E6%96%87%E4%B8%BA%E4%BD%95%E6%97%A0%E6%B3%95%E8%B6%85%E8%B6%8A%E2%80%9C%E9%AB%98%E5%90%AF%E5%BC%BA%E2%80%9D%EF%BC%9F"/>
-        <updated>2026-11-20T13:00:00.000Z</updated>
-        <author>
-            <name>三联生活周刊</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Birdfy Gifts I’d Buy for Backyard Birders]]></title>
         <id>6afe1b7a5ace1a4cca98d7bc</id>
         <link href="https://www.wired.com/story/best-birdfy-gifts-2026/"/>
@@ -1097,16 +1224,6 @@ COP31联合主办国澳大利亚正争分夺秒地拟定第三版协议草案，
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The US national cyber director is stepping down]]></title>
-        <id>https://techcrunch.com/?p=3190745</id>
-        <link href="https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/"/>
-        <updated>2026-11-20T09:14:19.000Z</updated>
-        <summary type="html"><![CDATA[The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.]]></summary>
-        <author>
-            <name>Dominic-Madori Davis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验]]></title>
         <id>https://sspai.com/post/119327</id>
         <link href="https://sspai.com/post/119327"/>
@@ -1174,66 +1291,6 @@ COP31联合主办国澳大利亚正争分夺秒地拟定第三版协议草案，
         <summary type="html"><![CDATA[Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.]]></summary>
         <author>
             <name>Les Shu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ancestry Coupons│50% Off│November 2026]]></title>
-        <id>6acfccbb5ec08e7cfb26fef1</id>
-        <link href="https://www.wired.com/story/ancestry-coupon-codes/"/>
-        <updated>2026-11-20T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save on family history memberships and DNA kits with the latest Ancestry coupon codes, special offers, and seasonal discounts.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walgreens Photo Coupons: Up to 70% Off This November 2026]]></title>
-        <id>6ace5889076f2629e430c793</id>
-        <link href="https://www.wired.com/story/walgreens-photo-coupon/"/>
-        <updated>2026-11-20T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Preserving your memories doesn't have to be expensive. Use a verified Walgreens coupon code for discounts of up to 70% off premium wall decor, stationery, and personalized gifts, as well as beauty, lenses, and health products this fall.]]></summary>
-        <author>
-            <name>Nena Farrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Castlery Promo Codes: $600 Off for November 2026]]></title>
-        <id>69ce7c738533ad5603cb8fd9</id>
-        <link href="https://www.wired.com/story/castlery-promo-code/"/>
-        <updated>2026-11-20T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.]]></summary>
-        <author>
-            <name>Boutayna Chokrane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eBay Coupons: 20% Off in November 2026]]></title>
-        <id>672d41fcd6406683ec9bfd2e</id>
-        <link href="https://www.wired.com/story/ebay-coupon-code/"/>
-        <updated>2026-11-20T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groupon Promo Codes: 60% Off in November 2026]]></title>
-        <id>674f7c8fa6af00e18ee649c1</id>
-        <link href="https://www.wired.com/story/groupon-promo-code/"/>
-        <updated>2026-11-20T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.]]></summary>
-        <author>
-            <name>Molly Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dyson Promo Codes: 25% Off in November 2026]]></title>
-        <id>66f197b41b1d2e8dde4bb52f</id>
-        <link href="https://www.wired.com/story/dyson-cordless-vacuum-promo-code/"/>
-        <updated>2026-11-20T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.]]></summary>
-        <author>
-            <name>Nena Farrell</name>
         </author>
     </entry>
     <entry>
@@ -1322,38 +1379,9 @@ Tingshu Wang/Reuters
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple may be developing its own AI agent that runs your Mac]]></title>
-        <id>https://techcrunch.com/?p=3190713</id>
-        <link href="https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"/>
-        <updated>2026-11-20T00:56:01.000Z</updated>
-        <summary type="html"><![CDATA[The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.]]></summary>
-        <author>
-            <name>Lucas Ropek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO]]></title>
-        <id>https://techcrunch.com/?p=3190498</id>
-        <link href="https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"/>
-        <updated>2026-11-20T00:43:50.000Z</updated>
-        <summary type="html"><![CDATA[At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.]]></summary>
-        <author>
-            <name>Julie Bort</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[人人押注AI，对冲基金还怎么“对冲”？ | 经济学人财经(双语译文）]]></title>
         <id>2ccfb8b8d450745bb06ab5a851d2a1f8</id>
         <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E4%BA%BA%E4%BA%BA%E6%8A%BC%E6%B3%A8AI%EF%BC%8C%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91%E8%BF%98%E6%80%8E%E4%B9%88%E2%80%9C%E5%AF%B9%E5%86%B2%E2%80%9D%EF%BC%9F%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E8%B4%A2%E7%BB%8F%28%E5%8F%8C%E8%AF%AD%E8%AF%91%E6%96%87%EF%BC%89"/>
-        <updated>2026-11-20T00:40:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[考研倒计时一个月]]></title>
-        <id>f8fa558f95889e4c623299c04863bcdb</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E8%80%83%E7%A0%94%E5%80%92%E8%AE%A1%E6%97%B6%E4%B8%80%E4%B8%AA%E6%9C%88"/>
         <updated>2026-11-20T00:40:00.000Z</updated>
         <author>
             <name>一天一篇经济学人(双语)</name>
@@ -1412,15 +1440,6 @@ Andy Wong/Associated Press
 在中国限制对日本实体的出口后，中共控制的报纸《环球时报》上关于日本“再军事化”的新闻标题。]]></summary>
         <author>
             <name>赫海威,GAL KOPLEWITZ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[考研倒计时一个月]]></title>
-        <id>f8fa558f95889e4c623299c04863bcdb</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E8%80%83%E7%A0%94%E5%80%92%E8%AE%A1%E6%97%B6%E4%B8%80%E4%B8%AA%E6%9C%88"/>
-        <updated>2026-11-19T11:29:00.000Z</updated>
-        <author>
-            <name>一天一篇经济学人(双语)</name>
         </author>
     </entry>
     <entry>
